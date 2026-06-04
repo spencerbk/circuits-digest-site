@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Circuits Digest</title>
+    <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
+    <description>Daily Circuits Digest feed</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2026 20:43:41 +0000</lastBuildDate>
+    <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Ways to Embed Magnets in 3D Prints and Not Ruin Printers</title>
+      <link>https://hackaday.com/2026/06/04/ways-to-embed-magnets-in-3d-prints-and-not-ruin-printers/</link>
+      <description>Adding magnets to a 3D print can be very useful in a design, but there are some things that can trip you up if you’re not aware of them. In …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-e9928c4513ff22f4</guid>
+      <pubDate>Thu, 04 Jun 2026 20:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s Workshop — LIVE TODAY 6/4/26</title>
+      <link>https://blog.adafruit.com/2026/06/04/john-parks-workshop-live-today-6-4-26/</link>
+      <description>It’s JOHN PARK’S WORKSHOP — LIVE! — Coming up at 4pm ET / 1pm PT Today! LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: Attachécade CircuitPython Parsec Tool Tips Learn Guide recap Retro Gear and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join maker John […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-fc00e69b05c71653</guid>
+      <pubDate>Thu, 04 Jun 2026 19:56:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>An RGB Keyboard For Your Hackaday Communicator Badge</title>
+      <link>https://hackaday.com/2026/06/04/an-rgb-keyboard-for-your-hackaday-communicator-badge/</link>
+      <description>The most recent Hackaday event badge has been the Communicator, a handheld wireless terminal with a rather nice QWERTY keyboard. It’s good enough as delivered, but [makeTVee] has gone one …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7709df7bd7bb4475</guid>
+      <pubDate>Thu, 04 Jun 2026 18:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The World’s First GPIB Speech Synthesizer, and it’s for a GRiD Compass</title>
+      <link>https://hackaday.com/2026/06/04/the-worlds-first-gpib-speech-synthesizer-and-its-for-a-grid-compass/</link>
+      <description>The GRiD Compass is a legendary portable computer — a taste of an early-80s future with bubble memory, tough enough for NASA to take them into space, and one of …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-23d82972c7197369</guid>
+      <pubDate>Thu, 04 Jun 2026 15:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-Orders Open for Carl Bugeja’s Pocket-Sized ProtoBot Robotics Kit</title>
+      <link>https://www.hackster.io/news/pre-orders-open-for-carl-bugeja-s-pocket-sized-protobot-robotics-kit-7da0249e1bbf</link>
+      <description>ProtoBot is a pocket-sized, open source RC car and robotics kit that’s pure fun for experienced hackers and beginners alike.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-81e6d41f16b58e24</guid>
+      <pubDate>Thu, 04 Jun 2026 14:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask Hackaday: How Do You Feel About Electronic Shelf Labels?</title>
+      <link>https://hackaday.com/2026/06/04/ask-hackaday-how-do-you-feel-about-electronic-shelf-labels/</link>
+      <description>Unless you’ve spent the last few years locked indoors and had all of your goods delivered to you — a not entirely implausible situation, given our audience — you’ve likely …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-8b70a246cb8d2ac3</guid>
+      <pubDate>Thu, 04 Jun 2026 14:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>BugBuster Gives AI the Tools to Debug Physical Hardware</title>
+      <link>https://www.hackster.io/news/bugbuster-gives-ai-the-tools-to-debug-physical-hardware-f4fd22236ce4</link>
+      <description>BugBuster is an open source hardware platform that lets AI models safely measure and control real hardware for autonomous debugging.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6326a2a230bd875f</guid>
+      <pubDate>Thu, 04 Jun 2026 13:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hypnotic Clock Maker Does It Again</title>
+      <link>https://makezine.com/article/electronics/hypnotic-clock-maker-does-it-again/</link>
+      <description>This mesmerizing rainbow diffraction grating clock puts a little more color in your daily timekeeping. The post Hypnotic Clock Maker Does It Again appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-1f06bf48fd9f6c7f</guid>
+      <pubDate>Wed, 03 Jun 2026 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft introduces Coreutils for Windows, bringing familiar Unix-style command-line tools to Windows without requiring WSL</title>
+      <link>https://blog.adafruit.com/2026/06/03/microsoft-introduces-coreutils-for-windows-bringing-familiar-unix-style-command-line-tools-to-windows-without-requiring-wsl/</link>
+      <description>Bobby Borisov writes for Linuxiac that Microsoft has introduced Coreutils for Windows, a new Microsoft-maintained set of Unix-style command-line utilities that run natively on Windows. Announced at Microsoft’s Build 2026, Coreutils for Windows brings familiar Linux-style commands to Windows without requiring WSL or additional compatibility layers. The package is based on the uutils open-source project, a cross-platform […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-31d9c250bf0b918b</guid>
+      <pubDate>Wed, 03 Jun 2026 16:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robot hands are getting better  @chris_j_paxton</title>
+      <link>https://blog.adafruit.com/2026/06/03/robot-hands-are-getting-better-chris_j_paxton/</link>
+      <description>Chris Paxton takes a look at why robot hands are hard and what research is currently being done. Robots need to be able to interact with the world in order to be useful. They do this in many ways: by driving around and taking pictures during inspection tasks, by walking up and down stairs. Military […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-087f668ba0591000</guid>
+      <pubDate>Wed, 03 Jun 2026 15:54:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/06/03/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-3-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4eab4b76f76a3a7f</guid>
+      <pubDate>Wed, 03 Jun 2026 15:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D Hangouts Returns Next Week</title>
+      <link>https://blog.adafruit.com/2026/06/03/3d-hangouts-returns-next-week-3/</link>
+      <description>Hey folks, Pedro and I will return next week! If you missed last weeks livestream, you can watch it below or on YouTube. 3D Hangouts – Compass, Prop It Game and Backrooms Popcorn Bucket https://youtube.com/live/_9WZiJC]uRi8 3D Hangout Show Playlist: https://www.youtube.com/playlist?list=PLjF7R1fz_OOVgpmWevin2slopw_A3-A8Y</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5bfd4cb56a228975</guid>
+      <pubDate>Wed, 03 Jun 2026 15:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Messing Around With the PolyCast5 Hacker Multitool</title>
+      <link>https://makezine.com/article/technology/messing-around-with-the-polycast5-hacker-multitool/</link>
+      <description>PolyCast5 is an everything remote hacker multitool. Use it responsibly. The post Messing Around With the PolyCast5 Hacker Multitool appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-6973e44425f0dfab</guid>
+      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Support your young people with our AI literacy resources</title>
+      <link>https://www.raspberrypi.org/blog/ai-education-resources-ai-awareness-day/</link>
+      <description>At the Raspberry Pi Foundation, we believe that alongside learning to code, a crucial part of computing education is building AI literacy skills. Amidst the rapid pace of development and the growing impact of AI tools, it is increasingly important for educators everywhere to feel equipped to address the topic of AI with their learners,… The post Support your young people with our AI literacy resources appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-4c1f0196d8951871</guid>
+      <pubDate>Wed, 03 Jun 2026 14:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>JP’s Product Pick of the Week 6/2/26 @adafruit @johnedgarpark #adafruit #newproductpick</title>
+      <link>https://blog.adafruit.com/2026/06/03/jps-product-pick-of-the-week-6-2-26-adafruit-johnedgarpark-adafruit-newproductpick/</link>
+      <description>If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT / Qwiic! Watch the video to find out about the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-81564852f0d37abc</guid>
+      <pubDate>Wed, 03 Jun 2026 13:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>This stunning smart planter tracks plant health and handles daily care</title>
+      <link>https://blog.arduino.cc/2026/06/03/this-stunning-smart-planter-tracks-plant-health-and-handles-daily-care/</link>
+      <description>Gardening is a prime application for smart automation, because plant care requires a lot of monitoring, but is relatively simple to execute. Large-scale agricultural operations are already highly automated, so why not do the same thing with your house plants? Giovanni Mannara (AKA Ingeimaks) did so in style by building this smart planter system that […] The post This stunning smart planter tracks plant health and handles daily care appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-a327c16202544d26</guid>
+      <pubDate>Wed, 03 Jun 2026 00:28:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pinecone DAISY-1 is a fantasy 8-bit computer that exists in reality</title>
+      <link>https://blog.arduino.cc/2026/06/02/the-pinecone-daisy-1-is-a-fantasy-8-bit-computer-that-exists-in-reality/</link>
+      <description>There was a time when computers were exciting and fun. Now most of them feel like commodity appliances — no more interesting than a washing machine or a toaster. Joe longed for the good ol’ days of 8-bit personal computers, so he used a trio of Arduino development boards to design his own “fantasy computer.” […] The post The Pinecone DAISY-1 is a fantasy 8-bit computer that exists in reality appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-827480a303fa3db9</guid>
+      <pubDate>Tue, 02 Jun 2026 11:21:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python Projects for Raspberry Pi: the book you’ve been waiting for to level up your skills</title>
+      <link>https://www.raspberrypi.com/news/python-projects-for-raspberry-pi/</link>
+      <description>Learn to build Python projects for Raspberry Pi in this new book, with hands-on projects to spark your own ideas. The post Python Projects for Raspberry Pi: the book you’ve been waiting for to level up your skills appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-5482c8d63c52af1b</guid>
+      <pubDate>Tue, 02 Jun 2026 09:32:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building confidence to teach AI in the classroom</title>
+      <link>https://www.raspberrypi.org/blog/building-confidence-to-teach-ai-in-the-classroom/</link>
+      <description>Hayley McKechnie is a computing lead at a primary school in the East of England, who shares in this blog how she supports her students and her fellow teachers to build confidence around artificial intelligence (AI). She developed her skills through training delivered by Parent Zone, our partner for Experience AI in the UK. Artificial… The post Building confidence to teach AI in the classroom appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-b850728a5a38f9d7</guid>
+      <pubDate>Tue, 02 Jun 2026 09:20:37 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
