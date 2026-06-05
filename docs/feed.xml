@@ -5,8 +5,40 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 20:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 06:10:21 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Connecting Your Car to Home Assistant</title>
+      <link>https://hackaday.com/2026/06/04/connecting-your-car-to-home-assistant/</link>
+      <description>With how much time many of us spend in our cars, it makes perfect sense to consider them a second home. Yet even if that’s not the case, there are …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-865ea3700600e079</guid>
+      <pubDate>Fri, 05 Jun 2026 05:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1752 – Texas Instruments SCREWED UP the NE5532</title>
+      <link>https://www.eevblog.com/2026/06/05/eevblog-1752-texas-instruments-screwed-up-the-ne5532/</link>
+      <description>WTF were Texas Instruments thinking changing the design and major specs of the 45+ year old jellybean NE5532 audio opamp WITHOUT changing the part number?! New datasheet: https://www.ti.com/lit/ds/symlink/ne5532.pdf Old datasheet: https://www.mouser.com/datasheet/2/405/ne5532a-556776.pdf Change Notification: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5726/PCN20231114002.1.pdf Onsemi datasheet: https://www.onsemi.com/pdf/datasheet/ne5534-d.pdf Forum thread: https://www.eevblog.com/forum/chat/ti-ne5532-audio-opamp-changes/ OPI134: https://www.ti.com/lit/ds/symlink/opa4134.pdf 00:00 – TI have changed the classic jellybean NE5534 03:27 – Product Change …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-65d2a157bdde5c71</guid>
+      <pubDate>Fri, 05 Jun 2026 03:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Claims 20 second Qubits</title>
+      <link>https://hackaday.com/2026/06/04/microsoft-claims-20-second-qubits/</link>
+      <description>While it might seem that your computer malfunctions every few minutes, the reality is that modern computers are usually quite robust. Not so much for quantum computers, where qubit life …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f2dc367849231d43</guid>
+      <pubDate>Fri, 05 Jun 2026 02:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>If You Want to Hack Me, Come in Through the Speaker</title>
+      <link>https://hackaday.com/2026/06/04/if-you-want-to-hack-me-come-in-through-the-speaker/</link>
+      <description>Some security hacks require someone to have physical access to your computer. In many cases, that’s easy to mitigate. Other attack vectors can put you at risk from anywhere via …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-36e5b9373f05d061</guid>
+      <pubDate>Thu, 04 Jun 2026 23:00:25 +0000</pubDate>
+    </item>
     <item>
       <title>Ways to Embed Magnets in 3D Prints and Not Ruin Printers</title>
       <link>https://hackaday.com/2026/06/04/ways-to-embed-magnets-in-3d-prints-and-not-ruin-printers/</link>
@@ -16,28 +48,12 @@
       <pubDate>Thu, 04 Jun 2026 20:00:20 +0000</pubDate>
     </item>
     <item>
-      <title>John Park’s Workshop — LIVE TODAY 6/4/26</title>
-      <link>https://blog.adafruit.com/2026/06/04/john-parks-workshop-live-today-6-4-26/</link>
-      <description>It’s JOHN PARK’S WORKSHOP — LIVE! — Coming up at 4pm ET / 1pm PT Today! LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: Attachécade CircuitPython Parsec Tool Tips Learn Guide recap Retro Gear and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join maker John […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-fc00e69b05c71653</guid>
-      <pubDate>Thu, 04 Jun 2026 19:56:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>An RGB Keyboard For Your Hackaday Communicator Badge</title>
-      <link>https://hackaday.com/2026/06/04/an-rgb-keyboard-for-your-hackaday-communicator-badge/</link>
-      <description>The most recent Hackaday event badge has been the Communicator, a handheld wireless terminal with a rather nice QWERTY keyboard. It’s good enough as delivered, but [makeTVee] has gone one …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7709df7bd7bb4475</guid>
-      <pubDate>Thu, 04 Jun 2026 18:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The World’s First GPIB Speech Synthesizer, and it’s for a GRiD Compass</title>
-      <link>https://hackaday.com/2026/06/04/the-worlds-first-gpib-speech-synthesizer-and-its-for-a-grid-compass/</link>
-      <description>The GRiD Compass is a legendary portable computer — a taste of an early-80s future with bubble memory, tough enough for NASA to take them into space, and one of …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-23d82972c7197369</guid>
-      <pubDate>Thu, 04 Jun 2026 15:30:20 +0000</pubDate>
+      <title>The M64 Is a Pixel-Perfect Nintendo 64 Remake</title>
+      <link>https://www.hackster.io/news/the-m64-is-a-pixel-perfect-nintendo-64-remake-8ac81fa32306</link>
+      <description>ModRetro’s M64 FPGA console offers a pixel-perfect, zero-compromise recreation of the original Nintendo 64 experience.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-b46ac2b1c1d70602</guid>
+      <pubDate>Thu, 04 Jun 2026 17:26:45 +0000</pubDate>
     </item>
     <item>
       <title>Pre-Orders Open for Carl Bugeja’s Pocket-Sized ProtoBot Robotics Kit</title>
@@ -46,14 +62,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-81e6d41f16b58e24</guid>
       <pubDate>Thu, 04 Jun 2026 14:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ask Hackaday: How Do You Feel About Electronic Shelf Labels?</title>
-      <link>https://hackaday.com/2026/06/04/ask-hackaday-how-do-you-feel-about-electronic-shelf-labels/</link>
-      <description>Unless you’ve spent the last few years locked indoors and had all of your goods delivered to you — a not entirely implausible situation, given our audience — you’ve likely …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-8b70a246cb8d2ac3</guid>
-      <pubDate>Thu, 04 Jun 2026 14:00:21 +0000</pubDate>
     </item>
     <item>
       <title>BugBuster Gives AI the Tools to Debug Physical Hardware</title>
@@ -88,30 +96,6 @@
       <pubDate>Wed, 03 Jun 2026 15:54:48 +0000</pubDate>
     </item>
     <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/03/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-3-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4eab4b76f76a3a7f</guid>
-      <pubDate>Wed, 03 Jun 2026 15:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Hangouts Returns Next Week</title>
-      <link>https://blog.adafruit.com/2026/06/03/3d-hangouts-returns-next-week-3/</link>
-      <description>Hey folks, Pedro and I will return next week! If you missed last weeks livestream, you can watch it below or on YouTube. 3D Hangouts – Compass, Prop It Game and Backrooms Popcorn Bucket https://youtube.com/live/_9WZiJC]uRi8 3D Hangout Show Playlist: https://www.youtube.com/playlist?list=PLjF7R1fz_OOVgpmWevin2slopw_A3-A8Y</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5bfd4cb56a228975</guid>
-      <pubDate>Wed, 03 Jun 2026 15:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Messing Around With the PolyCast5 Hacker Multitool</title>
-      <link>https://makezine.com/article/technology/messing-around-with-the-polycast5-hacker-multitool/</link>
-      <description>PolyCast5 is an everything remote hacker multitool. Use it responsibly. The post Messing Around With the PolyCast5 Hacker Multitool appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-6973e44425f0dfab</guid>
-      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Support your young people with our AI literacy resources</title>
       <link>https://www.raspberrypi.org/blog/ai-education-resources-ai-awareness-day/</link>
       <description>At the Raspberry Pi Foundation, we believe that alongside learning to code, a crucial part of computing education is building AI literacy skills. Amidst the rapid pace of development and the growing impact of AI tools, it is increasingly important for educators everywhere to feel equipped to address the topic of AI with their learners,… The post Support your young people with our AI literacy resources appeared first on Raspberry Pi Foundation.</description>
@@ -134,6 +118,30 @@
       <category>arduino-blog</category>
       <guid isPermaLink="false">circuits-a327c16202544d26</guid>
       <pubDate>Wed, 03 Jun 2026 00:28:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit 24 NeoPixel RGB LED Ring – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine</title>
+      <link>https://blog.adafruit.com/2026/06/02/neopixel-ring-24-raspberry-pi-official-magazine-issue-166-rpimagazine/</link>
+      <description>The Raspberry Pi Official Magazine – Issue 166 features the Adafruit 24 NeoPixel RGB LED Ring: As well as on reels or strings, you can get addressable LEDs in other form factors – including straight strips, curves, and rings. Adafruit makes NeoPixel rings in several sizes, controllable with CircuitPython (also Python and Arduino). They’re great for […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-7a0f2a5e26f536a8</guid>
+      <pubDate>Tue, 02 Jun 2026 16:17:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Triple LED Matrix Bonnet for Raspberry Pi – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine</title>
+      <link>https://blog.adafruit.com/2026/06/02/triple-led-matrix-bonnet-for-raspberry-pi-the-raspberry-pi-official-magazine-issue-166-rpimagazine/</link>
+      <description>The Raspberry Pi Official Magazine – Issue 166 features the Adafruit Triple LED Matrix Bonnet for Raspberry Pi: A‘Bonnet’ for Raspberry Pi, it lets you control up to three HUB75 panels in parallel (aka an ‘active3’ pinout) – or even three strings of daisy-chained panels. It supports panel sizes of 16 × 32, 32 × 32, […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d4e69a773c08de97</guid>
+      <pubDate>Tue, 02 Jun 2026 16:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICYMI Python on Microcontrollers Newsletter: A New CircuitPython Editor, AI On The Edge, and Projects Galore!</title>
+      <link>https://blog.adafruit.com/2026/06/02/icymi-python-on-microcontrollers-newsletter-a-new-circuitpython-editor-ai-on-the-edge-and-projects-galore/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,364 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4d42c4ecceb4951d</guid>
+      <pubDate>Tue, 02 Jun 2026 14:40:50 +0000</pubDate>
     </item>
     <item>
       <title>The Pinecone DAISY-1 is a fantasy 8-bit computer that exists in reality</title>
