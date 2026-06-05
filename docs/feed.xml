@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 06:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:00:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>This Week in Security: Messing with AI, 7Zip and Notepad++ Vulnerabilities, HTTP2 Bomb, and More</title>
+      <link>https://hackaday.com/2026/06/05/this-week-in-security-messing-with-ai-7zip-and-notepad-vulnerabilities-http2-bomb-and-more/</link>
+      <description>With the rise of AI coding assistants continuing apparently unabated, some project maintainers have begun striking back. Ars Technica reports on projects putting hostile directions into the AGENTS.md file, or …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a641a2972ef18b59</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Custom Smart Home Controller Looks Like a Century-Old Antique</title>
+      <link>https://www.hackster.io/news/this-custom-smart-home-controller-looks-like-a-century-old-antique-665ddaa1d0b4</link>
+      <description>Tired of ugly smart home tech? This antique-inspired control hub combines leather, bronze, and E Ink for a unique appearance.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-17d85014f6279349</guid>
+      <pubDate>Fri, 05 Jun 2026 13:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peppe’s ghost LiDAR scanner</title>
+      <link>https://www.raspberrypi.com/news/peppes-ghost-lidar-scanner/</link>
+      <description>This LiDAR sensor's maker thinks that its 3D-printed shell evokes a "jumbo-sized juice container or Ghostbusters gizmo" The post Peppe’s ghost LiDAR scanner appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-71b379afc95bf211</guid>
+      <pubDate>Fri, 05 Jun 2026 12:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Edge AI: bringing local intelligence to Arduino UNO Q</title>
+      <link>https://blog.arduino.cc/2026/06/05/beyond-edge-ai-bringing-local-intelligence-to-arduino-uno-q/</link>
+      <description>Edge AI is evolving quickly. It was the end of 2022 when the world saw the first Cloud AI tool available to everyone, accessible through a simple and intuitive chat. In less than four years, models have been refined, distilled, optimized, quantized – at record-breaking speed – to meet the needs of the first generation of […] The post Beyond Edge AI: bringing local intelligence to Arduino UNO Q appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-c89acb2485fc4b05</guid>
+      <pubDate>Fri, 05 Jun 2026 12:14:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Electrolysis for More Than Just Generating Hydrogen</title>
+      <link>https://hackaday.com/2026/06/05/using-electrolysis-for-more-than-just-generating-hydrogen/</link>
+      <description>When the topic of ‘electrolysis’ is mentioned, people typically think of just splitting plain old dihydrogen monoxide (hydric acid: H2O) into its constituent atoms, but this barely scratches the surface …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-2ba1e00f2c8fb282</guid>
+      <pubDate>Fri, 05 Jun 2026 11:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vintage Turntable Gets Brain Transplant and Home Assistant Integration</title>
+      <link>https://hackaday.com/2026/06/05/vintage-turntable-gets-brain-transplant-and-home-assistant-integration/</link>
+      <description>When [Marsupial] picked up a vintage Sansusi P-L45 turntable, he figured it would be an easy fix: a few capacitors, a belt or two, and maybe a new cartridge, the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-52ac0877f09a550b</guid>
+      <pubDate>Fri, 05 Jun 2026 08:00:30 +0000</pubDate>
+    </item>
     <item>
       <title>Connecting Your Car to Home Assistant</title>
       <link>https://hackaday.com/2026/06/04/connecting-your-car-to-home-assistant/</link>
@@ -32,12 +80,28 @@
       <pubDate>Fri, 05 Jun 2026 02:00:27 +0000</pubDate>
     </item>
     <item>
+      <title>This AI Operating System Hallucinates Pseudo-Software — Even Notepad — On Demand</title>
+      <link>https://www.hackster.io/news/this-ai-operating-system-hallucinates-pseudo-software-even-notepad-on-demand-f83e24b42ef9</link>
+      <description>VibeOS is really, really weird. It hallucinates everything, including the most basic software that "runs" without code.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-8ffb23d030a1ba2e</guid>
+      <pubDate>Fri, 05 Jun 2026 00:23:12 +0000</pubDate>
+    </item>
+    <item>
       <title>If You Want to Hack Me, Come in Through the Speaker</title>
       <link>https://hackaday.com/2026/06/04/if-you-want-to-hack-me-come-in-through-the-speaker/</link>
       <description>Some security hacks require someone to have physical access to your computer. In many cases, that’s easy to mitigate. Other attack vectors can put you at risk from anywhere via …read more</description>
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-36e5b9373f05d061</guid>
       <pubDate>Thu, 04 Jun 2026 23:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Test Your Skills Against an AI Air Hockey Robot</title>
+      <link>https://www.hackster.io/news/test-your-skills-against-an-ai-air-hockey-robot-16e4c16db942</link>
+      <description>UBC capstone project creates an AI agent and robot to play air hockey with an impressive simulator.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-48b569bfbd063b12</guid>
+      <pubDate>Thu, 04 Jun 2026 22:38:56 +0000</pubDate>
     </item>
     <item>
       <title>Ways to Embed Magnets in 3D Prints and Not Ruin Printers</title>
