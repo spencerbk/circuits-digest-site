@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Circuits Digest — 2026-06-06</title>
+<title>Circuits Digest — 2026-06-07</title>
 <style>:root {
   color-scheme: light dark;
   --fg: #1b1f24;
@@ -65,10 +65,10 @@ a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }</style>
 </head>
 <body>
 <main>
-<h1>Circuits Digest — 2026-06-06</h1>
-<p class="meta">Generated 20:02 UTC · 6 topics · 15 articles · &lt;$0.01 LLM spend</p>
+<h1>Circuits Digest — 2026-06-07</h1>
+<p class="meta">Generated 14:00 UTC · 6 topics · 16 articles · &lt;$0.01 LLM spend</p>
 <h2>Adafruit</h2>
-<p class="topic-summary">Adafruit’s latest updates center on its ongoing CircuitPython education and community programming, including a new CircuitPython Parsec on animating custom characters for LCD displays and a live John Park’s Workshop session featuring projects, tool tips, and learn-guide recaps. The company is also promoting its weekly Python on Microcontrollers newsletter as a free roundup of hardware and software news, while encouraging viewers to subscribe to the Adafruit YouTube channel for regular shows like Electronics Show and Tell and Ask an Engineer.</p>
+<p class="topic-summary">Adafruit’s latest updates center on its ongoing CircuitPython education content, including a new Parsec on animating custom characters on LCD displays and a live John Park workshop featuring projects, tool tips, and a Learn Guide recap. The company is also promoting its weekly Python on Microcontrollers newsletter and encouraging viewers to subscribe to the Adafruit YouTube channel to keep up with shows, tutorials, and community programming.</p>
 <ul class="articles">
 <li>
 <a href="https://blog.adafruit.com/2026/06/05/john-parks-circuitpython-parsec-lcd-character-display-animation/" target="_blank" rel="noopener noreferrer">John Park’s CircuitPython Parsec: LCD Character Display Animation</a>
@@ -92,7 +92,7 @@ a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }</style>
 </li>
 </ul>
 <h2>Raspberry Pi</h2>
-<p class="topic-summary">Raspberry Pi highlighted a new DIY LiDAR project called Peppe’s ghost, a 3D-printed scanner whose creator says its enclosure resembles a jumbo juice container or a Ghostbusters-style gadget. The project showcases how Raspberry Pi hardware continues to power inventive maker builds that combine sensing, 3D printing, and custom enclosures into polished prototypes.</p>
+<p class="topic-summary">Raspberry Pi highlighted a new DIY LiDAR build that pairs a sensor with a 3D-printed enclosure designed to look like a playful “Ghostbusters” style gadget. The project showcases the platform’s continued focus on maker-friendly hardware hacks that combine practical sensing with creative industrial design.</p>
 <ul class="articles">
 <li>
 <a href="https://www.raspberrypi.com/news/peppes-ghost-lidar-scanner/" target="_blank" rel="noopener noreferrer">Peppe’s ghost LiDAR scanner</a>
@@ -102,33 +102,55 @@ a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }</style>
 </ul>
 <h2>Pimoroni</h2>
 <h2>Microcontrollers (ESP32, RP2040, Arduino)</h2>
-<p class="topic-summary">Arduino is pushing the UNO Q toward more local intelligence, emphasizing on-device AI rather than relying on cloud services. The company says recent advances in model distillation, quantization, and optimization are making it practical to run useful AI workloads directly on small hardware, which could broaden what makers can do with Arduino-class boards.</p>
+<p class="topic-summary">Arduino is pushing more local intelligence onto its hardware, highlighting the UNO Q as a platform for running distilled, quantized AI models directly on-device rather than relying on the cloud. That fits a broader trend in microcontrollers toward edge inference and lower-latency, privacy-preserving applications.
+
+In a separate maker project, an old 3D printer was repurposed into an EMI imager, showing how inexpensive motion hardware can be adapted for electronics diagnostics. The build underscores growing interest in practical test tools for spotting electromagnetic interference in compact circuits and boards.</p>
 <ul class="articles">
 <li>
 <a href="https://blog.arduino.cc/2026/06/05/beyond-edge-ai-bringing-local-intelligence-to-arduino-uno-q/" target="_blank" rel="noopener noreferrer">Beyond Edge AI: bringing local intelligence to Arduino UNO Q</a>
 <div class="article-meta">arduino-blog · 2026-06-05 12:14 UTC</div>
 <p class="article-blurb">Edge AI is evolving quickly. It was the end of 2022 when the world saw the first Cloud AI tool available to everyone, accessible through a simple and intuitive chat. In less than four years, models have been refined, distilled, optimized, quantized – at record-breaking speed – to meet the needs of the first generation of […] The post Beyond Edge AI: bringing local intelligence to Arduino UNO Q appeared first on Arduino Blog.</p>
 </li>
+<li>
+<a href="https://blog.arduino.cc/2026/06/06/an-old-3d-printer-becomes-a-new-emi-imager/" target="_blank" rel="noopener noreferrer">An old 3D printer becomes a new EMI imager</a>
+<div class="article-meta">arduino-blog · 2026-06-06 22:01 UTC</div>
+<p class="article-blurb">EMI (electromagnetic interference) can be a real nuisance in sensitive circuits. That might be from one device affecting another, but it can also happen when a circuit on a PCB interferes with another circuit on the same PCB (or another PCB in the same device). Engineering to prevent that entirely is really difficult and it […] The post An old 3D printer becomes a new EMI imager appeared first on Arduino Blog.</p>
+</li>
 </ul>
 <h2>Maker Projects &amp; Hacks</h2>
-<p class="topic-summary">Maker projects this week leaned heavily into practical hardware hacks: builders are squeezing more out of 3D printing and scanning with a miniature CoreXY printer, a mirror-assisted scanning setup, and a head-to-head look at industrial Stratasys ABS versus consumer Bambu Lab output. On the electronics side, several projects focused on making old or finicky systems easier to use, including a Raspberry Pi Pico that bridges Bluetooth keyboards onto I2C and a new $59 I²C debugging tool aimed at quickly diagnosing bus problems.
+<p class="topic-summary">Maker projects this week leaned heavily into clever repurposing and ambitious hardware: builders showed off a COBOL ray-cast FPS, a rare console getting a second life, and a Gifford-McMahon cryocooler assembled with 3D-printed parts. On the microcontroller side, the Raspberry Pi Pico continued to be a favorite for unusual hacks, from demo-scene style effects to bridging Bluetooth keyboards onto an I2C bus.
 
-Retro-computing and playful interfaces also stood out, with homebrew webcam support arriving for the original Xbox and an 8080 emulator running on an unusual host platform. Meanwhile, an AR sandbox project turned kinetic sand into a live topographic map using a ToF sensor and pico projector, showing continued momentum around accessible, interactive maker displays.</p>
+Robotics and fabrication also stood out, with an affordable open-source quadruped robot preparing to launch and a simple mirror trick promising faster 3D scanning workflows. The broader hardware scene remains energized by projects that mix accessibility with technical novelty, from retrocomputing restorations to practical tools that lower the barrier to advanced experimentation.</p>
 <ul class="articles">
 <li>
-<a href="https://hackaday.com/2026/06/06/stratasys-vs-bambu-lab-industrial-vs-consumer-abs-showdown/" target="_blank" rel="noopener noreferrer">Stratasys vs Bambu Lab: Industrial vs Consumer ABS Showdown</a>
-<div class="article-meta">hackaday · 2026-06-06 17:00 UTC</div>
-<p class="article-blurb">Professional Stratasys FDM printers demand a pretty hefty price premium over your typical hobbyist-level machine, with the gold-plating continuing even with the special filament cartridges that you buy for some …read more</p>
+<a href="https://hackaday.com/2026/06/07/less-than-10-years-commonwealth-fusion-systems-applies-to-plug-into-grid-in-2030s/" target="_blank" rel="noopener noreferrer">Less Than 10 Years? Commonwealth Fusion Systems Applies to Plug into Grid in 2030s</a>
+<div class="article-meta">hackaday · 2026-06-07 08:00 UTC</div>
+<p class="article-blurb">Whenever the topic of fusion power comes up, someone will say it’s only 10 years away from commercialization in an excited tone, and someone older or more cynical will point …read more</p>
 </li>
 <li>
-<a href="https://hackaday.com/2026/06/06/pi-pico-puts-bluetooth-keyboards-on-the-i2c-bus/" target="_blank" rel="noopener noreferrer">Pi Pico Puts Bluetooth Keyboards on the I2C Bus</a>
-<div class="article-meta">hackaday · 2026-06-06 20:00 UTC</div>
-<p class="article-blurb">If you’ve ever worked with I2C, you know its one of those things that makes working with modern microcontrollers such a pleasure. With a few wires and not many more …read more</p>
+<a href="https://www.hackster.io/news/the-q8botone-quadruped-robot-is-launching-soon-0862ede16b04" target="_blank" rel="noopener noreferrer">The Q8botOne Quadruped Robot Is Launching Soon</a>
+<div class="article-meta">hackster-news · 2026-06-06 19:50 UTC</div>
+<p class="article-blurb">Q8botOne is an affordable, fully assembled open source quadruped robot ready to trot, jump, and hack right out of the box.</p>
 </li>
 <li>
-<a href="https://hackaday.com/2026/06/06/homebrew-webcam-support-for-the-original-xbox/" target="_blank" rel="noopener noreferrer">Homebrew Webcam Support for the Original Xbox</a>
-<div class="article-meta">hackaday · 2026-06-06 14:00 UTC</div>
-<p class="article-blurb">These days, we take it for granted that a video game console will have multiple USB ports. There’s even an expectation that basic peripherals such as storage devices will “Just …read more</p>
+<a href="https://hackaday.com/2026/06/06/a-raycast-fps-in-cobol/" target="_blank" rel="noopener noreferrer">A RayCast FPS in COBOL</a>
+<div class="article-meta">hackaday · 2026-06-07 05:00 UTC</div>
+<p class="article-blurb">COBOL is not the first language anyone would ever think of when writing a First Person Shooter– after all , it’s the Common Business Oriented Language, not the Common Game …read more</p>
+</li>
+<li>
+<a href="https://hackaday.com/2026/06/07/a-new-life-for-a-rare-console/" target="_blank" rel="noopener noreferrer">A New Life For a Rare Console</a>
+<div class="article-meta">hackaday · 2026-06-07 11:00 UTC</div>
+<p class="article-blurb">One of the delights of our tips line is that from time to time it brings us retrocomputing hardware that, despite years of reporting, we were not aware existed. [Hitmanmcc] …read more</p>
+</li>
+<li>
+<a href="https://hackaday.com/2026/06/06/building-a-gifford-mcmahon-cryocooler-with-3d-printed-parts/" target="_blank" rel="noopener noreferrer">Building a Gifford-McMahon Cryocooler With 3D-Printed Parts</a>
+<div class="article-meta">hackaday · 2026-06-07 02:00 UTC</div>
+<p class="article-blurb">Although cryocoolers are capable of pretty impressive cooling, for many of them the underlying working principle is simple enough that you do not need any special skills or a big …read more</p>
+</li>
+<li>
+<a href="https://hackaday.com/2026/06/06/pi-pico-demos-therefore-it-is/" target="_blank" rel="noopener noreferrer">Pi Pico Demos, Therefore It Is</a>
+<div class="article-meta">hackaday · 2026-06-06 23:00 UTC</div>
+<p class="article-blurb">A good demo, like [Linus Akesson]’s Sum Ergo Demonstrato, looks like magic to the average hacker. To normies who don’t know the limitations of the RP2350, they don’t see the …read more</p>
 </li>
 <li>
 <a href="https://www.hackster.io/news/a-simple-mirror-makes-3d-scanning-more-efficient-ea92e3b69b27" target="_blank" rel="noopener noreferrer">A Simple Mirror Makes 3D Scanning More Efficient</a>
@@ -136,28 +158,13 @@ Retro-computing and playful interfaces also stood out, with homebrew webcam supp
 <p class="article-blurb">This technique could speed up your 3D scanning workflow.</p>
 </li>
 <li>
-<a href="https://hackaday.com/2026/06/06/3d-printing-a-miniature-corexy-printer/" target="_blank" rel="noopener noreferrer">3D Printing a Miniature CoreXY Printer</a>
-<div class="article-meta">hackaday · 2026-06-06 11:00 UTC</div>
-<p class="article-blurb">Although no longer so common as during the heyday of the RepRap movement, it’s easier than ever to build your own largely-printed 3D printer, with designs such as Voron’s delivering …read more</p>
-</li>
-<li>
-<a href="https://www.hackster.io/news/unclestem-s-ar-sandbox-turns-kinetic-sand-into-a-live-topographic-map-d692a8a2c03d" target="_blank" rel="noopener noreferrer">UncleStem&#x27;s AR Sandbox Turns Kinetic Sand Into a Live Topographic Map</a>
-<div class="article-meta">hackster-news · 2026-06-05 16:36 UTC</div>
-<p class="article-blurb">UncleStem used a ToF sensor and a pico projector to turn kinetic sand into a live AR map that responds instantly as you form the landscape.</p>
-</li>
-<li>
-<a href="https://hackaday.com/2026/06/06/an-unlikely-host-for-an-8080-emulator/" target="_blank" rel="noopener noreferrer">An Unlikely Host For An 8080 Emulator</a>
-<div class="article-meta">hackaday · 2026-06-06 08:00 UTC</div>
-<p class="article-blurb">To emulate vintage microprocessor hardware, it’s normal to find a modern host that provides alongside the number-crunching grunt, sufficient physical connections to interface with its support hardware. Thus if you …read more</p>
-</li>
-<li>
-<a href="https://www.hackster.io/news/a-new-59-pocket-sized-tool-cures-all-your-i-c-headaches-fd812aacebd5" target="_blank" rel="noopener noreferrer">A New $59 Pocket-Sized Tool Cures All Your I²C Headaches</a>
-<div class="article-meta">hackster-news · 2026-06-05 15:08 UTC</div>
-<p class="article-blurb">The $59 I²C Doctor scans, debugs, and stress-tests I²C connections in seconds to solve hardware mysteries fast.</p>
+<a href="https://hackaday.com/2026/06/06/pi-pico-puts-bluetooth-keyboards-on-the-i2c-bus/" target="_blank" rel="noopener noreferrer">Pi Pico Puts Bluetooth Keyboards on the I2C Bus</a>
+<div class="article-meta">hackaday · 2026-06-06 20:00 UTC</div>
+<p class="article-blurb">If you’ve ever worked with I2C, you know its one of those things that makes working with modern microcontrollers such a pleasure. With a few wires and not many more …read more</p>
 </li>
 </ul>
 <h2>Electronics Deep-Dives</h2>
-<p class="topic-summary">Texas Instruments is facing backlash after apparently changing the long-established NE5532 audio op-amp’s design and key specifications without changing the part number, raising concerns about compatibility for engineers who rely on it as a “jellybean” component. The controversy centers on whether the updated device still behaves like the classic part, and on the broader risk of silent component changes undermining legacy designs and procurement confidence.</p>
+<p class="topic-summary">Texas Instruments is facing backlash after reportedly changing the long-established NE5532 audio op-amp’s design and key specifications without changing the part number, raising concerns about compatibility for engineers who rely on it as a “jellybean” component. The issue has sparked scrutiny over whether the updated device still behaves like the classic part and whether TI’s product-change process adequately signaled the shift to customers.</p>
 <ul class="articles">
 <li>
 <a href="https://www.eevblog.com/2026/06/05/eevblog-1752-texas-instruments-screwed-up-the-ne5532/" target="_blank" rel="noopener noreferrer">EEVblog 1752 – Texas Instruments SCREWED UP the NE5532</a>
