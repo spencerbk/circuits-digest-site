@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2026 14:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 14:00:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Star Stream is bringing F1-level telemetry to every race team – and every fleet – with Arduino UNO Q</title>
+      <link>https://blog.arduino.cc/2026/06/08/star-stream-is-bringing-f1-level-telemetry-to-every-race-team-and-every-fleet-with-arduino-uno-q/</link>
+      <description>Founder George Hammel describes his Star Stream engineering team as “a pretty wild group.” A few of them aren’t certified engineers in the traditional sense, but all of them grew up solving problems in motorsports – an environment that rewards fast thinking, creative solutions, and zero tolerance for downtime. That background shows in what they’ve […] The post Star Stream is bringing F1-level telemetry to every race team – and every fleet – with Arduino UNO Q appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-405c046a254e2b90</guid>
+      <pubDate>Mon, 08 Jun 2026 12:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goddard the Robot Dog Brought to Life</title>
+      <link>https://hackaday.com/2026/06/08/goddard-the-robot-dog-brought-to-life/</link>
+      <description>There’s not much more nostalgic for many than good ole’ Jimmy Neutron. This was true for [Kiara], who saw the gorgeous pupper Goddard and wanted him for herself. Of course, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-2084ece11fa258f2</guid>
+      <pubDate>Mon, 08 Jun 2026 11:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ted Fried's MCL8080+ Crams a Working Intel 8080 Emulator Into Microchip's Teeny-Weeny ATtiny85</title>
+      <link>https://www.hackster.io/news/ted-fried-s-mcl8080-crams-a-working-intel-8080-emulator-into-microchip-s-teeny-weeny-attiny85-9c5411a78494</link>
+      <description>What took Intel a 40-pin DIP chip can now be achieved in an eight-pin microcontroller — complete with CP/M compatibility.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-29e07bb48572ac03</guid>
+      <pubDate>Mon, 08 Jun 2026 10:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Arcade</title>
+      <link>https://www.raspberrypi.com/news/ai-arcade/</link>
+      <description>You won’t run out of retro-inspired games to play with this console The post AI Arcade appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-2ae65fb96caf9dd0</guid>
+      <pubDate>Mon, 08 Jun 2026 10:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dr. Scott M. Baker Gives a Classic Grid Compass a Voice — With the World's First GPIB Speech Synth</title>
+      <link>https://www.hackster.io/news/dr-scott-m-baker-gives-a-classic-grid-compass-a-voice-with-the-world-s-first-gpib-speech-synth-fd8750c5283e</link>
+      <description>The rugged laptop made famous by NASA — and Aliens — can now speak its bubble-memory mind, for the first time.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-453f8ab2d92fee0e</guid>
+      <pubDate>Mon, 08 Jun 2026 10:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>MNT Research Hits Back at AI Bubble Price Hikes, Parts Shortages with a Raspberry Pi CM5 Adapter</title>
+      <link>https://www.hackster.io/news/mnt-research-hits-back-at-ai-bubble-price-hikes-parts-shortages-with-a-raspberry-pi-cm5-adapter-66f66afaf09c</link>
+      <description>Upcoming "relatively low-cost" interstitial board will let you hook a Raspberry Pi Compute Module 5 into any MNT Reform laptop.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-f44e00a604881b1c</guid>
+      <pubDate>Mon, 08 Jun 2026 09:57:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing the Failure of the Reevo</title>
+      <link>https://hackaday.com/2026/06/08/fixing-the-failure-of-the-reevo/</link>
+      <description>There are a lot of traditional features of a bike that rarely change. The spokes, the chain, and the inability for it to take off like a rocket, to mention …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-19488c0dc8af490b</guid>
+      <pubDate>Mon, 08 Jun 2026 08:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repairing a Apple PowerBook 150 With Serious Issues</title>
+      <link>https://hackaday.com/2026/06/07/repairing-a-apple-powerbook-150-with-serious-issues/</link>
+      <description>Sometimes you purchase an old device that is very cheap for a good reason. So too with the 1995 Apple PowerBook 150 that [Hugh Jeffreys] purchased for a single Aussie …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-cb6b52f23cccaa3c</guid>
+      <pubDate>Mon, 08 Jun 2026 05:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desalinating Seawater With Solar and No Brine</title>
+      <link>https://hackaday.com/2026/06/07/desalinating-seawater-with-solar-and-no-brine/</link>
+      <description>Although desalination is very commonly used these days to convert seawater into fresh water, one of the major disadvantages of current approaches is that commercial desalination plants produce a lot …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d0852e98534fd9e1</guid>
+      <pubDate>Mon, 08 Jun 2026 02:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Balance Bot Uses a Mirror to See the Big Picture</title>
+      <link>https://www.hackster.io/news/this-balance-bot-uses-a-mirror-to-see-the-big-picture-c26c68e3fdbe</link>
+      <description>MirrorBallBot uses computer vision and a clever mirror trick to balance — and even chase your finger with — a rolling ball.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-c8ab25ea60e32c36</guid>
+      <pubDate>Sun, 07 Jun 2026 19:29:04 +0000</pubDate>
+    </item>
     <item>
       <title>A New Life For a Rare Console</title>
       <link>https://hackaday.com/2026/06/07/a-new-life-for-a-rare-console/</link>
