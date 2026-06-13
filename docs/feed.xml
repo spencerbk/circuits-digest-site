@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 14:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 14:00:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Patterns Everywhere</title>
+      <link>https://hackaday.com/2026/06/13/patterns-everywhere/</link>
+      <description>I studied physics in college, and I’m always surprised how fundamental some of the concepts are. Take waves for example. You really wouldn’t expect the same underlying concept to be …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-03198620eadcfa38</guid>
+      <pubDate>Sat, 13 Jun 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/06/13/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-13/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9d8f03d92c456e69</guid>
+      <pubDate>Sat, 13 Jun 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behold a 60 Hz Refresh Rate E-ink Monitor</title>
+      <link>https://hackaday.com/2026/06/13/behold-a-60-hz-refresh-rate-e-ink-monitor/</link>
+      <description>E-ink displays have a number of advantages over other display types, but their refresh rate isn’t one of them. But what exactly makes them slow? According to [Wenting Zhang], it’s …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-21cbb0a07269859d</guid>
+      <pubDate>Sat, 13 Jun 2026 11:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>GentleOS, A Simple OS For Your Old PC</title>
+      <link>https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/</link>
+      <description>Every month or so we bring you a Jenny’s Daily Drivers article, in which we share with you an esoteric OS and try to use it for the everyday work of …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-958521382e5964cf</guid>
+      <pubDate>Sat, 13 Jun 2026 08:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deeply optimized MSX emulation on ESP32-S3 with VGA output</title>
+      <link>https://hackaday.com/2026/06/12/deeply-optimized-msx-emulation-on-esp32-s3-with-vga-output/</link>
+      <description>The ESP32-S3 is by many metrics quite the powerful little computer, which has led to it being used even for things like emulating retro consoles and similar. Here [Ivan Svarkovsky]’s …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-84fb991728dc0df9</guid>
+      <pubDate>Sat, 13 Jun 2026 05:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saving family football footage with a Raspberry Pi and a 1928 projector</title>
+      <link>https://www.raspberrypi.com/news/saving-family-football-footage-with-a-raspberry-pi-and-a-1928-projector/</link>
+      <description>A custom scanner based on Raspberry Pi 5 and a projector from 1928 preserved footage of the maker's father's high school football games The post Saving family football footage with a Raspberry Pi and a 1928 projector appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-545b434f1513052e</guid>
+      <pubDate>Sat, 13 Jun 2026 02:05:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking a Server-Grade NVIDIA GPU Into a Home Desktop</title>
+      <link>https://www.hackster.io/news/hacking-a-server-grade-nvidia-gpu-into-a-home-desktop-674ada7032a7</link>
+      <description>Oscar Molnar scored an old data center NVIDIA V100 to crush AI workloads on a budget — but it took some work to install it in a desktop.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-bc98bdbcd8c18a9f</guid>
+      <pubDate>Fri, 12 Jun 2026 20:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>DIY Pi 400 Keyboard Case</title>
+      <link>https://blog.adafruit.com/2026/06/12/diy-pi-400-keyboard-case/</link>
+      <description>Plug into any HDMI display! Browse, work, watch streaming video and code, just like any computer! Most single board computers, like a Raspberry Pi, fit right into the small form factory of a keyboard with built-in trackpad. Easily detach the keyboard to access additional GPIO hidden inside the case. Check out the guide from the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-811e93b90d422cbc</guid>
+      <pubDate>Fri, 12 Jun 2026 20:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>GrowBot is a LLM in a Body #piday #raspberrypi</title>
+      <link>https://blog.adafruit.com/2026/06/12/growbot-is-a-llm-in-a-body-piday-raspberrypi/</link>
+      <description>Art of the problem gave a super simple bot a pretty big brain. The two legged GrowBot is based on a Raspberry Pi Zero 2, two servos, a camera, an IMU, a battery, some 3D printed parts. This project started when I imagined making a little robot that would learn everything, how to move and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-af6a33a9d471be4a</guid>
+      <pubDate>Fri, 12 Jun 2026 17:44:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIT’s New Tech Gives Underwater Robots Perfect 3D Vision in Murky Waters</title>
+      <link>https://www.hackster.io/news/mit-s-new-tech-gives-underwater-robots-perfect-3d-vision-in-murky-waters-a6d3746a75bf</link>
+      <description>MIT’s new Sonar-MASt3R system combines sonar and cameras to give underwater robots crystal-clear, 3D vision in the murkiest depths.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d570efb76bc975eb</guid>
+      <pubDate>Fri, 12 Jun 2026 14:58:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Paint with Light</title>
+      <link>https://blog.adafruit.com/2026/06/12/how-to-paint-with-light/</link>
+      <description>I don’t know about you, but, warm summer nights seem like the perfect time to get a little light painting in to me! Get started with the Adafruit Learning System! DIY Thermal Light Painting – Heat Map Photography Make a low-budget, thermal camera for scientific analysis, or just some awesome cosplay. NeoPixel Bracelet 3D Print […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3a6f89010a1c47fb</guid>
+      <pubDate>Fri, 12 Jun 2026 14:00:29 +0000</pubDate>
+    </item>
     <item>
       <title>This Week in Security: Microsoft on Microsoft, Register Your Domains, Linux on ARM, and FreeBSD Joins the File Cache Club</title>
       <link>https://hackaday.com/2026/06/12/this-week-in-security-microsoft-on-microsoft-register-your-domains-linux-on-arm-and-freebsd-joins-the-file-cache-club/</link>
@@ -22,6 +110,14 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-7c2cc60d0b67aa38</guid>
       <pubDate>Fri, 12 Jun 2026 13:30:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turn Your ESP32 Into a Legendary MSX2+ Computer</title>
+      <link>https://www.hackster.io/news/turn-your-esp32-into-a-legendary-msx2-computer-e4279d05b58d</link>
+      <description>Missed out on the legendary MSX? Now you can emulate the computer that gave birth to Metal Gear on an ESP32.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-2125404a7efec1c8</guid>
+      <pubDate>Fri, 12 Jun 2026 13:19:35 +0000</pubDate>
     </item>
     <item>
       <title>Glue-in Hinge Design Tries Something Different</title>
