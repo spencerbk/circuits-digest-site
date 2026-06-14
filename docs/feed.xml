@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:00:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>OpenCAL: Computed Axial Lithographic 3D Printing For Everyone</title>
+      <link>https://hackaday.com/2026/06/14/opencal-computed-axial-lithographic-3d-printing-for-everyone/</link>
+      <description>Computed Axial Lithographic printing gets even closer to the Star Trek replicator fantasy than any other 3D printer we’ve seen: there’s a machine, it glows with a mysterious bluish light, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-2b1ba0377ec591a5</guid>
+      <pubDate>Sun, 14 Jun 2026 14:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reviving Teletext for Ham Radio #HamSunday @IEEESpectrum</title>
+      <link>https://blog.adafruit.com/2026/06/14/reviving-teletext-for-ham-radio-hamsunday-ieeespectrum/</link>
+      <description>Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Stephen Cass writing for IEEE Spectrum writes about reviving teletext ssing a computer’s sound card. I decided to send the teletext using the AX.25 protocol, which […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-8f7c60b652a0ec24</guid>
+      <pubDate>Sun, 14 Jun 2026 13:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is a CS Degree DOA thanks to LLMs? IEEE Says TBD.</title>
+      <link>https://hackaday.com/2026/06/14/is-a-cs-degree-doa-thanks-to-llms-ieee-says-tbd/</link>
+      <description>The ongoing AI apocalypse is hitting prices for high-end components from RAM to GPUs to storage hard, which is bad enough when you have a job to try and budget …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-0bfde2471791a928</guid>
+      <pubDate>Sun, 14 Jun 2026 11:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Double the VRAM of an RTX 3070</title>
+      <link>https://hackaday.com/2026/06/14/double-the-vram-of-an-rtx-3070/</link>
+      <description>Modern games are quite often limited by the amount of volatile memory available to the GPU. Games can require many gigabytes of data during the rasterization process. So the obvious …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-6e0936d6ac1a13b3</guid>
+      <pubDate>Sun, 14 Jun 2026 08:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pacemaker Patch</title>
+      <link>https://hackaday.com/2026/06/13/the-pacemaker-patch/</link>
+      <description>A pacemaker is implanted to send signals that regulate a patient’s heartbeat, and to do that, you need power. That means they require battery changes, and when the device in …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b4ec3b4816c48717</guid>
+      <pubDate>Sun, 14 Jun 2026 05:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robot Chess but Each Piece is a Small Robot</title>
+      <link>https://hackaday.com/2026/06/13/robot-chess-but-each-piece-is-a-small-robot/</link>
+      <description>We have seen a number of self-playing chess boards over the years, but the general theme has been standard chess pieces moved by either an internal electromagnet or an external …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-5e21006646f22018</guid>
+      <pubDate>Sun, 14 Jun 2026 02:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bambuddy Says Bye to Bambu Lab Cloud Services</title>
+      <link>https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/</link>
+      <description>If you have a Bambu Labs printer and aren’t keen to send your files to Bambu’s servers with each print job, then check out Bambuddy, an open-source, self-hosted, cloud-free central …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-2ad3b235b0419ccd</guid>
+      <pubDate>Sat, 13 Jun 2026 23:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Converting a Scanning Electron Microscope Into a TEM is Surprisingly Easy</title>
+      <link>https://hackaday.com/2026/06/13/converting-a-scanning-electron-microscope-into-a-tem-is-surprisingly-easy/</link>
+      <description>Although both a SEM and a TEM are electron microscopes, their working principles and images are very different. Whereas an SEM uses secondary electrons ejected after bombarding a sample’s surface …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7ee120cc962d6ddf</guid>
+      <pubDate>Sat, 13 Jun 2026 20:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Patterns Everywhere</title>
       <link>https://hackaday.com/2026/06/13/patterns-everywhere/</link>
