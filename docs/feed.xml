@@ -5,8 +5,112 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 14:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 14:00:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>21 zero-day issues were found in FFmpeg</title>
+      <link>https://blog.adafruit.com/2026/06/15/21-zero-day-issues-were-found-in-ffmpeg/</link>
+      <description>depthfirst’s production autonomous security agent discovered 21 zero-day vulnerabilities in FFmpeg, after intensive security analysis by Google and Anthropic. Moving beyond theoretical analysis, their agent produced concrete, reproducible proof of concept inputs to confirm its findings. Several of the findings had been sitting latent for 15 to 20 years. depthfirst explored the exploitability of the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3024f2a59b72d398</guid>
+      <pubDate>Mon, 15 Jun 2026 13:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>This cryocooler was made using 3D-printed parts</title>
+      <link>https://blog.arduino.cc/2026/06/15/this-cryocooler-was-made-using-3d-printed-parts/</link>
+      <description>If you want some very cold air, you’re going to have to dive deep into thermodynamic wizardry to find a practical way to get it. Hyperspace Pirate did that digging and discovered the Gifford-McMahon cryocooler design. That is just simple enough that Hyperspace Pirate was able to build his own cryocooler using 3D-printed parts and […] The post This cryocooler was made using 3D-printed parts appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-15ccd7842c55bf19</guid>
+      <pubDate>Mon, 15 Jun 2026 13:54:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Maker Monday projects</title>
+      <link>https://www.raspberrypi.com/news/maker-monday-projects/</link>
+      <description>If you take a look across social media today using #MakerMonday, you'll find some weird, wonderful nerdy projects The post Your Maker Monday projects appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-87967a8df439981d</guid>
+      <pubDate>Mon, 15 Jun 2026 11:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simone Carriero's Makerplot 3D-Printable Plotter Gets a Serious Upgrade: Meet Makerplot 2.0</title>
+      <link>https://www.hackster.io/news/simone-carriero-s-makerplot-3d-printable-plotter-gets-a-serious-upgrade-meet-makerplot-2-0-c0f5c545472b</link>
+      <description>New stepper motors and a modular framework deliver improved speed, accuracy, and the claim of an "infinitely expandable" canvas.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-383202c59d685fe6</guid>
+      <pubDate>Mon, 15 Jun 2026 11:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wooden Piano Keys Hold Your Less-Wooden, Not-Piano Keys</title>
+      <link>https://hackaday.com/2026/06/15/wooden-piano-keys-hold-your-less-wooden-not-piano-keys/</link>
+      <description>There are many ways to deal with keys: a bowl next to the entryway, a junk drawer, or you can just leave them in your pockets and hope you remember …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-1c6552ee3dfabec0</guid>
+      <pubDate>Mon, 15 Jun 2026 11:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif Prepares for ESP32-E22 General Avaiability with Wi-Fi 6E Certification, Open Linux Driver</title>
+      <link>https://www.hackster.io/news/espressif-prepares-for-esp32-e22-general-avaiability-with-wi-fi-6e-certification-open-linux-driver-5e175fe7d011</link>
+      <description>Early-stage driver, lacking some key features, is available now under a permissive license — but you still can't buy the chip.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-ed2acc5517809de8</guid>
+      <pubDate>Mon, 15 Jun 2026 10:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Give Your Camera Work Robotic Cleanliness By Building Lewis Aburrow's 3D-Printed Slider</title>
+      <link>https://www.hackster.io/news/give-your-camera-work-robotic-cleanliness-by-building-lewis-aburrow-s-3d-printed-slider-56d0d0b91016</link>
+      <description>A pair of Espressif microcontrollers sit at the heart of this camera slider build, which includes support for battery-powered operation.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-0f24d513667e95c4</guid>
+      <pubDate>Mon, 15 Jun 2026 10:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Y2K Bug in BSD 2.11 that Survived 2000</title>
+      <link>https://hackaday.com/2026/06/15/the-y2k-bug-in-bsd-2-11-that-survived-2000/</link>
+      <description>A year before the arrival of the brand-new 21st millennium, the Year 2000 Bug was predicted to grind modern society to a halt and ensure that at the dawn of …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9cf50a5883b8bb51</guid>
+      <pubDate>Mon, 15 Jun 2026 08:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>IKEA Storage Box Just Happens To Make Great Printer Cover</title>
+      <link>https://hackaday.com/2026/06/14/ikea-storage-box-just-happens-to-make-great-printer-cover/</link>
+      <description>The Snapmaker U1 3D printer is an impressive machine for the price, but [Beaver Works] found the optional factory-offered top cover a wee bit expensive for his tastes. The solution? …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-3d4526106caa3442</guid>
+      <pubDate>Mon, 15 Jun 2026 05:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Your Own X-Ray Detector Screen</title>
+      <link>https://hackaday.com/2026/06/14/building-your-own-x-ray-detector-screen/</link>
+      <description>Fluoroscopy is probably the best-known method of X-ray imaging: an X-ray beam passes through the subject to be imaged, and the transmitted X-rays illuminate a phosphor screen. Dense objects, such …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d52c0ab1e352a3d5</guid>
+      <pubDate>Mon, 15 Jun 2026 02:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Maker’s Toolbox: Focalab Vario Laser Machine Review</title>
+      <link>https://www.hackster.io/news/the-maker-s-toolbox-focalab-vario-laser-machine-review-5b41c7a1d532</link>
+      <description>Focalab is new to the laser market and they're hoping to start strong with the Vario. Let's find out if it is worth getting excited about.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-1284ea23cae0b369</guid>
+      <pubDate>Mon, 15 Jun 2026 01:32:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Jacket Pulls Drinking Water From Thin Air #Wearable</title>
+      <link>https://blog.adafruit.com/2026/06/14/this-jacket-pulls-drinking-water-from-thin-air-wearable/</link>
+      <description>“The textile incorporated into the jacket collects moisture and funnels it to detachable harvesting units.” Image Via UT News Stillsuit anyone? Not quite, but engineers at the University of Texas have developed a jacket that collects water from the air. The advance fabric technology can harvest 3x-10x more water than current materials. Via UT […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9f526eb3e1ed2932</guid>
+      <pubDate>Sun, 14 Jun 2026 18:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit CAN Bus BFF #AdafruitLearnSystem</title>
+      <link>https://blog.adafruit.com/2026/06/14/adafruit-can-bus-bff-adafruitlearnsystem/</link>
+      <description>Adafruit QT Py boards are a great way to make very small microcontroller projects that pack a ton of power – and now we have a way for you to turn many QT Py boards into powerful CAN bus devices that are super small! Check out the full guide!</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-47f975abe5a8f370</guid>
+      <pubDate>Sun, 14 Jun 2026 16:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>OpenCAL: Computed Axial Lithographic 3D Printing For Everyone</title>
       <link>https://hackaday.com/2026/06/14/opencal-computed-axial-lithographic-3d-printing-for-everyone/</link>
@@ -702,70 +806,6 @@
       <category>raspberry-pi-foundation</category>
       <guid isPermaLink="false">circuits-4c1f0196d8951871</guid>
       <pubDate>Wed, 03 Jun 2026 14:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 6/2/26 @adafruit @johnedgarpark #adafruit #newproductpick</title>
-      <link>https://blog.adafruit.com/2026/06/03/jps-product-pick-of-the-week-6-2-26-adafruit-johnedgarpark-adafruit-newproductpick/</link>
-      <description>If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT / Qwiic! Watch the video to find out about the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-81564852f0d37abc</guid>
-      <pubDate>Wed, 03 Jun 2026 13:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>This stunning smart planter tracks plant health and handles daily care</title>
-      <link>https://blog.arduino.cc/2026/06/03/this-stunning-smart-planter-tracks-plant-health-and-handles-daily-care/</link>
-      <description>Gardening is a prime application for smart automation, because plant care requires a lot of monitoring, but is relatively simple to execute. Large-scale agricultural operations are already highly automated, so why not do the same thing with your house plants? Giovanni Mannara (AKA Ingeimaks) did so in style by building this smart planter system that […] The post This stunning smart planter tracks plant health and handles daily care appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-a327c16202544d26</guid>
-      <pubDate>Wed, 03 Jun 2026 00:28:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit 24 NeoPixel RGB LED Ring – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine</title>
-      <link>https://blog.adafruit.com/2026/06/02/neopixel-ring-24-raspberry-pi-official-magazine-issue-166-rpimagazine/</link>
-      <description>The Raspberry Pi Official Magazine – Issue 166 features the Adafruit 24 NeoPixel RGB LED Ring: As well as on reels or strings, you can get addressable LEDs in other form factors – including straight strips, curves, and rings. Adafruit makes NeoPixel rings in several sizes, controllable with CircuitPython (also Python and Arduino). They’re great for […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7a0f2a5e26f536a8</guid>
-      <pubDate>Tue, 02 Jun 2026 16:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Triple LED Matrix Bonnet for Raspberry Pi – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine</title>
-      <link>https://blog.adafruit.com/2026/06/02/triple-led-matrix-bonnet-for-raspberry-pi-the-raspberry-pi-official-magazine-issue-166-rpimagazine/</link>
-      <description>The Raspberry Pi Official Magazine – Issue 166 features the Adafruit Triple LED Matrix Bonnet for Raspberry Pi: A‘Bonnet’ for Raspberry Pi, it lets you control up to three HUB75 panels in parallel (aka an ‘active3’ pinout) – or even three strings of daisy-chained panels. It supports panel sizes of 16 × 32, 32 × 32, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d4e69a773c08de97</guid>
-      <pubDate>Tue, 02 Jun 2026 16:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICYMI Python on Microcontrollers Newsletter: A New CircuitPython Editor, AI On The Edge, and Projects Galore!</title>
-      <link>https://blog.adafruit.com/2026/06/02/icymi-python-on-microcontrollers-newsletter-a-new-circuitpython-editor-ai-on-the-edge-and-projects-galore/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,364 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4d42c4ecceb4951d</guid>
-      <pubDate>Tue, 02 Jun 2026 14:40:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pinecone DAISY-1 is a fantasy 8-bit computer that exists in reality</title>
-      <link>https://blog.arduino.cc/2026/06/02/the-pinecone-daisy-1-is-a-fantasy-8-bit-computer-that-exists-in-reality/</link>
-      <description>There was a time when computers were exciting and fun. Now most of them feel like commodity appliances — no more interesting than a washing machine or a toaster. Joe longed for the good ol’ days of 8-bit personal computers, so he used a trio of Arduino development boards to design his own “fantasy computer.” […] The post The Pinecone DAISY-1 is a fantasy 8-bit computer that exists in reality appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-827480a303fa3db9</guid>
-      <pubDate>Tue, 02 Jun 2026 11:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python Projects for Raspberry Pi: the book you’ve been waiting for to level up your skills</title>
-      <link>https://www.raspberrypi.com/news/python-projects-for-raspberry-pi/</link>
-      <description>Learn to build Python projects for Raspberry Pi in this new book, with hands-on projects to spark your own ideas. The post Python Projects for Raspberry Pi: the book you’ve been waiting for to level up your skills appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-5482c8d63c52af1b</guid>
-      <pubDate>Tue, 02 Jun 2026 09:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building confidence to teach AI in the classroom</title>
-      <link>https://www.raspberrypi.org/blog/building-confidence-to-teach-ai-in-the-classroom/</link>
-      <description>Hayley McKechnie is a computing lead at a primary school in the East of England, who shares in this blog how she supports her students and her fellow teachers to build confidence around artificial intelligence (AI). She developed her skills through training delivered by Parent Zone, our partner for Experience AI in the UK. Artificial… The post Building confidence to teach AI in the classroom appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-b850728a5a38f9d7</guid>
-      <pubDate>Tue, 02 Jun 2026 09:20:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
