@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Circuits Digest — 2026-06-15</title>
+<title>Circuits Digest — 2026-06-16</title>
 <style>:root {
   color-scheme: light dark;
   --fg: #1b1f24;
@@ -65,49 +65,51 @@ a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }</style>
 </head>
 <body>
 <main>
-<h1>Circuits Digest — 2026-06-15</h1>
-<p class="meta">Generated 14:00 UTC · 6 topics · 17 articles · &lt;$0.01 LLM spend</p>
+<h1>Circuits Digest — 2026-06-16</h1>
+<p class="meta">Generated 14:19 UTC · 6 topics · 18 articles · &lt;$0.01 LLM spend</p>
 <h2>Adafruit</h2>
-<p class="topic-summary">Adafruit’s recent posts span both maker projects and hardware security, with a standout report on 21 zero-day FFmpeg vulnerabilities uncovered by an autonomous security agent after deep analysis and reproducible proof-of-concept testing. On the project side, Adafruit highlighted new guides for turning QT Py boards into compact CAN bus devices, building a DIY Pi 400-style keyboard case, and creating a small Raspberry Pi robot with an LLM-driven “brain.” The blog also featured experimental and wearable tech, including a jacket that harvests drinking water from air and a ham radio project reviving teletext over AX.25.</p>
+<p class="topic-summary">Adafruit’s recent coverage leaned heavily into practical retro-hardware hacking and maker projects, from cloning a cheap T12 soldering station with better firmware support, backup battery provisions, and flexible temperature-sensor options to reverse-engineering a Sennheiser BA2015 battery pack so users can avoid expensive replacements. The blog also highlighted a new animated Dragon Kite Poi guide using WLED, alongside broader maker and embedded-interest pieces like the Intel 8087 adder deep dive, a Python on Microcontrollers newsletter roundup, and a look back at the 1992 Workboy Game Boy keyboard prototype.</p>
 <ul class="articles">
 <li>
-<a href="https://blog.adafruit.com/2026/06/15/21-zero-day-issues-were-found-in-ffmpeg/" target="_blank" rel="noopener noreferrer">21 zero-day issues were found in FFmpeg</a>
-<div class="article-meta">adafruit-blog · 2026-06-15 13:58 UTC</div>
-<p class="article-blurb">depthfirst’s production autonomous security agent discovered 21 zero-day vulnerabilities in FFmpeg, after intensive security analysis by Google and Anthropic. Moving beyond theoretical analysis, their agent produced concrete, reproducible proof of concept inputs to confirm its findings. Several of the findings had been sitting latent for 15 to 20 years. depthfirst explored the exploitability of the […]</p>
+<a href="https://blog.adafruit.com/2026/06/15/a-clone-of-the-cheap-t12-soldering-stations-attempting-to-eliminate-cheap-pitfalls/" target="_blank" rel="noopener noreferrer">A clone of the cheap T12 soldering stations, attempting to eliminate cheap pitfalls</a>
+<div class="article-meta">adafruit-blog · 2026-06-15 20:42 UTC</div>
+<p class="article-blurb">Open-T12-Soldering-Station is a clone of the cheap T12 soldering stations, attempting to eliminate the shortfalls of cheap. Useless without the fine firmware from https://github.com/deividAlfa/stm32_soldering_iron_controller. It has provisions for a backup battery. Jumper selectable between internal and external NTC as some of the new handles don’t contain a NTC, so this gives you the option if […]</p>
 </li>
 <li>
-<a href="https://blog.adafruit.com/2026/06/14/adafruit-can-bus-bff-adafruitlearnsystem/" target="_blank" rel="noopener noreferrer">Adafruit CAN Bus BFF #AdafruitLearnSystem</a>
-<div class="article-meta">adafruit-blog · 2026-06-14 16:00 UTC</div>
-<p class="article-blurb">Adafruit QT Py boards are a great way to make very small microcontroller projects that pack a ton of power – and now we have a way for you to turn many QT Py boards into powerful CAN bus devices that are super small! Check out the full guide!</p>
+<a href="https://blog.adafruit.com/2026/06/15/cloning-a-sennheiser-ba2015-battery-pack/" target="_blank" rel="noopener noreferrer">Cloning a Sennheiser BA2015 battery pack</a>
+<div class="article-meta">adafruit-blog · 2026-06-15 21:15 UTC</div>
+<p class="article-blurb">Martijn Braam generally avoids messing with Li-ion battery packs, but Sennheiser BA2015 battery packs are both Ni-mh and expensive. A significant portions of all wireless microphones by Sennheiser use the same BA2015 battery pack. These devices can also take two regular AA batteries but when using those it won’t charge them in the dock. So […]</p>
 </li>
 <li>
-<a href="https://blog.adafruit.com/2026/06/12/diy-pi-400-keyboard-case/" target="_blank" rel="noopener noreferrer">DIY Pi 400 Keyboard Case</a>
-<div class="article-meta">adafruit-blog · 2026-06-12 20:00 UTC</div>
-<p class="article-blurb">Plug into any HDMI display! Browse, work, watch streaming video and code, just like any computer! Most single board computers, like a Raspberry Pi, fit right into the small form factory of a keyboard with built-in trackpad. Easily detach the keyboard to access additional GPIO hidden inside the case. Check out the guide from the […]</p>
+<a href="https://blog.adafruit.com/2026/06/15/the-adder-at-the-heart-of-intels-8087-floating-point-chip/" target="_blank" rel="noopener noreferrer">The adder at the heart of Intel’s 8087 floating-point chip</a>
+<div class="article-meta">adafruit-blog · 2026-06-15 20:20 UTC</div>
+<p class="article-blurb">A few days ago we posted about the microcode inside the Intel 8087 floating-point chip: register exchange by Ken Shirriff. Today Ken looks into the adder at the heart of Intel’s 8087 floating-point chip. In 1980, Intel released the Intel 8087 floating-point coprocessor, a chip that could make math up to 100 times faster. As […]</p>
 </li>
 <li>
-<a href="https://blog.adafruit.com/2026/06/12/growbot-is-a-llm-in-a-body-piday-raspberrypi/" target="_blank" rel="noopener noreferrer">GrowBot is a LLM in a Body #piday #raspberrypi</a>
-<div class="article-meta">adafruit-blog · 2026-06-12 17:44 UTC</div>
-<p class="article-blurb">Art of the problem gave a super simple bot a pretty big brain. The two legged GrowBot is based on a Raspberry Pi Zero 2, two servos, a camera, an IMU, a battery, some 3D printed parts. This project started when I imagined making a little robot that would learn everything, how to move and […]</p>
+<a href="https://blog.adafruit.com/2026/06/15/dragon-kite-poi-with-animated-lights-and-wled-adafruit-products-adafruitlearningsystem-adafruit/" target="_blank" rel="noopener noreferrer">Dragon Kite Poi with Animated Lights and WLED #Adafruit Products #AdafruitLearningSystem @Adafruit</a>
+<div class="article-meta">adafruit-blog · 2026-06-15 21:15 UTC</div>
+<p class="article-blurb">Check out the latest guide from Erin St Blaine: add animated seed pixel lights to a Chinese Dragon kite and watch the lights animate as it twirls through the air. This is a fairly easy build with a wonderfully dramatic result that will make you stand out at any Lunar New Year parade. Learn to […]</p>
 </li>
 <li>
-<a href="https://blog.adafruit.com/2026/06/14/this-jacket-pulls-drinking-water-from-thin-air-wearable/" target="_blank" rel="noopener noreferrer">This Jacket Pulls Drinking Water From Thin Air #Wearable</a>
-<div class="article-meta">adafruit-blog · 2026-06-14 18:04 UTC</div>
-<p class="article-blurb">“The textile incorporated into the jacket collects moisture and funnels it to detachable harvesting units.” Image Via UT News Stillsuit anyone? Not quite, but engineers at the University of Texas have developed a jacket that collects water from the air. The advance fabric technology can harvest 3x-10x more water than current materials. Via UT […]</p>
+<a href="https://blog.adafruit.com/2026/06/16/icymi-python-on-microcontrollers-newsletter-is-jit-python-in-trouble-micropython-in-a-wasm-sandbox-and-more/" target="_blank" rel="noopener noreferrer">ICYMI Python on Microcontrollers Newsletter: Is JIT Python in Trouble? MicroPython in a WASM Sandbox and More!</a>
+<div class="article-meta">adafruit-blog · 2026-06-16 13:38 UTC</div>
+<p class="article-blurb">If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,361 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</p>
 </li>
 <li>
-<a href="https://blog.adafruit.com/2026/06/14/reviving-teletext-for-ham-radio-hamsunday-ieeespectrum/" target="_blank" rel="noopener noreferrer">Reviving Teletext for Ham Radio #HamSunday @IEEESpectrum</a>
-<div class="article-meta">adafruit-blog · 2026-06-14 13:30 UTC</div>
-<p class="article-blurb">Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Stephen Cass writing for IEEE Spectrum writes about reviving teletext ssing a computer’s sound card. I decided to send the teletext using the AX.25 protocol, which […]</p>
+<a href="https://blog.adafruit.com/2026/06/16/workboy-a-prototype-keyboard-for-game-boy-from-1992/" target="_blank" rel="noopener noreferrer">Workboy, a prototype keyboard for Game Boy from 1992</a>
+<div class="article-meta">adafruit-blog · 2026-06-16 12:28 UTC</div>
+<p class="article-blurb">Workboy converts your Game Boy into a micro workstation, complete with a keyboard, allowing you to keep track of your important appointments, addresses, notes, bank account balance, and telephone numbers as well as convert temperatures, currencies, and words between five languages. Sounds pretty useful, right? The Workboy software itself was developed by Source, in association with Fabtek […]</p>
 </li>
 </ul>
 <h2>Raspberry Pi</h2>
-<p class="topic-summary">Raspberry Pi highlighted a preservation project that used a Raspberry Pi 5 and a repurposed 1928 projector to scan and save fragile family football footage, showing how the platform continues to power creative hardware builds with real archival value. The company also showcased a fresh batch of community Maker Monday projects, underscoring the breadth of hobbyist experimentation around the ecosystem.</p>
+<p class="topic-summary">Raspberry Pi Foundation is using England’s curriculum review to push for a broader rethink of computing education, arguing that the subject should be updated not just in content but in purpose, audience, and how it prepares students for the future. The Foundation is highlighting input from students and teachers as part of that effort, signaling continued advocacy for more inclusive and practical computing instruction.
+
+Separately, Raspberry Pi is spotlighting community creativity through its Maker Monday roundup, showcasing the kind of quirky, hands-on projects that continue to define its maker ecosystem.</p>
 <ul class="articles">
 <li>
-<a href="https://www.raspberrypi.com/news/saving-family-football-footage-with-a-raspberry-pi-and-a-1928-projector/" target="_blank" rel="noopener noreferrer">Saving family football footage with a Raspberry Pi and a 1928 projector</a>
-<div class="article-meta">raspberry-pi · 2026-06-13 02:05 UTC</div>
-<p class="article-blurb">A custom scanner based on Raspberry Pi 5 and a projector from 1928 preserved footage of the maker&#x27;s father&#x27;s high school football games The post Saving family football footage with a Raspberry Pi and a 1928 projector appeared first on Raspberry Pi.</p>
+<a href="https://www.raspberrypi.org/blog/what-students-and-teachers-in-england-want-from-a-computing-curriculum/" target="_blank" rel="noopener noreferrer">What students and teachers in England want from a computing curriculum</a>
+<div class="article-meta">raspberry-pi-foundation · 2026-06-16 11:17 UTC</div>
+<p class="article-blurb">The UK Government is undertaking the first major review of England’s curriculum and qualifications system since the current national curriculum was introduced in 2014. We believe that this is an excellent opportunity not simply to update the computing curriculum content, but to reconsider what computing education is for, who it serves, and how it prepares… The post What students and teachers in England want from a computing curriculum appeared first on Raspberry Pi Foundation.</p>
 </li>
 <li>
 <a href="https://www.raspberrypi.com/news/maker-monday-projects/" target="_blank" rel="noopener noreferrer">Your Maker Monday projects</a>
@@ -117,21 +119,48 @@ a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }</style>
 </ul>
 <h2>Pimoroni</h2>
 <h2>Microcontrollers (ESP32, RP2040, Arduino)</h2>
-<p class="topic-summary">A maker has built a working Gifford-McMahon cryocooler using mostly 3D-printed parts, showing how far hobbyist fabrication can push into advanced thermodynamics. The project highlights the growing role of Arduino-style prototyping and desktop manufacturing in turning complex lab-grade concepts into accessible DIY experiments.</p>
+<p class="topic-summary">Maker projects highlighted by Arduino show 3D printing being used for increasingly ambitious mechanical builds, from a working-style cryocooler inspired by the Gifford-McMahon design to a highly detailed turbofan jet engine model. While neither story centers on a new microcontroller release, both underscore the broader DIY hardware ecosystem that often pairs Arduino-class boards with custom printed mechanisms, sensors, and control systems.</p>
 <ul class="articles">
 <li>
 <a href="https://blog.arduino.cc/2026/06/15/this-cryocooler-was-made-using-3d-printed-parts/" target="_blank" rel="noopener noreferrer">This cryocooler was made using 3D-printed parts</a>
 <div class="article-meta">arduino-blog · 2026-06-15 13:54 UTC</div>
 <p class="article-blurb">If you want some very cold air, you’re going to have to dive deep into thermodynamic wizardry to find a practical way to get it. Hyperspace Pirate did that digging and discovered the Gifford-McMahon cryocooler design. That is just simple enough that Hyperspace Pirate was able to build his own cryocooler using 3D-printed parts and […] The post This cryocooler was made using 3D-printed parts appeared first on Arduino Blog.</p>
 </li>
+<li>
+<a href="https://blog.arduino.cc/2026/06/15/you-can-3d-print-this-amazingly-complex-turbofan-jet-engine-model/" target="_blank" rel="noopener noreferrer">You can 3D print this amazingly complex turbofan jet engine model</a>
+<div class="article-meta">arduino-blog · 2026-06-15 21:16 UTC</div>
+<p class="article-blurb">All airplane engines have the same basic goal, which is to create forward thrust. But the modern airline industry is an exercise in maximizing efficiency and the most efficient option for large aircraft tends to be a turbofan jet engine. Most of us never get to see those up close, but you can 3D print […] The post You can 3D print this amazingly complex turbofan jet engine model appeared first on Arduino Blog.</p>
+</li>
 </ul>
 <h2>Maker Projects &amp; Hacks</h2>
-<p class="topic-summary">Maker hardware continues to push toward more capable, modular builds: Espressif is lining up the ESP32-E22 with Wi‑Fi 6E certification and an open Linux driver, while a new 3D-printable Makerplot 2.0 adds faster stepper motors and an expandable framework for larger plotting projects. On the project side, makers are using off-the-shelf parts creatively, from a 3D-printed camera slider with battery support to an IKEA storage box repurposed as a printer cover, showing the usual mix of practicality and cost-cutting ingenuity.</p>
+<p class="topic-summary">Maker projects this week leaned heavily toward practical reuse and clever hardware hacks: one build turns 3D-printer scrap into feedstock with a bike-powered shredder, while another upgrades a 3D-printable plotter with faster steppers and a modular, “infinitely expandable” design. On the software side, there’s renewed attention on aging car infotainment systems and on getting Unix-style tools onto Windows, reflecting the ongoing push to keep older or closed systems useful.
+
+There’s also movement on the fabrication front, with OpenCAL bringing layer-free, ultra-fast 3D printing closer to hobbyists, and Espressif teasing an ESP32-E22 with Wi‑Fi 6E certification and an open Linux driver, though the chip isn’t yet available to buy. Meanwhile, a scammy ground-loop isolator teardown and an over-the-top alarm clock project underscore the usual mix of cautionary reverse engineering and delightfully questionable maker ingenuity.</p>
 <ul class="articles">
 <li>
-<a href="https://www.hackster.io/news/espressif-prepares-for-esp32-e22-general-avaiability-with-wi-fi-6e-certification-open-linux-driver-5e175fe7d011" target="_blank" rel="noopener noreferrer">Espressif Prepares for ESP32-E22 General Avaiability with Wi-Fi 6E Certification, Open Linux Driver</a>
-<div class="article-meta">hackster-news · 2026-06-15 10:30 UTC</div>
-<p class="article-blurb">Early-stage driver, lacking some key features, is available now under a permissive license — but you still can&#x27;t buy the chip.</p>
+<a href="https://hackaday.com/2026/06/16/honda-civics-and-installing-software-with-android-test-keys/" target="_blank" rel="noopener noreferrer">Honda Civics and Installing Software With Android Test Keys</a>
+<div class="article-meta">hackaday · 2026-06-16 11:00 UTC</div>
+<p class="article-blurb">As more and more of the ‘smart’ infotainment systems in cars begin to age out of support, it becomes increasingly more relevant to figure out how to do something with …read more</p>
+</li>
+<li>
+<a href="https://hackaday.com/2026/06/16/bike-powered-shredder-makes-short-work-of-3d-printer-waste/" target="_blank" rel="noopener noreferrer">Bike-Powered Shredder Makes Short Work of 3D Printer Waste</a>
+<div class="article-meta">hackaday · 2026-06-16 08:00 UTC</div>
+<p class="article-blurb">[Brogan M Pratt] and his students do a lot of 3D printing, and as such found themselves producing a lot of plastic waste. Seeing an opportunity, they built a bike-powered …read more</p>
+</li>
+<li>
+<a href="https://hackaday.com/2026/06/16/a-brief-history-of-unix-commands-on-windows-coreutils-again/" target="_blank" rel="noopener noreferrer">A Brief History of Unix Commands On Windows: CoreUtils (Again)</a>
+<div class="article-meta">hackaday · 2026-06-16 14:00 UTC</div>
+<p class="article-blurb">If you use Windows today and type ls, cat, grep, or awk in a terminal, there is a good chance something useful will happen. That was not always true. For …read more</p>
+</li>
+<li>
+<a href="https://www.hackster.io/news/layer-free-ultra-fast-3d-printing-is-now-available-to-you-6f0cdb4b62b6" target="_blank" rel="noopener noreferrer">Layer-Free, Ultra-Fast 3D Printing Is Now Available to You</a>
+<div class="article-meta">hackster-news · 2026-06-15 21:57 UTC</div>
+<p class="article-blurb">It is possible to print without layers at all. It is fast and it is now available to you, thanks to OpenCAL.</p>
+</li>
+<li>
+<a href="https://hackaday.com/2026/06/15/learning-about-ground-loop-isolators-thanks-to-a-scam-product/" target="_blank" rel="noopener noreferrer">Learning About Ground Loop Isolators thanks to a Scam Product</a>
+<div class="article-meta">hackaday · 2026-06-16 05:00 UTC</div>
+<p class="article-blurb">When [Denki Otaku] bought a ¥1,200 (roughly €6.5) XLR ground loop isolator off Japanese Amazon, he initially didn’t suspect that anything was off. Since they’re fairly simple devices, with basically …read more</p>
 </li>
 <li>
 <a href="https://www.hackster.io/news/simone-carriero-s-makerplot-3d-printable-plotter-gets-a-serious-upgrade-meet-makerplot-2-0-c0f5c545472b" target="_blank" rel="noopener noreferrer">Simone Carriero&#x27;s Makerplot 3D-Printable Plotter Gets a Serious Upgrade: Meet Makerplot 2.0</a>
@@ -139,34 +168,14 @@ a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }</style>
 <p class="article-blurb">New stepper motors and a modular framework deliver improved speed, accuracy, and the claim of an &quot;infinitely expandable&quot; canvas.</p>
 </li>
 <li>
-<a href="https://hackaday.com/2026/06/15/wooden-piano-keys-hold-your-less-wooden-not-piano-keys/" target="_blank" rel="noopener noreferrer">Wooden Piano Keys Hold Your Less-Wooden, Not-Piano Keys</a>
-<div class="article-meta">hackaday · 2026-06-15 11:00 UTC</div>
-<p class="article-blurb">There are many ways to deal with keys: a bowl next to the entryway, a junk drawer, or you can just leave them in your pockets and hope you remember …read more</p>
+<a href="https://www.hackster.io/news/espressif-prepares-for-esp32-e22-general-availability-with-wi-fi-6e-certification-open-linux-driver-5e175fe7d011" target="_blank" rel="noopener noreferrer">Espressif Prepares for ESP32-E22 General Availability with Wi-Fi 6E Certification, Open Linux Driver</a>
+<div class="article-meta">hackster-news · 2026-06-15 10:30 UTC</div>
+<p class="article-blurb">Early-stage driver, lacking some key features, is available now under a permissive license — but you still can&#x27;t buy the chip.</p>
 </li>
 <li>
-<a href="https://hackaday.com/2026/06/15/the-y2k-bug-in-bsd-2-11-that-survived-2000/" target="_blank" rel="noopener noreferrer">The Y2K Bug in BSD 2.11 that Survived 2000</a>
-<div class="article-meta">hackaday · 2026-06-15 08:00 UTC</div>
-<p class="article-blurb">A year before the arrival of the brand-new 21st millennium, the Year 2000 Bug was predicted to grind modern society to a halt and ensure that at the dawn of …read more</p>
-</li>
-<li>
-<a href="https://www.hackster.io/news/give-your-camera-work-robotic-cleanliness-by-building-lewis-aburrow-s-3d-printed-slider-56d0d0b91016" target="_blank" rel="noopener noreferrer">Give Your Camera Work Robotic Cleanliness By Building Lewis Aburrow&#x27;s 3D-Printed Slider</a>
-<div class="article-meta">hackster-news · 2026-06-15 10:12 UTC</div>
-<p class="article-blurb">A pair of Espressif microcontrollers sit at the heart of this camera slider build, which includes support for battery-powered operation.</p>
-</li>
-<li>
-<a href="https://hackaday.com/2026/06/14/ikea-storage-box-just-happens-to-make-great-printer-cover/" target="_blank" rel="noopener noreferrer">IKEA Storage Box Just Happens To Make Great Printer Cover</a>
-<div class="article-meta">hackaday · 2026-06-15 05:00 UTC</div>
-<p class="article-blurb">The Snapmaker U1 3D printer is an impressive machine for the price, but [Beaver Works] found the optional factory-offered top cover a wee bit expensive for his tastes. The solution? …read more</p>
-</li>
-<li>
-<a href="https://hackaday.com/2026/06/14/building-your-own-x-ray-detector-screen/" target="_blank" rel="noopener noreferrer">Building Your Own X-Ray Detector Screen</a>
-<div class="article-meta">hackaday · 2026-06-15 02:00 UTC</div>
-<p class="article-blurb">Fluoroscopy is probably the best-known method of X-ray imaging: an X-ray beam passes through the subject to be imaged, and the transmitted X-rays illuminate a phosphor screen. Dense objects, such …read more</p>
-</li>
-<li>
-<a href="https://www.hackster.io/news/the-maker-s-toolbox-focalab-vario-laser-machine-review-5b41c7a1d532" target="_blank" rel="noopener noreferrer">The Maker’s Toolbox: Focalab Vario Laser Machine Review</a>
-<div class="article-meta">hackster-news · 2026-06-15 01:32 UTC</div>
-<p class="article-blurb">Focalab is new to the laser market and they&#x27;re hoping to start strong with the Vario. Let&#x27;s find out if it is worth getting excited about.</p>
+<a href="https://hackaday.com/2026/06/15/this-alarm-clock-has-the-capacity-to-wake-you/" target="_blank" rel="noopener noreferrer">This Alarm Clock Has The Capacity To Wake You</a>
+<div class="article-meta">hackaday · 2026-06-16 02:00 UTC</div>
+<p class="article-blurb">Every now and then a project comes into the Hackaday feed that has so many levels of wrong about it that you really shouldn’t do it at home, but is …read more</p>
 </li>
 </ul>
 <h2>Electronics Deep-Dives</h2>

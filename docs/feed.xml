@@ -5,8 +5,120 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 14:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:19:52 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>A Brief History of Unix Commands On Windows: CoreUtils (Again)</title>
+      <link>https://hackaday.com/2026/06/16/a-brief-history-of-unix-commands-on-windows-coreutils-again/</link>
+      <description>If you use Windows today and type ls, cat, grep, or awk in a terminal, there is a good chance something useful will happen. That was not always true. For …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-6ac7fa07d375eb30</guid>
+      <pubDate>Tue, 16 Jun 2026 14:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICYMI Python on Microcontrollers Newsletter: Is JIT Python in Trouble? MicroPython in a WASM Sandbox and More!</title>
+      <link>https://blog.adafruit.com/2026/06/16/icymi-python-on-microcontrollers-newsletter-is-jit-python-in-trouble-micropython-in-a-wasm-sandbox-and-more/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,361 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-09482c01bdf72fa5</guid>
+      <pubDate>Tue, 16 Jun 2026 13:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Workboy, a prototype keyboard for Game Boy from 1992</title>
+      <link>https://blog.adafruit.com/2026/06/16/workboy-a-prototype-keyboard-for-game-boy-from-1992/</link>
+      <description>Workboy converts your Game Boy into a micro workstation, complete with a keyboard, allowing you to keep track of your important appointments, addresses, notes, bank account balance, and telephone numbers as well as convert temperatures, currencies, and words between five languages. Sounds pretty useful, right? The Workboy software itself was developed by Source, in association with Fabtek […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-22cf89c51eba8ef4</guid>
+      <pubDate>Tue, 16 Jun 2026 12:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>What students and teachers in England want from a computing curriculum</title>
+      <link>https://www.raspberrypi.org/blog/what-students-and-teachers-in-england-want-from-a-computing-curriculum/</link>
+      <description>The UK Government is undertaking the first major review of England’s curriculum and qualifications system since the current national curriculum was introduced in 2014. We believe that this is an excellent opportunity not simply to update the computing curriculum content, but to reconsider what computing education is for, who it serves, and how it prepares… The post What students and teachers in England want from a computing curriculum appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-3c077bf4749556c4</guid>
+      <pubDate>Tue, 16 Jun 2026 11:17:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honda Civics and Installing Software With Android Test Keys</title>
+      <link>https://hackaday.com/2026/06/16/honda-civics-and-installing-software-with-android-test-keys/</link>
+      <description>As more and more of the ‘smart’ infotainment systems in cars begin to age out of support, it becomes increasingly more relevant to figure out how to do something with …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f419534908fa20f2</guid>
+      <pubDate>Tue, 16 Jun 2026 11:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bike-Powered Shredder Makes Short Work of 3D Printer Waste</title>
+      <link>https://hackaday.com/2026/06/16/bike-powered-shredder-makes-short-work-of-3d-printer-waste/</link>
+      <description>[Brogan M Pratt] and his students do a lot of 3D printing, and as such found themselves producing a lot of plastic waste. Seeing an opportunity, they built a bike-powered …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ec73ce84c97a5d2d</guid>
+      <pubDate>Tue, 16 Jun 2026 08:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning About Ground Loop Isolators thanks to a Scam Product</title>
+      <link>https://hackaday.com/2026/06/15/learning-about-ground-loop-isolators-thanks-to-a-scam-product/</link>
+      <description>When [Denki Otaku] bought a ¥1,200 (roughly €6.5) XLR ground loop isolator off Japanese Amazon, he initially didn’t suspect that anything was off. Since they’re fairly simple devices, with basically …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a36cba3b93527ff0</guid>
+      <pubDate>Tue, 16 Jun 2026 05:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Alarm Clock Has The Capacity To Wake You</title>
+      <link>https://hackaday.com/2026/06/15/this-alarm-clock-has-the-capacity-to-wake-you/</link>
+      <description>Every now and then a project comes into the Hackaday feed that has so many levels of wrong about it that you really shouldn’t do it at home, but is …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f88c07b33397918c</guid>
+      <pubDate>Tue, 16 Jun 2026 02:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Layer-Free, Ultra-Fast 3D Printing Is Now Available to You</title>
+      <link>https://www.hackster.io/news/layer-free-ultra-fast-3d-printing-is-now-available-to-you-6f0cdb4b62b6</link>
+      <description>It is possible to print without layers at all. It is fast and it is now available to you, thanks to OpenCAL.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-ee25fb3f6e4b6a0a</guid>
+      <pubDate>Mon, 15 Jun 2026 21:57:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>You can 3D print this amazingly complex turbofan jet engine model</title>
+      <link>https://blog.arduino.cc/2026/06/15/you-can-3d-print-this-amazingly-complex-turbofan-jet-engine-model/</link>
+      <description>All airplane engines have the same basic goal, which is to create forward thrust. But the modern airline industry is an exercise in maximizing efficiency and the most efficient option for large aircraft tends to be a turbofan jet engine. Most of us never get to see those up close, but you can 3D print […] The post You can 3D print this amazingly complex turbofan jet engine model appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-9cc4d4bece9cdd1a</guid>
+      <pubDate>Mon, 15 Jun 2026 21:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloning a Sennheiser BA2015 battery pack</title>
+      <link>https://blog.adafruit.com/2026/06/15/cloning-a-sennheiser-ba2015-battery-pack/</link>
+      <description>Martijn Braam generally avoids messing with Li-ion battery packs, but Sennheiser BA2015 battery packs are both Ni-mh and expensive. A significant portions of all wireless microphones by Sennheiser use the same BA2015 battery pack. These devices can also take two regular AA batteries but when using those it won’t charge them in the dock. So […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-47166d93fb58dc72</guid>
+      <pubDate>Mon, 15 Jun 2026 21:15:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dragon Kite Poi with Animated Lights and WLED #Adafruit Products #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/06/15/dragon-kite-poi-with-animated-lights-and-wled-adafruit-products-adafruitlearningsystem-adafruit/</link>
+      <description>Check out the latest guide from Erin St Blaine: add animated seed pixel lights to a Chinese Dragon kite and watch the lights animate as it twirls through the air. This is a fairly easy build with a wonderfully dramatic result that will make you stand out at any Lunar New Year parade. Learn to […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e3c6a170de678bb1</guid>
+      <pubDate>Mon, 15 Jun 2026 21:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>A clone of the cheap T12 soldering stations, attempting to eliminate cheap pitfalls</title>
+      <link>https://blog.adafruit.com/2026/06/15/a-clone-of-the-cheap-t12-soldering-stations-attempting-to-eliminate-cheap-pitfalls/</link>
+      <description>Open-T12-Soldering-Station is a clone of the cheap T12 soldering stations, attempting to eliminate the shortfalls of cheap. Useless without the fine firmware from https://github.com/deividAlfa/stm32_soldering_iron_controller. It has provisions for a backup battery. Jumper selectable between internal and external NTC as some of the new handles don’t contain a NTC, so this gives you the option if […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e5e021b749e1c7a6</guid>
+      <pubDate>Mon, 15 Jun 2026 20:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The adder at the heart of Intel’s 8087 floating-point chip</title>
+      <link>https://blog.adafruit.com/2026/06/15/the-adder-at-the-heart-of-intels-8087-floating-point-chip/</link>
+      <description>A few days ago we posted about the microcode inside the Intel 8087 floating-point chip: register exchange by Ken Shirriff. Today Ken looks into the adder at the heart of Intel’s 8087 floating-point chip. In 1980, Intel released the Intel 8087 floating-point coprocessor, a chip that could make math up to 100 times faster. As […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9678517e6064ec1e</guid>
+      <pubDate>Mon, 15 Jun 2026 20:20:29 +0000</pubDate>
+    </item>
     <item>
       <title>21 zero-day issues were found in FFmpeg</title>
       <link>https://blog.adafruit.com/2026/06/15/21-zero-day-issues-were-found-in-ffmpeg/</link>
@@ -46,6 +158,14 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-1c6552ee3dfabec0</guid>
       <pubDate>Mon, 15 Jun 2026 11:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif Prepares for ESP32-E22 General Availability with Wi-Fi 6E Certification, Open Linux Driver</title>
+      <link>https://www.hackster.io/news/espressif-prepares-for-esp32-e22-general-availability-with-wi-fi-6e-certification-open-linux-driver-5e175fe7d011</link>
+      <description>Early-stage driver, lacking some key features, is available now under a permissive license — but you still can't buy the chip.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-c6c0061ae5053917</guid>
+      <pubDate>Mon, 15 Jun 2026 10:30:06 +0000</pubDate>
     </item>
     <item>
       <title>Espressif Prepares for ESP32-E22 General Avaiability with Wi-Fi 6E Certification, Open Linux Driver</title>
@@ -686,126 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-52ac0877f09a550b</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connecting Your Car to Home Assistant</title>
-      <link>https://hackaday.com/2026/06/04/connecting-your-car-to-home-assistant/</link>
-      <description>With how much time many of us spend in our cars, it makes perfect sense to consider them a second home. Yet even if that’s not the case, there are …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-865ea3700600e079</guid>
-      <pubDate>Fri, 05 Jun 2026 05:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1752 – Texas Instruments SCREWED UP the NE5532</title>
-      <link>https://www.eevblog.com/2026/06/05/eevblog-1752-texas-instruments-screwed-up-the-ne5532/</link>
-      <description>WTF were Texas Instruments thinking changing the design and major specs of the 45+ year old jellybean NE5532 audio opamp WITHOUT changing the part number?! New datasheet: https://www.ti.com/lit/ds/symlink/ne5532.pdf Old datasheet: https://www.mouser.com/datasheet/2/405/ne5532a-556776.pdf Change Notification: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5726/PCN20231114002.1.pdf Onsemi datasheet: https://www.onsemi.com/pdf/datasheet/ne5534-d.pdf Forum thread: https://www.eevblog.com/forum/chat/ti-ne5532-audio-opamp-changes/ OPI134: https://www.ti.com/lit/ds/symlink/opa4134.pdf 00:00 – TI have changed the classic jellybean NE5534 03:27 – Product Change …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-65d2a157bdde5c71</guid>
-      <pubDate>Fri, 05 Jun 2026 03:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Claims 20 second Qubits</title>
-      <link>https://hackaday.com/2026/06/04/microsoft-claims-20-second-qubits/</link>
-      <description>While it might seem that your computer malfunctions every few minutes, the reality is that modern computers are usually quite robust. Not so much for quantum computers, where qubit life …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f2dc367849231d43</guid>
-      <pubDate>Fri, 05 Jun 2026 02:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>This AI Operating System Hallucinates Pseudo-Software — Even Notepad — On Demand</title>
-      <link>https://www.hackster.io/news/this-ai-operating-system-hallucinates-pseudo-software-even-notepad-on-demand-f83e24b42ef9</link>
-      <description>VibeOS is really, really weird. It hallucinates everything, including the most basic software that "runs" without code.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-8ffb23d030a1ba2e</guid>
-      <pubDate>Fri, 05 Jun 2026 00:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>If You Want to Hack Me, Come in Through the Speaker</title>
-      <link>https://hackaday.com/2026/06/04/if-you-want-to-hack-me-come-in-through-the-speaker/</link>
-      <description>Some security hacks require someone to have physical access to your computer. In many cases, that’s easy to mitigate. Other attack vectors can put you at risk from anywhere via …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-36e5b9373f05d061</guid>
-      <pubDate>Thu, 04 Jun 2026 23:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Test Your Skills Against an AI Air Hockey Robot</title>
-      <link>https://www.hackster.io/news/test-your-skills-against-an-ai-air-hockey-robot-16e4c16db942</link>
-      <description>UBC capstone project creates an AI agent and robot to play air hockey with an impressive simulator.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-48b569bfbd063b12</guid>
-      <pubDate>Thu, 04 Jun 2026 22:38:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ways to Embed Magnets in 3D Prints and Not Ruin Printers</title>
-      <link>https://hackaday.com/2026/06/04/ways-to-embed-magnets-in-3d-prints-and-not-ruin-printers/</link>
-      <description>Adding magnets to a 3D print can be very useful in a design, but there are some things that can trip you up if you’re not aware of them. In …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-e9928c4513ff22f4</guid>
-      <pubDate>Thu, 04 Jun 2026 20:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s Workshop — LIVE TODAY 6/4/26</title>
-      <link>https://blog.adafruit.com/2026/06/04/john-parks-workshop-live-today-6-4-26/</link>
-      <description>It’s JOHN PARK’S WORKSHOP — LIVE! — Coming up at 4pm ET / 1pm PT Today! LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: Attachécade CircuitPython Parsec Tool Tips Learn Guide recap Retro Gear and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join maker John […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-fc00e69b05c71653</guid>
-      <pubDate>Thu, 04 Jun 2026 19:56:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The M64 Is a Pixel-Perfect Nintendo 64 Remake</title>
-      <link>https://www.hackster.io/news/the-m64-is-a-pixel-perfect-nintendo-64-remake-8ac81fa32306</link>
-      <description>ModRetro’s M64 FPGA console offers a pixel-perfect, zero-compromise recreation of the original Nintendo 64 experience.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-b46ac2b1c1d70602</guid>
-      <pubDate>Thu, 04 Jun 2026 17:26:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pre-Orders Open for Carl Bugeja’s Pocket-Sized ProtoBot Robotics Kit</title>
-      <link>https://www.hackster.io/news/pre-orders-open-for-carl-bugeja-s-pocket-sized-protobot-robotics-kit-7da0249e1bbf</link>
-      <description>ProtoBot is a pocket-sized, open source RC car and robotics kit that’s pure fun for experienced hackers and beginners alike.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-81e6d41f16b58e24</guid>
-      <pubDate>Thu, 04 Jun 2026 14:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BugBuster Gives AI the Tools to Debug Physical Hardware</title>
-      <link>https://www.hackster.io/news/bugbuster-gives-ai-the-tools-to-debug-physical-hardware-f4fd22236ce4</link>
-      <description>BugBuster is an open source hardware platform that lets AI models safely measure and control real hardware for autonomous debugging.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-6326a2a230bd875f</guid>
-      <pubDate>Thu, 04 Jun 2026 13:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hypnotic Clock Maker Does It Again</title>
-      <link>https://makezine.com/article/electronics/hypnotic-clock-maker-does-it-again/</link>
-      <description>This mesmerizing rainbow diffraction grating clock puts a little more color in your daily timekeeping. The post Hypnotic Clock Maker Does It Again appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-1f06bf48fd9f6c7f</guid>
-      <pubDate>Wed, 03 Jun 2026 19:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft introduces Coreutils for Windows, bringing familiar Unix-style command-line tools to Windows without requiring WSL</title>
-      <link>https://blog.adafruit.com/2026/06/03/microsoft-introduces-coreutils-for-windows-bringing-familiar-unix-style-command-line-tools-to-windows-without-requiring-wsl/</link>
-      <description>Bobby Borisov writes for Linuxiac that Microsoft has introduced Coreutils for Windows, a new Microsoft-maintained set of Unix-style command-line utilities that run natively on Windows. Announced at Microsoft’s Build 2026, Coreutils for Windows brings familiar Linux-style commands to Windows without requiring WSL or additional compatibility layers. The package is based on the uutils open-source project, a cross-platform […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-31d9c250bf0b918b</guid>
-      <pubDate>Wed, 03 Jun 2026 16:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robot hands are getting better  @chris_j_paxton</title>
-      <link>https://blog.adafruit.com/2026/06/03/robot-hands-are-getting-better-chris_j_paxton/</link>
-      <description>Chris Paxton takes a look at why robot hands are hard and what research is currently being done. Robots need to be able to interact with the world in order to be useful. They do this in many ways: by driving around and taking pictures during inspection tasks, by walking up and down stairs. Military […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-087f668ba0591000</guid>
-      <pubDate>Wed, 03 Jun 2026 15:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Support your young people with our AI literacy resources</title>
-      <link>https://www.raspberrypi.org/blog/ai-education-resources-ai-awareness-day/</link>
-      <description>At the Raspberry Pi Foundation, we believe that alongside learning to code, a crucial part of computing education is building AI literacy skills. Amidst the rapid pace of development and the growing impact of AI tools, it is increasingly important for educators everywhere to feel equipped to address the topic of AI with their learners,… The post Support your young people with our AI literacy resources appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-4c1f0196d8951871</guid>
-      <pubDate>Wed, 03 Jun 2026 14:47:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
