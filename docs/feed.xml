@@ -5,8 +5,120 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 14:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 14:19:47 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Ask Hackaday: What Ever Happened to the Hero Nerd?</title>
+      <link>https://hackaday.com/2026/06/17/ask-hackaday-what-ever-happened-to-the-hero-nerd/</link>
+      <description>Knowing absolutely nothing about you other than the fact that you’re currently reading Hackaday, I can predict with a high degree of certainty that we’re both fond of at least …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ac5814d0909a29a2</guid>
+      <pubDate>Wed, 17 Jun 2026 14:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Tiny Robot Has a Big Personality</title>
+      <link>https://www.hackster.io/news/this-tiny-robot-has-a-big-personality-f0e9e8bcaedf</link>
+      <description>MiniSoul is a pocket-sized, ESP32-powered desktop robot with an AI-driven personality engine that evolves based on how you treat it.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-0cb6477e02324a55</guid>
+      <pubDate>Wed, 17 Jun 2026 13:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Orange Pi 6 Is Way More Powerful Than Your Current SBC</title>
+      <link>https://www.hackster.io/news/the-new-orange-pi-6-is-way-more-powerful-than-your-current-sbc-42744f98815c</link>
+      <description>With a 12-core CPU, 45 TOPS of AI power, and 24GB of RAM, the new credit-card-sized Orange Pi 6 is a massive upgrade over the Raspberry Pi.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-2d96fe47382a6a1e</guid>
+      <pubDate>Wed, 17 Jun 2026 12:30:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Orbital StormWall Could Mitigate The Next Carrington Event</title>
+      <link>https://hackaday.com/2026/06/17/an-orbital-stormwall-could-mitigate-the-next-carrington-event/</link>
+      <description>The Carrington Event was the most intense geomagnetic storm ever recorded. In September 1859, auroras were visible as close to the equator as Columbia and some telegraph stations were severely …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-1b3fe5411813843d</guid>
+      <pubDate>Wed, 17 Jun 2026 11:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building an Organic Flow Battery Based on Green Tea</title>
+      <link>https://hackaday.com/2026/06/17/building-an-organic-flow-battery-based-on-green-tea/</link>
+      <description>As simple of a concept flow batteries are, the used chemicals can still be somewhat problematic in the context of a school experiment. To this end [Markus Bindhammer] decided to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-761464a899f0efe0</guid>
+      <pubDate>Wed, 17 Jun 2026 08:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security Camera Gets Several Defensive Upgrades</title>
+      <link>https://hackaday.com/2026/06/16/security-camera-gets-several-defensive-upgrades/</link>
+      <description>Ever since the early web, people have been streaming video with inexpensive webcams, and since the advent of the Raspberry Pi and its dedicated camera slot we’ve really seen how …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4e632817a67a48ee</guid>
+      <pubDate>Wed, 17 Jun 2026 05:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build a Desktop Flight Tracker with an ESP32 and Zero Soldering</title>
+      <link>https://www.hackster.io/news/build-a-desktop-flight-tracker-with-an-esp32-and-zero-soldering-b91c46ada9da</link>
+      <description>Track live overhead flights right from your desk with Micro Radar, a DIY flight tracker powered by an ESP32-C3.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-00fa6fb898575862</guid>
+      <pubDate>Tue, 16 Jun 2026 23:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Miniature Raspberry Pi Data Center Fits in the Palm of Your Hand</title>
+      <link>https://www.hackster.io/news/this-miniature-raspberry-pi-data-center-fits-in-the-palm-of-your-hand-4e140d9fee62</link>
+      <description>Michael Klements built a custom four-node Raspberry Pi cluster that fits a miniature data center into the palm of your hand.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-b3aa8006496871f0</guid>
+      <pubDate>Tue, 16 Jun 2026 21:54:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Linux build tree for the Adafruit Fruit Jam</title>
+      <link>https://blog.adafruit.com/2026/06/16/a-linux-build-tree-for-the-adafruit-fruit-jam/</link>
+      <description>RP2350 no-MMU Linux Buildroot ports This GitHub repo builds tiny Buildroot-based Linux images for RP2350 RISC-V (Hazard3) boards. The original target is the Raspberry Pi Pico 2 / SparkFun Pro Micro RP2350 work; this branch adds an Adafruit Fruit Jam RP2350B bring-up target. The Fruit Jam target is named adafruit_fruit_jam_rp2350. It uses: RV32 RISC-V Hazard3, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d6c64b5ffc3ba979</guid>
+      <pubDate>Tue, 16 Jun 2026 18:34:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW LEARN GUIDE: Video Feedback with Raspberry Pi #Raspberry Pi #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/06/16/new-learn-guide-video-feedback-with-raspberry-pi-raspberry-pi-adafruitlearningsystem-adafruit/</link>
+      <description>Video feedback is the recursive effect produced by pointing a camera at a live preview of its own output. In the earliest video recording equipment it was detrimental, potentially leading to issues with pickups or screens. By the 60s it started to get used in psychedelic art. In the time since, it has been used […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3f72f3e7832ba7c4</guid>
+      <pubDate>Tue, 16 Jun 2026 18:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ted Fried’s MicroCore Labs projects</title>
+      <link>https://blog.adafruit.com/2026/06/16/ted-frieds-microcore-labs-projects/</link>
+      <description>Ted Fried has made and documented a great number of microprocessor projects and often uses microcontrollers to emulate classic microprocessors. Here are some of the boards Ted has created: MCL6809 – Motorola 6809E emulator which runs on a Teensy 4.1 and can be used as a drop-in replacement MCLZ8 – Zilog Z80 emulator which runs […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6880d708a72f8c64</guid>
+      <pubDate>Tue, 16 Jun 2026 18:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parsing SystemVerilog with Verible</title>
+      <link>https://blog.adafruit.com/2026/06/16/parsing-systemverilog-with-verible/</link>
+      <description>The Verible project’s main mission is to parse SystemVerilog (IEEE 1800-2017) (as standardized in the SV-LRM) for a wide variety of applications, including developer tools. It was born out of a need to parse un-preprocessed source files, which is suitable for single-file applications like style-linting and formatting. In doing so, it can be adapted to parse preprocessed source files, which […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b1d680a77c08d579</guid>
+      <pubDate>Tue, 16 Jun 2026 17:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Micro Radar: a tiny open-source flight radar for your desk</title>
+      <link>https://blog.adafruit.com/2026/06/16/micro-radar-a-tiny-open-source-flight-radar-for-your-desk/</link>
+      <description>Micro Radar is a tiny open-source flight radar for your desk developed by Anthony Sturdy. At the core of this project is the ESP32-C3 module with an integrated 240×240 IPS screen. No soldering required. The module does all the heavy lifting. Check out this MIT licensed open source project on GitHub.</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6898a5a9e83f955f</guid>
+      <pubDate>Tue, 16 Jun 2026 16:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking the world’s worst e-Bike and fixing it</title>
+      <link>https://blog.adafruit.com/2026/06/16/hacking-the-worlds-worst-e-bike-and-fixing-it/</link>
+      <description>YouTube channel Berm Peak borrowed the world’s worst eBike, the Reevo, on the condition that they would fix it and return it in better condition than when it was picked it up. It turned into a massive project of jailbreaking the computer, printing parts, and more. The whole project is under an MIT open license. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-96d07287a77f1cc0</guid>
+      <pubDate>Tue, 16 Jun 2026 16:20:45 +0000</pubDate>
+    </item>
     <item>
       <title>A Brief History of Unix Commands On Windows: CoreUtils (Again)</title>
       <link>https://hackaday.com/2026/06/16/a-brief-history-of-unix-commands-on-windows-coreutils-again/</link>
@@ -694,118 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-1093b0c2da392524</guid>
       <pubDate>Sat, 06 Jun 2026 14:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Printing a Miniature CoreXY Printer</title>
-      <link>https://hackaday.com/2026/06/06/3d-printing-a-miniature-corexy-printer/</link>
-      <description>Although no longer so common as during the heyday of the RepRap movement, it’s easier than ever to build your own largely-printed 3D printer, with designs such as Voron’s delivering …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-c278993fba2672c2</guid>
-      <pubDate>Sat, 06 Jun 2026 11:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Unlikely Host For An 8080 Emulator</title>
-      <link>https://hackaday.com/2026/06/06/an-unlikely-host-for-an-8080-emulator/</link>
-      <description>To emulate vintage microprocessor hardware, it’s normal to find a modern host that provides alongside the number-crunching grunt, sufficient physical connections to interface with its support hardware. Thus if you …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-08e9a6f22e47cb0c</guid>
-      <pubDate>Sat, 06 Jun 2026 08:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Simple Mirror Makes 3D Scanning More Efficient</title>
-      <link>https://www.hackster.io/news/a-simple-mirror-makes-3d-scanning-more-efficient-ea92e3b69b27</link>
-      <description>This technique could speed up your 3D scanning workflow.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-a5b3f66470eab352</guid>
-      <pubDate>Fri, 05 Jun 2026 21:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/05/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-5/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4c6d6c1e385c1d3f</guid>
-      <pubDate>Fri, 05 Jun 2026 19:41:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem</title>
-      <link>https://blog.adafruit.com/2026/06/05/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226/</link>
-      <description>﻿ Are you subscribed to the Adafruit Youtube channel? If you’re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit Ask […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-70162b931b193383</guid>
-      <pubDate>Fri, 05 Jun 2026 18:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s CircuitPython Parsec: LCD Character Display Animation</title>
-      <link>https://blog.adafruit.com/2026/06/05/john-parks-circuitpython-parsec-lcd-character-display-animation/</link>
-      <description>#circuitpythonparsec Animate eight custom characters for the LCD character display code example To learn about CircuitPython: https://circuitpython.org</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-00f872403c289c04</guid>
-      <pubDate>Fri, 05 Jun 2026 16:40:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>UncleStem's AR Sandbox Turns Kinetic Sand Into a Live Topographic Map</title>
-      <link>https://www.hackster.io/news/unclestem-s-ar-sandbox-turns-kinetic-sand-into-a-live-topographic-map-d692a8a2c03d</link>
-      <description>UncleStem used a ToF sensor and a pico projector to turn kinetic sand into a live AR map that responds instantly as you form the landscape.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-c9f4aa6588d14442</guid>
-      <pubDate>Fri, 05 Jun 2026 16:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New $59 Pocket-Sized Tool Cures All Your I²C Headaches</title>
-      <link>https://www.hackster.io/news/a-new-59-pocket-sized-tool-cures-all-your-i-c-headaches-fd812aacebd5</link>
-      <description>The $59 I²C Doctor scans, debugs, and stress-tests I²C connections in seconds to solve hardware mysteries fast.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-eaf46aacbe509def</guid>
-      <pubDate>Fri, 05 Jun 2026 15:08:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Week in Security: Messing with AI, 7Zip and Notepad++ Vulnerabilities, HTTP2 Bomb, and More</title>
-      <link>https://hackaday.com/2026/06/05/this-week-in-security-messing-with-ai-7zip-and-notepad-vulnerabilities-http2-bomb-and-more/</link>
-      <description>With the rise of AI coding assistants continuing apparently unabated, some project maintainers have begun striking back. Ars Technica reports on projects putting hostile directions into the AGENTS.md file, or …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a641a2972ef18b59</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Custom Smart Home Controller Looks Like a Century-Old Antique</title>
-      <link>https://www.hackster.io/news/this-custom-smart-home-controller-looks-like-a-century-old-antique-665ddaa1d0b4</link>
-      <description>Tired of ugly smart home tech? This antique-inspired control hub combines leather, bronze, and E Ink for a unique appearance.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-17d85014f6279349</guid>
-      <pubDate>Fri, 05 Jun 2026 13:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peppe’s ghost LiDAR scanner</title>
-      <link>https://www.raspberrypi.com/news/peppes-ghost-lidar-scanner/</link>
-      <description>This LiDAR sensor's maker thinks that its 3D-printed shell evokes a "jumbo-sized juice container or Ghostbusters gizmo" The post Peppe’s ghost LiDAR scanner appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-71b379afc95bf211</guid>
-      <pubDate>Fri, 05 Jun 2026 12:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond Edge AI: bringing local intelligence to Arduino UNO Q</title>
-      <link>https://blog.arduino.cc/2026/06/05/beyond-edge-ai-bringing-local-intelligence-to-arduino-uno-q/</link>
-      <description>Edge AI is evolving quickly. It was the end of 2022 when the world saw the first Cloud AI tool available to everyone, accessible through a simple and intuitive chat. In less than four years, models have been refined, distilled, optimized, quantized – at record-breaking speed – to meet the needs of the first generation of […] The post Beyond Edge AI: bringing local intelligence to Arduino UNO Q appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-c89acb2485fc4b05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using Electrolysis for More Than Just Generating Hydrogen</title>
-      <link>https://hackaday.com/2026/06/05/using-electrolysis-for-more-than-just-generating-hydrogen/</link>
-      <description>When the topic of ‘electrolysis’ is mentioned, people typically think of just splitting plain old dihydrogen monoxide (hydric acid: H2O) into its constituent atoms, but this barely scratches the surface …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2ba1e00f2c8fb282</guid>
-      <pubDate>Fri, 05 Jun 2026 11:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vintage Turntable Gets Brain Transplant and Home Assistant Integration</title>
-      <link>https://hackaday.com/2026/06/05/vintage-turntable-gets-brain-transplant-and-home-assistant-integration/</link>
-      <description>When [Marsupial] picked up a vintage Sansusi P-L45 turntable, he figured it would be an easy fix: a few capacitors, a belt or two, and maybe a new cartridge, the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-52ac0877f09a550b</guid>
-      <pubDate>Fri, 05 Jun 2026 08:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
