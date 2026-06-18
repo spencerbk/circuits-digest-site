@@ -5,8 +5,136 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 14:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:00:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>What Happens if Russia Shuts the Door on their Leaky ISS Module?</title>
+      <link>https://hackaday.com/2026/06/18/what-happens-if-russia-shuts-the-door-on-their-leaky-iss-module/</link>
+      <description>There was a particularly tense moment aboard the International Space Station earlier this month, with NASA directing their astronauts to secure themselves in the Dragon capsule and prepare for a …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-341579a7e5a87b3f</guid>
+      <pubDate>Thu, 18 Jun 2026 14:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running local LLMs on the Arduino® UNO™ Q board: a practical guide</title>
+      <link>https://blog.arduino.cc/2026/06/18/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/</link>
+      <description>When talking about large language models (LLMs), people usually imagine a general-purpose assistant: something that can answer questions about weather, politics, software, history, travel, cooking, electronics – and almost any other topic. The model is expected to know a little bit about everything, follow open-ended conversations, and respond to a very broad range of prompts. […] The post Running local LLMs on the Arduino® UNO™ Q board: a practical guide appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-d24e380e5aaeab5c</guid>
+      <pubDate>Thu, 18 Jun 2026 12:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use Bambu printers without internet connections to Bambu Labs with Bambuddy  #3dThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/use-bambu-printers-without-internet-connections-to-bambu-labs-with-bambuddy-3dthursday/</link>
+      <description>Bambuddy allows you to use Bambu printers without internet connections to Bambu Labs. It’s a self-hosted command center for Bambu Lab gear — from one A1 to a 40-printer farm. Bambuddy’s new Proxy Mode acts as a secure End-to-end TLS encryption relay between your slicer and printer. Perfect for remote print farms, traveling makers, or […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-37708bfc4c3685d9</guid>
+      <pubDate>Thu, 18 Jun 2026 12:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commodore Unveils Linux Powered Flip Phone</title>
+      <link>https://hackaday.com/2026/06/18/commodore-unveils-linux-powered-flip-phone/</link>
+      <description>Whatever happens with the new incarnation of the Commodore corporation, we’ll always remember the old one fondly. Well, we’ll remember certain of its products fondly, at any rate, if not …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-0a7d29abe090b5f4</guid>
+      <pubDate>Thu, 18 Jun 2026 11:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi + Adafruit 64×64 LED Matrix Case #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/raspberry-pi-adafruit-64x64-led-matrix-case-3dprinting-3dthursday/</link>
+      <description>neythen.t shares: A two-part case housing a Raspberry Pi 4 alongside Adafruit’s 64×64 LED matrix, with all Pi port cutouts, a power passthrough for the matrix, and a vented lid with mounts for a fan and mini controller. Designed for retro gaming and cellular automata builds. FreeCAD source included download the files on: https://makerworld.com/en/models/24661-raspberry-pi-led-matrix-case-v0-1 Every […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f2ff4d6401412fbb</guid>
+      <pubDate>Thu, 18 Jun 2026 09:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit 4mm Pitch LED Matrix Portal S3 Enclosure #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/adafruit-4mm-pitch-led-matrix-portal-s3-enclosure-3dprinting-3dthursday/</link>
+      <description>SunsetRider shares: A hangable enclosure built specifically for the Adafruit 62×32 4mm-pitch LED Panel with the Matrix Portal S3 board. Uses M2.5×4 screws to mount the S3 and M3×8 screws to attach to the panel. Designed to fill the full P1/X1 print bed download the files on: https://makerworld.com/en/models/1034576-adafruit-4mm-pitch-led-matrix-portal-s3-enclosure Every Thursday is #3dthursday here at Adafruit! […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-904714d12aded724</guid>
+      <pubDate>Thu, 18 Jun 2026 08:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nintendo DS Port of Super Mario 64 Released With Multiplayer Support</title>
+      <link>https://hackaday.com/2026/06/18/nintendo-ds-port-of-super-mario-64-released-with-multiplayer-support/</link>
+      <description>For some time now [Tobi Friedly] has been tinkering away at porting the original Super Mario 64 from the Nintendo 64 to just about any device imaginable. One of these …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-8df223d1a221c8a7</guid>
+      <pubDate>Thu, 18 Jun 2026 08:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32 Antenna Case – ESPHome &amp; Bluetooth Proxy Ready #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/esp32-antenna-case-esphome-bluetooth-proxy-ready-3dprinting-3dthursday/</link>
+      <description>runemg shares: A sturdy case for ESP32 DevKit boards with an external antenna — designed specifically for ESPHome installs and Bluetooth proxies. Snug fit, accommodates the antenna routing, and works for HDMI-CEC variants too. By RunesBlog download the files on: https://makerworld.com/en/models/2171685-esp32-antenna-case Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d8af7abe0eaee2c1</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32 Case for USB-C + DHT22/AM2302 Sensor #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/esp32-case-for-usb-c-dht22-am2302-sensor-3dprinting-3dthursday/</link>
+      <description>Ecki_0208 shares: A custom ESP32 dev board enclosure with a DHT22 temperature/humidity sensor cutout, USB-C access, underside cutouts for the reset/boot buttons, and a rectangular airflow opening above the sensor for accurate readings. Built for DIY IoT and smart-home monitoring download the files on: https://makerworld.com/en/models/1824678-esp32-case-for-usb-type-c-and-dht22-am2302-sensor Every Thursday is #3dthursday here at Adafruit! The DIY 3D […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-0451bbfd650d5f60</guid>
+      <pubDate>Thu, 18 Jun 2026 06:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leaky Player Piano Gets MIDI Upgrade in YouTube Restomod</title>
+      <link>https://hackaday.com/2026/06/17/leaky-player-piano-gets-midi-upgrade-in-youtube-restomod/</link>
+      <description>The word “restomod” is a bit nebulous, but it’s normally used in the automotive world to describe taking an old car and making it better-than-new with all the technological improvements …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4b8a15825f221e11</guid>
+      <pubDate>Thu, 18 Jun 2026 05:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW LEARN GUIDE: Cluetooth Scanner #Bluefruit / BLE #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/06/17/cluetooth-scanner-bluefruit-ble-adafruitlearningsystem-adafruit/</link>
+      <description>Want to know what kind of BLE devices are in your vicinity? The Cluetooth Scanner listens for advertising packets from nearby devices and displays info about them. Info can include: Name – the device’s advertised local name if present RSSI (signal strength) – received signal strength in dBm Address – the device’s MAC address, either […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-57fb346248d019a6</guid>
+      <pubDate>Wed, 17 Jun 2026 22:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>You and I See Different Things When We Look At This Holographic Display</title>
+      <link>https://www.hackster.io/news/you-and-i-see-different-things-when-we-look-at-this-holographic-display-723481b514a9</link>
+      <description>We know that extramission theory is incorrect, because this strange two-way holographic display couldn’t work if it was.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d504a9ed441a947f</guid>
+      <pubDate>Wed, 17 Jun 2026 22:05:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Track planes on your ceiling</title>
+      <link>https://www.raspberrypi.com/news/track-planes-on-your-ceiling/</link>
+      <description>Track planes flying overhead in real time and project them onto your ceiling. The post Track planes on your ceiling appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-f285c643eb59d0a4</guid>
+      <pubDate>Wed, 17 Jun 2026 16:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn SketchUp by Modeling DIY Lego Bricks</title>
+      <link>https://makezine.com/projects/learn-sketchup-by-modeling-diy-lego-bricks/</link>
+      <description>Learn SketchUp by designing your own Lego-compatible bricks for 3D printing. The post Learn SketchUp by Modeling DIY Lego Bricks appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-36ae45431de62d6b</guid>
+      <pubDate>Wed, 17 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Flipper Zero Alternative That Looks Exactly Like a Normal Smartphone</title>
+      <link>https://www.hackster.io/news/the-flipper-zero-alternative-that-looks-exactly-like-a-normal-smartphone-405859f46c34</link>
+      <description>The 4G Hacker Phone is a Flipper Zero alternative hidden inside a smartphone body for discreet hacking on the go.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6d50bd8040aa0221</guid>
+      <pubDate>Wed, 17 Jun 2026 15:28:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Raspberry Pi CM5 Carrier Board with Zero Footprint Penalty</title>
+      <link>https://www.hackster.io/news/a-raspberry-pi-cm5-carrier-board-with-zero-footprint-penalty-dbf35ca6f141</link>
+      <description>ARK’s Just A Pi carrier board matches the Raspberry Pi Compute Module 5 footprint perfectly to pack more power into ultra-tight spaces.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-3292a413f06d1779</guid>
+      <pubDate>Wed, 17 Jun 2026 14:21:54 +0000</pubDate>
+    </item>
     <item>
       <title>Ask Hackaday: What Ever Happened to the Hero Nerd?</title>
       <link>https://hackaday.com/2026/06/17/ask-hackaday-what-ever-happened-to-the-hero-nerd/</link>
@@ -678,134 +806,6 @@
       <category>raspberry-pi</category>
       <guid isPermaLink="false">circuits-2ae65fb96caf9dd0</guid>
       <pubDate>Mon, 08 Jun 2026 10:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dr. Scott M. Baker Gives a Classic Grid Compass a Voice — With the World's First GPIB Speech Synth</title>
-      <link>https://www.hackster.io/news/dr-scott-m-baker-gives-a-classic-grid-compass-a-voice-with-the-world-s-first-gpib-speech-synth-fd8750c5283e</link>
-      <description>The rugged laptop made famous by NASA — and Aliens — can now speak its bubble-memory mind, for the first time.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-453f8ab2d92fee0e</guid>
-      <pubDate>Mon, 08 Jun 2026 10:18:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>MNT Research Hits Back at AI Bubble Price Hikes, Parts Shortages with a Raspberry Pi CM5 Adapter</title>
-      <link>https://www.hackster.io/news/mnt-research-hits-back-at-ai-bubble-price-hikes-parts-shortages-with-a-raspberry-pi-cm5-adapter-66f66afaf09c</link>
-      <description>Upcoming "relatively low-cost" interstitial board will let you hook a Raspberry Pi Compute Module 5 into any MNT Reform laptop.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f44e00a604881b1c</guid>
-      <pubDate>Mon, 08 Jun 2026 09:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fixing the Failure of the Reevo</title>
-      <link>https://hackaday.com/2026/06/08/fixing-the-failure-of-the-reevo/</link>
-      <description>There are a lot of traditional features of a bike that rarely change. The spokes, the chain, and the inability for it to take off like a rocket, to mention …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-19488c0dc8af490b</guid>
-      <pubDate>Mon, 08 Jun 2026 08:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repairing a Apple PowerBook 150 With Serious Issues</title>
-      <link>https://hackaday.com/2026/06/07/repairing-a-apple-powerbook-150-with-serious-issues/</link>
-      <description>Sometimes you purchase an old device that is very cheap for a good reason. So too with the 1995 Apple PowerBook 150 that [Hugh Jeffreys] purchased for a single Aussie …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-cb6b52f23cccaa3c</guid>
-      <pubDate>Mon, 08 Jun 2026 05:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Desalinating Seawater With Solar and No Brine</title>
-      <link>https://hackaday.com/2026/06/07/desalinating-seawater-with-solar-and-no-brine/</link>
-      <description>Although desalination is very commonly used these days to convert seawater into fresh water, one of the major disadvantages of current approaches is that commercial desalination plants produce a lot …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-d0852e98534fd9e1</guid>
-      <pubDate>Mon, 08 Jun 2026 02:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Balance Bot Uses a Mirror to See the Big Picture</title>
-      <link>https://www.hackster.io/news/this-balance-bot-uses-a-mirror-to-see-the-big-picture-c26c68e3fdbe</link>
-      <description>MirrorBallBot uses computer vision and a clever mirror trick to balance — and even chase your finger with — a rolling ball.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-c8ab25ea60e32c36</guid>
-      <pubDate>Sun, 07 Jun 2026 19:29:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Life For a Rare Console</title>
-      <link>https://hackaday.com/2026/06/07/a-new-life-for-a-rare-console/</link>
-      <description>One of the delights of our tips line is that from time to time it brings us retrocomputing hardware that, despite years of reporting, we were not aware existed. [Hitmanmcc] …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-cb28cb83361b5adb</guid>
-      <pubDate>Sun, 07 Jun 2026 11:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Less Than 10 Years? Commonwealth Fusion Systems Applies to Plug into Grid in 2030s</title>
-      <link>https://hackaday.com/2026/06/07/less-than-10-years-commonwealth-fusion-systems-applies-to-plug-into-grid-in-2030s/</link>
-      <description>Whenever the topic of fusion power comes up, someone will say it’s only 10 years away from commercialization in an excited tone, and someone older or more cynical will point …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f138dbb8182dad21</guid>
-      <pubDate>Sun, 07 Jun 2026 08:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>A RayCast FPS in COBOL</title>
-      <link>https://hackaday.com/2026/06/06/a-raycast-fps-in-cobol/</link>
-      <description>COBOL is not the first language anyone would ever think of when writing a First Person Shooter– after all , it’s the Common Business Oriented Language, not the Common Game …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2afe7e03e68fc57d</guid>
-      <pubDate>Sun, 07 Jun 2026 05:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a Gifford-McMahon Cryocooler With 3D-Printed Parts</title>
-      <link>https://hackaday.com/2026/06/06/building-a-gifford-mcmahon-cryocooler-with-3d-printed-parts/</link>
-      <description>Although cryocoolers are capable of pretty impressive cooling, for many of them the underlying working principle is simple enough that you do not need any special skills or a big …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-3f2e3a1671179ea0</guid>
-      <pubDate>Sun, 07 Jun 2026 02:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pi Pico Demos, Therefore It Is</title>
-      <link>https://hackaday.com/2026/06/06/pi-pico-demos-therefore-it-is/</link>
-      <description>A good demo, like [Linus Akesson]’s Sum Ergo Demonstrato, looks like magic to the average hacker. To normies who don’t know the limitations of the RP2350, they don’t see the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-8e080c6dcb1ac2a4</guid>
-      <pubDate>Sat, 06 Jun 2026 23:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>An old 3D printer becomes a new EMI imager</title>
-      <link>https://blog.arduino.cc/2026/06/06/an-old-3d-printer-becomes-a-new-emi-imager/</link>
-      <description>EMI (electromagnetic interference) can be a real nuisance in sensitive circuits. That might be from one device affecting another, but it can also happen when a circuit on a PCB interferes with another circuit on the same PCB (or another PCB in the same device). Engineering to prevent that entirely is really difficult and it […] The post An old 3D printer becomes a new EMI imager appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-d9ce4e108055c852</guid>
-      <pubDate>Sat, 06 Jun 2026 22:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pi Pico Puts Bluetooth Keyboards on the I2C Bus</title>
-      <link>https://hackaday.com/2026/06/06/pi-pico-puts-bluetooth-keyboards-on-the-i2c-bus/</link>
-      <description>If you’ve ever worked with I2C, you know its one of those things that makes working with modern microcontrollers such a pleasure. With a few wires and not many more …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-fed16efd1c326172</guid>
-      <pubDate>Sat, 06 Jun 2026 20:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Q8botOne Quadruped Robot Is Launching Soon</title>
-      <link>https://www.hackster.io/news/the-q8botone-quadruped-robot-is-launching-soon-0862ede16b04</link>
-      <description>Q8botOne is an affordable, fully assembled open source quadruped robot ready to trot, jump, and hack right out of the box.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d74f77bf5638c366</guid>
-      <pubDate>Sat, 06 Jun 2026 19:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stratasys vs Bambu Lab: Industrial vs Consumer ABS Showdown</title>
-      <link>https://hackaday.com/2026/06/06/stratasys-vs-bambu-lab-industrial-vs-consumer-abs-showdown/</link>
-      <description>Professional Stratasys FDM printers demand a pretty hefty price premium over your typical hobbyist-level machine, with the gold-plating continuing even with the special filament cartridges that you buy for some …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-49e1cbebc61f667f</guid>
-      <pubDate>Sat, 06 Jun 2026 17:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homebrew Webcam Support for the Original Xbox</title>
-      <link>https://hackaday.com/2026/06/06/homebrew-webcam-support-for-the-original-xbox/</link>
-      <description>These days, we take it for granted that a video game console will have multiple USB ports. There’s even an expectation that basic peripherals such as storage devices will “Just …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-1093b0c2da392524</guid>
-      <pubDate>Sat, 06 Jun 2026 14:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
