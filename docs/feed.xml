@@ -5,8 +5,128 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 14:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:00:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>This Week in Security: Arch AUR, Steam Marketplace, WordPress All Face Issues, Taco-Themed Coding, and Mythos Makes National News</title>
+      <link>https://hackaday.com/2026/06/19/this-week-in-security-arch-aur-steam-marketplace-wordpress-all-face-issues-taco-themed-coding-and-mythos-makes-national-news/</link>
+      <description>Starting on June 11, 2026, the Arch User Repository (AUR) was targeted by malware which rapidly compromised over 1,500 packages. The AUR repository allows for abandoned community packages to be …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d740bd3131552e26</guid>
+      <pubDate>Fri, 19 Jun 2026 14:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Come With Me if You Want to Weed: Autonomous Weedinator Robot back for 2026</title>
+      <link>https://hackaday.com/2026/06/19/come-with-me-if-you-want-to-weed-autonomous-weedinator-robot-back-for-2026/</link>
+      <description>The WEEDINATOR agricultural robot is one of the longer-running projects we’ve featured here on Hackaday. We first featured it way back in 2017 for that year’s Hackaday prize, and after a …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d102988f8dc6dee2</guid>
+      <pubDate>Fri, 19 Jun 2026 11:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Koi-pond-shaped guitar powered by Raspberry Pi spotted at New York Fashion Week</title>
+      <link>https://www.raspberrypi.com/news/koi-pond-shaped-guitar-powered-by-raspberry-pi-spotted-at-new-york-fashion-week/</link>
+      <description>This Raspberry Pi Pico–powered MIDI instrument features a watery resin body and capacitive-touch lily pads. The post Koi-pond-shaped guitar powered by Raspberry Pi spotted at New York Fashion Week appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-e55ed04d2d8f7bb4</guid>
+      <pubDate>Fri, 19 Jun 2026 10:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running Modern Linux on a 68008</title>
+      <link>https://hackaday.com/2026/06/19/running-modern-linux-on-a-68008/</link>
+      <description>Linux developers have been trimming the fluff in recent years, removing support for older processors that hardly anyone uses with a modern kernel anymore. With that said, it’s possible to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-448b8cf17d528929</guid>
+      <pubDate>Fri, 19 Jun 2026 08:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running Windows NT On The Nintendo Gamecube</title>
+      <link>https://hackaday.com/2026/06/18/running-windows-nt-on-the-nintendo-gamecube/</link>
+      <description>The Nintendo GameCube is known for playing the best version of Smash Bros. and its vaguely rectangular aesthetic. It’s not particularly known for running a workstation OS from the mid-1990s. However, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ed77de6f90687903</guid>
+      <pubDate>Fri, 19 Jun 2026 05:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Print in Place Planetary Gear Spinner #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/06/18/print-in-place-planetary-gear-spinner-3dthursday-3dprinting/</link>
+      <description>Shared by Hamstah on MakerWorld: A print-in-place planetary gear spinner that rotates freely straight off the plate. Two profiles included — standard and heavy outer ring (43g) for added inertia Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-83f45c18c422eb28</guid>
+      <pubDate>Thu, 18 Jun 2026 23:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design Lamp “The Wave” – Layered Ambient Glow #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/design-lamp-the-wave-layered-ambient-glow-3dprinting-3dthursday/</link>
+      <description>janberrydesign shares: A modern 3D-printed ambient lamp where flowing inner layers create a soft, warm glow effect. Designed for the Bambu LED Kit 001 and updated April 2026 with a frame redesign that integrates the LED kit and improves component tolerances. By JANBERRY DESIGN download the files on: https://makerworld.com/en/models/2571932-design-lamp-the-wave Every Thursday is #3dthursday here at […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ad0f457d46278f03</guid>
+      <pubDate>Thu, 18 Jun 2026 22:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32-C3 Super Mini Case – Snap-Fit #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/esp32-c3-super-mini-case-snap-fit-3dprinting-3dthursday/</link>
+      <description>4Designs shares: A compact snap-fit case for the ESP32-C3 Super Mini board. Slide the board into the bottom, apply light pressure near the USB port until it snaps, then slide on the top. Designed for boards with pins soldered on the top face download the files on: https://makerworld.com/en/models/435147-esp32-c3-super-mini-case Every Thursday is #3dthursday here at Adafruit! […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-28b6727684e2fb25</guid>
+      <pubDate>Thu, 18 Jun 2026 20:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/06/18/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-18/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5529be2ac3e89a11</guid>
+      <pubDate>Thu, 18 Jun 2026 19:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s Workshop — LIVE TODAY 6/18/26</title>
+      <link>https://blog.adafruit.com/2026/06/18/john-parks-workshop-live-today-6-18-26/</link>
+      <description>It’s JOHN PARK’S WORKSHOP — LIVE! — Coming up at 4pm ET / 1pm PT Today! LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects CircuitPython Parsec Tool Tips Learn Guide recap Retro Gear and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join maker John Park […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-33aa214166ec969f</guid>
+      <pubDate>Thu, 18 Jun 2026 19:49:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wearable Steampunk Gas Mask Helmet – Whole or Pieces #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/wearable-steampunk-gas-mask-helmet-whole-or-pieces-3dprinting-3dthursday/</link>
+      <description>TIMBERLAKEBiz shares: A post-apocalyptic gas mask and helmet with integrated respiratory ports, riveted dome shell, flexible-look corrugated hoses, and external filter assemblies. Built for LED strip integration in the eye slits or hoses. By Timberlake Creations download the files on: https://makerworld.com/en/models/1916763-steampunk-gas-mask-helmet-whole-or-pieces Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1b29f23b0d01f3ce</guid>
+      <pubDate>Thu, 18 Jun 2026 18:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raising Kids Who Love To Make Things</title>
+      <link>https://makezine.com/article/young-makers/raising-kids-who-love-to-make-things/</link>
+      <description>It’s lunchtime as I write this and my daughter Lizzy is making lasagna, not helping with lasagna but making it. Her brother Peter sulks nearby because it was supposed to be his turn at the stove this weekend, and these two now argue over who gets to cook the way other kids argue over the […] The post Raising Kids Who Love To Make Things appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-d914a11a5221ec66</guid>
+      <pubDate>Thu, 18 Jun 2026 17:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Organic Flow Battery Built From Matcha Tea</title>
+      <link>https://www.hackster.io/news/an-organic-flow-battery-built-from-matcha-tea-ac06fa1d7204</link>
+      <description>Can matcha tea power the future? Check out how one engineer built an eco-friendly organic flow battery using green tea.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-249d3cb790fce25c</guid>
+      <pubDate>Thu, 18 Jun 2026 16:59:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>UTFS: Lightweight Storage for Microcontrollers</title>
+      <link>https://www.hackster.io/news/utfs-lightweight-storage-for-microcontrollers-6062e9bdfe2e</link>
+      <description>UTFS is a lightweight, TAR-inspired file system that replaces fragile, custom storage solutions on resource-constrained microcontrollers.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-24fa0fdfabf0186e</guid>
+      <pubDate>Thu, 18 Jun 2026 15:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Robot Spiders Are Coming</title>
+      <link>https://www.hackster.io/news/the-robot-spiders-are-coming-ac2d5d01a738</link>
+      <description>Dragline Dynamics is betting on robot spiders with Charlotte, a $150 customizable, multi-legged platform built for makers.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6e7cb2f844f2904b</guid>
+      <pubDate>Thu, 18 Jun 2026 14:23:35 +0000</pubDate>
+    </item>
     <item>
       <title>What Happens if Russia Shuts the Door on their Leaky ISS Module?</title>
       <link>https://hackaday.com/2026/06/18/what-happens-if-russia-shuts-the-door-on-their-leaky-iss-module/</link>
@@ -686,126 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-73ad7494e8724125</guid>
       <pubDate>Fri, 12 Jun 2026 00:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artful Variable Resistor Built Out of Scavenged Junk</title>
-      <link>https://www.hackster.io/news/artful-variable-resistor-built-out-of-scavenged-junk-8c7fda2b08fd</link>
-      <description>Janitor Crvknight used collected garbage to make this very pretty linear potentiometer.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-0b6dbff143b88a22</guid>
-      <pubDate>Thu, 11 Jun 2026 23:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 C3 Super mini case #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/06/11/esp32-c3-super-mini-case-3dthursday-3dprinting/</link>
-      <description>Shared by 4Designs on MakerWorld: A well-tolerance ESP32-CAM enclosure with two front-piece versions for different lens sizes (M2 bolts for the larger lenses), aerial mount for WiFi range, and cutouts for SD card, LED, and USB. Designed by CosmicNimbus for cat cams running through Frigate and Home Assistant Download the files and learn more Every […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8be341fd59af93cf</guid>
-      <pubDate>Thu, 11 Jun 2026 21:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrankGPT Is Guaranteed to Make You Cranky</title>
-      <link>https://www.hackster.io/news/crankgpt-is-guaranteed-to-make-you-cranky-fe63af18547c</link>
-      <description>CrankGPT runs an offline AI voice assistant on a Raspberry Pi 5 powered entirely by a hand crank, because why not?</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-5876dca9e6d05752</guid>
-      <pubDate>Thu, 11 Jun 2026 16:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-11-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8f0293c27f349104</guid>
-      <pubDate>Thu, 11 Jun 2026 16:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Hangouts –  Prop It, Compass and Enderman #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/06/11/3d-hangouts-prop-it-compass-and-enderman-3dthursday/</link>
-      <description>﻿ 3D Hangouts – Prop It, Compass and Enderman https://www.youtube.com/live/9kt3Ht84qzg This week @adafruit Noe and Pedro are back from their break. Catch up on our GPS compass device and Prop It handheld game. This week’s timelapse features the iconic Enderman from Minecraft. Feather RP2040 Propmaker: https://www.adafruit.com/product/5768 Alpanumeric LED Display: https://www.adafruit.com/product/2158 Adafruit Feather RP2350 with 8MB […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f37f78c2dcd2e6e5</guid>
-      <pubDate>Thu, 11 Jun 2026 15:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Amstrad CPC 464 / 664 / 6128 emulator for the Raspberry Pi Pico 2</title>
-      <link>https://blog.adafruit.com/2026/06/11/an-amstrad-cpc-464-664-6128-emulator-for-the-raspberry-pi-pico-2/</link>
-      <description>Amstrad CPC 464 / 664 / 6128 emulator for the Raspberry Pi Pico 2 (RP2350). HDMI, VGA, and composite-TV output. SD card file browser. PS/2 keyboard, NES/SNES gamepads, optional USB HID (keyboard, gamepad, XInput). Disk (.DSK, .IPF), tape (.CDT), and cartridge (.CPR) loading. Audio over HDMI, I2S, or PWM. Based on Caprice32 by Ulrich Doewich, with the cpc4x adapter layer […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-0c22c5a4ec1df581</guid>
-      <pubDate>Thu, 11 Jun 2026 14:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Open Repair Data Standard</title>
-      <link>https://blog.adafruit.com/2026/06/11/the-open-repair-data-standard/</link>
-      <description>The Open Repair Data Standard (ORDS) defines a shared approach towards collecting and sharing repair data about small electricals and electronics. The goal of this standard is to make it easy to combine open data on electronics repair that has been collected by many different groups. Following a common standard helps us to identify trends and patterns […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8d28cff15a0e3722</guid>
-      <pubDate>Thu, 11 Jun 2026 14:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ditch overpriced hardware: 4 ways the Arduino® UNO™ Q board helps you do more for less</title>
-      <link>https://blog.arduino.cc/2026/06/11/ditch-overpriced-hardware-4-ways-the-arduino-uno-q-board-helps-you-do-more-for-less/</link>
-      <description>Most developers reach for a single-board computer, only to discover they still need a microcontroller for real-time I/O. Then they need eMMC and extra storage. Then a separate AI accelerator. Then comes the custom wiring nightmare just to make everything talk to each other. As your app grows, you find yourself stacking extra boards, external […] The post Ditch overpriced hardware: 4 ways the Arduino® UNO™ Q board helps you do more for less appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-35201ae830b6aaf2</guid>
-      <pubDate>Thu, 11 Jun 2026 14:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Young people’s computer programs get data from space</title>
-      <link>https://www.raspberrypi.org/blog/young-peoples-computer-programs-get-data-from-space/</link>
-      <description>An amazing 25,707 participants had their code run on the International Space Station (ISS) this year, marking the European Astro Pi Challenge’s 10th anniversary in style. Yesterday, Astro Pi teams and their mentors received their official certificates and data — the final stage of this year’s challenge. On each certificate, participants can see the exact… The post Young people’s computer programs get data from space appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-08754e93b38e9f60</guid>
-      <pubDate>Thu, 11 Jun 2026 13:23:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build something real: Join the Arduino Physical AI Challenge India 2026!</title>
-      <link>https://blog.arduino.cc/2026/06/10/build-something-real-join-the-arduino-physical-ai-challenge-india-2026/</link>
-      <description>Hey India! If you’ve ever had an idea that could solve a real-world problem, not just live inside an app, but actually exist out there, this is your moment. Across India, something exciting is happening. Makers, students, startups, and engineers are starting to move beyond software-only AI and into something far more tangible: building systems […] The post Build something real: Join the Arduino Physical AI Challenge India 2026! appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-85fad3cc0bc14f23</guid>
-      <pubDate>Wed, 10 Jun 2026 16:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Small device, big business: can a Raspberry Pi replace your desktop PC?</title>
-      <link>https://www.raspberrypi.com/news/small-device-big-business-can-a-raspberry-pi-replace-your-desktop-pc/</link>
-      <description>The latest episode of the Raspberry Pi Podcast reveals how our small devices support big business at home and at work The post Small device, big business: can a Raspberry Pi replace your desktop PC? appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-5acdea0fc6ed6734</guid>
-      <pubDate>Wed, 10 Jun 2026 12:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Star Stream is bringing F1-level telemetry to every race team – and every fleet – with Arduino UNO Q</title>
-      <link>https://blog.arduino.cc/2026/06/08/star-stream-is-bringing-f1-level-telemetry-to-every-race-team-and-every-fleet-with-arduino-uno-q/</link>
-      <description>Founder George Hammel describes his Star Stream engineering team as “a pretty wild group.” A few of them aren’t certified engineers in the traditional sense, but all of them grew up solving problems in motorsports – an environment that rewards fast thinking, creative solutions, and zero tolerance for downtime. That background shows in what they’ve […] The post Star Stream is bringing F1-level telemetry to every race team – and every fleet – with Arduino UNO Q appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-405c046a254e2b90</guid>
-      <pubDate>Mon, 08 Jun 2026 12:27:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Goddard the Robot Dog Brought to Life</title>
-      <link>https://hackaday.com/2026/06/08/goddard-the-robot-dog-brought-to-life/</link>
-      <description>There’s not much more nostalgic for many than good ole’ Jimmy Neutron. This was true for [Kiara], who saw the gorgeous pupper Goddard and wanted him for herself. Of course, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2084ece11fa258f2</guid>
-      <pubDate>Mon, 08 Jun 2026 11:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ted Fried's MCL8080+ Crams a Working Intel 8080 Emulator Into Microchip's Teeny-Weeny ATtiny85</title>
-      <link>https://www.hackster.io/news/ted-fried-s-mcl8080-crams-a-working-intel-8080-emulator-into-microchip-s-teeny-weeny-attiny85-9c5411a78494</link>
-      <description>What took Intel a 40-pin DIP chip can now be achieved in an eight-pin microcontroller — complete with CP/M compatibility.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-29e07bb48572ac03</guid>
-      <pubDate>Mon, 08 Jun 2026 10:42:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Arcade</title>
-      <link>https://www.raspberrypi.com/news/ai-arcade/</link>
-      <description>You won’t run out of retro-inspired games to play with this console The post AI Arcade appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-2ae65fb96caf9dd0</guid>
-      <pubDate>Mon, 08 Jun 2026 10:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
