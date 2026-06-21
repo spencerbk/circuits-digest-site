@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 14:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:00:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Hacking the Mi Band 10 Smart Band and its Bestechnic SoC</title>
+      <link>https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/</link>
+      <description>In between playing Doom on the most ergonomically challenged devices, [Aaron Christophel] likes to take a relaxing break with reverse-engineering Xiaomi Mi Band fitness trackers and writing custom firmware for them. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-39383b62a01375fb</guid>
+      <pubDate>Sun, 21 Jun 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blender 5.2: Coming Soon With Improved Simulations</title>
+      <link>https://hackaday.com/2026/06/21/blender-5-2-coming-soon-with-improved-simulations/</link>
+      <description>Blender is one of the poster children for Open Source Software– proof that something hacked together by enthusiasts could grow to rival the big boys in 3D modeling, animation and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-52f96a47371a803b</guid>
+      <pubDate>Sun, 21 Jun 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Bias a CRT After Installation</title>
+      <link>https://hackaday.com/2026/06/21/how-to-bias-a-crt-after-installation/</link>
+      <description>For most of us the abbreviation “CRT” brings to mind a monitor or TV. But at its core it’s about the special vacuum tube that makes the images appear. Regardless …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-952a0b32d7b07902</guid>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bernoulli Disk Goes “Wii!” When Plugged Into WiiU</title>
+      <link>https://hackaday.com/2026/06/20/bernoulli-disk-goes-wii-when-plugged-into-wiiu/</link>
+      <description>The Bernoulli disk was a wild piece of 1980s hardware. Take a big floppy. Spin the platter at 1500 RPM just a micron or so from a read head. The …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-5d97461a32ac3f35</guid>
+      <pubDate>Sun, 21 Jun 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autopsy of a Freshly Cooked 10Gbit SFP+ Network Adapter</title>
+      <link>https://hackaday.com/2026/06/20/autopsy-of-a-freshly-cooked-10gbit-sfp-network-adapter/</link>
+      <description>With the advent of affordable 2.5 Gbit, 5 Gbit, and 10 Gbit consumer networking gear, more and more people are taking advantage of these higher networking speeds, with [This Does …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-5550fa2401087133</guid>
+      <pubDate>Sun, 21 Jun 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit New Products this Week</title>
+      <link>https://blog.adafruit.com/2026/06/20/adafruit-new-products-this-week-2/</link>
+      <description>We’ve got the New nEw NEW for you right here This week we debuted 2 New Products. Keep up with all the new at Adafruit.com/NEW. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6b38849fda1d6876</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AntSDR T510 AI Puts an AMD RFSoC and an NVIDIA Jetson on One Board</title>
+      <link>https://www.hackster.io/news/the-antsdr-t510-ai-puts-an-amd-rfsoc-and-an-nvidia-jetson-on-one-board-73eaf93b594a</link>
+      <description>The MicroPhase AntSDR T510 AI combines an AMD RFSoC and an NVIDIA Jetson on one board that crushes latency in next-gen wireless development.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-f7f452592c97dc48</guid>
+      <pubDate>Sat, 20 Jun 2026 15:22:13 +0000</pubDate>
+    </item>
     <item>
       <title>The Repair Nightmare that are Smart Rings</title>
       <link>https://hackaday.com/2026/06/20/the-repair-nightmare-that-are-smart-rings/</link>
@@ -158,6 +214,14 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-ed77de6f90687903</guid>
       <pubDate>Fri, 19 Jun 2026 05:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gliding Manta Ray #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/18/gliding-manta-ray-3dprinting-3dthursday/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Gliding Manta Ray By Armengol13 makerworld.com/en/models/2909692-gliding-manta-ray-just-drop-go Bambu X1C PolyMaker PLA 6hr 38mins X:154 Y:155 Z:21mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 68g 230mm/s Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2a1da75fed26d7ac</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:16 +0000</pubDate>
     </item>
     <item>
       <title>Print in Place Planetary Gear Spinner #3DThursday #3DPrinting</title>
@@ -742,70 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-b4ec3b4816c48717</guid>
       <pubDate>Sun, 14 Jun 2026 05:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robot Chess but Each Piece is a Small Robot</title>
-      <link>https://hackaday.com/2026/06/13/robot-chess-but-each-piece-is-a-small-robot/</link>
-      <description>We have seen a number of self-playing chess boards over the years, but the general theme has been standard chess pieces moved by either an internal electromagnet or an external …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-5e21006646f22018</guid>
-      <pubDate>Sun, 14 Jun 2026 02:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bambuddy Says Bye to Bambu Lab Cloud Services</title>
-      <link>https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/</link>
-      <description>If you have a Bambu Labs printer and aren’t keen to send your files to Bambu’s servers with each print job, then check out Bambuddy, an open-source, self-hosted, cloud-free central …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2ad3b235b0419ccd</guid>
-      <pubDate>Sat, 13 Jun 2026 23:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Converting a Scanning Electron Microscope Into a TEM is Surprisingly Easy</title>
-      <link>https://hackaday.com/2026/06/13/converting-a-scanning-electron-microscope-into-a-tem-is-surprisingly-easy/</link>
-      <description>Although both a SEM and a TEM are electron microscopes, their working principles and images are very different. Whereas an SEM uses secondary electrons ejected after bombarding a sample’s surface …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7ee120cc962d6ddf</guid>
-      <pubDate>Sat, 13 Jun 2026 20:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patterns Everywhere</title>
-      <link>https://hackaday.com/2026/06/13/patterns-everywhere/</link>
-      <description>I studied physics in college, and I’m always surprised how fundamental some of the concepts are. Take waves for example. You really wouldn’t expect the same underlying concept to be …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-03198620eadcfa38</guid>
-      <pubDate>Sat, 13 Jun 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/13/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-13/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9d8f03d92c456e69</guid>
-      <pubDate>Sat, 13 Jun 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behold a 60 Hz Refresh Rate E-ink Monitor</title>
-      <link>https://hackaday.com/2026/06/13/behold-a-60-hz-refresh-rate-e-ink-monitor/</link>
-      <description>E-ink displays have a number of advantages over other display types, but their refresh rate isn’t one of them. But what exactly makes them slow? According to [Wenting Zhang], it’s …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-21cbb0a07269859d</guid>
-      <pubDate>Sat, 13 Jun 2026 11:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>GentleOS, A Simple OS For Your Old PC</title>
-      <link>https://hackaday.com/2026/06/13/gentleos-a-simple-os-for-your-old-pc/</link>
-      <description>Every month or so we bring you a Jenny’s Daily Drivers article, in which we share with you an esoteric OS and try to use it for the everyday work of …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-958521382e5964cf</guid>
-      <pubDate>Sat, 13 Jun 2026 08:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deeply optimized MSX emulation on ESP32-S3 with VGA output</title>
-      <link>https://hackaday.com/2026/06/12/deeply-optimized-msx-emulation-on-esp32-s3-with-vga-output/</link>
-      <description>The ESP32-S3 is by many metrics quite the powerful little computer, which has led to it being used even for things like emulating retro consoles and similar. Here [Ivan Svarkovsky]’s …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-84fb991728dc0df9</guid>
-      <pubDate>Sat, 13 Jun 2026 05:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
