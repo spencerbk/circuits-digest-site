@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 14:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:44:54 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/06/25/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-25/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-bea1cca8a3ab2dcd</guid>
+      <pubDate>Thu, 25 Jun 2026 19:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSS On The ESP32</title>
+      <link>https://hackaday.com/2026/06/25/css-on-the-esp32/</link>
+      <description>There are lots of graphics libraries available for the ESP32, and lots of ways to program one to boot. Even still, most of us wouldn’t immediately think to CSS when …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-764097158a788717</guid>
+      <pubDate>Thu, 25 Jun 2026 17:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Capsule – SciFi Vault Print-in-Place #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/25/quantum-capsule-scifi-vault-print-in-place-3dprinting-3dthursday/</link>
+      <description>Entropy shared this print on MakerWorld! This print-in-place vault has a sci-fi aesthetic that looks great in metallic silk filaments. The vault and lid come off the build plate ready to use. Complete the look and provide it a firm base for your new vault by printing the support beams and door accents separately. If […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-28233fd0b7fd9487</guid>
+      <pubDate>Thu, 25 Jun 2026 17:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonocotta’s Louder ESP32 Mini Upgrades Your Old Speakers</title>
+      <link>https://www.hackster.io/news/sonocotta-s-louder-esp32-mini-upgrades-your-old-speakers-6e4e85e0668a</link>
+      <description>Upgrade your old speakers with Sonocotta’s $15 Louder ESP32 Mini for high-quality DIY smart streaming via Home Assistant and AirPlay.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-0eab2563e82d4de0</guid>
+      <pubDate>Thu, 25 Jun 2026 15:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Increasing Local GPS Accuracy for a Small Robot</title>
+      <link>https://hackaday.com/2026/06/25/increasing-local-gps-accuracy-for-a-small-robot/</link>
+      <description>Even though GPS makes it possible for us to easily navigate around the planet in almost any vehicle we’d like, whether that’s a passenger vehicle, airplane, or cargo ship, it’s …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-be75aea4411d7339</guid>
+      <pubDate>Thu, 25 Jun 2026 15:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>UPDATED PRODUCT – Pulse Sensor Amped</title>
+      <link>https://blog.adafruit.com/2026/06/25/updated-product-pulse-sensor-amped/</link>
+      <description>UPDATED PRODUCT – Pulse Sensor Amped __________________________________________________________________________________________________ Pulse Sensor Amped is a greatly improved version of the original Pulse Sensor, a plug-and-play heart-rate sensor for Arduino and Arduino compatibles. It can be used by students, artists, athletes, makers, and game &amp; mobile developers who want to easily incorporate live heart-rate data into their projects. Pulse […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4e9b584567b7c45b</guid>
+      <pubDate>Thu, 25 Jun 2026 15:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D Hangouts –  GPS Compass, Lens Adapter and Balloon Boat</title>
+      <link>https://blog.adafruit.com/2026/06/25/3d-hangouts-gps-compass-lens-adapter-and-balloon-boat/</link>
+      <description>3D Hangouts – GPS Compass, Lens Adapter and Balloon Boat https://youtube.com/live/fRZz4VAFSuM?feature=share This week @adafruit we’re releasing the guide and video for the GPS compass. Starting a new project, a chiptune player using Feather RP2350 and TFT FeatherWing. This week’s timelapse features a toy boat powered by a balloon. Learn Guide https://learn.adafruit.com/minecraft-gps-compass Video https://youtu.be/8WSCJ9oADt4 Adafruit Feather […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c0095fbb2533c4d5</guid>
+      <pubDate>Thu, 25 Jun 2026 15:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW PRODUCT – Adafruit ADS7128 8-Channel ADC and GPIO Expander – STEMMA QT / Qwiic</title>
+      <link>https://blog.adafruit.com/2026/06/25/new-product-adafruit-ads7128-8-channel-adc-and-gpio-expander-stemma-qt-qwiic/</link>
+      <description>NEW PRODUCT – Adafruit ADS7128 8-Channel ADC and GPIO Expander – STEMMA QT / Qwiic __________________________________________________________________________________________________ The Adafruit ADS7128 8-Channel ADC and GPIO Expander is a bit of a Platypus of the I2C expander world: hard to categorize as just an ADC or a GPIO expander since it combines the capabilities of both with great capabilites! Usually, […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-07931a2825c817db</guid>
+      <pubDate>Thu, 25 Jun 2026 14:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW PRODUCTS – Pimoroni Badgeware: Blinky Badge / Blinky Badge &amp; STEM KIT</title>
+      <link>https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-blinky-badge-blinky-badge-stem-kit/</link>
+      <description>NEW PRODUCTS – Pimoroni Badgeware: Blinky Badge / Blinky Badge &amp; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni’s smart interactive badge with bright white LED matrix display, powered by Raspberry Pi RP2350. This version is the Blinky 2350 – it’s an all-in-one badge wearable featuring a matrix of 872 individually adjustable white LEDs, built-in rechargeable battery and sturdy polycarbonate case. Hang it round your neck with […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e22b738172bc68ac</guid>
+      <pubDate>Thu, 25 Jun 2026 14:25:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flying Cell Towers Are A Thing</title>
+      <link>https://hackaday.com/2026/06/25/flying-cell-towers-are-a-thing/</link>
+      <description>Typically, when you’re sitting on a plane on the tarmac, you switch your phone to flight mode while you’re sitting through yet another “quirky” (boring) safety video. You’ll watch some …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-e4972b44b79fcb22</guid>
+      <pubDate>Thu, 25 Jun 2026 14:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>NeoEyes NE503 Brings 20 TOPS of On-Device AI to Industrial Cameras</title>
+      <link>https://www.hackster.io/news/neoeyes-ne503-brings-20-tops-of-on-device-ai-to-industrial-cameras-a0d8c402b66c</link>
+      <description>CamThink’s new NeoEyes NE503 edge AI camera packs 20 TOPS of processing power to smash latency and run vision models on-device.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-438731fcf6ecdf2e</guid>
+      <pubDate>Thu, 25 Jun 2026 13:51:05 +0000</pubDate>
+    </item>
     <item>
       <title>Build Your Own Retro VFD Desk Clock</title>
       <link>https://www.hackster.io/news/build-your-own-retro-vfd-desk-clock-4257ef1254fb</link>
@@ -32,22 +120,6 @@
       <pubDate>Thu, 25 Jun 2026 10:37:07 +0000</pubDate>
     </item>
     <item>
-      <title>BIG Spiral Lamp (WLED) #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/06/25/big-spiral-lamp-wled-3dprinting-3dthursday/</link>
-      <description>Basti85 shares: A large spiral lamp with diffuser segments built for WLED on an ESP32-C3 (or ESP8266 D1 mini fallback). Print the body in Bambu PLA Basic and the diffusers in transparent PLA. Updated v2 includes the full WLED config workflow download the files on: https://makerworld.com/en/models/166549-big-spiral-lamp-v2-wled Every Thursday is #3dthursday here at Adafruit! The DIY […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ea92a2ce6cd62100</guid>
-      <pubDate>Thu, 25 Jun 2026 10:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pencil Soldering Iron Rugged Case – With Stand and Spool #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/06/25/pinecil-soldering-iron-rugged-case-with-stand-and-spool-3dprinting-3dthursday/</link>
-      <description>BlkWgn shares: A fully 3D-printable rugged case for the Pinecil soldering iron combining a tool box, hot-iron stand, and solder spool holder. Uses one 608 bearing, no screws required (printable pins), all in one package. By BlkWgn download the files on: https://makerworld.com/en/models/118986-pinecil-soldering-iron-rugged-case-w-stand-and-spo Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-30371bfa6a7ec595</guid>
-      <pubDate>Thu, 25 Jun 2026 09:00:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase</title>
       <link>https://www.raspberrypi.org/blog/celebrating-over-15000-young-creators-at-the-coolest-projects-2026-online-showcase/</link>
       <description>From first-time coders to seasoned makers, this year every single Coolest Projects creator brought all their creativity to their tech projects and made something to be proud of. Over 15,000 young people showcased more than 4,500 creations on a global stage. With participants from 40 countries and 47% girls, this year’s online showcase is a… The post Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase appeared first on Raspberry Pi Foundation.</description>
@@ -56,84 +128,12 @@
       <pubDate>Thu, 25 Jun 2026 08:39:48 +0000</pubDate>
     </item>
     <item>
-      <title>A Look at a Gaggle of Transputer Boards</title>
-      <link>https://hackaday.com/2026/06/25/a-look-at-a-gaggle-of-transputer-boards/</link>
-      <description>A long time before Beowulf clusters wired up with commodity Ethernet hardware became a hobbyist thing and a running joke, the transputer took a swing at a very similar architecture. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-4159fb59d1e08e61</guid>
-      <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 WLED Modern Smart Lamp #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/06/25/esp32-wled-modern-smart-lamp-3dprinting-3dthursday/</link>
-      <description>emadgaidi shares: A minimalist stylish smart lamp with a cylindrical ribbed lampshade that diffuses light beautifully. Powered by an ESP32 with WLED, integrated LED strip, and 5V phone adapter input. Print the shade in white or translucent PLA/PETG for optimal diffusion. By modemoo download the files on: https://makerworld.com/en/models/1175565-esp32-wled-modern-smart-lamp Every Thursday is #3dthursday here at Adafruit! […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-44521bf0e6fe8258</guid>
-      <pubDate>Thu, 25 Jun 2026 07:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>A More Convenient iButton Reader</title>
-      <link>https://hackaday.com/2026/06/24/a-more-convenient-ibutton-reader/</link>
-      <description>iButtons are microchips housed in small, round, metal containers, and are similar to coin cell batteries in appearance. Among other things, they’re used for logging data in industrial contexts, particularly …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-28fcd2c6700333a6</guid>
-      <pubDate>Thu, 25 Jun 2026 05:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>LineShine Is Fastest Supercomputer at Over 2 Exaflops</title>
-      <link>https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/</link>
-      <description>There is a phenomenon where as you get older, your sense of scale becomes somewhat fixed in the earlier era that shaped you– things like expecting the Dollar Store to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-912ff89afc4ab636</guid>
-      <pubDate>Thu, 25 Jun 2026 02:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>JLink JTAG access on the Pinecil soldering iron</title>
-      <link>https://blog.adafruit.com/2026/06/24/jlink-jtag-access-on-the-pinecil-soldering-iron/</link>
-      <description>Daniel Mangum bought a Pinecil soldering iron and wrote about soldering the breakout board and accessing the UART. This latest work is on JLink JTAG access. I’ve been doing more work with the Pinecil as of late following the addition of upstream support for the Bouffalo Lab BL706 MCU in Zephyr. While accessing the UART is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-829c3f38f1013adb</guid>
-      <pubDate>Wed, 24 Jun 2026 21:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The first open-source Linux driver for the ASUS ZenVision lid OLED</title>
-      <link>https://blog.adafruit.com/2026/06/24/the-first-open-source-linux-driver-for-the-asus-zenvision-lid-oled/</link>
-      <description>zenvision-linux is the first open-source Linux driver for the ASUS ZenVision lid OLED display. The the protocol was reverse-engineered from scratch using Ghidra on MyASUS. It is a userspace Linux driver for the ASUS ZenVision lid OLED — the 3.5″, 256×64 monochrome screen embedded in the lid of the ASUS Zenbook 14X OLED Space Edition (UX5401ZAS). ASUS […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-14c3d92fbe83c215</guid>
-      <pubDate>Wed, 24 Jun 2026 21:09:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 6/23/26 @adafruit @johnedgarpark #adafruit #newproductpick</title>
-      <link>https://blog.adafruit.com/2026/06/24/jps-product-pick-of-the-week-6-23-26-adafruit-johnedgarpark-adafruit-newproductpick/</link>
-      <description>If you missed this week’s livestream of John Park’s Product Pick of the Week, not to worry, here’s the video. This week’s pick is the Sparkle Motion Stick + Enclosure Kit! Watch the video to find out about the Sparkle Motion Stick + Enclosure Kit, how to use it, a live demo, and more. Want […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-54ae848e8215d148</guid>
-      <pubDate>Wed, 24 Jun 2026 20:30:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Move Beyond the Rainbow With These LED Color Tips</title>
       <link>https://makezine.com/article/technology/move-beyond-the-rainbow-with-these-led-color-tips/</link>
       <description>Here’s how to move beyond rainbows and level up the hues on your RGB LED projects. The post Move Beyond the Rainbow With These LED Color Tips appeared first on Make: DIY Projects and Ideas for Makers.</description>
       <category>makezine</category>
       <guid isPermaLink="false">circuits-c0ccc17dc9b2f0e2</guid>
       <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turning a Broken Vacuum Into a Custom Mobile Robot</title>
-      <link>https://www.hackster.io/news/turning-a-broken-vacuum-into-a-custom-mobile-robot-b405e2332874</link>
-      <description>When his robot vacuum died, Clem Mayer used a Raspberry Pi to turn it into an awesome DIY remote-controlled robotics platform.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-2550254c28d95ae4</guid>
-      <pubDate>Wed, 24 Jun 2026 15:26:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feeling the Ground with Your Arms</title>
-      <link>https://www.hackster.io/news/feeling-the-ground-with-your-arms-85fd6a5fdc62</link>
-      <description>Researchers created a haptic sleeve that lets people with foot numbness "feel" the ground through vibrations and heat on their arms.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-126d9479568dbf69</guid>
-      <pubDate>Wed, 24 Jun 2026 14:16:06 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Pi and the EU Cyber Resilience Act</title>
@@ -168,30 +168,6 @@
       <pubDate>Wed, 24 Jun 2026 03:24:34 +0000</pubDate>
     </item>
     <item>
-      <title>ICYMI Python on Microcontrollers Newsletter: Code Like Hemingway, CircuitPython MCP, MicroPython Editor and More!</title>
-      <link>https://blog.adafruit.com/2026/06/23/icymi-python-on-microcontrollers-newsletter-code-like-hemingway-circuitpython-mcp-micropython-editor-and-more/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,370 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9fc0594e7f4da841</guid>
-      <pubDate>Tue, 23 Jun 2026 13:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drones Are Learning to Fly by Sight</title>
-      <link>https://www.hackster.io/news/drones-are-learning-to-fly-by-sight-a0b736638621</link>
-      <description>Zhejiang U researchers trained a bird-inspired AI to let drones aggressively twist and squeeze through tight spaces by sight alone.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-90ca0acd02065564</guid>
-      <pubDate>Tue, 23 Jun 2026 13:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Status Display Keeps Eye on Your Prusa Fleet</title>
-      <link>https://hackaday.com/2026/06/23/status-display-keeps-eye-on-your-prusa-fleet/</link>
-      <description>Whether you’ve been dragging an old MK2 or MK3 kicking and screaming into the present through the available upgrade paths, or recently picked up a CORE One, pretty much any …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-23cc4ac4dc759348</guid>
-      <pubDate>Tue, 23 Jun 2026 11:00:49 +0000</pubDate>
-    </item>
-    <item>
       <title>How to design and present clear computing lessons</title>
       <link>https://www.raspberrypi.org/blog/how-to-design-and-present-clear-computing-lessons-mayers-principles/</link>
       <description>Learning something new requires effort. Learners take in new information by listening and observing. When a lot of information is presented at once in a lesson, that can create too much cognitive load for learners — a barrier to understanding and engagement. To help you design and deliver great computing lessons, we’ve written two new… The post How to design and present clear computing lessons appeared first on Raspberry Pi Foundation.</description>
@@ -200,196 +176,12 @@
       <pubDate>Tue, 23 Jun 2026 09:15:05 +0000</pubDate>
     </item>
     <item>
-      <title>Long-Theorized GPS Weakness Exploited on Large Scale</title>
-      <link>https://hackaday.com/2026/06/23/long-theorized-gps-weakness-exploited-on-large-scale/</link>
-      <description>GPS has become fairly common in our everyday lives, not only able to pinpoint our locations on Earth but also as an incredibly accurate timekeeping method. But since these satellites …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b207929447361e0a</guid>
-      <pubDate>Tue, 23 Jun 2026 08:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rickrolling the World Cup</title>
-      <link>https://hackaday.com/2026/06/22/rickrolling-the-world-cup/</link>
-      <description>Sometimes, hacking requires a certain amount of restraint, especially when you find a system woefully unsecured. It would be so easy to play some pranks, but [bobdahacker] chose not to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-48cefc2d28fe0bdc</guid>
-      <pubDate>Tue, 23 Jun 2026 05:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic RAM from First Principles</title>
-      <link>https://hackaday.com/2026/06/22/dynamic-ram-from-first-principles/</link>
-      <description>Before the past year, many of us took computer memory for granted. It was one of the lower-cost parts of a PC build and was usually available in whatever quantity …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-420f33958dfe5053</guid>
-      <pubDate>Tue, 23 Jun 2026 02:00:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Brain hot from serious thinking? This helmet automatically cools your head</title>
       <link>https://blog.arduino.cc/2026/06/23/brain-hot-from-serious-thinking-this-helmet-automatically-cools-your-head/</link>
       <description>The human brain is remarkably efficient, running on the caloric equivalent of about 20 watts of power. But that’s still about 20% of the total required for your entire body, which means your head can get pretty hot. Mike Warren does big thinking and to keep his brain from overheating, he built this helmet to […] The post Brain hot from serious thinking? This helmet automatically cools your head appeared first on Arduino Blog.</description>
       <category>arduino-blog</category>
       <guid isPermaLink="false">circuits-2ca6079931b40e13</guid>
       <pubDate>Tue, 23 Jun 2026 00:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Rober Steals a Car to Prevent Car Theft</title>
-      <link>https://www.hackster.io/news/mark-rober-steals-a-car-to-prevent-car-theft-90b3982e6970</link>
-      <description>This is how thieves use cheap hardware to steal cars and how you can prevent that.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-4600468a35263e50</guid>
-      <pubDate>Tue, 23 Jun 2026 00:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>LightComposer – Reach Out and Touch Your Lighting</title>
-      <link>https://hackaday.com/2026/06/22/lightcomposer-reach-out-and-touch-your-lighting/</link>
-      <description>While there is a time and place for wirelessly controlled devices, sometimes you want something you can just reach out and touch to interact with, no apps to install or …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9dbb16a4e44c96e5</guid>
-      <pubDate>Mon, 22 Jun 2026 23:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Track Planes on Your Ceiling in Real Time #raspberrypi</title>
-      <link>https://blog.adafruit.com/2026/06/22/track-planes-on-your-ceiling-in-real-time-raspberrypi/</link>
-      <description>Cameron Paczek created this project to see what planes were flying overhead, while he is INSIDE. A simple project (if you have a $1500 projector) with a fun payoff. Let’s see a realtime planetarium next? Picked up by Raspberry Pi When maker Cameron Paczek moved into a new home directly beneath the take-off path of […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d095e57f5c86083b</guid>
-      <pubDate>Mon, 22 Jun 2026 20:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doom Is Officially Running on the Xiaomi Mi Band 10</title>
-      <link>https://www.hackster.io/news/doom-is-officially-running-on-the-xiaomi-mi-band-10-639dca68619e</link>
-      <description>Aaron Christophel reverse engineered the Xiaomi Mi Band 10 to get Doom running on its tiny screen.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f05094b0a32469e9</guid>
-      <pubDate>Mon, 22 Jun 2026 16:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/22/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-22/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f475b2b3c5b3052e</guid>
-      <pubDate>Mon, 22 Jun 2026 14:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plane Spotter — a Tactical ADS-B Desk Radar (ESP8266 + 1 Inch OLED)</title>
-      <link>https://blog.adafruit.com/2026/06/22/plane-spotter-a-tactical-ads-b-desk-radar-esp8266-1-inch-oled/</link>
-      <description>I live in an area with a lot of air traffic. Often my children ask me, or I find myself wondering, where the airplanes overhead are going, and from where they came. This project from Italian maker Danilo Cannas seems like a perfect fit for me to try out: A 3D-printed desk gadget that shows […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-fa01386955d5662e</guid>
-      <pubDate>Mon, 22 Jun 2026 13:54:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maker Monday: A summer of Raspberry Pi community events</title>
-      <link>https://www.raspberrypi.com/news/maker-monday-a-summer-of-raspberry-pi-community-events/</link>
-      <description>From Karachi to Bangalore and Paris to Cornwall, there are plenty of Raspberry Pi community events happening this summer. The post Maker Monday: A summer of Raspberry Pi community events appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-5f8e5fea3eaf2559</guid>
-      <pubDate>Mon, 22 Jun 2026 12:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>SDS-Remote Brings Power-User Features to Siglent Scope</title>
-      <link>https://hackaday.com/2026/06/22/sds-remote-brings-power-user-features-to-siglent-scope/</link>
-      <description>Many oscilloscopes have provisions to be connected to a computer and used remotely, but most of those interfaces are fairly rudimentary. To address this, [Winfried] has developed the SDS-Remote, a …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-07bdfbe80140e350</guid>
-      <pubDate>Mon, 22 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Telescope Rancher” is The Coolest Job You Didn’t Know Existed</title>
-      <link>https://hackaday.com/2026/06/22/telescope-rancher-is-the-coolest-job-you-didnt-know-existed/</link>
-      <description>McCulloch County, Texas, is smack dab in the middle of a very large state. We wouldn’t exactly call it the middle of nowhere, but given there’s so little light pollution …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-ce6838669f7dfb5b</guid>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Won’t Somebody Please Think Of Banning The British Children!</title>
-      <link>https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/</link>
-      <description>The British government is in a headlong rush to ban under-16s from social media, and restrict the access of under-18s. And in typical form, the EFF is here with a …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-ffa75d1a3c41036b</guid>
-      <pubDate>Mon, 22 Jun 2026 05:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brewing Espresso with Ultrasonic Assistance</title>
-      <link>https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/</link>
-      <description>There are as almost as many kinds of coffee as there are of coffee drinkers, with each method for preparing the beverage appealing to a different kind of palate: moka …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b92ec61feee89d43</guid>
-      <pubDate>Mon, 22 Jun 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackaday Links: June 21, 2026</title>
-      <link>https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/</link>
-      <description>Today marks the summer solstice, the longest day of the year and the start of astronomical summer in the Northern Hemisphere. This doesn’t really have much to do with hacking …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7d4215af9a558d15</guid>
-      <pubDate>Sun, 21 Jun 2026 23:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round-Up: Dragon Kite Poi, USB Audio in TinyUSB &amp; More!</title>
-      <link>https://blog.adafruit.com/2026/06/21/adafruit-weekly-editorial-round-up-dragon-kite-poi-usb-audio-in-tinyusb-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Open for Business, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-25206abb2bae89b4</guid>
-      <pubDate>Sun, 21 Jun 2026 19:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The DIY Robot Giving Control Back to Farmers</title>
-      <link>https://www.hackster.io/news/the-diy-robot-giving-control-back-to-farmers-17f4a0a7772f</link>
-      <description>The WEEDINATOR is a DIY farm robot built to break farmers out of expensive, closed source AgTech ecosystems.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-1ef220469ca2306a</guid>
-      <pubDate>Sun, 21 Jun 2026 16:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products this Week</title>
-      <link>https://blog.adafruit.com/2026/06/20/adafruit-new-products-this-week-2/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debuted 2 New Products. Keep up with all the new at Adafruit.com/NEW. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6b38849fda1d6876</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AntSDR T510 AI Puts an AMD RFSoC and an NVIDIA Jetson on One Board</title>
-      <link>https://www.hackster.io/news/the-antsdr-t510-ai-puts-an-amd-rfsoc-and-an-nvidia-jetson-on-one-board-73eaf93b594a</link>
-      <description>The MicroPhase AntSDR T510 AI combines an AMD RFSoC and an NVIDIA Jetson on one board that crushes latency in next-gen wireless development.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f7f452592c97dc48</guid>
-      <pubDate>Sat, 20 Jun 2026 15:22:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Ten Projects My Dad Would Like</title>
-      <link>https://makezine.com/article/home/top-ten-projects-my-dad-would-like/</link>
-      <description>This Father's Day I rounded up 9 projects my dad would like, plus one more. The post Top Ten Projects My Dad Would Like appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-ff9cd65319e0c285</guid>
-      <pubDate>Sat, 20 Jun 2026 06:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WLED 16: What’s New #LED Matrices #AdafruitLearningSystem @Adafruit</title>
-      <link>https://blog.adafruit.com/2026/06/19/wled-16-whats-new-led-matrices-adafruitlearningsystem-adafruit/</link>
-      <description>WLED 16 is the biggest LED control software upgrade in years, bringing powerful new creative tools to your LEDs. If you’ve been happily using WLED 0.14 or 0.15, this update adds major improvements for LED strips, matrices, wearables, sculptures, and interactive art. This guide is an overview of the new features in WLED 16 — […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f16336e0cd33ffbf</guid>
-      <pubDate>Fri, 19 Jun 2026 17:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drones in Detroit #makerbusiness</title>
-      <link>https://blog.adafruit.com/2026/06/19/drones-in-detroit-makerbusiness/</link>
-      <description>A recent article in The New York Times reports on Michigan’s effort to pivot Detroit’s manufacturing legacy into the would-be fast growing U.S. drone industry. The piece follows Birdstop, a drone startup that moved into the former United Auto Workers training facility and examines how incentives, auto suppliers, and local investors are trying to make […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-deb57d0cd90c2740</guid>
-      <pubDate>Fri, 19 Jun 2026 16:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-19-3/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-1414ec1dbd4d5017</guid>
-      <pubDate>Fri, 19 Jun 2026 14:22:22 +0000</pubDate>
     </item>
     <item>
       <title>A New Life For a Rare Console</title>
