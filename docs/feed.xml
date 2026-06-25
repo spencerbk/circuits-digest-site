@@ -5,8 +5,168 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 14:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:00:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Build Your Own Retro VFD Desk Clock</title>
+      <link>https://www.hackster.io/news/build-your-own-retro-vfd-desk-clock-4257ef1254fb</link>
+      <description>Sciter_ hacked a retro calculator VFD into a modern desk clock powered by a single AA battery.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-4c4e43c09823277a</guid>
+      <pubDate>Thu, 25 Jun 2026 13:12:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Record Resurrects Long-Dead CD Graphics Format</title>
+      <link>https://hackaday.com/2026/06/25/new-record-resurrects-long-dead-cd-graphics-format/</link>
+      <description>Audio CDs were the ubiquitous audio format of the 1990s. Lesser known were the extensions to the format that packaged all kinds of interesting additional data into a musical release. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-00a53bb77ee7628d</guid>
+      <pubDate>Thu, 25 Jun 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>LEAP – Low-bandwidth Educational Access Platform</title>
+      <link>https://www.raspberrypi.com/news/leap-low-bandwidth-educational-access-platform/</link>
+      <description>Using a Raspberry Pi to provide digital education to remote rural classrooms. The post LEAP – Low-bandwidth Educational Access Platform appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-20700676ac6016bc</guid>
+      <pubDate>Thu, 25 Jun 2026 10:37:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIG Spiral Lamp (WLED) #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/25/big-spiral-lamp-wled-3dprinting-3dthursday/</link>
+      <description>Basti85 shares: A large spiral lamp with diffuser segments built for WLED on an ESP32-C3 (or ESP8266 D1 mini fallback). Print the body in Bambu PLA Basic and the diffusers in transparent PLA. Updated v2 includes the full WLED config workflow download the files on: https://makerworld.com/en/models/166549-big-spiral-lamp-v2-wled Every Thursday is #3dthursday here at Adafruit! The DIY […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ea92a2ce6cd62100</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pencil Soldering Iron Rugged Case – With Stand and Spool #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/25/pinecil-soldering-iron-rugged-case-with-stand-and-spool-3dprinting-3dthursday/</link>
+      <description>BlkWgn shares: A fully 3D-printable rugged case for the Pinecil soldering iron combining a tool box, hot-iron stand, and solder spool holder. Uses one 608 bearing, no screws required (printable pins), all in one package. By BlkWgn download the files on: https://makerworld.com/en/models/118986-pinecil-soldering-iron-rugged-case-w-stand-and-spo Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-30371bfa6a7ec595</guid>
+      <pubDate>Thu, 25 Jun 2026 09:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase</title>
+      <link>https://www.raspberrypi.org/blog/celebrating-over-15000-young-creators-at-the-coolest-projects-2026-online-showcase/</link>
+      <description>From first-time coders to seasoned makers, this year every single Coolest Projects creator brought all their creativity to their tech projects and made something to be proud of. Over 15,000 young people showcased more than 4,500 creations on a global stage. With participants from 40 countries and 47% girls, this year’s online showcase is a… The post Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-cd6865e0cd94c1e8</guid>
+      <pubDate>Thu, 25 Jun 2026 08:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Look at a Gaggle of Transputer Boards</title>
+      <link>https://hackaday.com/2026/06/25/a-look-at-a-gaggle-of-transputer-boards/</link>
+      <description>A long time before Beowulf clusters wired up with commodity Ethernet hardware became a hobbyist thing and a running joke, the transputer took a swing at a very similar architecture. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4159fb59d1e08e61</guid>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32 WLED Modern Smart Lamp #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/25/esp32-wled-modern-smart-lamp-3dprinting-3dthursday/</link>
+      <description>emadgaidi shares: A minimalist stylish smart lamp with a cylindrical ribbed lampshade that diffuses light beautifully. Powered by an ESP32 with WLED, integrated LED strip, and 5V phone adapter input. Print the shade in white or translucent PLA/PETG for optimal diffusion. By modemoo download the files on: https://makerworld.com/en/models/1175565-esp32-wled-modern-smart-lamp Every Thursday is #3dthursday here at Adafruit! […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-44521bf0e6fe8258</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>A More Convenient iButton Reader</title>
+      <link>https://hackaday.com/2026/06/24/a-more-convenient-ibutton-reader/</link>
+      <description>iButtons are microchips housed in small, round, metal containers, and are similar to coin cell batteries in appearance. Among other things, they’re used for logging data in industrial contexts, particularly …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-28fcd2c6700333a6</guid>
+      <pubDate>Thu, 25 Jun 2026 05:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>LineShine Is Fastest Supercomputer at Over 2 Exaflops</title>
+      <link>https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/</link>
+      <description>There is a phenomenon where as you get older, your sense of scale becomes somewhat fixed in the earlier era that shaped you– things like expecting the Dollar Store to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-912ff89afc4ab636</guid>
+      <pubDate>Thu, 25 Jun 2026 02:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>JLink JTAG access on the Pinecil soldering iron</title>
+      <link>https://blog.adafruit.com/2026/06/24/jlink-jtag-access-on-the-pinecil-soldering-iron/</link>
+      <description>Daniel Mangum bought a Pinecil soldering iron and wrote about soldering the breakout board and accessing the UART. This latest work is on JLink JTAG access. I’ve been doing more work with the Pinecil as of late following the addition of upstream support for the Bouffalo Lab BL706 MCU in Zephyr. While accessing the UART is […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-829c3f38f1013adb</guid>
+      <pubDate>Wed, 24 Jun 2026 21:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The first open-source Linux driver for the ASUS ZenVision lid OLED</title>
+      <link>https://blog.adafruit.com/2026/06/24/the-first-open-source-linux-driver-for-the-asus-zenvision-lid-oled/</link>
+      <description>zenvision-linux is the first open-source Linux driver for the ASUS ZenVision lid OLED display. The the protocol was reverse-engineered from scratch using Ghidra on MyASUS. It is a userspace Linux driver for the ASUS ZenVision lid OLED — the 3.5″, 256×64 monochrome screen embedded in the lid of the ASUS Zenbook 14X OLED Space Edition (UX5401ZAS). ASUS […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-14c3d92fbe83c215</guid>
+      <pubDate>Wed, 24 Jun 2026 21:09:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>JP’s Product Pick of the Week 6/23/26 @adafruit @johnedgarpark #adafruit #newproductpick</title>
+      <link>https://blog.adafruit.com/2026/06/24/jps-product-pick-of-the-week-6-23-26-adafruit-johnedgarpark-adafruit-newproductpick/</link>
+      <description>If you missed this week’s livestream of John Park’s Product Pick of the Week, not to worry, here’s the video. This week’s pick is the Sparkle Motion Stick + Enclosure Kit! Watch the video to find out about the Sparkle Motion Stick + Enclosure Kit, how to use it, a live demo, and more. Want […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-54ae848e8215d148</guid>
+      <pubDate>Wed, 24 Jun 2026 20:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Move Beyond the Rainbow With These LED Color Tips</title>
+      <link>https://makezine.com/article/technology/move-beyond-the-rainbow-with-these-led-color-tips/</link>
+      <description>Here’s how to move beyond rainbows and level up the hues on your RGB LED projects. The post Move Beyond the Rainbow With These LED Color Tips appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-c0ccc17dc9b2f0e2</guid>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turning a Broken Vacuum Into a Custom Mobile Robot</title>
+      <link>https://www.hackster.io/news/turning-a-broken-vacuum-into-a-custom-mobile-robot-b405e2332874</link>
+      <description>When his robot vacuum died, Clem Mayer used a Raspberry Pi to turn it into an awesome DIY remote-controlled robotics platform.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-2550254c28d95ae4</guid>
+      <pubDate>Wed, 24 Jun 2026 15:26:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Feeling the Ground with Your Arms</title>
+      <link>https://www.hackster.io/news/feeling-the-ground-with-your-arms-85fd6a5fdc62</link>
+      <description>Researchers created a haptic sleeve that lets people with foot numbness "feel" the ground through vibrations and heat on their arms.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-126d9479568dbf69</guid>
+      <pubDate>Wed, 24 Jun 2026 14:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi and the EU Cyber Resilience Act</title>
+      <link>https://www.raspberrypi.com/news/raspberry-pi-and-the-eu-cyber-resilience-act/</link>
+      <description>If you manufacture and deploy digital products in the EU, the CRA is something you need to understand. The post Raspberry Pi and the EU Cyber Resilience Act appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-82fe2d622d6dd989</guid>
+      <pubDate>Wed, 24 Jun 2026 12:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1755 – Tolicore Femtoammeter TEARDOWN + REVERSE ENGINEER</title>
+      <link>https://www.eevblog.com/2026/06/24/eevblog-1755-tolicore-femtoammeter-teardown-reverse-engineer/</link>
+      <description>Demo, teardown and reverse engineering of the Tolicore 3720 Femtoammeter and voltage source. https://tolicore.com/products/3720-femtoammeter-voltage-source/ https://tolicore.com/product-documents/3720-Datasheet.pdf Keithley low current measurement handbook: https://www.tek.com/en/documents/product-article/keithley-low-level-measurements-handbook—7th-edition Counting LED photons video: https://www.youtube.com/watch?v=TJcMgoJ4DOE 00:00 – Femtoammeter measurement 01:16 – Tolicore 3720 Femtoammeter unboxing 03:39 – Power on and UI 05:18 – 20pA full scale range 10:13 – Bluetooth and 11:35 – Humidity …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-0a8e2e68c1368d17</guid>
+      <pubDate>Wed, 24 Jun 2026 03:28:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1754 – 2026 Electronex Show WALKAROUND</title>
+      <link>https://www.eevblog.com/2026/06/24/eevblog-1754-2026-electronex-show-walkaround/</link>
+      <description>2026 Electronex Show Walkaround Forum: https://www.eevblog.com/forum/blog/eevblog-1754-2026-electronex-show-walkaround/</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-26cecb5e389ac85d</guid>
+      <pubDate>Wed, 24 Jun 2026 03:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1753 – Designing a 2000V Isolated Oscilloscope (Cleverscope)</title>
+      <link>https://www.eevblog.com/2026/06/24/eevblog-1753-designing-a-2000v-isolated-oscilloscope-cleverscope/</link>
+      <description>Bart from Cleverscope returns to discuss and show off designing a 2000V isolated oscilloscope, and demonstrates measuring high voltage GaN transistors and Solid State Transformers. https://cleverscope.com/products/CS548 Forum: https://www.eevblog.com/forum/blog/eevblog-1753-designing-a-2000v-isolated-oscilloscope-(cleverscope)/</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-4005f55c78d19ad2</guid>
+      <pubDate>Wed, 24 Jun 2026 03:24:34 +0000</pubDate>
+    </item>
     <item>
       <title>ICYMI Python on Microcontrollers Newsletter: Code Like Hemingway, CircuitPython MCP, MicroPython Editor and More!</title>
       <link>https://blog.adafruit.com/2026/06/23/icymi-python-on-microcontrollers-newsletter-code-like-hemingway-circuitpython-mcp-micropython-editor-and-more/</link>
