@@ -5,8 +5,128 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>A Quantum Magic 8-Ball</title>
+      <link>https://hackaday.com/2026/06/27/a-quantum-magic-8-ball/</link>
+      <description>If you ever cracked open one of those Magic 8-Ball toys, you found little more than a polyhedron floating in some dark-colored fluid. It was a quasi-random way of asking …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-14845a32abc802fe</guid>
+      <pubDate>Sat, 27 Jun 2026 11:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do Metal Roofs Turn a Bird House into an Oven?</title>
+      <link>https://hackaday.com/2026/06/27/do-metal-roofs-turn-a-bird-house-into-an-oven/</link>
+      <description>Birdhouses can be a great way to help out nesting birds in your area, but they can be a bit intensive to make. As part of a 500 birdhouse marathon, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-47e52a7d87df7b00</guid>
+      <pubDate>Sat, 27 Jun 2026 08:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch YouTube on a Game Boy Color With a Special Cartridge</title>
+      <link>https://hackaday.com/2026/06/26/watch-youtube-on-a-game-boy-color-with-a-special-cartridge/</link>
+      <description>There’s no questioning [Throaty Mumbo]’s uncanny skill at answering questions that nobody ever asked, such as whether it’s possible to watch YouTube videos on a Nintendo Game Boy Color handheld …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-62daf49eed48f854</guid>
+      <pubDate>Sat, 27 Jun 2026 05:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators</title>
+      <link>https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/</link>
+      <description>When people start ranting about AI, you can be sure a few things are going to come up during the two-minutes hate: job loss, higher power bills, the neverending tide …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4913b513ff779af1</guid>
+      <pubDate>Sat, 27 Jun 2026 02:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing an Elgato Cam Link’s USB Current Draw Issue</title>
+      <link>https://hackaday.com/2026/06/26/fixing-an-elgato-cam-links-usb-current-draw-issue/</link>
+      <description>Recently [Bits und Bolts] found himself in a bit of a pickle, when on boot his PC would complain about a connected USB device drawing too much power, before shutting …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f73e3ff9a59e638d</guid>
+      <pubDate>Fri, 26 Jun 2026 23:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>MUNNY Glowing Friend with Bluetooth Control!</title>
+      <link>https://blog.adafruit.com/2026/06/26/munny-glowing-friend-with-bluetooth-control/</link>
+      <description>MUNNY DIY is a designer toy figure designed to be modified. So, instead of simply painting him to change his appearance, let’s fill him with electronics so he can glow all the colors of the rainbow at the touch of a wireless button! Check out the learn guide from John Park and make your own […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-af3fa0398486de84</guid>
+      <pubDate>Fri, 26 Jun 2026 20:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>RPiLocator Shutting Down in July #piday #raspberrypi</title>
+      <link>https://blog.adafruit.com/2026/06/26/rpilocator-shutting-down-in-july-piday-raspberrypi/</link>
+      <description>Bitter sweet news, I’m sure many are glad they no longer need to rely on RPiLocator to snag a Pi. In its current iteration, the site (https://rpilocator.com) tracks stock and prices for the various Raspberry Pi boards. But when the it was first created by André (makerbymistake), at the height of the chip shortage, it […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d42bbbf3ca30a007</guid>
+      <pubDate>Fri, 26 Jun 2026 19:52:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keep forgetting the fan and getting mold in the shower? This is the solution</title>
+      <link>https://blog.arduino.cc/2026/06/26/keep-forgetting-the-fan-and-getting-mold-in-the-shower-this-is-the-solution/</link>
+      <description>When Manivannan moved to the UK from India, he found that the damp winters provide the perfect conditions for mold growth in the shower. The preventative solution is to run the ventilation fan when showering, but that is easy to forget. So, he built the AntiMould Shower Sentinel to ensure discipline. This device’s purpose is […] The post Keep forgetting the fan and getting mold in the shower? This is the solution appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-cad37ac169c6a424</guid>
+      <pubDate>Fri, 26 Jun 2026 19:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>WipperSnapper for Raspberry Pi, Learn Code Element Updates, and more. What’s new with Adafruit IO and the Adafruit Learning System.</title>
+      <link>https://blog.adafruit.com/2026/06/26/wippersnapper-for-raspberry-pi-learn-code-element-updates-and-more-whats-new-with-adafruit-io-and-the-adafruit-learning-system/</link>
+      <description>WipperSnapper for Raspberry Pi From Brent: WipperSnapper for Raspberry Pi (and Linux SBCs!) is shaping up to be the fastest way yet to connect a Raspberry Pi to Adafruit IO and start building. We’re putting the finishing touches on WipperSnapper for Raspberry Pi and Linux SBCs, and we’ve reimagined how easy getting started should be. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3e43003f9ee23961</guid>
+      <pubDate>Fri, 26 Jun 2026 18:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Charger Charm – 3D Printed holder for Micro LiPo USB Charger</title>
+      <link>https://blog.adafruit.com/2026/06/26/charger-charm-3d-printed-holder-for-micro-lipo-usb-charger/</link>
+      <description>Our Adafruit micro Lipo USB chargers are great for charging your projects that use our Lithium Polymer Batteries. You can make this into a wearable charm with a little help from 3D Printing. Our 3D printed charm turns this charger into a adorable little robot. Parts Micro Lipo USB Charger JST Connector / Extension Cable […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-15de1ce534162752</guid>
+      <pubDate>Fri, 26 Jun 2026 16:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/06/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-26/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d2af1d34b7c87383</guid>
+      <pubDate>Fri, 26 Jun 2026 14:19:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>A heads-up on the Arduino® UNO™ Q board pricing – straight from Marcello Majonchi</title>
+      <link>https://blog.arduino.cc/2026/06/26/a-heads-up-on-the-arduino-uno-q-board-pricing-straight-from-marcello-majonchi/</link>
+      <description>A message from Arduino CPO – Marcello Majonchi Dear Builders, Engineers, and Innovators, Arduino is built on one belief: powerful technology should be accessible to everyone who wants to make, learn, or innovate with it. Staying true to that principle in every decision we make sometimes means making tough calls about what we charge for […] The post A heads-up on the Arduino® UNO™ Q board pricing – straight from Marcello Majonchi appeared first on Arduino Blog.</description>
+      <category>arduino-blog</category>
+      <guid isPermaLink="false">circuits-e79872045df8a907</guid>
+      <pubDate>Fri, 26 Jun 2026 14:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to Make to Bring Camping</title>
+      <link>https://blog.adafruit.com/2026/06/26/what-to-make-to-bring-camping/</link>
+      <description>Whether you’re in your living room, a backyard or National Park, camping there is definitely an opportunity to have a moment with a DIY build. Take a look at some of our picks for camp builds! LED Campfire Because it’s not camping without a fire Raspberry Pi Wearable Time Lapse Camera Did the hike happen […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-849123d9804a6f33</guid>
+      <pubDate>Fri, 26 Jun 2026 14:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>FGRFMesh Offers a Sub-Ghz Alternative for Industrial Communication</title>
+      <link>https://www.hackster.io/news/fgrfmesh-offers-a-sub-ghz-alternative-for-industrial-communication-900ae8701cee</link>
+      <description>FGRFMesh is a new open sub-GHz mesh platform that skips Wi-Fi congestion and proprietary ecosystems for ultra-reliable embedded wireless.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-64e135e71ad8fd8e</guid>
+      <pubDate>Fri, 26 Jun 2026 13:38:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Buy a Commercial Power Supply When You Can Build This 1 kW Beast?</title>
+      <link>https://www.hackster.io/news/why-buy-a-commercial-power-supply-when-you-can-build-this-1-kw-beast-633d75e3a5ab</link>
+      <description>Luq1308 designed a custom 1 kW open source bench power supply from scratch — and it's a hardware hacker's dream.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d215083aa18b5146</guid>
+      <pubDate>Fri, 26 Jun 2026 12:44:14 +0000</pubDate>
+    </item>
     <item>
       <title>Alan Turing’s Remarkable, Nearly-Forgotten Voice Encryption Device</title>
       <link>https://hackaday.com/2026/06/26/alan-turings-remarkable-nearly-forgotten-voice-encryption-device/</link>
