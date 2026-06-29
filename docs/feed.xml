@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 13:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:45:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Wind Turbine Generator #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/29/wind-turbine-generator-3dprinting-3dthursday/</link>
+      <description>Fockewulf44_554911 shares: Complete design of Ugrinsky Vertical Wind Turbine Generator download the files on: https://www.printables.com/model/1744121-ugrinsky-wind-turbine-generator Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from digital models. Recently, we have noticed electronics projects integrated with 3D printed enclosures, brackets, and sculptures, so each Thursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6b3d443c6b4d5f37</guid>
+      <pubDate>Mon, 29 Jun 2026 13:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>WLED Open Source Light – ESP32 with Strip Lights #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/29/wled-open-source-light-esp32-with-strip-lights-3dprinting-3dthursday/</link>
+      <description>t0nyz shares: A fully open-source WLED light with Fusion source files included, ESP32 mounting area, voltage converter bay, and power/USB cutouts. Supports strip lights or single Govee LEDs. Built for makers wanting to learn from and customize the design. By t0nyz download the files on: https://makerworld.com/en/models/613943-wled-light-open-source-esp32-strip-lights Every Thursday is #3dthursday here at Adafruit! The DIY […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-10791a92de76e8a0</guid>
+      <pubDate>Mon, 29 Jun 2026 13:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The RP2350-Powered Board Every Roboticist Needs</title>
+      <link>https://www.hackster.io/news/the-rp2350-powered-board-every-roboticist-needs-d6594990998b</link>
+      <description>Using link101, all of your robot's sensors and motors can be controlled via a single USB-C cable as standard Linux devices.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-40c5f504695fbda7</guid>
+      <pubDate>Mon, 29 Jun 2026 12:44:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capsule Radar — Live Flight Radar Desk Gadge #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/06/29/capsule-radar-live-flight-radar-desk-gadge-3dprinting-3dthursday/</link>
+      <description>kirtash shares: Capsule Radar is a 3D-printed desk gadget that shows live air traffic around your location. It pulls nearby aircraft from a free online ADS-B feed over Wi-Fi and plots them on a glowing round radar scope, rotated by heading and colour-coded by altitude, with an animated sweep and fading trails download the files […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-121ad8a7aea09d22</guid>
+      <pubDate>Mon, 29 Jun 2026 12:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>HamsterOS Crams Complete Graphical Desktop onto 1.44 MB Floppy</title>
+      <link>https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/</link>
+      <description>It’s not every day that there’s a new OS in the works for 386 and 486-era hardware, but [John Swiderski] let us know he working hard to bring HamsterOS to retrocomputing …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-1e97663853cdd5a8</guid>
+      <pubDate>Mon, 29 Jun 2026 11:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make a smart home</title>
+      <link>https://www.raspberrypi.com/news/make-a-smart-home/</link>
+      <description>The latest issue of Raspberry Pi Official Magazine is a smart home special — from smart plugs to creating DIY hardware. The post Make a smart home appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-028ea89031b9fc6b</guid>
+      <pubDate>Mon, 29 Jun 2026 10:10:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waveshare ESP32-C6-Zero-B  – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage</title>
+      <link>https://www.cnx-software.com/2026/06/29/waveshare-esp32-c6-zero-b-a-tiny-esp32-c6-usb-c-board-with-5v-36v-wide-supply-voltage/</link>
+      <description>Waveshare ESP32-C6-Zero-B is a variant of the company’s ESP32-C6-Zero USB-C board that adds 5V-36V wide supply voltage support for industrial applications It’s based on the ESP32-C6FH8 wireless RISC-V SoC with 8MB flash, 2.4 GHz WiFi 6, Bluetooth 5.x LE, and an 802.15.4 radio for Zigbee and Thread. It also exposes up to 20 GPIOs via headers and pads, and features an RGB LED, as well as Boot and Reset buttons. Waveshare ESP32-C6-Zero-B specifications: SoC – Espressif Systems ESP32-C6FH8 CPU Single-core 32-bit RISC-V clocked up to 160 MHz Low-power RISC-V core @ up to 20 MHz Memory – 512KB SRAM Storage – 320KB ROM, 8MB flash Wireless – 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 radio for Thread/Zigbee USB – USB Type-C port for program download and debugging Expansion 2x 9-pin headers with up to 13x GPIOs, UART, I2C, SPI, 6x ADC, I2S, PWM, Vin, 3.3V out, GND 7x solder pads [...] The post Waveshare ESP32-C6-Zero-B – A tiny ESP32-C6 USB-C board with 5V-36V wide supply voltage appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-a33440beba5a158c</guid>
+      <pubDate>Mon, 29 Jun 2026 09:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s Linux, on a Sega Megadrive</title>
+      <link>https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadrive/</link>
+      <description>If you were in the market for a games console in 1990, the chances are that the object of your desire was either a Super Nintendo with its 16-bit 6502 …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-08f0d8b93733af1d</guid>
+      <pubDate>Mon, 29 Jun 2026 08:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity</title>
+      <link>https://www.cnx-software.com/2026/06/29/simplia-connect-rw612-6-in-1-m-2-2230-module-offers-wifi-6-bluetooth-5-4-802-15-4-lte-m-nb-iot-and-gnss-connectivity/</link>
+      <description>Simplia CONNECT RW612 is a 6-in-1 M.2 2230 wireless module that offers dual-band WiFi 6, Bluetooth 5.4 LE, an 802.15.4 radio for Zigbee or Thread, LTE Cat-M, NB-IoT, and GNSS connectivity. It’s the first module I’ve seen that implements so many wireless standards into a tiny M.2 2230 module. It’s made possible by combining an NXP RW612 WiFi, BLE, and 802.15.4 module with an optional Quectel BC77 LTE-M, NB-IoT, and GNSS module. Simplia CONNECT RW612 specifications: Wireless modules Murata Type 2FR (LBESOZZ2FR) SoC – NXP RW612 CPU – Arm Cortex-M33 @ 260 MHz Memory – 1.2 MB SRAM Wireless Dual-band Wi-Fi 6 (802.11ax) 1×1 SISO Bluetooth LE 5.4 802.15.4 radio for Thread and Zigbee Storage – 16MB or 32MB integrated flash memory via FlexSPI Security – NXP EdgeLock Package – 12.0 x 11.0 x 1.5 mm (BGA) Optional Quectel BG77 (BG77LA, similar to the BG770A minus 5G NTN support) LTE [...] The post Simplia CONNECT RW612 6-in-1 M.2 2230 module offers WiFi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT, and GNSS connectivity appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-952fb7e699ea72fb</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART</title>
+      <link>https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/</link>
+      <description>Polyhex Technology has introduced the DEBIX T62P-01, a compact industrial SBC built around Texas Instruments Sitara AM62P quad Cortex-A53/dual Cortex-R5F SoC designed for industrial IoT (IIoT), robotics, Edge computing, and smart terminal/HMI applications. Measuring 88 × 59 mm, the board supports up to 8GB of LPDDR4 memory, optional eMMC storage up to 256GB, and a MicroSD card slot. It also features two GbE ports, including one supporting PoE via an external PD module, as well as Wi-Fi 6 and Bluetooth 5.4 connectivity. Security features include hardware secure boot with Root-of-Trust (RoT), an Arm TrustZone-based Trusted Execution Environment (TEE), and a Hardware Security Module (HSM) for cryptographic operations. DEBIX T62P-01 specifications: SoC – Texas Instruments AM62P (AM62P54CVMHIAMHR) Application CPU – Quad-core Arm Cortex-A53 up to 1.4 GHz Real-time cores 1x Arm Cortex-R5F up to 800MHz (integrated with MCU channel) 1x Arm Cortex-R5F up to 800MHz (for device management) GPU – Imagination [...] The post DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-97165746d1c0394b</guid>
+      <pubDate>Mon, 29 Jun 2026 04:30:08 +0000</pubDate>
+    </item>
     <item>
       <title>A remote web rig control system for the Albrecht AE-5900 radio  #HamSunday</title>
       <link>https://blog.adafruit.com/2026/06/28/a-remote-web-rig-control-system-for-the-albrecht-ae-5900-radio-hamsunday/</link>
@@ -726,54 +806,6 @@
       <category>arduino-blog</category>
       <guid isPermaLink="false">circuits-a327c16202544d26</guid>
       <pubDate>Wed, 03 Jun 2026 00:28:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit 24 NeoPixel RGB LED Ring – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine</title>
-      <link>https://blog.adafruit.com/2026/06/02/neopixel-ring-24-raspberry-pi-official-magazine-issue-166-rpimagazine/</link>
-      <description>The Raspberry Pi Official Magazine – Issue 166 features the Adafruit 24 NeoPixel RGB LED Ring: As well as on reels or strings, you can get addressable LEDs in other form factors – including straight strips, curves, and rings. Adafruit makes NeoPixel rings in several sizes, controllable with CircuitPython (also Python and Arduino). They’re great for […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7a0f2a5e26f536a8</guid>
-      <pubDate>Tue, 02 Jun 2026 16:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Triple LED Matrix Bonnet for Raspberry Pi – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine</title>
-      <link>https://blog.adafruit.com/2026/06/02/triple-led-matrix-bonnet-for-raspberry-pi-the-raspberry-pi-official-magazine-issue-166-rpimagazine/</link>
-      <description>The Raspberry Pi Official Magazine – Issue 166 features the Adafruit Triple LED Matrix Bonnet for Raspberry Pi: A‘Bonnet’ for Raspberry Pi, it lets you control up to three HUB75 panels in parallel (aka an ‘active3’ pinout) – or even three strings of daisy-chained panels. It supports panel sizes of 16 × 32, 32 × 32, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d4e69a773c08de97</guid>
-      <pubDate>Tue, 02 Jun 2026 16:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICYMI Python on Microcontrollers Newsletter: A New CircuitPython Editor, AI On The Edge, and Projects Galore!</title>
-      <link>https://blog.adafruit.com/2026/06/02/icymi-python-on-microcontrollers-newsletter-a-new-circuitpython-editor-ai-on-the-edge-and-projects-galore/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,364 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4d42c4ecceb4951d</guid>
-      <pubDate>Tue, 02 Jun 2026 14:40:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pinecone DAISY-1 is a fantasy 8-bit computer that exists in reality</title>
-      <link>https://blog.arduino.cc/2026/06/02/the-pinecone-daisy-1-is-a-fantasy-8-bit-computer-that-exists-in-reality/</link>
-      <description>There was a time when computers were exciting and fun. Now most of them feel like commodity appliances — no more interesting than a washing machine or a toaster. Joe longed for the good ol’ days of 8-bit personal computers, so he used a trio of Arduino development boards to design his own “fantasy computer.” […] The post The Pinecone DAISY-1 is a fantasy 8-bit computer that exists in reality appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-827480a303fa3db9</guid>
-      <pubDate>Tue, 02 Jun 2026 11:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python Projects for Raspberry Pi: the book you’ve been waiting for to level up your skills</title>
-      <link>https://www.raspberrypi.com/news/python-projects-for-raspberry-pi/</link>
-      <description>Learn to build Python projects for Raspberry Pi in this new book, with hands-on projects to spark your own ideas. The post Python Projects for Raspberry Pi: the book you’ve been waiting for to level up your skills appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-5482c8d63c52af1b</guid>
-      <pubDate>Tue, 02 Jun 2026 09:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building confidence to teach AI in the classroom</title>
-      <link>https://www.raspberrypi.org/blog/building-confidence-to-teach-ai-in-the-classroom/</link>
-      <description>Hayley McKechnie is a computing lead at a primary school in the East of England, who shares in this blog how she supports her students and her fellow teachers to build confidence around artificial intelligence (AI). She developed her skills through training delivered by Parent Zone, our partner for Experience AI in the UK. Artificial… The post Building confidence to teach AI in the classroom appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-b850728a5a38f9d7</guid>
-      <pubDate>Tue, 02 Jun 2026 09:20:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
