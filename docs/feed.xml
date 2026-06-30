@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 13:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:45:27 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>ICYMI Python on Microcontrollers Newsletter: VSC Python Security Scans, CircuitPython 10.3.0-a.3, CubeSat and More!</title>
+      <link>https://blog.adafruit.com/2026/06/30/icymi-python-on-microcontrollers-newsletter-vsc-python-security-scans-circuitpython-10-3-0-a-3-cubesat-and-more/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,361 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e0e0885e52d357f5</guid>
+      <pubDate>Tue, 30 Jun 2026 13:30:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking a Reverse Osmosis Water Filter Through its Smart Faucet</title>
+      <link>https://hackaday.com/2026/06/30/hacking-a-reverse-osmosis-water-filter-through-its-smart-faucet/</link>
+      <description>Reverse-osmosis (RO) systems are one way to ensure that you get very clean drinking water. The Waterdrop G3P600 variety that [Tomasz Wasilczyk] recently purchased is definitely among the fanciest and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-3212559c5b5bd4db</guid>
+      <pubDate>Tue, 30 Jun 2026 11:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs</title>
+      <link>https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/</link>
+      <description>WeAct N006 is a carrier board for NVIDIA Jetson Orin NX 8GB/16GB, specifically designed for robots and UAVs with a compact (90x60mm) form factor that’s barely larger than a credit card. The board features an HDMI video output, a Gigabit Ethernet port, two M.2 sockets for NVMe storage and WiFi/Bluetooth connectivity, two MIPI CSI camera interfaces, three USB 3.2 ports, various connectors for GPIO, I2C, UART, and CAN Bus, and an XT30 connector for 16V to 28V DC input. WeAct N006 specifications: Supported SoM – NVIDIA Jetson Orin NX 8GB/16GB up to 40W Super Mode Storage – M.2 Key-M socket for M.2 2242 NVMe SSD Video Output – HDMI port Camera – 2x 4-lame MIPI DSI interface Networking Gigabit Ethernet RJ45 port Optional WiFi and Bluetooth via M.2 Key-E socket USB 2x USB 3.1 (10 Gbps) Type-A ports USB 3.2 Gen 2 (10 Gbps) OTG Type-C port Serial 4-pin CAN [...] The post WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-132c61373d44bf2d</guid>
+      <pubDate>Tue, 30 Jun 2026 10:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web Tool Lets You Take Steam Controller for a Drive</title>
+      <link>https://hackaday.com/2026/06/30/web-tool-lets-you-take-steam-controller-for-a-drive/</link>
+      <description>One of the simplest robots to make is a bristlebot — a motor with an offset weight is attached to the head of a toothbrush, and the resulting vibrations will …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-550dda3ad7155453</guid>
+      <pubDate>Tue, 30 Jun 2026 08:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications</title>
+      <link>https://www.cnx-software.com/2026/06/30/xiao-nrf54lm20a-sense-board-enables-ultra-low-power-bluetooth-6-0-matter-thread-zigbee-or-2-4-ghz-proprietary-applications/</link>
+      <description>Seeed Studio XIAO nRF54LM20A and XIAO nRF54LM20A Sense are tiny USB-C IoT boards based on Nordic Semiconductor’s nRF54LM20A wireless SoC offering Bluetooth 6.0, Matter, Thread, Zigbee, NFC, Amazon Sidewalk, and 2.4 GHz proprietary connectivity. Both variants come with on-chip 2 MB flash and 512 KB RAM, as well as an 8 MB flash, an nPM1300 PMIC for power management, up to 28 GPIOs, and an RGB LED. The Sense model adds a digital microphone and 6-axis IMU with motion-triggered wake-up for ultra-low power applications. XIAO nRF54LM20A (Sense) specifications: Wireless SoC – Nordic Semiconductor nRF54LM20A CPU Arm Cortex-M33 application processor clocked at up to 128 MHz RISC-V coprocessor running at 128 MHz Memory – 512 kB of RAM Storage – 2 MB of Non-Volatile Memory (NVM) Wireless Bluetooth LE 6.0 with PHY rates of 125 kbit/s, 500 kbit/s, 1 Mbit/s, and 2 Mbit/s Bluetooth Channel Sounding, Bluetooth LE long range (coded PHY), [...] The post XIAO nRF54LM20A (Sense) board enables ultra-low-power Bluetooth 6.0, Matter, Thread, Zigbee, or 2.4 GHz proprietary applications appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-1e981ff2e75d3416</guid>
+      <pubDate>Tue, 30 Jun 2026 04:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU</title>
+      <link>https://www.cnx-software.com/2026/06/30/banana-pi-bpi-vp10-a-low-cost-servo-control-board-based-on-fortior-fu7512l-dual-core-risc-v-mcu/</link>
+      <description>Banana Pi BPI-VP10 is a low-cost servo control board based on the Fortior FU7512L RISC-V MCU and the FD6288Q pre-driver chip, designed for industrial control applications that rely on 100W/200W servos. The servo motor control board supports multiple control modes, including pulse/direction, analog, and RS485, and is compatible with absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. The BPI-VP10 board, also called BPI-BJ2403N, aims to provide an easy-to-source platform for developers to experiment with the FU7512L microcontroller and design projects or products around it. Banana Pi BPI-VP10 (FU7512L-SVDriver) specifications: Microcontroller – Fortior Technology FU7512L CPU 32-bit RISC-V core @ 48 MHz ME2 motor engine core @ 48 MHz with FOC module and CORDIC module Memory – 12kB SRAM, 4kB PRAM for program execution Storage – 64kB Flash with ECC and CRC, self-programming, and code protection Encoder Support – Absolute encoders (Tamagawa/BiSS-C protocols), incremental encoders, and Hall encoders. Pulse Input – [...] The post Banana Pi BPI-VP10 – A low-cost servo control board based on Fortior FU7512L dual-core RISC-V MCU appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-feea1f7c1b67e1d2</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new DIY handheld tricorder-like device</title>
+      <link>https://blog.adafruit.com/2026/06/29/a-new-diy-handheld-tricorder-like-device/</link>
+      <description>Hamzah Abugosh has built ThriCorder v3.8, a handheld multi-sensor device built on the ESP32-S3, inspired by Star Trek tricorders. It measures environment, distance, color, thermal, sound, and wireless signals — displayed on a 1.8″ TFT with an 8×8 LED matrix and PWM audio SFX. And the electronics have a custom 3D printed case. Many of the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-fcad1f3631237d46</guid>
+      <pubDate>Mon, 29 Jun 2026 20:49:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making in the City of Music: Maker Faire Hamamatsu 2026</title>
+      <link>https://makezine.com/article/maker-news/maker-faire/making-in-the-city-of-music-maker-faire-hamamatsu-2026/</link>
+      <description>Maker Faire comes to Hamamatsu, a city built by makers. It helped launch innovators like Yamaha, Honda, and Suzuki. The post Making in the City of Music: Maker Faire Hamamatsu 2026 appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-b1ea389b204d2c63</guid>
+      <pubDate>Mon, 29 Jun 2026 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VU Meter Baseball Hat #AdafruitLearningSystem</title>
+      <link>https://blog.adafruit.com/2026/06/29/vu-meter-baseball-hat-adafruitlearningsystem/</link>
+      <description>Make a sound Reactive Baseball Hat with FLORA Add sound-reactive NeoPixels to your baseball cap! Use our 144-density NeoPixel strip as a wraparound VU meter with a small microphone at the side. The FLORA microcontroller takes input from the mic and sends the LEDs flashing according to the volume in the room! This intermediate level […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-036eb1d767c1ff56</guid>
+      <pubDate>Mon, 29 Jun 2026 17:42:03 +0000</pubDate>
+    </item>
     <item>
       <title>Wind Turbine Generator #3DPrinting #3DThursday</title>
       <link>https://blog.adafruit.com/2026/06/29/wind-turbine-generator-3dprinting-3dthursday/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-fc00e69b05c71653</guid>
       <pubDate>Thu, 04 Jun 2026 19:56:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The M64 Is a Pixel-Perfect Nintendo 64 Remake</title>
-      <link>https://www.hackster.io/news/the-m64-is-a-pixel-perfect-nintendo-64-remake-8ac81fa32306</link>
-      <description>ModRetro’s M64 FPGA console offers a pixel-perfect, zero-compromise recreation of the original Nintendo 64 experience.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-b46ac2b1c1d70602</guid>
-      <pubDate>Thu, 04 Jun 2026 17:26:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pre-Orders Open for Carl Bugeja’s Pocket-Sized ProtoBot Robotics Kit</title>
-      <link>https://www.hackster.io/news/pre-orders-open-for-carl-bugeja-s-pocket-sized-protobot-robotics-kit-7da0249e1bbf</link>
-      <description>ProtoBot is a pocket-sized, open source RC car and robotics kit that’s pure fun for experienced hackers and beginners alike.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-81e6d41f16b58e24</guid>
-      <pubDate>Thu, 04 Jun 2026 14:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BugBuster Gives AI the Tools to Debug Physical Hardware</title>
-      <link>https://www.hackster.io/news/bugbuster-gives-ai-the-tools-to-debug-physical-hardware-f4fd22236ce4</link>
-      <description>BugBuster is an open source hardware platform that lets AI models safely measure and control real hardware for autonomous debugging.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-6326a2a230bd875f</guid>
-      <pubDate>Thu, 04 Jun 2026 13:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hypnotic Clock Maker Does It Again</title>
-      <link>https://makezine.com/article/electronics/hypnotic-clock-maker-does-it-again/</link>
-      <description>This mesmerizing rainbow diffraction grating clock puts a little more color in your daily timekeeping. The post Hypnotic Clock Maker Does It Again appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-1f06bf48fd9f6c7f</guid>
-      <pubDate>Wed, 03 Jun 2026 19:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft introduces Coreutils for Windows, bringing familiar Unix-style command-line tools to Windows without requiring WSL</title>
-      <link>https://blog.adafruit.com/2026/06/03/microsoft-introduces-coreutils-for-windows-bringing-familiar-unix-style-command-line-tools-to-windows-without-requiring-wsl/</link>
-      <description>Bobby Borisov writes for Linuxiac that Microsoft has introduced Coreutils for Windows, a new Microsoft-maintained set of Unix-style command-line utilities that run natively on Windows. Announced at Microsoft’s Build 2026, Coreutils for Windows brings familiar Linux-style commands to Windows without requiring WSL or additional compatibility layers. The package is based on the uutils open-source project, a cross-platform […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-31d9c250bf0b918b</guid>
-      <pubDate>Wed, 03 Jun 2026 16:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robot hands are getting better  @chris_j_paxton</title>
-      <link>https://blog.adafruit.com/2026/06/03/robot-hands-are-getting-better-chris_j_paxton/</link>
-      <description>Chris Paxton takes a look at why robot hands are hard and what research is currently being done. Robots need to be able to interact with the world in order to be useful. They do this in many ways: by driving around and taking pictures during inspection tasks, by walking up and down stairs. Military […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-087f668ba0591000</guid>
-      <pubDate>Wed, 03 Jun 2026 15:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Support your young people with our AI literacy resources</title>
-      <link>https://www.raspberrypi.org/blog/ai-education-resources-ai-awareness-day/</link>
-      <description>At the Raspberry Pi Foundation, we believe that alongside learning to code, a crucial part of computing education is building AI literacy skills. Amidst the rapid pace of development and the growing impact of AI tools, it is increasingly important for educators everywhere to feel equipped to address the topic of AI with their learners,… The post Support your young people with our AI literacy resources appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-4c1f0196d8951871</guid>
-      <pubDate>Wed, 03 Jun 2026 14:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 6/2/26 @adafruit @johnedgarpark #adafruit #newproductpick</title>
-      <link>https://blog.adafruit.com/2026/06/03/jps-product-pick-of-the-week-6-2-26-adafruit-johnedgarpark-adafruit-newproductpick/</link>
-      <description>If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT / Qwiic! Watch the video to find out about the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-81564852f0d37abc</guid>
-      <pubDate>Wed, 03 Jun 2026 13:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>This stunning smart planter tracks plant health and handles daily care</title>
-      <link>https://blog.arduino.cc/2026/06/03/this-stunning-smart-planter-tracks-plant-health-and-handles-daily-care/</link>
-      <description>Gardening is a prime application for smart automation, because plant care requires a lot of monitoring, but is relatively simple to execute. Large-scale agricultural operations are already highly automated, so why not do the same thing with your house plants? Giovanni Mannara (AKA Ingeimaks) did so in style by building this smart planter system that […] The post This stunning smart planter tracks plant health and handles daily care appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-a327c16202544d26</guid>
-      <pubDate>Wed, 03 Jun 2026 00:28:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
