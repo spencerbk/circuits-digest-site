@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:45:10 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Diving Penguin #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/02/diving-penguin-3dprinting-3dthursday/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Diving Penguin By kim_kreations makerworld.com/en/models/2699668-penguin-diving-pool-toy Bambu X1C PolyMaker PLA 3hr 35mins X:63 Y:53 Z:104mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 16g 230mm/s Every Thursday is #3dthursday here […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-0db7e1c842f9e77a</guid>
+      <pubDate>Thu, 02 Jul 2026 13:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duplo Track Storage #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/02/duplo-track-storage-3dprinting-3dthursday/</link>
+      <description>Dinopolis shares: This modularly expandable track holder for the Duplo train ensures organization and easy transport. The middle section has a practical carrying handle, making it easy to transport the tracks from A to B. download the files on: https://makerworld.com/en/models/2169108-duplo-track-storage#profileId-2352371 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d81f1482db5f4ab2</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sony to End Physical PlayStation Disc Production in 2028</title>
+      <link>https://hackaday.com/2026/07/02/sony-to-end-physical-playstation-disc-production-in-2028/</link>
+      <description>Sony has just announced on their PlayStation blog that they will stop the production of game discs starting January 2028. This effectively means a shift away from physical media to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-fea36f4c77226aad</guid>
+      <pubDate>Thu, 02 Jul 2026 11:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Feather Box Enclosure – Remix with USB-C Port #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/02/adafruit-feather-box-enclosure-remix-with-usb-c-port-3dprinting-3dthursday/</link>
+      <description>maker_714_91312 shares: A community remix of the Adafruit Feather no-tab enclosure updated for the USB-C ports on newer Feather boards (replacing the original micro-USB cutout). Direct Adafruit hardware fit download the files on: https://www.printables.com/model/127494-remix-feather-base-with-usb-c-port Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making solid objects from […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6220f3c01640bc9d</guid>
+      <pubDate>Thu, 02 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant</title>
+      <link>https://www.cnx-software.com/2026/07/02/sonoff-nspanel-pro-gen2-review-ewelink-home-assistant/</link>
+      <description>SONOFF sent us a sample of the NSPanel Pro Gen2 Smart Home control panel for review. It’s a standard 86-type controller powered by a Rockchip RK3326-S SoC, equipped with 2GB RAM and 32GB eMMC flash storage, a 3.95-inch touchscreen display, and a 2-channel relay supporting up to 10A. The Android device supports dual-band Wi-Fi, Bluetooth LE, Zigbee 3.0, and Matter, and also includes a built-in 1.5W speaker and microphone for two-way audio. It’s an update to the NSPanel Pro we reviewed in 2024. In this review, we’ll start with an unboxing and a teardown, before going through the initial setup in standalone mode, and finally use the panel with the eWelink app and Home Assistant. We’ll connect one of the relays of the NSPanel Pro Gen2 to a ceiling LED light, test Zigbee through a SONOFF AirGuard TH (SNZB-02DR2) temperature and humidity sensor, WiFi through a SONOFF AirGuard PM2.5/PM10 air [...] The post SONOFF NSPanel Pro Gen2 touch control panel review with eWeLink and Home Assistant appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-89ab6665b35a07ac</guid>
+      <pubDate>Thu, 02 Jul 2026 09:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Rare Drone Common Sense Outbreak, In Denmark</title>
+      <link>https://hackaday.com/2026/07/02/a-rare-drone-common-sense-outbreak-in-denmark/</link>
+      <description>Last September, Denmark was gripped by a spate of drone sightings near airports. It’s familiar territory for Hackaday, as we reported on a similar drone panic saga at British airports …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ecf6f728023dfe8a</guid>
+      <pubDate>Thu, 02 Jul 2026 08:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit</title>
+      <link>https://www.cnx-software.com/2026/07/02/paperboy-game-boy-emulator-works-at-60-fps-on-esp32-s3-e-ink-devkit/</link>
+      <description>60 FPS gaming on an E Ink display? That doesn’t seem right… But that’s exactly what Wenting Zhang’s PaperBoy Game Boy emulator project does, using the M5Stack PaperS3 devkit, pairing an ESP32-S3 wireless microcontroller with a 4.7-inch E Ink display with 960 x 540 resolution. One of the tricks here is that the bottom part of the ePaper touchscreen display is used for control buttons and doesn’t need to be refreshed, while the active part only requires 160 x 144 resolution, scaled three times to represent various shades of grey. Contrary to most small Eink devkits, the PaperS3 features a screen with a raw row/column driver interface, which enabled him to drive the display while bypassing the normal waveform method, and deliver a higher refresh rate up to 60 FPS. Wenting didn’t reinvent the wheel for the Game Boy emulation part, and after testing three different emulators, he went with [...] The post PaperBoy Game Boy Emulator works at 60 FPS on ESP32-S3 E Ink devkit appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-cca54e9e0bc208aa</guid>
+      <pubDate>Thu, 02 Jul 2026 04:30:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best DIY Dual-Channel Bench Power Supply, Probably</title>
+      <link>https://www.hackster.io/news/the-best-diy-dual-channel-bench-power-supply-probably-b8dbb4f538b6</link>
+      <description>Mellow_Labs designed and built his idea of the ultimate dual-channel bench power supply.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-814f03b726002ee2</guid>
+      <pubDate>Thu, 02 Jul 2026 01:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sipeed NanoKVM-Go – A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/07/01/sipeed-nanokvm-go-an-4k-usb-c-kvm-with-recall-like-function-ai-integration/</link>
+      <description>Sipeed NanoKVM-Go is a 4K USB-C KVM designed to control any USB-C device from anywhere with one cable. It also supports “full screen memory”, a function similar to the controversial Microsoft Recall feature, which enables an AI agent to search through your screenshots. Remote control software works fine until your system freezes or BIOS access is required, and traditional KVMs do the job with HDMI, USB, Ethernet, power cables, and adapters, but that’s a bit too much when working on the go. The NanoKVM-Go aims to solve all these little issues with a small and light device that requires only one cable to the target, while the host connects to the USB KVM over WiFi 6. NanoKVM-Go and Go+ specifications: SoC – Unamed, but almost certainly the Axera Tech AX630C used in the Sipeed NanoKVM Pro 4K IP KVM. CPU – Dual-core Cortex-A53 AI accelerator – 3.2TOPS NPU System Memory [...] The post Sipeed NanoKVM-Go – A 4K USB-C KVM with Recall-like function, AI integration (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-44e31f1e23080701</guid>
+      <pubDate>Wed, 01 Jul 2026 14:48:30 +0000</pubDate>
+    </item>
     <item>
       <title>Secure Raspberry Pi Connect at scale</title>
       <link>https://www.raspberrypi.com/news/secure-raspberry-pi-connect-at-scale/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-4c6d6c1e385c1d3f</guid>
       <pubDate>Fri, 05 Jun 2026 19:41:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem</title>
-      <link>https://blog.adafruit.com/2026/06/05/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226/</link>
-      <description>﻿ Are you subscribed to the Adafruit Youtube channel? If you’re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit Ask […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-70162b931b193383</guid>
-      <pubDate>Fri, 05 Jun 2026 18:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s CircuitPython Parsec: LCD Character Display Animation</title>
-      <link>https://blog.adafruit.com/2026/06/05/john-parks-circuitpython-parsec-lcd-character-display-animation/</link>
-      <description>#circuitpythonparsec Animate eight custom characters for the LCD character display code example To learn about CircuitPython: https://circuitpython.org</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-00f872403c289c04</guid>
-      <pubDate>Fri, 05 Jun 2026 16:40:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>UncleStem's AR Sandbox Turns Kinetic Sand Into a Live Topographic Map</title>
-      <link>https://www.hackster.io/news/unclestem-s-ar-sandbox-turns-kinetic-sand-into-a-live-topographic-map-d692a8a2c03d</link>
-      <description>UncleStem used a ToF sensor and a pico projector to turn kinetic sand into a live AR map that responds instantly as you form the landscape.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-c9f4aa6588d14442</guid>
-      <pubDate>Fri, 05 Jun 2026 16:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New $59 Pocket-Sized Tool Cures All Your I²C Headaches</title>
-      <link>https://www.hackster.io/news/a-new-59-pocket-sized-tool-cures-all-your-i-c-headaches-fd812aacebd5</link>
-      <description>The $59 I²C Doctor scans, debugs, and stress-tests I²C connections in seconds to solve hardware mysteries fast.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-eaf46aacbe509def</guid>
-      <pubDate>Fri, 05 Jun 2026 15:08:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Week in Security: Messing with AI, 7Zip and Notepad++ Vulnerabilities, HTTP2 Bomb, and More</title>
-      <link>https://hackaday.com/2026/06/05/this-week-in-security-messing-with-ai-7zip-and-notepad-vulnerabilities-http2-bomb-and-more/</link>
-      <description>With the rise of AI coding assistants continuing apparently unabated, some project maintainers have begun striking back. Ars Technica reports on projects putting hostile directions into the AGENTS.md file, or …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a641a2972ef18b59</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Custom Smart Home Controller Looks Like a Century-Old Antique</title>
-      <link>https://www.hackster.io/news/this-custom-smart-home-controller-looks-like-a-century-old-antique-665ddaa1d0b4</link>
-      <description>Tired of ugly smart home tech? This antique-inspired control hub combines leather, bronze, and E Ink for a unique appearance.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-17d85014f6279349</guid>
-      <pubDate>Fri, 05 Jun 2026 13:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peppe’s ghost LiDAR scanner</title>
-      <link>https://www.raspberrypi.com/news/peppes-ghost-lidar-scanner/</link>
-      <description>This LiDAR sensor's maker thinks that its 3D-printed shell evokes a "jumbo-sized juice container or Ghostbusters gizmo" The post Peppe’s ghost LiDAR scanner appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-71b379afc95bf211</guid>
-      <pubDate>Fri, 05 Jun 2026 12:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond Edge AI: bringing local intelligence to Arduino UNO Q</title>
-      <link>https://blog.arduino.cc/2026/06/05/beyond-edge-ai-bringing-local-intelligence-to-arduino-uno-q/</link>
-      <description>Edge AI is evolving quickly. It was the end of 2022 when the world saw the first Cloud AI tool available to everyone, accessible through a simple and intuitive chat. In less than four years, models have been refined, distilled, optimized, quantized – at record-breaking speed – to meet the needs of the first generation of […] The post Beyond Edge AI: bringing local intelligence to Arduino UNO Q appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-c89acb2485fc4b05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using Electrolysis for More Than Just Generating Hydrogen</title>
-      <link>https://hackaday.com/2026/06/05/using-electrolysis-for-more-than-just-generating-hydrogen/</link>
-      <description>When the topic of ‘electrolysis’ is mentioned, people typically think of just splitting plain old dihydrogen monoxide (hydric acid: H2O) into its constituent atoms, but this barely scratches the surface …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2ba1e00f2c8fb282</guid>
-      <pubDate>Fri, 05 Jun 2026 11:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
