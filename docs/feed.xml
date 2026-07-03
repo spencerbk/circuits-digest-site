@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 13:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 13:45:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Godot’s New Contributing Policy Adds Barriers for AI Slop</title>
+      <link>https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop/</link>
+      <description>Like so many large and popular open source projects these days, the Godot game engine struggles with an influx of pull requests. The situation has become increasingly dire due to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-91732a784112676a</guid>
+      <pubDate>Fri, 03 Jul 2026 11:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display</title>
+      <link>https://www.cnx-software.com/2026/07/03/halo-touch-v2-a-customizable-desktop-usb-hub-with-rotary-encoder-fitted-with-round-touchscreen-display/</link>
+      <description>Designed by Innoelement in Guangzhou, China, the HALO TOUCH V2 is a multifunctional desktop USB hub with a round touchscreen and a rotary encoder designed as an interactive desk companion. It integrates system monitoring, media playback, and productivity features for workstations, home offices, and desktop setups. The device features a USB 2.0 hub with two USB Type-A ports, one USB Type-C port, two microSD card readers, and a 100Mbps Ethernet port with per-port power monitoring. Its 360 × 360 IPS touchscreen supports a Pomodoro timer, photo and animation viewer, MP3 player, audio spectrum visualizer, and an AIDA64 system monitoring dashboard. A rotary encoder provides Microsoft Surface Dial-compatible controls on Windows, while 2.4GHz Wi-Fi enables clock synchronization and OTA firmware updates. It also supports USB PD power input and customization for themes, media, and animations using files on a microSD card. MAHOGANY HALO TOUCH V2 specifications: MCU – Unspecified (potentially ESP32-S3) [...] The post HALO TOUCH V2 – A customizable desktop USB hub with rotary encoder fitted with round touchscreen display appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-52bcaf169dec361c</guid>
+      <pubDate>Fri, 03 Jul 2026 10:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32-C5 dual-band WiFi 6 and Bluetooth LE IoT board features 1.47-inch color LCD</title>
+      <link>https://www.cnx-software.com/2026/07/03/esp32-c5-dual-band-wifi-6-and-bluetooth-le-iot-board-features-1-47-inch-color-lcd/</link>
+      <description>We’ve covered plenty of connected displays based on ESP32 chips over the years, but the Waveshare ESP32-C5-LCD-1.47 is a little different, since it’s the first to feature an ESP32-C5 chip for dual-band WiFi 6 connectivity. It’s basically based on the ESP32-C6-LCD-1.47 design, but replaces the ESP32-C6 supporting 2.4 GHz WiFi 6 with an ESP32-C5 capable of handling both 2.4 GHz and 5 GHz WiFi 6. Other features mostly remain the same: a 1.47-inch 262K-color display with 320 x 172 resolution, 4MB of flash, an RGB LED, a microSD card slot, and two 9-pin headers for GPIO expansion. Waveshare ESP32-C5-LCD-1.47 specifications: Wireless MCU – Espressif Systems ESP32-C5FH4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB flash Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi [...] The post ESP32-C5 dual-band WiFi 6 and Bluetooth LE IoT board features 1.47-inch color LCD appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-16a66a159851d85b</guid>
+      <pubDate>Fri, 03 Jul 2026 09:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATLAS: a modern Tricorder designed to survive unforgiving terrain</title>
+      <link>https://www.raspberrypi.com/news/atlas-a-modern-tricorder-designed-to-survive-unforgiving-terrain/</link>
+      <description>This powerful tool runs on RP2350 and is designed to help the user survive unforgiving terrain. The post ATLAS: a modern Tricorder designed to survive unforgiving terrain appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-52b9b13d2a41eb2c</guid>
+      <pubDate>Fri, 03 Jul 2026 09:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modern E-Ink Dashboards, Kindle and Otherwise</title>
+      <link>https://hackaday.com/2026/07/03/modern-e-ink-dashboards-kindle-and-otherwise/</link>
+      <description>People have been attempting to turn Kindles into more than e-readers since the first devices came out nearly two decades ago. The e-ink displays are low-power and great for displaying …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-45dd087d0b98e1dc</guid>
+      <pubDate>Fri, 03 Jul 2026 08:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications</title>
+      <link>https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/</link>
+      <description>Better known for its unique Rockchip industrial PC designs, Mekotronics has now launched an “AI Box” based on the NVIDIA Jetson Orin Nano 4GB/8GB or Jetson Orin NX 8GB/16GB for humanoid robots, smart transportation (V2X) applications, Smart Cities, Smart Agriculture, medical imaging, and more. While the company often provides niche features on its Rockchip systems, its Jetson embedded computer offers pretty standard interfaces with an HDMI video output, six USB Type-A ports, two Gigabit Ethernet RJ45 ports (one with PoE), a 40-pin GPIO header, two camera connectors, a terminal block for CAN Bus and UART, and a system connector for LEDs, power button, etc… Mekotronics AI Box specifications: Compatible modules NVIDIA Jetson Orin Nano 4GB up to 34 TOPS NVIDIA Jetson Orin Nano 8GB up to 67 TOPS NVIDIA Jetson Orin NX 8GB up to 117 TOPS NVIDIA Jetson Orin NX 16GB up to 157 TOPS Storage 2x M.2 Key-M [...] The post NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ebb2fad772fec7ca</guid>
+      <pubDate>Fri, 03 Jul 2026 04:29:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Game Boy Color Can Play YouTube Videos</title>
+      <link>https://www.hackster.io/news/this-game-boy-color-can-play-youtube-videos-1ba5eae30c5a</link>
+      <description>How do you think it was possible for YouTuber Throaty Mumbo to give his Game Boy Color the ability to play YouTube videos?</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-4bfd9ff7fdd9a281</guid>
+      <pubDate>Fri, 03 Jul 2026 01:14:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flexi Cat – Joint Redesign #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/02/flexi-cat-joint-redesign-3dprinting-3dthursday/</link>
+      <description>Symbiance shares: A fresh redesign of one of the most popular flexi kitty models — stronger joints, smoother rounder design, bigger eyes and ears. Prints in place, no supports, click-and-go. By Symbiance download the files on: https://makerworld.com/en/models/1452423-flexi-cat-new-design Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-aa9cd1f0e0440aa3</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desk Lamp – Minimalist Modern Shade #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/02/desk-lamp-3dthursday-3dprinting-2/</link>
+      <description>Shared by masseranostephan on Maker World: A minimalist 3D-printed lamp shade compatible with standard E14 and E27 sockets, designed for LED bulbs. Vase-mode print at 0.2mm with 10-20% infill creates a clean modern shape with a subtle diffusion pattern when lit. Great weekend project. Download the files and learn more Every Thursday is #3dthursday here […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-16c017abe3705043</guid>
+      <pubDate>Thu, 02 Jul 2026 23:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modern Box RGB Lamp – Bambu RGBW Puck Compatible #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/02/modern-box-rgb-lamp-bambu-rgbw-puck-compatible-3dprinting-3dthursday/</link>
+      <description>fifindr shares: A 115mm cube-shaped modern RGB lamp built around the Bambulab Remote Controlled 16-color RGBW Puck (KC007). Stunning RGB ambient effects for nightstand or desk lighting, with full remote control over color and mode download the files on: https://makerworld.com/en/models/986027-modern-box-rgb-lamp Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e86ef5439b3c3d69</guid>
+      <pubDate>Thu, 02 Jul 2026 22:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>Diving Penguin #3DPrinting #3DThursday</title>
       <link>https://blog.adafruit.com/2026/07/02/diving-penguin-3dprinting-3dthursday/</link>
@@ -726,86 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-3f2e3a1671179ea0</guid>
       <pubDate>Sun, 07 Jun 2026 02:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pi Pico Demos, Therefore It Is</title>
-      <link>https://hackaday.com/2026/06/06/pi-pico-demos-therefore-it-is/</link>
-      <description>A good demo, like [Linus Akesson]’s Sum Ergo Demonstrato, looks like magic to the average hacker. To normies who don’t know the limitations of the RP2350, they don’t see the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-8e080c6dcb1ac2a4</guid>
-      <pubDate>Sat, 06 Jun 2026 23:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>An old 3D printer becomes a new EMI imager</title>
-      <link>https://blog.arduino.cc/2026/06/06/an-old-3d-printer-becomes-a-new-emi-imager/</link>
-      <description>EMI (electromagnetic interference) can be a real nuisance in sensitive circuits. That might be from one device affecting another, but it can also happen when a circuit on a PCB interferes with another circuit on the same PCB (or another PCB in the same device). Engineering to prevent that entirely is really difficult and it […] The post An old 3D printer becomes a new EMI imager appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-d9ce4e108055c852</guid>
-      <pubDate>Sat, 06 Jun 2026 22:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pi Pico Puts Bluetooth Keyboards on the I2C Bus</title>
-      <link>https://hackaday.com/2026/06/06/pi-pico-puts-bluetooth-keyboards-on-the-i2c-bus/</link>
-      <description>If you’ve ever worked with I2C, you know its one of those things that makes working with modern microcontrollers such a pleasure. With a few wires and not many more …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-fed16efd1c326172</guid>
-      <pubDate>Sat, 06 Jun 2026 20:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Q8botOne Quadruped Robot Is Launching Soon</title>
-      <link>https://www.hackster.io/news/the-q8botone-quadruped-robot-is-launching-soon-0862ede16b04</link>
-      <description>Q8botOne is an affordable, fully assembled open source quadruped robot ready to trot, jump, and hack right out of the box.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d74f77bf5638c366</guid>
-      <pubDate>Sat, 06 Jun 2026 19:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stratasys vs Bambu Lab: Industrial vs Consumer ABS Showdown</title>
-      <link>https://hackaday.com/2026/06/06/stratasys-vs-bambu-lab-industrial-vs-consumer-abs-showdown/</link>
-      <description>Professional Stratasys FDM printers demand a pretty hefty price premium over your typical hobbyist-level machine, with the gold-plating continuing even with the special filament cartridges that you buy for some …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-49e1cbebc61f667f</guid>
-      <pubDate>Sat, 06 Jun 2026 17:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homebrew Webcam Support for the Original Xbox</title>
-      <link>https://hackaday.com/2026/06/06/homebrew-webcam-support-for-the-original-xbox/</link>
-      <description>These days, we take it for granted that a video game console will have multiple USB ports. There’s even an expectation that basic peripherals such as storage devices will “Just …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-1093b0c2da392524</guid>
-      <pubDate>Sat, 06 Jun 2026 14:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Printing a Miniature CoreXY Printer</title>
-      <link>https://hackaday.com/2026/06/06/3d-printing-a-miniature-corexy-printer/</link>
-      <description>Although no longer so common as during the heyday of the RepRap movement, it’s easier than ever to build your own largely-printed 3D printer, with designs such as Voron’s delivering …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-c278993fba2672c2</guid>
-      <pubDate>Sat, 06 Jun 2026 11:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Unlikely Host For An 8080 Emulator</title>
-      <link>https://hackaday.com/2026/06/06/an-unlikely-host-for-an-8080-emulator/</link>
-      <description>To emulate vintage microprocessor hardware, it’s normal to find a modern host that provides alongside the number-crunching grunt, sufficient physical connections to interface with its support hardware. Thus if you …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-08e9a6f22e47cb0c</guid>
-      <pubDate>Sat, 06 Jun 2026 08:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Simple Mirror Makes 3D Scanning More Efficient</title>
-      <link>https://www.hackster.io/news/a-simple-mirror-makes-3d-scanning-more-efficient-ea92e3b69b27</link>
-      <description>This technique could speed up your 3D scanning workflow.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-a5b3f66470eab352</guid>
-      <pubDate>Fri, 05 Jun 2026 21:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/05/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-5/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4c6d6c1e385c1d3f</guid>
-      <pubDate>Fri, 05 Jun 2026 19:41:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
