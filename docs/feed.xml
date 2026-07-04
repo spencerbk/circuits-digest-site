@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 13:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 13:45:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Five Solar Air Heating Methods Tested</title>
+      <link>https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/</link>
+      <description>For as good as solar panels are at converting sunlight directly into usable electricity, especially for how cheap they’re becoming, they can still only gather around 20-30% of the energy …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4aa6d81e10784d5f</guid>
+      <pubDate>Sat, 04 Jul 2026 11:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warp Point: a Web Ring for Gaming Sites Built for 2026</title>
+      <link>https://hackaday.com/2026/07/04/warp-point-a-web-ring-for-gaming-sites-built-for-2026/</link>
+      <description>At one point in time web rings were one of the best ways to find content on the World Wide Web — involving not just a directory of participating sites, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-993bd259d59a8422</guid>
+      <pubDate>Sat, 04 Jul 2026 08:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers</title>
+      <link>https://www.cnx-software.com/2026/07/04/bigtreetech-panda-sense-pro-8-in-1-smart-air-quality-monitor-works-with-home-assistant-and-klipper-for-3d-printers/</link>
+      <description>BIGTREETECH (BIQU) has introduced the BIQU Panda Sense Pro, an 8-in-1 smart air quality monitor designed for 3D printing environments such as home workshops, maker spaces, and print farms. It continuously measures airborne particles, gases, temperature, and humidity, helping users monitor indoor air quality while printing. The device also integrates with Klipper-based printers and smart home platforms, making it suitable for both standalone monitoring and automated environmental control. It combines laser particle, NDIR CO₂, and electrochemical formaldehyde sensors to monitor PM2.5, PM10, CO₂, HCHO, eTVOC, AQI, temperature, and humidity in real time. The monitor features a 3.5-inch 480×320 TFT display, 2.4 GHz Wi-Fi with MQTT, USB Type-C power, 24-hour and 30-day data logging, and upcoming app-based remote monitoring. It integrates with Moonraker (Fluidd/Mainsail) and Home Assistant for automation, such as controlling fans or air purifiers based on sensor readings. The enclosure files are open-source, which means you can customize and [...] The post BIGTREETECH Panda Sense Pro 8-in-1 smart air quality monitor works with Home Assistant and Klipper for 3D printers appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-507e3c31e45793f9</guid>
+      <pubDate>Sat, 04 Jul 2026 05:12:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Astrolabe Is Digital, Electronic, and Mechanical</title>
+      <link>https://www.hackster.io/news/this-astrolabe-is-digital-electronic-and-mechanical-dc564a31832e</link>
+      <description>Redditor chu-bert added digital and electronic elements alongside the mechanical to build their astrolabe.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-c12f14f475e9137f</guid>
+      <pubDate>Fri, 03 Jul 2026 22:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impactful U.S. Inventions #4thOfJuly #AmericanInventions</title>
+      <link>https://blog.adafruit.com/2026/07/03/impactful-u-s-inventions-4thofjuly-americaninventions/</link>
+      <description>From the internet to birth control, the Wall Street Journal rounded up U.S. inventions with BIG impact. Readers then voted on which ones were the most revolutionary. Readers whittled the list from 60 to 25, the top 10 include: Internet Light bulb Integrated Circuits Personal Computer Airplane AC/DC Electrical Power Systems Telephone Smartphone Refrigeration Nuclear […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ebb578058092c391</guid>
+      <pubDate>Fri, 03 Jul 2026 17:18:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/07/03/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-3/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ea278d12f7bac92a</guid>
+      <pubDate>Fri, 03 Jul 2026 15:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrate the 4th with NYC Parks #4thOfJuly</title>
+      <link>https://blog.adafruit.com/2026/07/03/celebrate-the-4th-with-nyc-parks-4thofjuly/</link>
+      <description>image via NYC Parks The heat will pass soon, but while it’s still here you’ll find us bopping back and forth between the library and the playground sprinklers. NYC Parks has fun 4th of July events starting in the early evening on their calendar which means we can still celebrate despite the 🥵 Read […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-93c5d6c1680e183a</guid>
+      <pubDate>Fri, 03 Jul 2026 14:00:22 +0000</pubDate>
+    </item>
     <item>
       <title>Godot’s New Contributing Policy Adds Barriers for AI Slop</title>
       <link>https://hackaday.com/2026/07/03/godots-new-contributing-policy-adds-barriers-for-ai-slop/</link>
@@ -46,6 +102,14 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-45dd087d0b98e1dc</guid>
       <pubDate>Fri, 03 Jul 2026 08:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-IDF User Guide for ESP32-C5, SDK stable (v6.0.2)</title>
+      <link>https://www.espressif.com/en/node/10969</link>
+      <description>Language English ESP32-C5The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v6.0.2Friday, July 3, 2026https://docs.espressif.com/projects/esp-idf/en/v6.0.2/esp32c5/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-587d72473d037225</guid>
+      <pubDate>Fri, 03 Jul 2026 07:13:34 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications</title>
@@ -742,70 +806,6 @@
       <category>eevblog</category>
       <guid isPermaLink="false">circuits-0a8e2e68c1368d17</guid>
       <pubDate>Wed, 24 Jun 2026 03:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1754 – 2026 Electronex Show WALKAROUND</title>
-      <link>https://www.eevblog.com/2026/06/24/eevblog-1754-2026-electronex-show-walkaround/</link>
-      <description>2026 Electronex Show Walkaround Forum: https://www.eevblog.com/forum/blog/eevblog-1754-2026-electronex-show-walkaround/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-26cecb5e389ac85d</guid>
-      <pubDate>Wed, 24 Jun 2026 03:26:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1753 – Designing a 2000V Isolated Oscilloscope (Cleverscope)</title>
-      <link>https://www.eevblog.com/2026/06/24/eevblog-1753-designing-a-2000v-isolated-oscilloscope-cleverscope/</link>
-      <description>Bart from Cleverscope returns to discuss and show off designing a 2000V isolated oscilloscope, and demonstrates measuring high voltage GaN transistors and Solid State Transformers. https://cleverscope.com/products/CS548 Forum: https://www.eevblog.com/forum/blog/eevblog-1753-designing-a-2000v-isolated-oscilloscope-(cleverscope)/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-4005f55c78d19ad2</guid>
-      <pubDate>Wed, 24 Jun 2026 03:24:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to design and present clear computing lessons</title>
-      <link>https://www.raspberrypi.org/blog/how-to-design-and-present-clear-computing-lessons-mayers-principles/</link>
-      <description>Learning something new requires effort. Learners take in new information by listening and observing. When a lot of information is presented at once in a lesson, that can create too much cognitive load for learners — a barrier to understanding and engagement. To help you design and deliver great computing lessons, we’ve written two new… The post How to design and present clear computing lessons appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-734b55c0e6ac72a2</guid>
-      <pubDate>Tue, 23 Jun 2026 09:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brain hot from serious thinking? This helmet automatically cools your head</title>
-      <link>https://blog.arduino.cc/2026/06/23/brain-hot-from-serious-thinking-this-helmet-automatically-cools-your-head/</link>
-      <description>The human brain is remarkably efficient, running on the caloric equivalent of about 20 watts of power. But that’s still about 20% of the total required for your entire body, which means your head can get pretty hot. Mike Warren does big thinking and to keep his brain from overheating, he built this helmet to […] The post Brain hot from serious thinking? This helmet automatically cools your head appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-2ca6079931b40e13</guid>
-      <pubDate>Tue, 23 Jun 2026 00:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Life For a Rare Console</title>
-      <link>https://hackaday.com/2026/06/07/a-new-life-for-a-rare-console/</link>
-      <description>One of the delights of our tips line is that from time to time it brings us retrocomputing hardware that, despite years of reporting, we were not aware existed. [Hitmanmcc] …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-cb28cb83361b5adb</guid>
-      <pubDate>Sun, 07 Jun 2026 11:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Less Than 10 Years? Commonwealth Fusion Systems Applies to Plug into Grid in 2030s</title>
-      <link>https://hackaday.com/2026/06/07/less-than-10-years-commonwealth-fusion-systems-applies-to-plug-into-grid-in-2030s/</link>
-      <description>Whenever the topic of fusion power comes up, someone will say it’s only 10 years away from commercialization in an excited tone, and someone older or more cynical will point …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f138dbb8182dad21</guid>
-      <pubDate>Sun, 07 Jun 2026 08:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>A RayCast FPS in COBOL</title>
-      <link>https://hackaday.com/2026/06/06/a-raycast-fps-in-cobol/</link>
-      <description>COBOL is not the first language anyone would ever think of when writing a First Person Shooter– after all , it’s the Common Business Oriented Language, not the Common Game …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2afe7e03e68fc57d</guid>
-      <pubDate>Sun, 07 Jun 2026 05:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a Gifford-McMahon Cryocooler With 3D-Printed Parts</title>
-      <link>https://hackaday.com/2026/06/06/building-a-gifford-mcmahon-cryocooler-with-3d-printed-parts/</link>
-      <description>Although cryocoolers are capable of pretty impressive cooling, for many of them the underlying working principle is simple enough that you do not need any special skills or a big …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-3f2e3a1671179ea0</guid>
-      <pubDate>Sun, 07 Jun 2026 02:00:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
