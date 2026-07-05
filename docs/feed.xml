@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 13:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:45:12 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Old Midi Instruments Don’t Like Modern Midi. What’s To Be Done?</title>
+      <link>https://hackaday.com/2026/07/05/old-midi-instruments-dont-like-modern-midi-whats-to-be-done/</link>
+      <description>In theory, MIDI is an electrical and protocol standard that allows any such equipped instrument or computer to talk to any other. But as the wonderfully named [Knob Monster] will …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-92a64a948e390079</guid>
+      <pubDate>Sun, 05 Jul 2026 11:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare</title>
+      <link>https://www.cnx-software.com/2026/07/05/macintosh-emulator-works-on-esp32-p4-display-devkits-from-m5stack-and-waveshare/</link>
+      <description>ESP32 chips have been used for retro gaming and computing for years, but Austin McChord (Amcchord) adds to that with a Macintosh emulator ported to a couple of ESP32-P4 display devkits. His project is a full port of the BasiliskII Macintosh 68k emulator, bringing classic Mac OS (System 7.x through Mac OS 8.1) to portable ESP32-P4 embedded devices with touchscreen, USB peripherals, and WiFi support through an ESP32-C6 on the boards. The main development platform appears to be the M5Stack Tab5 equipped with a 5-inch touchscreen display with 1280×720 resolution. However, if you need something with a larger screen, the Waveshare ESP32-P4-WIFI6-Touch-LCD-10.1 is also supported, and features a 10.1-inch display with 1280×800 resolution and a 10-point capacitive touchscreen. The actual Mac OS resolutions used are 640×360 and 640×400, respectively, then scaled twice to the native resolution of the display. Highlights of the project: CPU – Motorola 68040 emulation with FPU (68881) [...] The post Macintosh emulator works on ESP32-P4 display devkits from M5Stack and Waveshare appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-6311ecf4dddbc1dc</guid>
+      <pubDate>Sun, 05 Jul 2026 08:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homelab Gets Linksys Themed Aesthetic</title>
+      <link>https://hackaday.com/2026/07/05/homelab-gets-linksys-themed-aesthetic/</link>
+      <description>If you’re building a homelab rig, you could just use off-the-shelf hardware in standard cases and slap it all in a rack like the normies do. Or, you could follow …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a4f3ac18220b79f2</guid>
+      <pubDate>Sun, 05 Jul 2026 08:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make a DIY E-ink Faceplate For Valve’s Steam Machine</title>
+      <link>https://hackaday.com/2026/07/04/make-a-diy-e-ink-faceplate-for-valves-steam-machine/</link>
+      <description>Valve has always designed hacker-friendly hardware, and in that spirit, [NaKyle Wright] released Inkterface, a design for an E-ink faceplate to fit the recently released Steam Machine. As far as …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-89dc35c938137600</guid>
+      <pubDate>Sun, 05 Jul 2026 05:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Made In NYC 🍎🇺🇸 #4thOfJuly #AmericanMakers</title>
+      <link>https://blog.adafruit.com/2026/07/04/made-in-nyc-%f0%9f%8d%8e%f0%9f%87%ba%f0%9f%87%b8-4thofjuly-americanmakers/</link>
+      <description>MADE IN NYC aims to support NYC makers! Made in NYC is a nonprofit initiative that supports local manufacturers and makers in New York City. Made in NYC cultivates community through a variety of events, activities and platforms connecting Made in NYC businesses to each other, strengthening the local manufacturing ecosystem. MadeinNYC.org serves as a […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1221ffeece123cd0</guid>
+      <pubDate>Sat, 04 Jul 2026 17:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find the Closest Cooling Center</title>
+      <link>https://blog.adafruit.com/2026/07/04/find-the-closest-cooling-center/</link>
+      <description>image via NYC Cool Options NYC Cool Options is a map cooling centers and cool options for New Yorkers. Check on your friends and neighbors, drink water, and stay as cool as you can. Read more</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-877e107051456170</guid>
+      <pubDate>Sat, 04 Jul 2026 14:00:39 +0000</pubDate>
+    </item>
     <item>
       <title>Five Solar Air Heating Methods Tested</title>
       <link>https://hackaday.com/2026/07/04/five-solar-air-heating-methods-tested/</link>
@@ -758,54 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-4c4e43c09823277a</guid>
       <pubDate>Thu, 25 Jun 2026 13:12:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Record Resurrects Long-Dead CD Graphics Format</title>
-      <link>https://hackaday.com/2026/06/25/new-record-resurrects-long-dead-cd-graphics-format/</link>
-      <description>Audio CDs were the ubiquitous audio format of the 1990s. Lesser known were the extensions to the format that packaged all kinds of interesting additional data into a musical release. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-00a53bb77ee7628d</guid>
-      <pubDate>Thu, 25 Jun 2026 11:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>LEAP – Low-bandwidth Educational Access Platform</title>
-      <link>https://www.raspberrypi.com/news/leap-low-bandwidth-educational-access-platform/</link>
-      <description>Using a Raspberry Pi to provide digital education to remote rural classrooms. The post LEAP – Low-bandwidth Educational Access Platform appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-20700676ac6016bc</guid>
-      <pubDate>Thu, 25 Jun 2026 10:37:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase</title>
-      <link>https://www.raspberrypi.org/blog/celebrating-over-15000-young-creators-at-the-coolest-projects-2026-online-showcase/</link>
-      <description>From first-time coders to seasoned makers, this year every single Coolest Projects creator brought all their creativity to their tech projects and made something to be proud of. Over 15,000 young people showcased more than 4,500 creations on a global stage. With participants from 40 countries and 47% girls, this year’s online showcase is a… The post Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-cd6865e0cd94c1e8</guid>
-      <pubDate>Thu, 25 Jun 2026 08:39:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Move Beyond the Rainbow With These LED Color Tips</title>
-      <link>https://makezine.com/article/technology/move-beyond-the-rainbow-with-these-led-color-tips/</link>
-      <description>Here’s how to move beyond rainbows and level up the hues on your RGB LED projects. The post Move Beyond the Rainbow With These LED Color Tips appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-c0ccc17dc9b2f0e2</guid>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi and the EU Cyber Resilience Act</title>
-      <link>https://www.raspberrypi.com/news/raspberry-pi-and-the-eu-cyber-resilience-act/</link>
-      <description>If you manufacture and deploy digital products in the EU, the CRA is something you need to understand. The post Raspberry Pi and the EU Cyber Resilience Act appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-82fe2d622d6dd989</guid>
-      <pubDate>Wed, 24 Jun 2026 12:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1755 – Tolicore Femtoammeter TEARDOWN + REVERSE ENGINEER</title>
-      <link>https://www.eevblog.com/2026/06/24/eevblog-1755-tolicore-femtoammeter-teardown-reverse-engineer/</link>
-      <description>Demo, teardown and reverse engineering of the Tolicore 3720 Femtoammeter and voltage source. https://tolicore.com/products/3720-femtoammeter-voltage-source/ https://tolicore.com/product-documents/3720-Datasheet.pdf Keithley low current measurement handbook: https://www.tek.com/en/documents/product-article/keithley-low-level-measurements-handbook—7th-edition Counting LED photons video: https://www.youtube.com/watch?v=TJcMgoJ4DOE 00:00 – Femtoammeter measurement 01:16 – Tolicore 3720 Femtoammeter unboxing 03:39 – Power on and UI 05:18 – 20pA full scale range 10:13 – Bluetooth and 11:35 – Humidity …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-0a8e2e68c1368d17</guid>
-      <pubDate>Wed, 24 Jun 2026 03:28:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
