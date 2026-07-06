@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 13:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Beelink EQi Wildcat Lake Core 3 304 mini PC review – Part 1: Specifications, unboxing, teardown, and first boot</title>
+      <link>https://www.cnx-software.com/2026/07/06/beelink-eqi-wildcat-lake-core-3-304-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/</link>
+      <description>We’ve received our first Wildcat Lake hardware for review, as Beelink has sent us an EQi mini PC powered by the Intel Core 3 304 entry-level 5-core processor with a 15 TOPS AI accelerator. The mini PC ships with either 16GB of LPDDR5 (soldered-on) or 24GB/32GB of DDR5 (SO-DIMM) memory and 512GB UFS 3.1 storage. It also features two M.2 Key-M PCIe Gen4 sockets, 10GbE and 2.5GbE RJ45 ports, WiFI 6 and Bluetooth 5.2 connectivity, three display outputs via HDMI and USB4 ports, and more. We’ll start the review by listing the specifications, checking out the hardware with an unboxing and a teardown, before giving it a quick try with Windows 11 Pro. In the second part of the review, we’ll focus on Windows 11 Pro, with feature testing and benchmarks, before switching to Ubuntu 26.04 to test a recent Linux distribution on a Wildcat Lake mini PC. Beelink EQi [...] The post Beelink EQi Wildcat Lake Core 3 304 mini PC review – Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-6c68ab4261b4e645</guid>
+      <pubDate>Mon, 06 Jul 2026 11:10:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gluing 8192 MCUs Together to Make a GPU</title>
+      <link>https://hackaday.com/2026/07/06/gluing-8192-mcus-together-to-make-a-gpu/</link>
+      <description>What do you get when you take 8,192 CH570 MCUs, put them on custom PCBs, and write firmware for this interconnected gaggle of cores? In the case of [bitluni]’s project, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-e574710874a8e292</guid>
+      <pubDate>Mon, 06 Jul 2026 11:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Rocky from ‘Project Hail Mary’</title>
+      <link>https://www.raspberrypi.com/news/ai-rocky-from-project-hail-mary/</link>
+      <description>Make your own star-saving sidekick with Raspberry Pi, Claude AI, and a tonne of servos. The post AI Rocky from ‘Project Hail Mary’ appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-e75fdc1c81b07202</guid>
+      <pubDate>Mon, 06 Jul 2026 10:35:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>He Comes to Bury Segmented Memory, Not to Praise It</title>
+      <link>https://hackaday.com/2026/07/06/he-comes-to-bury-segmented-memory-not-to-praise-it/</link>
+      <description>[BillPg] has been designing a fantasy 1980s-era home computer. As part of the exercise, he’s reevaluating all the assumptions that have grown organically over time in the small computer landscape. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-79478da0286a0486</guid>
+      <pubDate>Mon, 06 Jul 2026 08:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers</title>
+      <link>https://www.cnx-software.com/2026/07/06/tiny-calixto-systems-am62l-stamp-som-targets-industrial-automation-hmi-applications-ev-chargers/</link>
+      <description>Calixto Systems has introduced the AM62L STAMP SOM, a tiny (40x40mm) system-on-module around the Texas Instruments AM62L dual-core Arm Cortex-A53 CPU running at up to 1.25 GHz, along with an evaluation kit. Designed for embedded Linux applications, the module targets industrial automation, HMIs, EV chargers, and smart retail. Calixto AM62L STAMP SOM The SoM integrates up to 2GB LPDDR4x RAM and 8GB or 16GB eMMC storage, along with Gigabit Ethernet, two USB 2.0 OTG interfaces, dual SD interfaces, MIPI DSI and parallel RGB display support, McASP audio, and a wide range of industrial I/Os, including CAN FD, eight UARTs, four SPI buses, five I2C buses, ADC, DAC, PWM, GPIO, and a GPMC interface. It also integrates hardware security features such as AES encryption, RSA/ECC acceleration, DRBG, TRNG, and a unique device ID for secure embedded applications. AM62L STAMP SOM specifications: SoC – Texas Instruments Sitara AM62Lx single-core/dual-core Arm Cortex-A53 processor @ [...] The post Tiny Calixto Systems AM62L STAMP SOM targets industrial automation, HMI applications, EV chargers appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-b4605c8b63fe403c</guid>
+      <pubDate>Mon, 06 Jul 2026 07:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internship - Digital IC Design</title>
+      <link>https://www.espressif.com/en/company/job-opportunities/job-search/internship-digital-ic-design</link>
+      <description>Language English Description: Espressif Systems is looking for motivated semester interns to join us for a 6-month internship program in Singapore. This internship will provide hands-on experience in Physical Layer RTL design, verification, and testing within wireless systems. As an intern, you will participate in designing well-integrated, reliable, and energy-efficient wireless SoCs, while working closely with experienced engineers to gain exposure to the full IC design flow. Internship Responsibilities: 1. Contribute to research and development of chips with high level of integration 2. RTL design for function block 3. Unit test or integration test Internship Requirements: 1. Bachelor’s degree or above in Electrical and Electronics Engineering, IC Design, Computer Engineering, or related fields 2. Familiar with digital SoC chips and communication module principles 3. Familiar with Verilog coding and/or UVM environment 4. Experience in C/C++, MATLAB, Python 5. Self-directed, motivated and demonstrated a curiosity in engineering with the ability to quickly learn new skills and adapt 6. Availability to commit to an internship duration of at least 6 months. Job Location Select: SingaporeJob Status: ShowResume Inbox: recruit.sgpr@espressif.comJob Sort: 0Job Classification: InternshipsJob Function: IC Design</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-0b064ba360a534cd</guid>
+      <pubDate>Mon, 06 Jul 2026 03:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Tech Keeping Damaged Drones in the Air</title>
+      <link>https://www.hackster.io/news/the-tech-keeping-damaged-drones-in-the-air-7f7a2736c33f</link>
+      <description>Drones can now detect early warning signs of mechanical failure and adjust their flight to prevent a crash before it's too late.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-db30aa82c00ae861</guid>
+      <pubDate>Sun, 05 Jul 2026 18:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Weekly Editorial Round-Up: &amp; WipperSnapper for Raspberry Pi, Learn Code Element Updates, &amp; more!</title>
+      <link>https://blog.adafruit.com/2026/07/05/adafruit-weekly-editorial-round-up-wippersnapper-for-raspberry-pi-learn-code-element-updates-more/</link>
+      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. WipperSnapper for Raspberry Pi, Learn […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6f60c03cf20627ec</guid>
+      <pubDate>Sun, 05 Jul 2026 18:00:39 +0000</pubDate>
+    </item>
     <item>
       <title>Old Midi Instruments Don’t Like Modern Midi. What’s To Be Done?</title>
       <link>https://hackaday.com/2026/07/05/old-midi-instruments-dont-like-modern-midi-whats-to-be-done/</link>
@@ -742,70 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-0eab2563e82d4de0</guid>
       <pubDate>Thu, 25 Jun 2026 15:47:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Increasing Local GPS Accuracy for a Small Robot</title>
-      <link>https://hackaday.com/2026/06/25/increasing-local-gps-accuracy-for-a-small-robot/</link>
-      <description>Even though GPS makes it possible for us to easily navigate around the planet in almost any vehicle we’d like, whether that’s a passenger vehicle, airplane, or cargo ship, it’s …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-be75aea4411d7339</guid>
-      <pubDate>Thu, 25 Jun 2026 15:30:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>UPDATED PRODUCT – Pulse Sensor Amped</title>
-      <link>https://blog.adafruit.com/2026/06/25/updated-product-pulse-sensor-amped/</link>
-      <description>UPDATED PRODUCT – Pulse Sensor Amped __________________________________________________________________________________________________ Pulse Sensor Amped is a greatly improved version of the original Pulse Sensor, a plug-and-play heart-rate sensor for Arduino and Arduino compatibles. It can be used by students, artists, athletes, makers, and game &amp; mobile developers who want to easily incorporate live heart-rate data into their projects. Pulse […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4e9b584567b7c45b</guid>
-      <pubDate>Thu, 25 Jun 2026 15:10:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Hangouts –  GPS Compass, Lens Adapter and Balloon Boat</title>
-      <link>https://blog.adafruit.com/2026/06/25/3d-hangouts-gps-compass-lens-adapter-and-balloon-boat/</link>
-      <description>3D Hangouts – GPS Compass, Lens Adapter and Balloon Boat https://youtube.com/live/fRZz4VAFSuM?feature=share This week @adafruit we’re releasing the guide and video for the GPS compass. Starting a new project, a chiptune player using Feather RP2350 and TFT FeatherWing. This week’s timelapse features a toy boat powered by a balloon. Learn Guide https://learn.adafruit.com/minecraft-gps-compass Video https://youtu.be/8WSCJ9oADt4 Adafruit Feather […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c0095fbb2533c4d5</guid>
-      <pubDate>Thu, 25 Jun 2026 15:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEW PRODUCT – Adafruit ADS7128 8-Channel ADC and GPIO Expander – STEMMA QT / Qwiic</title>
-      <link>https://blog.adafruit.com/2026/06/25/new-product-adafruit-ads7128-8-channel-adc-and-gpio-expander-stemma-qt-qwiic/</link>
-      <description>NEW PRODUCT – Adafruit ADS7128 8-Channel ADC and GPIO Expander – STEMMA QT / Qwiic __________________________________________________________________________________________________ The Adafruit ADS7128 8-Channel ADC and GPIO Expander is a bit of a Platypus of the I2C expander world: hard to categorize as just an ADC or a GPIO expander since it combines the capabilities of both with great capabilites! Usually, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-07931a2825c817db</guid>
-      <pubDate>Thu, 25 Jun 2026 14:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEW PRODUCTS – Pimoroni Badgeware: Blinky Badge / Blinky Badge &amp; STEM KIT</title>
-      <link>https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-blinky-badge-blinky-badge-stem-kit/</link>
-      <description>NEW PRODUCTS – Pimoroni Badgeware: Blinky Badge / Blinky Badge &amp; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni’s smart interactive badge with bright white LED matrix display, powered by Raspberry Pi RP2350. This version is the Blinky 2350 – it’s an all-in-one badge wearable featuring a matrix of 872 individually adjustable white LEDs, built-in rechargeable battery and sturdy polycarbonate case. Hang it round your neck with […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e22b738172bc68ac</guid>
-      <pubDate>Thu, 25 Jun 2026 14:25:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flying Cell Towers Are A Thing</title>
-      <link>https://hackaday.com/2026/06/25/flying-cell-towers-are-a-thing/</link>
-      <description>Typically, when you’re sitting on a plane on the tarmac, you switch your phone to flight mode while you’re sitting through yet another “quirky” (boring) safety video. You’ll watch some …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-e4972b44b79fcb22</guid>
-      <pubDate>Thu, 25 Jun 2026 14:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>NeoEyes NE503 Brings 20 TOPS of On-Device AI to Industrial Cameras</title>
-      <link>https://www.hackster.io/news/neoeyes-ne503-brings-20-tops-of-on-device-ai-to-industrial-cameras-a0d8c402b66c</link>
-      <description>CamThink’s new NeoEyes NE503 edge AI camera packs 20 TOPS of processing power to smash latency and run vision models on-device.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-438731fcf6ecdf2e</guid>
-      <pubDate>Thu, 25 Jun 2026 13:51:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Your Own Retro VFD Desk Clock</title>
-      <link>https://www.hackster.io/news/build-your-own-retro-vfd-desk-clock-4257ef1254fb</link>
-      <description>Sciter_ hacked a retro calculator VFD into a modern desk clock powered by a single AA battery.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-4c4e43c09823277a</guid>
-      <pubDate>Thu, 25 Jun 2026 13:12:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
