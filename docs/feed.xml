@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 13:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:45:13 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Pool Noodle Master Sword #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/09/pool-noodle-master-sword-3dprinting-3dthursday/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pool Noodle Master Sword By Amedeo Makes makerworld.com/en/models/1513731-pool-noodle-master-sword-legend-of-zelda Bambu X1C PolyMaker PLA 3hr 43mins X:234 Y:152 Z:22mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 88g 230mm/s Every Thursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-cdec65c2d6e429e3</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberdeck for Raspberry Pi Zero – 3.5″ Display Portable #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/09/cyberdeck-for-raspberry-pi-zero-3-5-display-portable-3dprinting-3dthursday/</link>
+      <description>ndejongh shares: A small portable cyberdeck for the Raspberry Pi Zero or Zero 2 with a 3.5″ GPIO-connected display and a Rii miniature keyboard. Pocket-friendly form factor with full Pi capability. Pi 5/4 version also available from the same designer. By ndj-print download the files on: https://makerworld.com/en/models/1416854-cyberdeck-for-raspberry-pi-zero-and-3-5-display Every Thursday is #3dthursday here at Adafruit! The […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-7e61a06e3c4d7eb3</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Set up OpenClaw on your Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/set-up-openclaw-on-your-raspberry-pi/</link>
+      <description>Turn Raspberry Pi into a powerful AI assistant that can do anything on your computer and keep it safely contained. The post Set up OpenClaw on your Raspberry Pi appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-cd2ba539b2a4c0ea</guid>
+      <pubDate>Thu, 09 Jul 2026 11:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing a Dodgy Cheap Audio DAC</title>
+      <link>https://hackaday.com/2026/07/09/fixing-a-dodgy-cheap-audio-dac/</link>
+      <description>One of the attractions of buying at the bottom end of the electronics market by mail order from China is that you never quite know what will come your way. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-e7eca773e6f66d99</guid>
+      <pubDate>Thu, 09 Jul 2026 11:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mini Patch Panel Enclosure – Maker Workspace #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/09/mini-patch-panel-enclosure-maker-workspace-3dprinting-3dthursday/</link>
+      <description>glenbayley shares: A small patch panel enclosure for keeping low-voltage cabling tidy in a maker workspace or home lab. Routes Ethernet, USB, and other connectors through a clean front face — great for documenting and organizing project bench connections download the files on: https://makerworld.com/en/models/1359570-mini-patch-panel-enclosure Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-54ee1ca870aa6a45</guid>
+      <pubDate>Thu, 09 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure</title>
+      <link>https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/</link>
+      <description>Makerfabs MaUWB for Home Assistant is an ESP32-S3-based Ultra-Wideband (UWB) module designed for indoor positioning and Real-Time Location Systems (RTLS). It runs ESPHome for Home Assistant integration, enabling it to be used as part of a UWB-based positioning system to track tagged devices in homes, offices, and other indoor environments. The module combines an ESP32-S3 with a MaUWB UWB module based on the Qorvo DW3000, featuring a PA/LNA for long-range ranging. Compared to the earlier ESP32-S3 version, it drops the OLED and adds a WIZnet W5500 Ethernet controller that supports PoE. The module also supports Wi-Fi 4 and Bluetooth 5.0, and comes in an enclosure for fixed installations. Makerfabs MaUWB for Home Assistant specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 [...] The post Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-e78f2ee604237ca4</guid>
+      <pubDate>Thu, 09 Jul 2026 10:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Die Casting Comes Home</title>
+      <link>https://hackaday.com/2026/07/09/die-casting-comes-home/</link>
+      <description>You don’t normally think of die casting as something to do at home. Pressurized fluids demand respect at all times, which is perhaps in part why we see most projects …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7bd1e7aae25fef5e</guid>
+      <pubDate>Thu, 09 Jul 2026 08:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments</title>
+      <link>https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/</link>
+      <description>Norik Systems has developed a compact USB dongle based on Nordic Semiconductor’s nRF9151 SiP, mostly designed to work as a DECT NR+ child node or a USB-powered gateway. As a reminder, DECT NR+ is a non-cellular 5G standard for long-range low-power applications that works at 1.9 GHz and supports up to one million nodes through mesh, star, and point-to-point topologies. The Norik USB dongle enables developers to easily add DECT NR+ to gateways or child modes. Norik Systems DECT NR+ USB dongle specifications: Wireless System-in-Package – Nordic Semi nRF9151 CPU – Arm Cortex-M33 @ 64 MHz Memory – 256KB RAM Storage – 1MB flash Connectivity Multimode LTE-M/NB-IoT/NB-NTN modem with DECT NR+ support and GNSS. 700-2200 MHz LTE band support. Power Class 5 20 dBm Power Class 3 23 dBm 1.9 GHz and 915 MHz DECT NR+ band support (1, 2, 9, 22) Security – Arm TrustZone + Arm CryptoCell 310. [...] The post Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ca9ea6e04167f016</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>This DIY LED Wall Is Scalable to Any Size</title>
+      <link>https://www.hackster.io/news/this-diy-led-wall-is-scalable-to-any-size-d68fc537e863</link>
+      <description>Andy Huot created the Duality Canvas system for building DIY LED walls scaled to whatever size you desire.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-fad1bef08c02e6f8</guid>
+      <pubDate>Wed, 08 Jul 2026 23:04:17 +0000</pubDate>
+    </item>
     <item>
       <title>JP’s Product Pick of the Week 7/7/26</title>
       <link>https://blog.adafruit.com/2026/07/08/jps-product-pick-of-the-week-7-7-26/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-fc00e69b05c71653</guid>
       <pubDate>Thu, 04 Jun 2026 19:56:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The M64 Is a Pixel-Perfect Nintendo 64 Remake</title>
-      <link>https://www.hackster.io/news/the-m64-is-a-pixel-perfect-nintendo-64-remake-8ac81fa32306</link>
-      <description>ModRetro’s M64 FPGA console offers a pixel-perfect, zero-compromise recreation of the original Nintendo 64 experience.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-b46ac2b1c1d70602</guid>
-      <pubDate>Thu, 04 Jun 2026 17:26:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pre-Orders Open for Carl Bugeja’s Pocket-Sized ProtoBot Robotics Kit</title>
-      <link>https://www.hackster.io/news/pre-orders-open-for-carl-bugeja-s-pocket-sized-protobot-robotics-kit-7da0249e1bbf</link>
-      <description>ProtoBot is a pocket-sized, open source RC car and robotics kit that’s pure fun for experienced hackers and beginners alike.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-81e6d41f16b58e24</guid>
-      <pubDate>Thu, 04 Jun 2026 14:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BugBuster Gives AI the Tools to Debug Physical Hardware</title>
-      <link>https://www.hackster.io/news/bugbuster-gives-ai-the-tools-to-debug-physical-hardware-f4fd22236ce4</link>
-      <description>BugBuster is an open source hardware platform that lets AI models safely measure and control real hardware for autonomous debugging.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-6326a2a230bd875f</guid>
-      <pubDate>Thu, 04 Jun 2026 13:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hypnotic Clock Maker Does It Again</title>
-      <link>https://makezine.com/article/electronics/hypnotic-clock-maker-does-it-again/</link>
-      <description>This mesmerizing rainbow diffraction grating clock puts a little more color in your daily timekeeping. The post Hypnotic Clock Maker Does It Again appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-1f06bf48fd9f6c7f</guid>
-      <pubDate>Wed, 03 Jun 2026 19:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft introduces Coreutils for Windows, bringing familiar Unix-style command-line tools to Windows without requiring WSL</title>
-      <link>https://blog.adafruit.com/2026/06/03/microsoft-introduces-coreutils-for-windows-bringing-familiar-unix-style-command-line-tools-to-windows-without-requiring-wsl/</link>
-      <description>Bobby Borisov writes for Linuxiac that Microsoft has introduced Coreutils for Windows, a new Microsoft-maintained set of Unix-style command-line utilities that run natively on Windows. Announced at Microsoft’s Build 2026, Coreutils for Windows brings familiar Linux-style commands to Windows without requiring WSL or additional compatibility layers. The package is based on the uutils open-source project, a cross-platform […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-31d9c250bf0b918b</guid>
-      <pubDate>Wed, 03 Jun 2026 16:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robot hands are getting better  @chris_j_paxton</title>
-      <link>https://blog.adafruit.com/2026/06/03/robot-hands-are-getting-better-chris_j_paxton/</link>
-      <description>Chris Paxton takes a look at why robot hands are hard and what research is currently being done. Robots need to be able to interact with the world in order to be useful. They do this in many ways: by driving around and taking pictures during inspection tasks, by walking up and down stairs. Military […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-087f668ba0591000</guid>
-      <pubDate>Wed, 03 Jun 2026 15:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Support your young people with our AI literacy resources</title>
-      <link>https://www.raspberrypi.org/blog/ai-education-resources-ai-awareness-day/</link>
-      <description>At the Raspberry Pi Foundation, we believe that alongside learning to code, a crucial part of computing education is building AI literacy skills. Amidst the rapid pace of development and the growing impact of AI tools, it is increasingly important for educators everywhere to feel equipped to address the topic of AI with their learners,… The post Support your young people with our AI literacy resources appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-4c1f0196d8951871</guid>
-      <pubDate>Wed, 03 Jun 2026 14:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 6/2/26 @adafruit @johnedgarpark #adafruit #newproductpick</title>
-      <link>https://blog.adafruit.com/2026/06/03/jps-product-pick-of-the-week-6-2-26-adafruit-johnedgarpark-adafruit-newproductpick/</link>
-      <description>If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT / Qwiic! Watch the video to find out about the Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – STEMMA QT […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-81564852f0d37abc</guid>
-      <pubDate>Wed, 03 Jun 2026 13:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>This stunning smart planter tracks plant health and handles daily care</title>
-      <link>https://blog.arduino.cc/2026/06/03/this-stunning-smart-planter-tracks-plant-health-and-handles-daily-care/</link>
-      <description>Gardening is a prime application for smart automation, because plant care requires a lot of monitoring, but is relatively simple to execute. Large-scale agricultural operations are already highly automated, so why not do the same thing with your house plants? Giovanni Mannara (AKA Ingeimaks) did so in style by building this smart planter system that […] The post This stunning smart planter tracks plant health and handles daily care appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-a327c16202544d26</guid>
-      <pubDate>Wed, 03 Jun 2026 00:28:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
