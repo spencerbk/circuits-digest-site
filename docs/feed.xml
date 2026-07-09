@@ -5,23 +5,55 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 13:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:16:47 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
     <item>
-      <title>Pool Noodle Master Sword #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/09/pool-noodle-master-sword-3dprinting-3dthursday/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pool Noodle Master Sword By Amedeo Makes makerworld.com/en/models/1513731-pool-noodle-master-sword-legend-of-zelda Bambu X1C PolyMaker PLA 3hr 43mins X:234 Y:152 Z:22mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 88g 230mm/s Every Thursday […]</description>
+      <title>3D Hangouts – Flight Tracker, Chiptune Player and Noodle Sword</title>
+      <link>https://blog.adafruit.com/2026/07/09/3d-hangouts-flight-tracker-chiptune-player-and-noodle-sword/</link>
+      <description>﻿ 3D Hangouts – Flight Tracker, Chiptune Player and Noodle Sword https://youtube.com/live/v4zxYy2-riQ?feature=share This week @adafruit Pedro is working on a flight tracker with lunar transit features. Noe wraps up Liz Clark’s CircuitPython chiptune player. This week’s timelapse features a pool noodle sword inspired by Zelda video games. Adafruit Feather RP2350 with 8MB PSRAM: https://www.adafruit.com/product/6130 Adafruit […]</description>
       <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-cdec65c2d6e429e3</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:13 +0000</pubDate>
+      <guid isPermaLink="false">circuits-50c034a407da8440</guid>
+      <pubDate>Thu, 09 Jul 2026 15:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>Cyberdeck for Raspberry Pi Zero – 3.5″ Display Portable #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/09/cyberdeck-for-raspberry-pi-zero-3-5-display-portable-3dprinting-3dthursday/</link>
-      <description>ndejongh shares: A small portable cyberdeck for the Raspberry Pi Zero or Zero 2 with a 3.5″ GPIO-connected display and a Rii miniature keyboard. Pocket-friendly form factor with full Pi capability. Pi 5/4 version also available from the same designer. By ndj-print download the files on: https://makerworld.com/en/models/1416854-cyberdeck-for-raspberry-pi-zero-and-3-5-display Every Thursday is #3dthursday here at Adafruit! The […]</description>
+      <title>DOOM ported to the BBC Micro vintage computer</title>
+      <link>https://blog.adafruit.com/2026/07/09/doom-ported-to-the-bbc-micro-vintage-computer/</link>
+      <description>The ebenupton account on GitHub (likely the creator of the Raspberry Pi) has surfaced another gem of a project: a version of DOOM, an E1M1 wireframe renderer for a stock BBC Micro Model B (2MHz 6502, 32K + sideways RAM). Full BSP traversal, analytical hidden-surface removal, perspective projection, walkable with working doors and lifts, at […]</description>
       <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7e61a06e3c4d7eb3</guid>
-      <pubDate>Thu, 09 Jul 2026 12:00:58 +0000</pubDate>
+      <guid isPermaLink="false">circuits-7536768997564e07</guid>
+      <pubDate>Thu, 09 Jul 2026 14:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/07/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-9/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e6c521e9ca163731</guid>
+      <pubDate>Thu, 09 Jul 2026 14:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>QuadRF: The Open Source RF Camera That Lets You See Wi-Fi Signals</title>
+      <link>https://www.hackster.io/news/quadrf-the-open-source-rf-camera-that-lets-you-see-wi-fi-signals-141ad91f2a2d</link>
+      <description>QuadRF turns a Raspberry Pi 5 into a real-time RF camera to visualize and map wireless signals in AR.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-9aa0385017b56c5e</guid>
+      <pubDate>Thu, 09 Jul 2026 14:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Brief History of the Crazy Old 7-Segment Display</title>
+      <link>https://hackaday.com/2026/07/09/a-brief-history-of-the-crazy-old-7-segment-display/</link>
+      <description>How old is the seven-segment display? Surely it is a product of the 1970s. After all, calculators started showing up, and the height of junior high humor was plugging 7734 …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d9632a30954dca75</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-Cellular 5G Networks Simplified</title>
+      <link>https://www.hackster.io/news/non-cellular-5g-networks-simplified-6a82ce18bb85</link>
+      <description>Norik Systems' DECT NR+ USB Dongle makes it easy to experiment with near-real-time communication on private 5G networks.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-2e41520b39be6626</guid>
+      <pubDate>Thu, 09 Jul 2026 13:31:31 +0000</pubDate>
     </item>
     <item>
       <title>Set up OpenClaw on your Raspberry Pi</title>
@@ -32,22 +64,6 @@
       <pubDate>Thu, 09 Jul 2026 11:40:51 +0000</pubDate>
     </item>
     <item>
-      <title>Fixing a Dodgy Cheap Audio DAC</title>
-      <link>https://hackaday.com/2026/07/09/fixing-a-dodgy-cheap-audio-dac/</link>
-      <description>One of the attractions of buying at the bottom end of the electronics market by mail order from China is that you never quite know what will come your way. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-e7eca773e6f66d99</guid>
-      <pubDate>Thu, 09 Jul 2026 11:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mini Patch Panel Enclosure – Maker Workspace #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/09/mini-patch-panel-enclosure-maker-workspace-3dprinting-3dthursday/</link>
-      <description>glenbayley shares: A small patch panel enclosure for keeping low-voltage cabling tidy in a maker workspace or home lab. Routes Ethernet, USB, and other connectors through a clean front face — great for documenting and organizing project bench connections download the files on: https://makerworld.com/en/models/1359570-mini-patch-panel-enclosure Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-54ee1ca870aa6a45</guid>
-      <pubDate>Thu, 09 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure</title>
       <link>https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/</link>
       <description>Makerfabs MaUWB for Home Assistant is an ESP32-S3-based Ultra-Wideband (UWB) module designed for indoor positioning and Real-Time Location Systems (RTLS). It runs ESPHome for Home Assistant integration, enabling it to be used as part of a UWB-based positioning system to track tagged devices in homes, offices, and other indoor environments. The module combines an ESP32-S3 with a MaUWB UWB module based on the Qorvo DW3000, featuring a PA/LNA for long-range ranging. Compared to the earlier ESP32-S3 version, it drops the OLED and adds a WIZnet W5500 Ethernet controller that supports PoE. The module also supports Wi-Fi 4 and Bluetooth 5.0, and comes in an enclosure for fixed installations. Makerfabs MaUWB for Home Assistant specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 [...] The post Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure appeared first on CNX Software - Embedded Systems News.</description>
@@ -56,28 +72,12 @@
       <pubDate>Thu, 09 Jul 2026 10:57:49 +0000</pubDate>
     </item>
     <item>
-      <title>Die Casting Comes Home</title>
-      <link>https://hackaday.com/2026/07/09/die-casting-comes-home/</link>
-      <description>You don’t normally think of die casting as something to do at home. Pressurized fluids demand respect at all times, which is perhaps in part why we see most projects …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7bd1e7aae25fef5e</guid>
-      <pubDate>Thu, 09 Jul 2026 08:00:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments</title>
       <link>https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/</link>
       <description>Norik Systems has developed a compact USB dongle based on Nordic Semiconductor’s nRF9151 SiP, mostly designed to work as a DECT NR+ child node or a USB-powered gateway. As a reminder, DECT NR+ is a non-cellular 5G standard for long-range low-power applications that works at 1.9 GHz and supports up to one million nodes through mesh, star, and point-to-point topologies. The Norik USB dongle enables developers to easily add DECT NR+ to gateways or child modes. Norik Systems DECT NR+ USB dongle specifications: Wireless System-in-Package – Nordic Semi nRF9151 CPU – Arm Cortex-M33 @ 64 MHz Memory – 256KB RAM Storage – 1MB flash Connectivity Multimode LTE-M/NB-IoT/NB-NTN modem with DECT NR+ support and GNSS. 700-2200 MHz LTE band support. Power Class 5 20 dBm Power Class 3 23 dBm 1.9 GHz and 915 MHz DECT NR+ band support (1, 2, 9, 22) Security – Arm TrustZone + Arm CryptoCell 310. [...] The post Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments appeared first on CNX Software - Embedded Systems News.</description>
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-ca9ea6e04167f016</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>This DIY LED Wall Is Scalable to Any Size</title>
-      <link>https://www.hackster.io/news/this-diy-led-wall-is-scalable-to-any-size-d68fc537e863</link>
-      <description>Andy Huot created the Duality Canvas system for building DIY LED walls scaled to whatever size you desire.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-fad1bef08c02e6f8</guid>
-      <pubDate>Wed, 08 Jul 2026 23:04:17 +0000</pubDate>
     </item>
     <item>
       <title>JP’s Product Pick of the Week 7/7/26</title>
