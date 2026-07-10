@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 15:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support</title>
+      <link>https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/</link>
+      <description>M5Stack Stamp-C5, also known as the M5Stamp-C5, is a tiny wireless IoT USB-C board based on the Espressif ESP32-C5 RISC-V microcontroller with dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) connectivity. Despite its small size (19.1 x 17.6mm), the module exposes up to nineteen GPIO pins, eleven on standard 2.54mm pitch headers and castellated holes, and eight on an FPC extension header. The board also supports battery charging and ships with an external IPEX antenna for wireless connectivity, since there’s no built-in antenna. M5Stack Stamp-C5 specifications: Wireless MCU – Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + [...] The post M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-12b3fd11d6abf3bd</guid>
+      <pubDate>Fri, 10 Jul 2026 11:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser-Based Image Inpainting Runs Locally, If One Doesn’t Mind A Big Download</title>
+      <link>https://hackaday.com/2026/07/10/browser-based-image-inpainting-runs-locally-if-one-doesnt-mind-a-big-download/</link>
+      <description>[Simon Willison] ported the Moebuis 0.2B image inpainting model to run locally in a web browser. The web tool simply requires a user to provide an image, mark a section …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7f9d15b2ca02a31f</guid>
+      <pubDate>Fri, 10 Jul 2026 11:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhancing your enrichment offer? Code Club is the answer</title>
+      <link>https://www.raspberrypi.org/blog/code-club-enrichment-offer-schools-free-support/</link>
+      <description>There’s something really special about a Code Club. It’s a unique space for young people to get creative with technology on their terms, explore what interests them, and learn through experimenting and having fun. But speak to any Code Club leader and they’ll tell you: Code Club delivers so much more than just coding skills.… The post Enhancing your enrichment offer? Code Club is the answer appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-242fcc10e892919e</guid>
+      <pubDate>Fri, 10 Jul 2026 10:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Super Cheap Desk Toy Becomes a Hackable Desktop Notifier</title>
+      <link>https://hackaday.com/2026/07/10/a-super-cheap-desk-toy-becomes-a-hackable-desktop-notifier/</link>
+      <description>The GeekMagic SmallTV is as its name suggests, a tiny, vaguely TV-styled, device with a screen, that’s sold as a desktop notifier. Depending on the firmware running on the device …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-8fea7c38eda66914</guid>
+      <pubDate>Fri, 10 Jul 2026 08:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/</link>
+      <description>Oddly Specific Objects has launched a crowdfunding campaign for the Open Book Touch, an ESP32-S3-based e-reader with a 4.26-inch e-paper display with 480 x 800 resolution and a capacitive touch screen. The open-source hardware device comes with 16 MB flash, 8MB PSRAM, a frontlight with warm and cool LEDs, a microSD card for storage, and an 800 mAh user-replaceable LiPo battery with everything housed in a 3D printed enclosure. Open Book Touch specifications: SoC – Espressif Systems ESP32-S3 dual-core MCU with Wi-Fi and Bluetooth LE connectivity Memory – 8 MB octal SPI PSRAM Storage 16 MB quad SPI flash MicroSD card slot Display 4.26-inch, 480 × 800 e-paper; 1-bit and 2-bit grayscale with dithering Capacitive touchscreen based on FT6336 low-power controller Frontlight – five warm + five cool LEDs, independently dimmable USB – USB Type-C for power/charging and programming Misc – 3D-printed plastic enclosure; snap-fit, with 3D-printable CAD for custom shells; [...] The post Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-9bc336a63f5ec42e</guid>
+      <pubDate>Fri, 10 Jul 2026 02:05:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Filament Spool Dry Box – Pelican-Style Latching #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/09/filament-spool-dry-box-pelican-style-latching-3dprinting-3dthursday/</link>
+      <description>bcrooks shares: A Pelican-style latching dry box for a single 1kg filament spool. Robust latches with a TPU seal keep moisture out. Separate desiccant compartments hold beads in place, with an optional hygrometer install for humidity monitoring. Base needs tree support for the hygrometer variant. Ironed top surface for better sealing. By bcrooks download the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-8e5a171f6751d050</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pyramid Ambient Light Desk Lamp – Grid Diffuser Panels #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/09/pyramid-ambient-light-desk-lamp-grid-diffuser-panels-3dthursday-3dprinting/</link>
+      <description>Shared by canmaxfire on Maker World: A pyramid-shaped ambient lamp with four PETG hollow-out light-shielding panels forming a grid texture around an internal semi-translucent sphere. Light scatters through the sphere and grid panels to create warm layered ambient effects. Egyptian architecture meets modern maker aesthetic. Download the files and learn more Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-666d550d976996cc</guid>
+      <pubDate>Thu, 09 Jul 2026 23:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arduino UNO R4 Case Kit – Snap-Fit with Wall Mount #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/09/arduino-uno-r4-case-kit-snap-fit-with-wall-mount-3dprinting-3dthursday/</link>
+      <description>i.boxit shares: A snap-fit case kit specifically for the Arduino UNO R4, with an optional wall-mount variant. Reset button access, LED light-tube compatibility (transparent PLA fits as a light guide), integrated opener. Part of i-BoxIt’s popular snap-fit case series download the files on: https://makerworld.com/en/models/1498426-arduino-uno-r4-case-kit-snap-fit-wall-mount Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9de20aff62b786d5</guid>
+      <pubDate>Thu, 09 Jul 2026 22:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Homebrew Apple II Is Even Better Than It Looks</title>
+      <link>https://www.hackster.io/news/this-homebrew-apple-ii-is-even-better-than-it-looks-f3e31eb1d0d3</link>
+      <description>Simon Boak’s SB Mini II is a homebrew Apple II that is the perfect usable alternative to the real thing.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-efb5e1ab8cda8e7e</guid>
+      <pubDate>Thu, 09 Jul 2026 20:57:44 +0000</pubDate>
+    </item>
     <item>
       <title>3D Hangouts – Flight Tracker, Chiptune Player and Noodle Sword</title>
       <link>https://blog.adafruit.com/2026/07/09/3d-hangouts-flight-tracker-chiptune-player-and-noodle-sword/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-2ba1e00f2c8fb282</guid>
       <pubDate>Fri, 05 Jun 2026 11:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vintage Turntable Gets Brain Transplant and Home Assistant Integration</title>
-      <link>https://hackaday.com/2026/06/05/vintage-turntable-gets-brain-transplant-and-home-assistant-integration/</link>
-      <description>When [Marsupial] picked up a vintage Sansusi P-L45 turntable, he figured it would be an easy fix: a few capacitors, a belt or two, and maybe a new cartridge, the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-52ac0877f09a550b</guid>
-      <pubDate>Fri, 05 Jun 2026 08:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connecting Your Car to Home Assistant</title>
-      <link>https://hackaday.com/2026/06/04/connecting-your-car-to-home-assistant/</link>
-      <description>With how much time many of us spend in our cars, it makes perfect sense to consider them a second home. Yet even if that’s not the case, there are …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-865ea3700600e079</guid>
-      <pubDate>Fri, 05 Jun 2026 05:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1752 – Texas Instruments SCREWED UP the NE5532</title>
-      <link>https://www.eevblog.com/2026/06/05/eevblog-1752-texas-instruments-screwed-up-the-ne5532/</link>
-      <description>WTF were Texas Instruments thinking changing the design and major specs of the 45+ year old jellybean NE5532 audio opamp WITHOUT changing the part number?! New datasheet: https://www.ti.com/lit/ds/symlink/ne5532.pdf Old datasheet: https://www.mouser.com/datasheet/2/405/ne5532a-556776.pdf Change Notification: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5726/PCN20231114002.1.pdf Onsemi datasheet: https://www.onsemi.com/pdf/datasheet/ne5534-d.pdf Forum thread: https://www.eevblog.com/forum/chat/ti-ne5532-audio-opamp-changes/ OPI134: https://www.ti.com/lit/ds/symlink/opa4134.pdf 00:00 – TI have changed the classic jellybean NE5534 03:27 – Product Change …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-65d2a157bdde5c71</guid>
-      <pubDate>Fri, 05 Jun 2026 03:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Claims 20 second Qubits</title>
-      <link>https://hackaday.com/2026/06/04/microsoft-claims-20-second-qubits/</link>
-      <description>While it might seem that your computer malfunctions every few minutes, the reality is that modern computers are usually quite robust. Not so much for quantum computers, where qubit life …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f2dc367849231d43</guid>
-      <pubDate>Fri, 05 Jun 2026 02:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>This AI Operating System Hallucinates Pseudo-Software — Even Notepad — On Demand</title>
-      <link>https://www.hackster.io/news/this-ai-operating-system-hallucinates-pseudo-software-even-notepad-on-demand-f83e24b42ef9</link>
-      <description>VibeOS is really, really weird. It hallucinates everything, including the most basic software that "runs" without code.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-8ffb23d030a1ba2e</guid>
-      <pubDate>Fri, 05 Jun 2026 00:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>If You Want to Hack Me, Come in Through the Speaker</title>
-      <link>https://hackaday.com/2026/06/04/if-you-want-to-hack-me-come-in-through-the-speaker/</link>
-      <description>Some security hacks require someone to have physical access to your computer. In many cases, that’s easy to mitigate. Other attack vectors can put you at risk from anywhere via …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-36e5b9373f05d061</guid>
-      <pubDate>Thu, 04 Jun 2026 23:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Test Your Skills Against an AI Air Hockey Robot</title>
-      <link>https://www.hackster.io/news/test-your-skills-against-an-ai-air-hockey-robot-16e4c16db942</link>
-      <description>UBC capstone project creates an AI agent and robot to play air hockey with an impressive simulator.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-48b569bfbd063b12</guid>
-      <pubDate>Thu, 04 Jun 2026 22:38:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ways to Embed Magnets in 3D Prints and Not Ruin Printers</title>
-      <link>https://hackaday.com/2026/06/04/ways-to-embed-magnets-in-3d-prints-and-not-ruin-printers/</link>
-      <description>Adding magnets to a 3D print can be very useful in a design, but there are some things that can trip you up if you’re not aware of them. In …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-e9928c4513ff22f4</guid>
-      <pubDate>Thu, 04 Jun 2026 20:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s Workshop — LIVE TODAY 6/4/26</title>
-      <link>https://blog.adafruit.com/2026/06/04/john-parks-workshop-live-today-6-4-26/</link>
-      <description>It’s JOHN PARK’S WORKSHOP — LIVE! — Coming up at 4pm ET / 1pm PT Today! LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: Attachécade CircuitPython Parsec Tool Tips Learn Guide recap Retro Gear and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join maker John […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-fc00e69b05c71653</guid>
-      <pubDate>Thu, 04 Jun 2026 19:56:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
