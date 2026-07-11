@@ -5,12 +5,68 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Clay Extruder Enables Printable Pottery</title>
+      <link>https://hackaday.com/2026/07/11/clay-extruder-enables-printable-pottery/</link>
+      <description>Ceramic 3D printers, despite using the same fundamental mechanism as standard FDM printers, are much harder to find. Part of this comes down to the material properties of fired ceramics …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-155a24ad577a4a1b</guid>
+      <pubDate>Sat, 11 Jul 2026 11:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Look Inside a 1997 BBC Ceefax Generator</title>
+      <link>https://hackaday.com/2026/07/11/a-look-inside-a-1997-bbc-ceefax-generator/</link>
+      <description>Ceefax was the BBC’s broadcast teletext service that ran until 2012, providing text and rudimentary graphics that were broadcast invisibly with the TV signal. In order to get this teletext …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f875edb7e0484d03</guid>
+      <pubDate>Sat, 11 Jul 2026 08:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/07/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-11/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5447f794bcd618f6</guid>
+      <pubDate>Sat, 11 Jul 2026 07:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/</link>
+      <description>BrisbaneSilicon ELM11-Feather is a “microcontroller” board based on a Gowin GW1NR FPGA that is natively programmable in Lua, C, SystemVerilog, and VHDL. Compatible with the Adafruit Feather form factor, the board features GPIO headers, a built-in debugger, a USB-C port for power and programming, and a 2-pin header for a LiPo battery. The company calls it a microcontroller board because the FPGA runs a PicoRV32 MCU softcore at up to 75 MHz with 1MB RAM and 8MB flash, programmable with Lua, and the user can also customize hardware layers with RTL code using the remaining FPGA fabric. ELM11-Feather specifications: FPGA – Gowin GW1NR-LV9 FPGA from the GW1NR-9 family 8K LUTs 8,640 logical units (LUTs) 6,480 flip-flop 17,280 bits shadow SRAM (SSRAM) 486 Kbit block SRAM (BSRAM) 64 Mbit (8MB) PSRAM 608 Kbit user flash 2x PLL Up to 276x user I/O USB – 1x USB Type-C port for power and [...] The post Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-815963d6a5f70593</guid>
+      <pubDate>Sat, 11 Jul 2026 02:35:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>This DIY Digicam Looks Like It Belongs on the USCSS Nostromo</title>
+      <link>https://www.hackster.io/news/this-diy-digicam-looks-like-it-belongs-on-the-uscss-nostromo-f4ae37ec9781</link>
+      <description>This DIY Raspberry Pi-based digicam looks like it could have come directly from the Alien film set.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-c4d41b4eb71b3409</guid>
+      <pubDate>Fri, 10 Jul 2026 21:30:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s CircuitPython Parsec: Nested Display Groups</title>
+      <link>https://blog.adafruit.com/2026/07/10/john-parks-circuitpython-parsec-nested-display-groups/</link>
+      <description>#circuitpythonparsec Transform groups of groups with displayio inside of CircuitPython. code example To learn about CircuitPython: https://circuitpython.org</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d24ef2ead5ccc23d</guid>
+      <pubDate>Fri, 10 Jul 2026 18:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Empowering global AI literacy: Translating Experience AI resources into Croatian</title>
+      <link>https://www.raspberrypi.org/blog/empowering-global-ai-literacy-translating-experience-ai-resources-into-croatian/</link>
+      <description>We work with partners globally to promote AI literacy through Experience AI, our programme created in collaboration with Google DeepMind. With resources available in 19+ languages and a network of partners in over 38 countries, a key part of our work is translating and localising our materials so as many young people around the world… The post Empowering global AI literacy: Translating Experience AI resources into Croatian appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-875082aad49fb325</guid>
+      <pubDate>Fri, 10 Jul 2026 14:51:24 +0000</pubDate>
+    </item>
     <item>
       <title>M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support</title>
       <link>https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/</link>
-      <description>M5Stack Stamp-C5, also known as the M5Stamp-C5, is a tiny wireless IoT USB-C board based on the Espressif ESP32-C5 RISC-V microcontroller with dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) connectivity. Despite its small size (19.1 x 17.6mm), the module exposes up to nineteen GPIO pins, eleven on standard 2.54mm pitch headers and castellated holes, and eight on an FPC extension header. The board also supports battery charging and ships with an external IPEX antenna for wireless connectivity, since there’s no built-in antenna. M5Stack Stamp-C5 specifications: Wireless MCU – Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + [...] The post M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support appeared first on CNX Software - Embedded Systems News.</description>
+      <description>M5Stack Stamp-C5, also known as the M5Stamp-C5, is a tiny wireless IoT USB-C board based on the Espressif ESP32-C5 RISC-V microcontroller with dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) connectivity. Despite its small size (19.1 x 17.6mm), the module exposes up to nineteen GPIO pins, eleven on standard 2.54mm pitch headers and castellated holes, and eight on an FPC extension connector. The board also supports battery charging and ships with an external IPEX antenna for wireless connectivity, since there’s no built-in antenna. M5Stack Stamp-C5 specifications: Wireless MCU – Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + [...] The post M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support appeared first on CNX Software - Embedded Systems News.</description>
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-12b3fd11d6abf3bd</guid>
       <pubDate>Fri, 10 Jul 2026 11:21:21 +0000</pubDate>
@@ -30,6 +86,14 @@
       <category>raspberry-pi-foundation</category>
       <guid isPermaLink="false">circuits-242fcc10e892919e</guid>
       <pubDate>Fri, 10 Jul 2026 10:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32-S31 Series SoC Errata</title>
+      <link>https://www.espressif.com/en/node/10971</link>
+      <description>Language English ESP32-S31This document describes known errata in ESP32-S31 series of SoCs.v0.1Friday, July 10, 2026https://docs.espressif.com/projects/esp-chip-errata/en/latest/esp32s31/index.htmlSend add/update notification to subscribers: Document Type: Datasheet &amp; ErrataDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-34cd6847f78c1b4d</guid>
+      <pubDate>Fri, 10 Jul 2026 10:23:06 +0000</pubDate>
     </item>
     <item>
       <title>A Super Cheap Desk Toy Becomes a Hackable Desktop Notifier</title>
@@ -742,70 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-70162b931b193383</guid>
       <pubDate>Fri, 05 Jun 2026 18:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s CircuitPython Parsec: LCD Character Display Animation</title>
-      <link>https://blog.adafruit.com/2026/06/05/john-parks-circuitpython-parsec-lcd-character-display-animation/</link>
-      <description>#circuitpythonparsec Animate eight custom characters for the LCD character display code example To learn about CircuitPython: https://circuitpython.org</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-00f872403c289c04</guid>
-      <pubDate>Fri, 05 Jun 2026 16:40:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>UncleStem's AR Sandbox Turns Kinetic Sand Into a Live Topographic Map</title>
-      <link>https://www.hackster.io/news/unclestem-s-ar-sandbox-turns-kinetic-sand-into-a-live-topographic-map-d692a8a2c03d</link>
-      <description>UncleStem used a ToF sensor and a pico projector to turn kinetic sand into a live AR map that responds instantly as you form the landscape.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-c9f4aa6588d14442</guid>
-      <pubDate>Fri, 05 Jun 2026 16:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New $59 Pocket-Sized Tool Cures All Your I²C Headaches</title>
-      <link>https://www.hackster.io/news/a-new-59-pocket-sized-tool-cures-all-your-i-c-headaches-fd812aacebd5</link>
-      <description>The $59 I²C Doctor scans, debugs, and stress-tests I²C connections in seconds to solve hardware mysteries fast.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-eaf46aacbe509def</guid>
-      <pubDate>Fri, 05 Jun 2026 15:08:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Week in Security: Messing with AI, 7Zip and Notepad++ Vulnerabilities, HTTP2 Bomb, and More</title>
-      <link>https://hackaday.com/2026/06/05/this-week-in-security-messing-with-ai-7zip-and-notepad-vulnerabilities-http2-bomb-and-more/</link>
-      <description>With the rise of AI coding assistants continuing apparently unabated, some project maintainers have begun striking back. Ars Technica reports on projects putting hostile directions into the AGENTS.md file, or …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a641a2972ef18b59</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Custom Smart Home Controller Looks Like a Century-Old Antique</title>
-      <link>https://www.hackster.io/news/this-custom-smart-home-controller-looks-like-a-century-old-antique-665ddaa1d0b4</link>
-      <description>Tired of ugly smart home tech? This antique-inspired control hub combines leather, bronze, and E Ink for a unique appearance.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-17d85014f6279349</guid>
-      <pubDate>Fri, 05 Jun 2026 13:31:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peppe’s ghost LiDAR scanner</title>
-      <link>https://www.raspberrypi.com/news/peppes-ghost-lidar-scanner/</link>
-      <description>This LiDAR sensor's maker thinks that its 3D-printed shell evokes a "jumbo-sized juice container or Ghostbusters gizmo" The post Peppe’s ghost LiDAR scanner appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-71b379afc95bf211</guid>
-      <pubDate>Fri, 05 Jun 2026 12:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond Edge AI: bringing local intelligence to Arduino UNO Q</title>
-      <link>https://blog.arduino.cc/2026/06/05/beyond-edge-ai-bringing-local-intelligence-to-arduino-uno-q/</link>
-      <description>Edge AI is evolving quickly. It was the end of 2022 when the world saw the first Cloud AI tool available to everyone, accessible through a simple and intuitive chat. In less than four years, models have been refined, distilled, optimized, quantized – at record-breaking speed – to meet the needs of the first generation of […] The post Beyond Edge AI: bringing local intelligence to Arduino UNO Q appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-c89acb2485fc4b05</guid>
-      <pubDate>Fri, 05 Jun 2026 12:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using Electrolysis for More Than Just Generating Hydrogen</title>
-      <link>https://hackaday.com/2026/06/05/using-electrolysis-for-more-than-just-generating-hydrogen/</link>
-      <description>When the topic of ‘electrolysis’ is mentioned, people typically think of just splitting plain old dihydrogen monoxide (hydric acid: H2O) into its constituent atoms, but this barely scratches the surface …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2ba1e00f2c8fb282</guid>
-      <pubDate>Fri, 05 Jun 2026 11:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
