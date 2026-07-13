@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Name your own price for this Raspberry Pi Press book bundle</title>
+      <link>https://www.raspberrypi.com/news/name-your-own-price-for-this-raspberry-pi-press-book-bundle/</link>
+      <description>Support the Raspberry Pi Foundation's work to help young people realise their potential through computing. The post Name your own price for this Raspberry Pi Press book bundle appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-042dfe84dd4b6b52</guid>
+      <pubDate>Mon, 13 Jul 2026 12:25:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>DIY Steam Controller Puck Offers Xbox, Switch, PlayStation Emulation Modes</title>
+      <link>https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/</link>
+      <description>Valve recently released a new version of the Steam Controller, which features a wired USB puck that serves both as charger and dedicated, low-latency wireless receiver. The downside is they …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-939fd35e866a0e2c</guid>
+      <pubDate>Mon, 13 Jul 2026 11:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway</title>
+      <link>https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/</link>
+      <description>RAKwireless has sent us a sample of the WisMesh Station, a Meshtastic gateway and base station based on a Raspberry Pi 4 Model B, a WisMesh Pi HAT RAK6421 expansion board, a LoRa module, a GNSS module, all housed in a compact metal enclosure. It comes with meshtasticd preinstalled, making it ready to use right out of the box. Just unbox it, plug it in, and start using Meshtastic immediately. We’ll also use software packages for communication, data storage, and visualization, such as MQTT, Node-RED, InfluxDB, and Grafana, mostly following RAKwireless’s user guide WisMesh Station is available in 2 models according to transmit power: the standard RAK8622 model that uses the RAK13300 LoRa module (Semtech SX1262 with 22 dBm transmit power), suitable for urban networks where nodes are close to each other, and the high-power RAK8623 (HP) model that uses the RAK13302 module (SX1262 + SKY66122 amplifier circuit with 30 [...] The post WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-4b100da8c6dff959</guid>
+      <pubDate>Mon, 13 Jul 2026 08:13:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newton’s Cradle Isn’t Really Perpetual</title>
+      <link>https://hackaday.com/2026/07/13/newtons-cradle-isnt-really-perpetual/</link>
+      <description>If any astute Hackaday reader saw [dongvua90]’s Newton’s cradle go on without human intervention all day long, they’d probably suspect the truth: there’s a battery and a magnet involved. But …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9c3c24069ddf422a</guid>
+      <pubDate>Mon, 13 Jul 2026 08:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>CGI Motion Capture with only a Camera</title>
+      <link>https://hackaday.com/2026/07/12/cgi-motion-capture-with-only-a-camera/</link>
+      <description>Computer-generated imagery (CGI) has largely replaced physical models in major film productions these days, but the transition didn’t exactly happen overnight. For a time there was an effort to blend …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-c56f3baea6778621</guid>
+      <pubDate>Mon, 13 Jul 2026 05:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board</title>
+      <link>https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/</link>
+      <description>Germany-based Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi platforms: the BE-IIS-HPP-T1S and the BE-IIS-HPP-T1L. Designed for technology evaluation, industrial network prototyping, and educational laboratory use, these boards add 10 Mbit/s Ethernet communication over a single twisted pair to standard Raspberry Pi SBCs. The BE-IIS-HPP-T1S is based on the Microchip LAN8651 10BASE-T1S MAC-PHY and supports IEEE 802.3cg Single Pair Ethernet over multidrop networks with up to 8 nodes, enabling distances up to 25 meters on a shared bus. For longer-reach point-to-point links, the company offers the BE-IIS-HPP-T1L, built around Analog Devices ADIN1110 MAC-PHY. Both boards are part of the BE-IIS HAT++ ecosystem, which allows multiple industrial communication HATs to be stacked on a single Raspberry Pi without running into SPI or GPIO resource conflicts. Brechel Electronic 10BASE-T1L and 10BASE-T1S specifications: Compatibility – Raspberry Pi HAT+ compliant T1L – Supports Pi 3, 4, 5, and Zero [...] The post Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-1d18c37c9fc19d28</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Weekly Editorial Round-Up: Adafruit Summer Sale! and more!</title>
+      <link>https://blog.adafruit.com/2026/07/12/adafruit-weekly-editorial-round-up-adafruit-summer-sale-and-more/</link>
+      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. SALE Use the code Gleam15 […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-24985fec01fc7ebb</guid>
+      <pubDate>Sun, 12 Jul 2026 22:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Close Encounters Hat #AdafruitLearnSystem</title>
+      <link>https://blog.adafruit.com/2026/07/12/close-encounters-hat-adafruitlearnsystem/</link>
+      <description>Surpise your friends with a mother ship on your head, Spielberg style with this guide from the Adadfruit Learn System! The Close Encounters hat is a nod to the incredible movie — with lights and sounds that mimic the mother ship, all stowed under the brim. A photocell triggers the action for GEMMA, while the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a32c5a7aa4abc3b5</guid>
+      <pubDate>Sun, 12 Jul 2026 16:00:37 +0000</pubDate>
+    </item>
     <item>
       <title>Printing Fungal Art with Laser Control</title>
       <link>https://hackaday.com/2026/07/12/printing-fungal-art-with-laser-control/</link>
@@ -742,70 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-f138dbb8182dad21</guid>
       <pubDate>Sun, 07 Jun 2026 08:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>A RayCast FPS in COBOL</title>
-      <link>https://hackaday.com/2026/06/06/a-raycast-fps-in-cobol/</link>
-      <description>COBOL is not the first language anyone would ever think of when writing a First Person Shooter– after all , it’s the Common Business Oriented Language, not the Common Game …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2afe7e03e68fc57d</guid>
-      <pubDate>Sun, 07 Jun 2026 05:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a Gifford-McMahon Cryocooler With 3D-Printed Parts</title>
-      <link>https://hackaday.com/2026/06/06/building-a-gifford-mcmahon-cryocooler-with-3d-printed-parts/</link>
-      <description>Although cryocoolers are capable of pretty impressive cooling, for many of them the underlying working principle is simple enough that you do not need any special skills or a big …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-3f2e3a1671179ea0</guid>
-      <pubDate>Sun, 07 Jun 2026 02:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pi Pico Demos, Therefore It Is</title>
-      <link>https://hackaday.com/2026/06/06/pi-pico-demos-therefore-it-is/</link>
-      <description>A good demo, like [Linus Akesson]’s Sum Ergo Demonstrato, looks like magic to the average hacker. To normies who don’t know the limitations of the RP2350, they don’t see the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-8e080c6dcb1ac2a4</guid>
-      <pubDate>Sat, 06 Jun 2026 23:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>An old 3D printer becomes a new EMI imager</title>
-      <link>https://blog.arduino.cc/2026/06/06/an-old-3d-printer-becomes-a-new-emi-imager/</link>
-      <description>EMI (electromagnetic interference) can be a real nuisance in sensitive circuits. That might be from one device affecting another, but it can also happen when a circuit on a PCB interferes with another circuit on the same PCB (or another PCB in the same device). Engineering to prevent that entirely is really difficult and it […] The post An old 3D printer becomes a new EMI imager appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-d9ce4e108055c852</guid>
-      <pubDate>Sat, 06 Jun 2026 22:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pi Pico Puts Bluetooth Keyboards on the I2C Bus</title>
-      <link>https://hackaday.com/2026/06/06/pi-pico-puts-bluetooth-keyboards-on-the-i2c-bus/</link>
-      <description>If you’ve ever worked with I2C, you know its one of those things that makes working with modern microcontrollers such a pleasure. With a few wires and not many more …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-fed16efd1c326172</guid>
-      <pubDate>Sat, 06 Jun 2026 20:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Q8botOne Quadruped Robot Is Launching Soon</title>
-      <link>https://www.hackster.io/news/the-q8botone-quadruped-robot-is-launching-soon-0862ede16b04</link>
-      <description>Q8botOne is an affordable, fully assembled open source quadruped robot ready to trot, jump, and hack right out of the box.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d74f77bf5638c366</guid>
-      <pubDate>Sat, 06 Jun 2026 19:50:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stratasys vs Bambu Lab: Industrial vs Consumer ABS Showdown</title>
-      <link>https://hackaday.com/2026/06/06/stratasys-vs-bambu-lab-industrial-vs-consumer-abs-showdown/</link>
-      <description>Professional Stratasys FDM printers demand a pretty hefty price premium over your typical hobbyist-level machine, with the gold-plating continuing even with the special filament cartridges that you buy for some …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-49e1cbebc61f667f</guid>
-      <pubDate>Sat, 06 Jun 2026 17:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homebrew Webcam Support for the Original Xbox</title>
-      <link>https://hackaday.com/2026/06/06/homebrew-webcam-support-for-the-original-xbox/</link>
-      <description>These days, we take it for granted that a video game console will have multiple USB ports. There’s even an expectation that basic peripherals such as storage devices will “Just …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-1093b0c2da392524</guid>
-      <pubDate>Sat, 06 Jun 2026 14:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
