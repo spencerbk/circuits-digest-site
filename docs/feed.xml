@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>This Historic 110-Year-Old NYC Business Is Shutting Down</title>
+      <link>https://blog.adafruit.com/2026/07/14/this-historic-110-year-old-nyc-business-is-shutting-down/</link>
+      <description>The American Wood Column Corp is located in Brooklyn, New York. It’s one of the last holdouts of old-school woodwork manufacturing in the city and is officially NYC’s last wood column factory. The family company’s CEO Thomas Lupo is quite candid and charming about the history and reality of the business, which will soon closer […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-414ce3cbbb426fab</guid>
+      <pubDate>Tue, 14 Jul 2026 12:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Book Touch Makes Crowd Funding Debut</title>
+      <link>https://hackaday.com/2026/07/14/open-book-touch-makes-crowd-funding-debut/</link>
+      <description>If you have even the slightest interest in open hardware e-readers, you’ve certainly heard of [Joey Castillo]’s Open Book project. We’ve covered his efforts to develop an affordable reader that …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-99b31b675fea402f</guid>
+      <pubDate>Tue, 14 Jul 2026 11:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI literacy begins with data literacy: An example from healthcare</title>
+      <link>https://www.raspberrypi.org/blog/ai-literacy-begins-with-data-literacy-an-example-from-healthcare/</link>
+      <description>The development of AI and data science has transformed how we gain insights from data. In healthcare, AI tools are being used in the development of new treatments as researchers apply machine learning methods to datasets. However, applying AI in healthcare also brings risks, particularly when systems amplify existing biases in data or design. In… The post AI literacy begins with data literacy: An example from healthcare appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-6d1871097e5f332a</guid>
+      <pubDate>Tue, 14 Jul 2026 09:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition)</title>
+      <link>https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/</link>
+      <description>Canada-based Moddo has designed the Pinch board, which it claims is the world’s smallest 32-bit Arduino-compatible board so far, measuring just 10.9 x 10.5 mm. The board is powered by a Microchip SAMD11 Cortex-M0+ microcontroller with 4 KB SRAM and 16KB flash, features an RGB LED, reset/bootloader button, 3.3 V LDO, a USB-C port, and a total of 12 GPIOs. Moddo Pinch specifications: Microcontroller – Microchip SAM D11 (ATSAMD11D14A) MCU core – Arm Cortex-M0+ processor running at up to 48 MHz RAM – 4 KB SRAM Storage – 16 KB Flash (12 KB for sketches, 4 KB bootloader) USB – 1x USB Type-C port for power, programming (CDC serial), and HID Expansion – 16-pin header (1.27mm pitch) 12x GPIO (D0–D11) 5x analog input (A0–A4) 11x PWM 1x DAC 1x I2C, 1x SPI, 2x UART(multiplexed with USB &amp; D5/D6) Debug – SWD on D5 (SWCLK) and D6 (SWDIO) Misc RGB LED [...] The post Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-9ab281b5f3d74385</guid>
+      <pubDate>Tue, 14 Jul 2026 08:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Seemingly Impossible Oscillator</title>
+      <link>https://hackaday.com/2026/07/14/the-seemingly-impossible-oscillator/</link>
+      <description>Back in the days when an integrated circuit meant a simple but expensive device such as a 741 or a 555, most electronics enthusiasts made do with discrete transistor circuits. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-0ef157dc6b57b0ae</guid>
+      <pubDate>Tue, 14 Jul 2026 08:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant</title>
+      <link>https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/</link>
+      <description>IoTLabs wM-Bus Gateway is an ESP32 device supporting the Wireless M-Bus (wM-Bus) standard for receiving data from compatible meters and sensors, designed for full integration with Home Assistant. Wireless M-Bus (Wireless Meter Bus) is a wireless protocol specifically designed for remote reading of smart meters, generally gas, water, or electricity meters, and typically used by utilities, but the wM-Bus gateway allows you to deploy the standard for your home automation solution, meters, and sensors. wM-Bus gateway specifications: Main controller – ESP32 dual-core microcontroller with Wi-Fi and BLE connectivity Display – 1.3-inch OLED for live measurements and status wM-Bus – 868 MHz radio receiver; Semtech SX1276-based RFM95/RFM96 according to the code Supports T1 and C1 frames, compatible with the wmbusmeters library Antennas Built-in 2.4 GHz antenna for Wi-Fi and Bluetooth External SMA antenna for wireless M-Bus; important: must be connected before powering the device to avoid damage Misc Top button to [...] The post IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3fd78af40db8d592</guid>
+      <pubDate>Tue, 14 Jul 2026 03:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Input Device Tailored to Vibe Coding</title>
+      <link>https://www.hackster.io/news/an-input-device-tailored-to-vibe-coding-b24ae38b3093</link>
+      <description>A microphone and speech-to-text are all you need for vibe coding, which led Gokux to creating this unique input device tailored the practice</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-3140d1b6bf0d0dad</guid>
+      <pubDate>Mon, 13 Jul 2026 21:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reviewing a trove of old computers in Germany</title>
+      <link>https://blog.adafruit.com/2026/07/13/reviewing-a-trove-of-old-computers-in-germany/</link>
+      <description>On July 26, 2006, The Computer History Museum curator Dag Spicer received an unexpected email from Dortmund, Germany. It described what appeared to be a lost trove of rare computers abandoned in a warehouse in the town of Castrop-Rauxel. The Museum’s collections committee agreed that a visit was necessary to see exactly what was there […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ee741e5bba555f9c</guid>
+      <pubDate>Mon, 13 Jul 2026 21:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Deere owners will get the right to repair their own equipment under a new FTC settlement</title>
+      <link>https://blog.adafruit.com/2026/07/13/john-deere-owners-will-get-the-right-to-repair-their-own-equipment-under-a-new-ftc-settlement/</link>
+      <description>It looks like John Deere owners can soon feel free to fix their own machines. The Federal Trade Commission and attorneys general from several states secured a right-to-repair settlement Wednesday with agriculture equipment giant Deere &amp; Co. — commonly known as John Deere — that requires the company to let farmers and independent shops fix their […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1e34580afc5854d2</guid>
+      <pubDate>Mon, 13 Jul 2026 20:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hello World #30 out now: Critical thinking in the age of AI</title>
+      <link>https://www.raspberrypi.org/blog/hello-world-30-out-now-critical-thinking-in-the-age-of-ai/</link>
+      <description>Today’s data-driven tools can make many aspects of our personal lives less time-consuming, because they present us with options and even make decisions for us. By relying on predictive text features, we write messages more quickly and outsource our word choices. By using music and film recommendations, we outsource our personal taste. And by using… The post Hello World #30 out now: Critical thinking in the age of AI appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-2887b37c27097760</guid>
+      <pubDate>Mon, 13 Jul 2026 15:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery</title>
+      <link>https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/</link>
+      <description>Ambient Scientific GPX10 Pro is a processor/microcontroller for always-on embedded AI applications on power-constrained edge devices. With a consumption of under &lt;100μW, it can deliver years of always-on AI on one coin-cell battery. The SoC features ten software-programmable MX8 AI cores leveraging the company’s DigAn technology, ultra-low power ADC, an 8-bit DVP camera interface, 2048 KB SRAM, support for numerous peripherals, and an Arm Cortex-M4F core for non-AI workloads. GPX10 Pro key features and specifications: MCU core – Arm Cortex-M4F core clocked at 100 KHz to 100 MHz Memory 2048 KB system SRAM 64KB retention SRAM in “Always On” block Storage – External SPI or QSPI flash 10x MX8 programmable AI Cores for ultra-low power deep learning applications Based on the DigAn AI engine, which can change behavior between being a master and a slave. Up to 2,560 MAC operations per clock cycle (256 MAC per cycle per core) Peak [...] The post Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-46a35bafd1dec024</guid>
+      <pubDate>Mon, 13 Jul 2026 13:51:00 +0000</pubDate>
+    </item>
     <item>
       <title>Name your own price for this Raspberry Pi Press book bundle</title>
       <link>https://www.raspberrypi.com/news/name-your-own-price-for-this-raspberry-pi-press-book-bundle/</link>
@@ -718,94 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-b92ec61feee89d43</guid>
       <pubDate>Mon, 22 Jun 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackaday Links: June 21, 2026</title>
-      <link>https://hackaday.com/2026/06/21/hackaday-links-june-21-2026/</link>
-      <description>Today marks the summer solstice, the longest day of the year and the start of astronomical summer in the Northern Hemisphere. This doesn’t really have much to do with hacking …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7d4215af9a558d15</guid>
-      <pubDate>Sun, 21 Jun 2026 23:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round-Up: Dragon Kite Poi, USB Audio in TinyUSB &amp; More!</title>
-      <link>https://blog.adafruit.com/2026/06/21/adafruit-weekly-editorial-round-up-dragon-kite-poi-usb-audio-in-tinyusb-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Open for Business, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-25206abb2bae89b4</guid>
-      <pubDate>Sun, 21 Jun 2026 19:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The DIY Robot Giving Control Back to Farmers</title>
-      <link>https://www.hackster.io/news/the-diy-robot-giving-control-back-to-farmers-17f4a0a7772f</link>
-      <description>The WEEDINATOR is a DIY farm robot built to break farmers out of expensive, closed source AgTech ecosystems.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-1ef220469ca2306a</guid>
-      <pubDate>Sun, 21 Jun 2026 16:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products this Week</title>
-      <link>https://blog.adafruit.com/2026/06/20/adafruit-new-products-this-week-2/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debuted 2 New Products. Keep up with all the new at Adafruit.com/NEW. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6b38849fda1d6876</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AntSDR T510 AI Puts an AMD RFSoC and an NVIDIA Jetson on One Board</title>
-      <link>https://www.hackster.io/news/the-antsdr-t510-ai-puts-an-amd-rfsoc-and-an-nvidia-jetson-on-one-board-73eaf93b594a</link>
-      <description>The MicroPhase AntSDR T510 AI combines an AMD RFSoC and an NVIDIA Jetson on one board that crushes latency in next-gen wireless development.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f7f452592c97dc48</guid>
-      <pubDate>Sat, 20 Jun 2026 15:22:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Ten Projects My Dad Would Like</title>
-      <link>https://makezine.com/article/home/top-ten-projects-my-dad-would-like/</link>
-      <description>This Father's Day I rounded up 9 projects my dad would like, plus one more. The post Top Ten Projects My Dad Would Like appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-ff9cd65319e0c285</guid>
-      <pubDate>Sat, 20 Jun 2026 06:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WLED 16: What’s New #LED Matrices #AdafruitLearningSystem @Adafruit</title>
-      <link>https://blog.adafruit.com/2026/06/19/wled-16-whats-new-led-matrices-adafruitlearningsystem-adafruit/</link>
-      <description>WLED 16 is the biggest LED control software upgrade in years, bringing powerful new creative tools to your LEDs. If you’ve been happily using WLED 0.14 or 0.15, this update adds major improvements for LED strips, matrices, wearables, sculptures, and interactive art. This guide is an overview of the new features in WLED 16 — […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f16336e0cd33ffbf</guid>
-      <pubDate>Fri, 19 Jun 2026 17:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drones in Detroit #makerbusiness</title>
-      <link>https://blog.adafruit.com/2026/06/19/drones-in-detroit-makerbusiness/</link>
-      <description>A recent article in The New York Times reports on Michigan’s effort to pivot Detroit’s manufacturing legacy into the would-be fast growing U.S. drone industry. The piece follows Birdstop, a drone startup that moved into the former United Auto Workers training facility and examines how incentives, auto suppliers, and local investors are trying to make […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-deb57d0cd90c2740</guid>
-      <pubDate>Fri, 19 Jun 2026 16:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-19-3/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-1414ec1dbd4d5017</guid>
-      <pubDate>Fri, 19 Jun 2026 14:22:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Life For a Rare Console</title>
-      <link>https://hackaday.com/2026/06/07/a-new-life-for-a-rare-console/</link>
-      <description>One of the delights of our tips line is that from time to time it brings us retrocomputing hardware that, despite years of reporting, we were not aware existed. [Hitmanmcc] …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-cb28cb83361b5adb</guid>
-      <pubDate>Sun, 07 Jun 2026 11:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Less Than 10 Years? Commonwealth Fusion Systems Applies to Plug into Grid in 2030s</title>
-      <link>https://hackaday.com/2026/06/07/less-than-10-years-commonwealth-fusion-systems-applies-to-plug-into-grid-in-2030s/</link>
-      <description>Whenever the topic of fusion power comes up, someone will say it’s only 10 years away from commercialization in an excited tone, and someone older or more cynical will point …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f138dbb8182dad21</guid>
-      <pubDate>Sun, 07 Jun 2026 08:00:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
