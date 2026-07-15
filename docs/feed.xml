@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/</link>
+      <description>Bigme has launched the Hibreak Dual 2, an Android 16 smartphone with a 6.13-inch 80fps E-Ink display on the front and a 5-inch LCD on the rear. Built around the MediaTek Dimensity 8300 processor and supports dual 5G connectivity, positioning it as an E-Ink smartphone with flagship-class hardware. The front E-Ink can be used for reading, writing, and general everyday use, whereas the LCD in the back serves as a conventional smartphone display for applications that require higher refresh rates and full-color output, like video gaming and navigation. This dual-screen setup allows users to switch between the two displays depending on the task. Bigme Hibreak Dual 2 specifications: SoC – MediaTek Dimensity 8300 CPU – Octa-core processor with 4x Arm Cortex-A715 and 4x Cortex-A510 GPU – Arm Mali-G615 VPU Video Encoding – H.264, HEVC Video Playback – H.264, HEVC, VP9, AV1 AI accelerator – MediaTek NPU 780 Memory – 12GB [...] The post Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5ca55062e8dff0c0</guid>
+      <pubDate>Wed, 15 Jul 2026 13:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dragon Labs Launches the CR-8 Eight-Channel Coherent SDR</title>
+      <link>https://www.hackster.io/news/dragon-labs-launches-the-cr-8-eight-channel-coherent-sdr-be937864c886</link>
+      <description>The Dragon Labs CR-8 is an affordable eight-channel coherent SDR that brings beamforming and direction finding to your workbench.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-1b1b649f968cf799</guid>
+      <pubDate>Wed, 15 Jul 2026 12:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making a Locked Down Wearable Work Without a Subscription</title>
+      <link>https://hackaday.com/2026/07/15/making-a-locked-down-wearable-work-without-a-subscription/</link>
+      <description>WHOOP does not have the presence in the wearable space as other brands, but in certain circles, it’s a household name. Their business model requires you to have a yearly …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-e60fdac7bbab58a5</guid>
+      <pubDate>Wed, 15 Jul 2026 11:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking Around the Financial Pain of New 3DS XL Top Screens</title>
+      <link>https://hackaday.com/2026/07/15/hacking-around-the-financial-pain-of-new-3ds-xl-top-screens/</link>
+      <description>With Nintendo’s 3DS experiencing a bit of a renaissance lately, prices for functioning systems have shot through the roof. Getting a busted one with a broken screen is a lot …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-615d3b8e3b3c1769</guid>
+      <pubDate>Wed, 15 Jul 2026 08:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux</title>
+      <link>https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/</link>
+      <description>Back in 2024, we noted that the open-source driver for RK3588’s NPU by Tomeu Vizoso delivered decent performance for object detection. Since then, good progress has been made, and it’s now known as the Rocket driver in mainline Linux. However, the Rockchip RK3576 SoC is not supported by the Rocket driver in mainline yet, despite sharing a similar NPU. The good news is that Ga Hing Woo has been working on mainline Linux support for the Rockchip RK3576 NPU using the Rocket driver stack and has tested the updates on the Radxa ROCK 4D running Linux 7.1-rc5. This required some serious reverse-engineering work due to hidden registers not documented in the TRM. Ga Hing Woo (also written as Jiaxing Hu) sent us an email explaining some of the challenges: Single int8 convolution now comes out byte-exact against a CPU reference on the open stack. Getting there meant reverse-engineering the compute [...] The post Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ef4c7b97e78a47de</guid>
+      <pubDate>Wed, 15 Jul 2026 05:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored)</title>
+      <link>https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/</link>
+      <description>In today’s fast-paced electronics industry, bringing innovative products from concept to market quickly and cost-effectively is more important than ever. AIVON, a trusted PCB manufacturing expert with over 15 years of experience in high-quality PCBA production, understands these challenges deeply. To support engineers, hardware startups, makers, and established electronics companies, AIVON is launching its Monthly PCBA Deals for low-cost PCBA prototyping starting at $35 with free shipping. The factory-direct promotions are designed to significantly reduce prototyping and small-batch production costs while maintaining strict quality standards and professional manufacturing support. Limited-Time SMT Assembly Offers (Open to All Customers) $35 Super Prototype Special – Ideal for fast validation and early development Order quantity: ≤ 10pcs $75 Small-Batch Power Deal – Perfect for pilot runs and small production Order quantity: ≤ 30pcs Each user can enjoy this deal twice per month $30 Shipping Relief Applies to SMT orders ≤ 30pcs Each user can [...] The post Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-cc8a605739c79d28</guid>
+      <pubDate>Wed, 15 Jul 2026 02:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a robotics research setup that lives next to a desk</title>
+      <link>https://blog.adafruit.com/2026/07/14/building-a-robotics-research-setup-that-lives-next-to-a-desk/</link>
+      <description>Matthias Plappert at dfdx labs will spend the next several months doing independent research on robotic manipulation, and doing it in the open. I don’t expect the main output to be papers or an open-source codebase. What I care about here is the research log itself: what works, what fails, and what I learn from […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c16ebc2876a58af6</guid>
+      <pubDate>Tue, 14 Jul 2026 21:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Advanced Nintendo Entertainment System</title>
+      <link>https://blog.adafruit.com/2026/07/14/an-advanced-nintendo-entertainment-system/</link>
+      <description>decrazyo on GitHub outlines the process for modding the Nintendo Entertainment System (NES) to use 2 PPUs for advanced graphical features. I don’t expect anyone to actually bother building this so the docs might be kind of half-assed at times. Check out my modified fork of Mesen2 if you’d like to play with this concept without modding […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-0b0e6ee2c7407bac</guid>
+      <pubDate>Tue, 14 Jul 2026 21:22:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Beavis Ultrasound PnP ISA sound card replica</title>
+      <link>https://blog.adafruit.com/2026/07/14/a-beavis-ultrasound-pnp-isa-sound-card-replica/</link>
+      <description>Eric Schlaepfer On Tube Time has designed the Beavis Ultrasound PnP, an open source replica of the Gravis Ultrasound Pnp. Unlike other clones, this design includes the entire schematic as well as the reverse-engineered source code of the GAL. While Eric notes “I have not generated the fab package since I have not actually fabricated […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c40a56e15bbe0934</guid>
+      <pubDate>Tue, 14 Jul 2026 21:12:40 +0000</pubDate>
+    </item>
     <item>
       <title>This Historic 110-Year-Old NYC Business Is Shutting Down</title>
       <link>https://blog.adafruit.com/2026/07/14/this-historic-110-year-old-nyc-business-is-shutting-down/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-9dbb16a4e44c96e5</guid>
       <pubDate>Mon, 22 Jun 2026 23:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Track Planes on Your Ceiling in Real Time #raspberrypi</title>
-      <link>https://blog.adafruit.com/2026/06/22/track-planes-on-your-ceiling-in-real-time-raspberrypi/</link>
-      <description>Cameron Paczek created this project to see what planes were flying overhead, while he is INSIDE. A simple project (if you have a $1500 projector) with a fun payoff. Let’s see a realtime planetarium next? Picked up by Raspberry Pi When maker Cameron Paczek moved into a new home directly beneath the take-off path of […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d095e57f5c86083b</guid>
-      <pubDate>Mon, 22 Jun 2026 20:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doom Is Officially Running on the Xiaomi Mi Band 10</title>
-      <link>https://www.hackster.io/news/doom-is-officially-running-on-the-xiaomi-mi-band-10-639dca68619e</link>
-      <description>Aaron Christophel reverse engineered the Xiaomi Mi Band 10 to get Doom running on its tiny screen.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f05094b0a32469e9</guid>
-      <pubDate>Mon, 22 Jun 2026 16:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/06/22/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-22/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f475b2b3c5b3052e</guid>
-      <pubDate>Mon, 22 Jun 2026 14:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plane Spotter — a Tactical ADS-B Desk Radar (ESP8266 + 1 Inch OLED)</title>
-      <link>https://blog.adafruit.com/2026/06/22/plane-spotter-a-tactical-ads-b-desk-radar-esp8266-1-inch-oled/</link>
-      <description>I live in an area with a lot of air traffic. Often my children ask me, or I find myself wondering, where the airplanes overhead are going, and from where they came. This project from Italian maker Danilo Cannas seems like a perfect fit for me to try out: A 3D-printed desk gadget that shows […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-fa01386955d5662e</guid>
-      <pubDate>Mon, 22 Jun 2026 13:54:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maker Monday: A summer of Raspberry Pi community events</title>
-      <link>https://www.raspberrypi.com/news/maker-monday-a-summer-of-raspberry-pi-community-events/</link>
-      <description>From Karachi to Bangalore and Paris to Cornwall, there are plenty of Raspberry Pi community events happening this summer. The post Maker Monday: A summer of Raspberry Pi community events appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-5f8e5fea3eaf2559</guid>
-      <pubDate>Mon, 22 Jun 2026 12:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>SDS-Remote Brings Power-User Features to Siglent Scope</title>
-      <link>https://hackaday.com/2026/06/22/sds-remote-brings-power-user-features-to-siglent-scope/</link>
-      <description>Many oscilloscopes have provisions to be connected to a computer and used remotely, but most of those interfaces are fairly rudimentary. To address this, [Winfried] has developed the SDS-Remote, a …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-07bdfbe80140e350</guid>
-      <pubDate>Mon, 22 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Telescope Rancher” is The Coolest Job You Didn’t Know Existed</title>
-      <link>https://hackaday.com/2026/06/22/telescope-rancher-is-the-coolest-job-you-didnt-know-existed/</link>
-      <description>McCulloch County, Texas, is smack dab in the middle of a very large state. We wouldn’t exactly call it the middle of nowhere, but given there’s so little light pollution …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-ce6838669f7dfb5b</guid>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Won’t Somebody Please Think Of Banning The British Children!</title>
-      <link>https://hackaday.com/2026/06/21/wont-somebody-please-think-of-banning-the-british-children/</link>
-      <description>The British government is in a headlong rush to ban under-16s from social media, and restrict the access of under-18s. And in typical form, the EFF is here with a …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-ffa75d1a3c41036b</guid>
-      <pubDate>Mon, 22 Jun 2026 05:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brewing Espresso with Ultrasonic Assistance</title>
-      <link>https://hackaday.com/2026/06/21/brewing-espresso-with-ultrasonic-assistance/</link>
-      <description>There are as almost as many kinds of coffee as there are of coffee drinkers, with each method for preparing the beverage appealing to a different kind of palate: moka …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b92ec61feee89d43</guid>
-      <pubDate>Mon, 22 Jun 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
