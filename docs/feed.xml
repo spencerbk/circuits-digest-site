@@ -5,8 +5,120 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Pool Noodle Numchucks #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/16/pool-noodle-numchucks-3dprinting-3dthursday/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pool Noodle Numchucks By CompliantDesigns makerworld.com/en/models/1497093-pool-noodle-numchucks Bambu X1C PolyMaker PLA 3hr 58mins X:202 Y:202 Z:130mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 85g 230mm/s Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f417537c3497f589</guid>
+      <pubDate>Thu, 16 Jul 2026 13:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elegant Snap-Fit Arduino UNO R3 Enclosure – Transparent Cover Option #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/16/elegant-snap-fit-arduino-uno-r3-enclosure-transparent-cover-option-3dprinting-3dthursday/</link>
+      <description>baszczewski shares: A clean, compact Arduino UNO R3 enclosure with a four-pin snap-fit top cover that can be printed in transparent filament to keep the board visible. Board sits on three guide pins and can be secured with a small computer screw (Ø2.85mm, 5.7mm). Note: ICSP ports require removing the top cover. By baszczewski download […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-27524d7b19311217</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Earth Desktop Client to be Retired in 2027</title>
+      <link>https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/</link>
+      <description>Come next year, those looking to explore the globe virtually via Google Earth will have to do so on their smartphone or from within their browser, as the search giant …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-dfb0ad2b95358d30</guid>
+      <pubDate>Thu, 16 Jul 2026 11:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 4/5 Wall Mount Case – Arcade-Style Slide-In #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/16/raspberry-pi-4-5-wall-mount-case-arcade-style-slide-in-3dprinting-3dthursday/</link>
+      <description>twgondeck shares: A slide-in wall-mount case designed for arcade builds. Both Pi 4 and Pi 5 versions slide easily into the wall mount with all ports accessible. Pi 5 version fits the RP5 Active Cooler; Pi 4 has two variants (30mm fan or passive cooling slots). Uses M2.5×16mm screws download the files on: https://makerworld.com/en/models/1109124-raspberry-pi-4-5-wall-mount-case Every […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-7bb485c860ce2c31</guid>
+      <pubDate>Thu, 16 Jul 2026 11:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter</title>
+      <link>https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/</link>
+      <description>pico-usb-wifi is an open-source firmware project that converts the Raspberry Pi Pico W into a driverless USB WiFi adapter that works with Windows, Linux, macOS, and other operating systems with USB CDC-NCM support. The Infineon CYW43439 chip found in the SBC can’t be used directly as a USB to WiFi bridge, and instead, the firmware implements a transparent Layer-2 bridge between the Pico W’s wireless module and USB interfaces. It basically works as an Ethernet to WiFi gateway/bridge, which exposes an Ethernet connection through USB (aka USB gadget mode) used to route Wi-Fi packets from the network. pico-usb-wifi highlights: Transparent Layer-2 Bridging between the Pico W’s wireless and USB interfaces Exposed as a USB CDC-NCM device IPv4 and IPv6 with no NAT, no private subnet, and no port-forwarding to configure Out-of-band management and debug consoles over CDC-ACM serial WPA2-PSK and WPA3-SAE authentication (and open networks) Throughput – Average 4.75 Mbits/sec; [...] The post pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-a108742709d943b9</guid>
+      <pubDate>Thu, 16 Jul 2026 09:58:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif Announces Aliro Solution for Interoperable Smart Access Products</title>
+      <link>https://www.espressif.com/en/news/ESP_Aliro_Release</link>
+      <description>Shanghai, China Espressif Systems today announced its Aliro solution, enabling developers and device makers to build interoperable smart locks and access control products using Espressif’s wireless SoCs, ESP-IDF, and Matter development ecosystem. What is Aliro Aliro, developed by the Connectivity Standards Alliance, is a new open standard for mobile access credentials. It is designed to unify digital access across smartphones, wearables, smart locks, and access readers, enabling a consistent digital key experience across residential, enterprise, hospitality, campus, and other access control scenarios. Matter and Aliro are complementary standards: Matter enables interoperable smart-home device control, while Aliro focuses on interoperable digital access credentials and unlock experiences. Aliro supports NFC for tap-to-unlock, Bluetooth LE for user-initiated access, and Bluetooth LE + UWB for secure hands-free access. Enabling Aliro for Smart Locks and Access Control Aliro addresses one of the key challenges in digital access: fragmentation across devices, access readers, credential systems, and mobile wallet ecosystems. By defining a common credential and communication framework, Aliro enables device makers to build products that can work more consistently across major mobile platforms and wallet ecosystems. Espressif’s initial Aliro solution supports Aliro NFC for tap-to-unlock applications, with Bluetooth LE and Bluetooth LE + UWB support planned for future releases. The solution can be used with Espressif’s Matter software ecosystem to build smart lock products using either Matter over Wi-Fi or Matter over Thread. Available for Developers Developers can combine Espressif Wi-Fi or Thread SoCs with an NFC module to quickly prototype and productize Aliro-enabled smart locks and access control devices. For ultra-low-power Matter over Thread products, Espressif’s next-generation SoCs--ESP32-H21 and ESP32-H4, integrate Bluetooth LE and IEEE 802.15.4 connectivity, providing a highly competitive platform for battery-powered Thread, Zigbee, Matter, and Bluetooth LE devices: ESP32-H21 features a single-core RISC-V architecture with an integrated DC-DC converter. Its streamlined architecture enables a more cost-effective solution, making it an ideal choice for access control, sensing, and other applications where both power consumption and cost are critical considerations. ESP32-H4 features a dual-core RISC-V architecture and supports external PSRAM, providing greater memory capacity and processing performance for applications with complex protocol stacks and demanding buffer requirements. Espressif has also developed a reference demo for an Aliro-enabled Matter door lock using the M5Stack NanoH2 Dev Kit, powered by ESP32-H2, and the M5Stack NFC Universal Unit based on ST25R3916. The demo showcases Matter over Thread connectivity, Aliro NFC tap-to-unlock, and integration with Espressif’s Thread SoC platform. Aliro represents an important step toward a more interoperable access control ecosystem. With Espressif’s Aliro solution, developers and device makers can build smart access products that combine digital key access, Matter ecosystem compatibility, and Espressif’s proven wireless connectivity platforms. For more information about Espressif’s Aliro solution, please refer to the blog post, or contact Espressif’s customer support team at sales@espressif.com. Thursday, July 16, 2026 - 17:15New Type: Press ReleaseSticky-on-top: trueNews Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-d38db29eb8e9ea1b</guid>
+      <pubDate>Thu, 16 Jul 2026 09:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building education technology that children can trust</title>
+      <link>https://www.raspberrypi.org/blog/draft-principles-for-safe-responsible-edtech/</link>
+      <description>Millions of young people and educators around the world use our technology to teach, learn, and create with code. Building it safely and responsibly is intrinsic to who we are and what we stand for. A growing body of research and public commentary links the use of social media, smartphones, and algorithmic platforms to declining… The post Building education technology that children can trust appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-53b3066322b54ad9</guid>
+      <pubDate>Thu, 16 Jul 2026 08:46:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transponder Mania</title>
+      <link>https://hackaday.com/2026/07/16/transponder-mania/</link>
+      <description>In order to not hit something, you generally need to know where that thing is. On land, the meager human eyesight tends to be sufficient. On the water, however, the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-56229be0c3d26ee0</guid>
+      <pubDate>Thu, 16 Jul 2026 08:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/</link>
+      <description>OpenInfrared Point is a universal remote hub built around ESP32-S3 that lets users control compatible devices from a smartphone by scanning a QR code or tapping an NFC tag, eliminating the need for dedicated remote controls. Powered via USB-C, the Point hub can learn IR codes from existing remote controls and supports infrared, IP (HTTP), and Bluetooth Low Energy (BLE) device control, with RF support planned as a future add-on. Hardware features include an IR output for external emitters, an audio input for private TV audio streaming, built-in NFC, QR-code access, and support for controlling TVs, projectors, AV receivers, air conditioners, streaming devices, and other compatible equipment. OpenInfrared Point specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB [...] The post OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5821c90e33c25dea</guid>
+      <pubDate>Thu, 16 Jul 2026 07:41:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Unusual Repair</title>
+      <link>https://www.eevblog.com/2026/07/16/an-unusual-repair/</link>
+      <description>An Unusual Repair of a returned new BM786 multimeter Forum: https://www.eevblog.com/forum/repair/an-unusual-bm786-repair/</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-daa3d063da1c611b</guid>
+      <pubDate>Thu, 16 Jul 2026 03:53:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1760 – Today in the Dumpster (July 12th, 2026)</title>
+      <link>https://www.eevblog.com/2026/07/16/eevblog-1760-today-in-the-dumpster-july-12th-2026/</link>
+      <description>Today in the dumpster! Forum: https://www.eevblog.com/forum/blog/eevblog-1760-today-in-the-dumpster-(july-12th-2026)/</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-f41cbd5ea78a809e</guid>
+      <pubDate>Thu, 16 Jul 2026 03:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1759 – ACES Hardware Meetup (Startup Hardware is Hard)</title>
+      <link>https://www.eevblog.com/2026/07/16/eevblog-1759-aces-hardware-meetup-startup-hardware-is-hard/</link>
+      <description>The 10th ACES hardware meetup in Sydney at Engineers Australia. All talks and open mics. https://luma.com/sydney-114f 00:00 – Engineers Australia HQ 03:19 – Intro 05:42 – Cibby Pulikkaseril from Zabidou https://www.zabidou.com/ 14:42 – Matt Crott from MAKO Aero – Prototype to Product https://mako.aero/ 25:28 – Panel discussion with Cibby, Matt and Brendan Hill from TEN13 …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-42dc8039994f342c</guid>
+      <pubDate>Thu, 16 Jul 2026 03:48:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>This E Ink Typewriter Has Some Very Fun Extra Features</title>
+      <link>https://www.hackster.io/news/this-e-ink-typewriter-has-some-very-fun-extra-features-09775b1a57f3</link>
+      <description>Jamie built her own typewriter-style writerDeck with aesthetic flair and charming features.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6b53c176066e695c</guid>
+      <pubDate>Wed, 15 Jul 2026 20:55:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Run Ultralytics YOLO on Raspberry Pi with OpenVINO</title>
+      <link>https://www.raspberrypi.com/news/run-ultralytics-yolo-on-raspberry-pi-with-openvino/</link>
+      <description>A practical guide to deploying Ultralytics YOLO computer vision models on Raspberry Pi with OpenVINO. The post Run Ultralytics YOLO on Raspberry Pi with OpenVINO appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-09dfff031c447f3b</guid>
+      <pubDate>Wed, 15 Jul 2026 13:53:38 +0000</pubDate>
+    </item>
     <item>
       <title>Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)</title>
       <link>https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/</link>
@@ -694,118 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-126d9479568dbf69</guid>
       <pubDate>Wed, 24 Jun 2026 14:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi and the EU Cyber Resilience Act</title>
-      <link>https://www.raspberrypi.com/news/raspberry-pi-and-the-eu-cyber-resilience-act/</link>
-      <description>If you manufacture and deploy digital products in the EU, the CRA is something you need to understand. The post Raspberry Pi and the EU Cyber Resilience Act appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-82fe2d622d6dd989</guid>
-      <pubDate>Wed, 24 Jun 2026 12:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1755 – Tolicore Femtoammeter TEARDOWN + REVERSE ENGINEER</title>
-      <link>https://www.eevblog.com/2026/06/24/eevblog-1755-tolicore-femtoammeter-teardown-reverse-engineer/</link>
-      <description>Demo, teardown and reverse engineering of the Tolicore 3720 Femtoammeter and voltage source. https://tolicore.com/products/3720-femtoammeter-voltage-source/ https://tolicore.com/product-documents/3720-Datasheet.pdf Keithley low current measurement handbook: https://www.tek.com/en/documents/product-article/keithley-low-level-measurements-handbook—7th-edition Counting LED photons video: https://www.youtube.com/watch?v=TJcMgoJ4DOE 00:00 – Femtoammeter measurement 01:16 – Tolicore 3720 Femtoammeter unboxing 03:39 – Power on and UI 05:18 – 20pA full scale range 10:13 – Bluetooth and 11:35 – Humidity …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-0a8e2e68c1368d17</guid>
-      <pubDate>Wed, 24 Jun 2026 03:28:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1754 – 2026 Electronex Show WALKAROUND</title>
-      <link>https://www.eevblog.com/2026/06/24/eevblog-1754-2026-electronex-show-walkaround/</link>
-      <description>2026 Electronex Show Walkaround Forum: https://www.eevblog.com/forum/blog/eevblog-1754-2026-electronex-show-walkaround/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-26cecb5e389ac85d</guid>
-      <pubDate>Wed, 24 Jun 2026 03:26:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1753 – Designing a 2000V Isolated Oscilloscope (Cleverscope)</title>
-      <link>https://www.eevblog.com/2026/06/24/eevblog-1753-designing-a-2000v-isolated-oscilloscope-cleverscope/</link>
-      <description>Bart from Cleverscope returns to discuss and show off designing a 2000V isolated oscilloscope, and demonstrates measuring high voltage GaN transistors and Solid State Transformers. https://cleverscope.com/products/CS548 Forum: https://www.eevblog.com/forum/blog/eevblog-1753-designing-a-2000v-isolated-oscilloscope-(cleverscope)/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-4005f55c78d19ad2</guid>
-      <pubDate>Wed, 24 Jun 2026 03:24:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICYMI Python on Microcontrollers Newsletter: Code Like Hemingway, CircuitPython MCP, MicroPython Editor and More!</title>
-      <link>https://blog.adafruit.com/2026/06/23/icymi-python-on-microcontrollers-newsletter-code-like-hemingway-circuitpython-mcp-micropython-editor-and-more/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,370 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9fc0594e7f4da841</guid>
-      <pubDate>Tue, 23 Jun 2026 13:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drones Are Learning to Fly by Sight</title>
-      <link>https://www.hackster.io/news/drones-are-learning-to-fly-by-sight-a0b736638621</link>
-      <description>Zhejiang U researchers trained a bird-inspired AI to let drones aggressively twist and squeeze through tight spaces by sight alone.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-90ca0acd02065564</guid>
-      <pubDate>Tue, 23 Jun 2026 13:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Status Display Keeps Eye on Your Prusa Fleet</title>
-      <link>https://hackaday.com/2026/06/23/status-display-keeps-eye-on-your-prusa-fleet/</link>
-      <description>Whether you’ve been dragging an old MK2 or MK3 kicking and screaming into the present through the available upgrade paths, or recently picked up a CORE One, pretty much any …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-23cc4ac4dc759348</guid>
-      <pubDate>Tue, 23 Jun 2026 11:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to design and present clear computing lessons</title>
-      <link>https://www.raspberrypi.org/blog/how-to-design-and-present-clear-computing-lessons-mayers-principles/</link>
-      <description>Learning something new requires effort. Learners take in new information by listening and observing. When a lot of information is presented at once in a lesson, that can create too much cognitive load for learners — a barrier to understanding and engagement. To help you design and deliver great computing lessons, we’ve written two new… The post How to design and present clear computing lessons appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-734b55c0e6ac72a2</guid>
-      <pubDate>Tue, 23 Jun 2026 09:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Long-Theorized GPS Weakness Exploited on Large Scale</title>
-      <link>https://hackaday.com/2026/06/23/long-theorized-gps-weakness-exploited-on-large-scale/</link>
-      <description>GPS has become fairly common in our everyday lives, not only able to pinpoint our locations on Earth but also as an incredibly accurate timekeeping method. But since these satellites …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b207929447361e0a</guid>
-      <pubDate>Tue, 23 Jun 2026 08:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rickrolling the World Cup</title>
-      <link>https://hackaday.com/2026/06/22/rickrolling-the-world-cup/</link>
-      <description>Sometimes, hacking requires a certain amount of restraint, especially when you find a system woefully unsecured. It would be so easy to play some pranks, but [bobdahacker] chose not to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-48cefc2d28fe0bdc</guid>
-      <pubDate>Tue, 23 Jun 2026 05:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic RAM from First Principles</title>
-      <link>https://hackaday.com/2026/06/22/dynamic-ram-from-first-principles/</link>
-      <description>Before the past year, many of us took computer memory for granted. It was one of the lower-cost parts of a PC build and was usually available in whatever quantity …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-420f33958dfe5053</guid>
-      <pubDate>Tue, 23 Jun 2026 02:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brain hot from serious thinking? This helmet automatically cools your head</title>
-      <link>https://blog.arduino.cc/2026/06/23/brain-hot-from-serious-thinking-this-helmet-automatically-cools-your-head/</link>
-      <description>The human brain is remarkably efficient, running on the caloric equivalent of about 20 watts of power. But that’s still about 20% of the total required for your entire body, which means your head can get pretty hot. Mike Warren does big thinking and to keep his brain from overheating, he built this helmet to […] The post Brain hot from serious thinking? This helmet automatically cools your head appeared first on Arduino Blog.</description>
-      <category>arduino-blog</category>
-      <guid isPermaLink="false">circuits-2ca6079931b40e13</guid>
-      <pubDate>Tue, 23 Jun 2026 00:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Rober Steals a Car to Prevent Car Theft</title>
-      <link>https://www.hackster.io/news/mark-rober-steals-a-car-to-prevent-car-theft-90b3982e6970</link>
-      <description>This is how thieves use cheap hardware to steal cars and how you can prevent that.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-4600468a35263e50</guid>
-      <pubDate>Tue, 23 Jun 2026 00:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>LightComposer – Reach Out and Touch Your Lighting</title>
-      <link>https://hackaday.com/2026/06/22/lightcomposer-reach-out-and-touch-your-lighting/</link>
-      <description>While there is a time and place for wirelessly controlled devices, sometimes you want something you can just reach out and touch to interact with, no apps to install or …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9dbb16a4e44c96e5</guid>
-      <pubDate>Mon, 22 Jun 2026 23:00:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
