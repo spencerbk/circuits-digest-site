@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>NEW PRODUCT – NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated Drivers</title>
+      <link>https://blog.adafruit.com/2026/07/17/new-product-neopixel-stick-8-x-5050-wwa-white-leds-with-integrated-drivers/</link>
+      <description>NEW PRODUCT – NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated Drivers __________________________________________________________________________________________________ What is better than smart LEDs? Smart WWA LEDs! These NeoPixel sticks now have 3 white LEDs in them in three tints (also known as ‘color temperatures’): warm white, cool white and amber, great for excellent lighting effects that want pure white […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f1ee007508af71e0</guid>
+      <pubDate>Fri, 17 Jul 2026 13:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/07/17/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-17-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-241784472c3b7e3a</guid>
+      <pubDate>Fri, 17 Jul 2026 12:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Adds Exemptions to User-Serviceable Batteries Rules</title>
+      <link>https://hackaday.com/2026/07/17/eu-adds-exemptions-to-user-serviceable-batteries-rules/</link>
+      <description>Built-in batteries put a timebomb inside devices, with especially the calendar aging feature of Li-ion chemistries setting a hard limit on when you’ll have to toss the device or figure …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-eca30a6692366d51</guid>
+      <pubDate>Fri, 17 Jul 2026 11:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>LoRa radio communication devices for Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/lora-radio-communication-devices-for-raspberry-pi/</link>
+      <description>Use these LoRa add-on boards to send data from Raspberry Pi projects located beyond your home Wi-Fi range. The post LoRa radio communication devices for Raspberry Pi appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-da83289f8d5746bd</guid>
+      <pubDate>Fri, 17 Jul 2026 10:33:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs</title>
+      <link>https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/</link>
+      <description>Espressif Systems has just released the SDK for Aliro, designed for smart Matter door locks and other access control solutions built around ESP32-C (WiFi) or ESP32-H (Thread) microcontroller and third-party NFC chips. We recently wrote about the Aliro vendor-agnostic digital access control standard working over NFC, Bluetooth LE, or BLE+UWB. It’s basically the equivalent of Matter, but for smart locks, instead of the broader Smart Home ecosystem. The ultimate goal is to reduce fragmentation and allow users to use compliant wallets from Google, Apple, Samsung, and others to work with Aliro-compatible devices. Espressif’s SDK for Aliro (ESP-Aliro) currently supports the following features of Aliro-over-NFC: Standard Expedited Phase Fast Expedited Phase Reader Certificate Sending via AUTH1/LoadCert Command Keyslot to Look up Access Credential Public Key Mailbox of Exchange command Step-up Phase Espressif’s solution currently only works with Aliro NFC for tap-to-unlock applications, although Bluetooth LE and Bluetooth LE + UWB support [...] The post Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-27a81783326d3514</guid>
+      <pubDate>Fri, 17 Jul 2026 10:19:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads</title>
+      <link>https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/</link>
+      <description>Seeed Studio’s reCamera Pro is an AI camera powered by a Rockchip RV1126B quad-core Cortex-A53 SoC with a 3 TOPS NPU for on-device AI vision, but also large language models (LLMs), vision language models (VLMs), as well as speech-to-text (STT) and text-to-speech (TTS) with built-in audio capabilities. It offers a powerful update to the earlier reCamera modular AI camera based on an SG2002 RISC-V AI SoC, with up to 4GB RAM, 16GB eMMC flash, an 8MP camera sensor supporting up to 4K @ 30 FPS, an M12 lens mount, a built-in 1W speaker, two microphones, Gigabit Ethernet with PoE, dual-band WiFi 5 connectivity, a USB-C port for power and data, and and expansion through a GPIO and MIPI DSI connectors. reCamera Pro specifications: SoC – Rockchip RV1126B CPU – Quad-core Arm Cortex-A53 up to 1.2 GHz with 32KB L1 I-Cache and 32KB L1 D-Cache, unified 512KB L2 Cache MCU – [...] The post reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-e07cdf996f93e947</guid>
+      <pubDate>Fri, 17 Jul 2026 09:12:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wireless LCD Streaming for the ANENG AN870 Multimeter</title>
+      <link>https://hackaday.com/2026/07/17/wireless-lcd-streaming-for-the-aneng-an870-multimeter/</link>
+      <description>Having the information shown on the display of a digital multimeter also recorded off-screen can be incredibly useful, but unless the device exposes something like SCPI on a network interface, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7528b8dcf89845b5</guid>
+      <pubDate>Fri, 17 Jul 2026 08:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP8266 NodeMCU Case – Fully Customizable + Ready-to-Print Profiles #3DPrinting #3DThursday</title>
+      <link>https://blog.adafruit.com/2026/07/16/esp8266-nodemcu-case-fully-customizable-ready-to-print-profiles-3dprinting-3dthursday/</link>
+      <description>Derek3Rosen shares: A parametric ESP8266 NodeMCU case with in-slicer Customize mode plus multiple ready-to-print profiles. Tight snap fit for the MCU, optional wall-mount ball joint screw hole, and Gap parameters for extra internal room for sensors. Wall thickness, lid thickness, and radius all tunable. Part of the designer’s 200+ box variations. By Derek download the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b7d73d07a09492a2</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Custom Security Camera Built for Complete Privacy</title>
+      <link>https://www.hackster.io/news/a-custom-security-camera-built-for-complete-privacy-01d769a977f3</link>
+      <description>Clem Mayer designed a custom, offline security camera with the PocketBeagle 2 to keep your footage private and off the cloud.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-56ab97a72c6f3cd4</guid>
+      <pubDate>Thu, 16 Jul 2026 16:39:04 +0000</pubDate>
+    </item>
     <item>
       <title>Pool Noodle Numchucks #3DPrinting #3DThursday</title>
       <link>https://blog.adafruit.com/2026/07/16/pool-noodle-numchucks-3dprinting-3dthursday/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-4159fb59d1e08e61</guid>
       <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 WLED Modern Smart Lamp #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/06/25/esp32-wled-modern-smart-lamp-3dprinting-3dthursday/</link>
-      <description>emadgaidi shares: A minimalist stylish smart lamp with a cylindrical ribbed lampshade that diffuses light beautifully. Powered by an ESP32 with WLED, integrated LED strip, and 5V phone adapter input. Print the shade in white or translucent PLA/PETG for optimal diffusion. By modemoo download the files on: https://makerworld.com/en/models/1175565-esp32-wled-modern-smart-lamp Every Thursday is #3dthursday here at Adafruit! […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-44521bf0e6fe8258</guid>
-      <pubDate>Thu, 25 Jun 2026 07:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>A More Convenient iButton Reader</title>
-      <link>https://hackaday.com/2026/06/24/a-more-convenient-ibutton-reader/</link>
-      <description>iButtons are microchips housed in small, round, metal containers, and are similar to coin cell batteries in appearance. Among other things, they’re used for logging data in industrial contexts, particularly …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-28fcd2c6700333a6</guid>
-      <pubDate>Thu, 25 Jun 2026 05:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>LineShine Is Fastest Supercomputer at Over 2 Exaflops</title>
-      <link>https://hackaday.com/2026/06/24/lineshine-is-fastest-supercomputer-at-over-2-exaflops/</link>
-      <description>There is a phenomenon where as you get older, your sense of scale becomes somewhat fixed in the earlier era that shaped you– things like expecting the Dollar Store to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-912ff89afc4ab636</guid>
-      <pubDate>Thu, 25 Jun 2026 02:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>JLink JTAG access on the Pinecil soldering iron</title>
-      <link>https://blog.adafruit.com/2026/06/24/jlink-jtag-access-on-the-pinecil-soldering-iron/</link>
-      <description>Daniel Mangum bought a Pinecil soldering iron and wrote about soldering the breakout board and accessing the UART. This latest work is on JLink JTAG access. I’ve been doing more work with the Pinecil as of late following the addition of upstream support for the Bouffalo Lab BL706 MCU in Zephyr. While accessing the UART is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-829c3f38f1013adb</guid>
-      <pubDate>Wed, 24 Jun 2026 21:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>The first open-source Linux driver for the ASUS ZenVision lid OLED</title>
-      <link>https://blog.adafruit.com/2026/06/24/the-first-open-source-linux-driver-for-the-asus-zenvision-lid-oled/</link>
-      <description>zenvision-linux is the first open-source Linux driver for the ASUS ZenVision lid OLED display. The the protocol was reverse-engineered from scratch using Ghidra on MyASUS. It is a userspace Linux driver for the ASUS ZenVision lid OLED — the 3.5″, 256×64 monochrome screen embedded in the lid of the ASUS Zenbook 14X OLED Space Edition (UX5401ZAS). ASUS […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-14c3d92fbe83c215</guid>
-      <pubDate>Wed, 24 Jun 2026 21:09:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 6/23/26 @adafruit @johnedgarpark #adafruit #newproductpick</title>
-      <link>https://blog.adafruit.com/2026/06/24/jps-product-pick-of-the-week-6-23-26-adafruit-johnedgarpark-adafruit-newproductpick/</link>
-      <description>If you missed this week’s livestream of John Park’s Product Pick of the Week, not to worry, here’s the video. This week’s pick is the Sparkle Motion Stick + Enclosure Kit! Watch the video to find out about the Sparkle Motion Stick + Enclosure Kit, how to use it, a live demo, and more. Want […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-54ae848e8215d148</guid>
-      <pubDate>Wed, 24 Jun 2026 20:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Move Beyond the Rainbow With These LED Color Tips</title>
-      <link>https://makezine.com/article/technology/move-beyond-the-rainbow-with-these-led-color-tips/</link>
-      <description>Here’s how to move beyond rainbows and level up the hues on your RGB LED projects. The post Move Beyond the Rainbow With These LED Color Tips appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-c0ccc17dc9b2f0e2</guid>
-      <pubDate>Wed, 24 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turning a Broken Vacuum Into a Custom Mobile Robot</title>
-      <link>https://www.hackster.io/news/turning-a-broken-vacuum-into-a-custom-mobile-robot-b405e2332874</link>
-      <description>When his robot vacuum died, Clem Mayer used a Raspberry Pi to turn it into an awesome DIY remote-controlled robotics platform.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-2550254c28d95ae4</guid>
-      <pubDate>Wed, 24 Jun 2026 15:26:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feeling the Ground with Your Arms</title>
-      <link>https://www.hackster.io/news/feeling-the-ground-with-your-arms-85fd6a5fdc62</link>
-      <description>Researchers created a haptic sleeve that lets people with foot numbness "feel" the ground through vibrations and heat on their arms.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-126d9479568dbf69</guid>
-      <pubDate>Wed, 24 Jun 2026 14:16:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
