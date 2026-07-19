@@ -5,8 +5,40 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 05:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>QT6 brings BASIC to the Web Browser, or Your Computer</title>
+      <link>https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/</link>
+      <description>In the old days, you either swore by BASIC or you swore at it — but just about everybody got their start on the educational language. Nowadays, the kids are …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-29cdf61ba447d257</guid>
+      <pubDate>Sun, 19 Jul 2026 11:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC</title>
+      <link>https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/</link>
+      <description>After checking out the hardware with an unboxing and a teardown of the Beelink EQi Wildcat Lake mini PC, we reviewed the Intel Core 3 304 computer with Windows 11 in detail. We’ve now had time to test the Beelink EQi mini PC running Ubuntu 26.04 with Linux 7.0/7.1 kernels. We’ll report our experience with feature testing, benchmark results, 2.5GbE, 10GbE, and WiFi 6 networking evaluation, storage and USB/Thunderbolt tests, and more, including power consumption measurements. Ubuntu 26.04 installation and system information I’d usually resize the Windows partition to install Ubuntu alongside it in dual boot configuration. However, since the Beelink EQi mini PC also comes with two PCIe Gen4 x1/x2 sockets, I installed Ubuntu 26.04 on a 256GB NVMe (PCIe Gen3 x4) SSD fitted into the PCIe x2 socket and left the Windows 11 partition on the UFS storage alone. Despite the Intel Core 3 304 chip being a [...] The post Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-15db6b0db2fbd001</guid>
+      <pubDate>Sun, 19 Jul 2026 10:41:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Pop-Up Truck Camper for Less</title>
+      <link>https://hackaday.com/2026/07/19/a-pop-up-truck-camper-for-less/</link>
+      <description>We live in a veritable Cambrian Explosion of camping options, ranging from a tarp on the ground to multi-million dollar RVs. Somewhere around the middle is the pop-up truck camper, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-2bdcbf56d665d208</guid>
+      <pubDate>Sun, 19 Jul 2026 08:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-774d1419a08a46ec</guid>
+      <pubDate>Sun, 19 Jul 2026 07:00:51 +0000</pubDate>
+    </item>
     <item>
       <title>Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens</title>
       <link>https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/</link>
@@ -774,38 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-b44a7d88215d2be3</guid>
       <pubDate>Tue, 07 Jul 2026 22:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Smart Power Distribution System Keeps the Bench Tidy</title>
-      <link>https://www.hackster.io/news/this-smart-power-distribution-system-keeps-the-bench-tidy-c665489ecdc2</link>
-      <description>element14 Presents' Mark Donners developed a smart power distribution system that keeps his bench tidy and collects useful data.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d627fd60ec78361b</guid>
-      <pubDate>Tue, 07 Jul 2026 21:37:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Component Importer for KiCad</title>
-      <link>https://blog.adafruit.com/2026/07/07/component-importer-for-kicad/</link>
-      <description>Component Importer for KiCad by Robert RTR on GitHub is an open source desktop app for importing downloaded component ZIP libraries into KiCad projects. Component Importer for KiCad helps keep third-party component ZIPs organized inside a KiCad project. It can import symbols, footprints, 3D models, datasheets, and metadata into project-local libraries, then register those libraries […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d3c7ced5ce85a7a4</guid>
-      <pubDate>Tue, 07 Jul 2026 21:27:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joy in learning computer science with Experience CS</title>
-      <link>https://www.raspberrypi.org/blog/joy-in-learning-computer-science-with-experience-cs/</link>
-      <description>Last fall I met with Mark Nechanicky and Taryn Israel Nechanicky, two teachers from Albert Lea, Minnesota. Mark and Taryn are bringing computer science into their classroom with Experience CS, our free cross-curricular resource teaching computer science concepts and reinforcing students’ content knowledge in areas including math, science, language arts, and more. We talked about… The post Joy in learning computer science with Experience CS appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-0b9a3dec826e8b83</guid>
-      <pubDate>Tue, 07 Jul 2026 14:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Rocky from ‘Project Hail Mary’</title>
-      <link>https://www.raspberrypi.com/news/ai-rocky-from-project-hail-mary/</link>
-      <description>Make your own star-saving sidekick with Raspberry Pi, Claude AI, and a tonne of servos. The post AI Rocky from ‘Project Hail Mary’ appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-e75fdc1c81b07202</guid>
-      <pubDate>Mon, 06 Jul 2026 10:35:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
