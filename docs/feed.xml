@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 05:33:52 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens</title>
+      <link>https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/</link>
+      <description>[Pedro Neves] has a mid-drive e-bike, but he doesn’t own it — not truly, since he can’t repair the motor unit. For a hacker to be in that position, there …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-224bf74900a137cd</guid>
+      <pubDate>Sun, 19 Jul 2026 05:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Write 2D and 3D Games in Modern MoonBASIC</title>
+      <link>https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/</link>
+      <description>One of the major strengths of the BASIC programming languages has always been their no-fuss setup and rich set of commands for operations that would take considerably more work in …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9d22ca0c98c7cf4c</guid>
+      <pubDate>Sun, 19 Jul 2026 02:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit New Products 7/15/2026</title>
+      <link>https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/</link>
+      <description>We’ve got the New nEw NEW for you right here This week we debuted 1 New Product. NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated Drivers What is better than smart LEDs? Smart WWA LEDs! These NeoPixel sticks now have 3 white LEDs in them in three tints (also known as ‘color […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-34053a0d19af86a5</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Embedded Arena Uses Hardware Feedback to Perfect Edge AI Models</title>
+      <link>https://www.hackster.io/news/embedded-arena-uses-hardware-feedback-to-perfect-edge-ai-models-9ef968c00b49</link>
+      <description>Embedded Arena connects AI agents directly to microcontrollers, using real hardware feedback to optimize edge AI models for each platform.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-fe3ef80a789fdb7f</guid>
+      <pubDate>Sat, 18 Jul 2026 20:53:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reactor’s Lift of SFF/H for Young Adult Readers</title>
+      <link>https://blog.adafruit.com/2026/07/18/reactors-lift-of-sff-h-for-young-adult-readers/</link>
+      <description>Some of the best reads are on a summer day at the beach or in the middle of the park. Check out Reactor Mag’s list of anticipated young adult SFF/H for July and August. It may be hotter than Hades outside, but at least you’ve got your TBR to give you an excuse to visit […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a6629f63907813d3</guid>
+      <pubDate>Sat, 18 Jul 2026 20:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>From The Archives: MagTag Kitchen Timer</title>
+      <link>https://blog.adafruit.com/2026/07/18/from-the-archives-magtag-kitchen-timer/</link>
+      <description>Build a handy kitchen timer with the Adafruit MagTag. This project uses the eInk display, NeoPixels, and built-in buttons of the Adafruit MagTag to make a rechargeable, programmable kitchen timer that is also magnetic. The MagTag displays the time left and then plays an alarm through the speaker and flashes the NeoPixels when the timer […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-65b1f3c0886f3428</guid>
+      <pubDate>Sat, 18 Jul 2026 17:48:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features</title>
+      <link>https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/</link>
+      <description>IAMLIUBO has written firmware for the M5Stack Core2 IoT controller to reproduce the features of the $230 Codex Micro macro pad for OpenAI’s AI coding agent platform, enabling developers to more easily monitor and control agents. The original is neat with a CNC-milled enclosure, a rotary encoder, and a joystick, but it’s rather pricey (and now out of stock), only ships to the US, and the company has now launched pre-orders for a 25-key “Custom Alternative” going for $125. However, you can easily reproduce the same functionality with other macro pads with rotary encoders, such as the SayoDevice O3C, DuckyPad Pro, Waveshare MK10, T-Keyboard-S3 Pro, and others at a fraction of the price by simply remapping the keys. IAMLIUBO went another route with the M5Stack Core2 IoT controller since it doesn’t come with any keys. Instead, he leveraged the 2-inch touchscreen LCD of the ESP32 device with six agent keys, [...] The post M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-fa234f2f6605b616</guid>
+      <pubDate>Sat, 18 Jul 2026 07:27:16 +0000</pubDate>
+    </item>
     <item>
       <title>NEW PRODUCT – NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated Drivers</title>
       <link>https://blog.adafruit.com/2026/07/17/new-product-neopixel-stick-8-x-5050-wwa-white-leds-with-integrated-drivers/</link>
@@ -750,62 +806,6 @@
       <category>raspberry-pi</category>
       <guid isPermaLink="false">circuits-e75fdc1c81b07202</guid>
       <pubDate>Mon, 06 Jul 2026 10:35:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Your Own Retro VFD Desk Clock</title>
-      <link>https://www.hackster.io/news/build-your-own-retro-vfd-desk-clock-4257ef1254fb</link>
-      <description>Sciter_ hacked a retro calculator VFD into a modern desk clock powered by a single AA battery.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-4c4e43c09823277a</guid>
-      <pubDate>Thu, 25 Jun 2026 13:12:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Record Resurrects Long-Dead CD Graphics Format</title>
-      <link>https://hackaday.com/2026/06/25/new-record-resurrects-long-dead-cd-graphics-format/</link>
-      <description>Audio CDs were the ubiquitous audio format of the 1990s. Lesser known were the extensions to the format that packaged all kinds of interesting additional data into a musical release. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-00a53bb77ee7628d</guid>
-      <pubDate>Thu, 25 Jun 2026 11:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>LEAP – Low-bandwidth Educational Access Platform</title>
-      <link>https://www.raspberrypi.com/news/leap-low-bandwidth-educational-access-platform/</link>
-      <description>Using a Raspberry Pi to provide digital education to remote rural classrooms. The post LEAP – Low-bandwidth Educational Access Platform appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-20700676ac6016bc</guid>
-      <pubDate>Thu, 25 Jun 2026 10:37:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>BIG Spiral Lamp (WLED) #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/06/25/big-spiral-lamp-wled-3dprinting-3dthursday/</link>
-      <description>Basti85 shares: A large spiral lamp with diffuser segments built for WLED on an ESP32-C3 (or ESP8266 D1 mini fallback). Print the body in Bambu PLA Basic and the diffusers in transparent PLA. Updated v2 includes the full WLED config workflow download the files on: https://makerworld.com/en/models/166549-big-spiral-lamp-v2-wled Every Thursday is #3dthursday here at Adafruit! The DIY […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ea92a2ce6cd62100</guid>
-      <pubDate>Thu, 25 Jun 2026 10:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pencil Soldering Iron Rugged Case – With Stand and Spool #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/06/25/pinecil-soldering-iron-rugged-case-with-stand-and-spool-3dprinting-3dthursday/</link>
-      <description>BlkWgn shares: A fully 3D-printable rugged case for the Pinecil soldering iron combining a tool box, hot-iron stand, and solder spool holder. Uses one 608 bearing, no screws required (printable pins), all in one package. By BlkWgn download the files on: https://makerworld.com/en/models/118986-pinecil-soldering-iron-rugged-case-w-stand-and-spo Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-30371bfa6a7ec595</guid>
-      <pubDate>Thu, 25 Jun 2026 09:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase</title>
-      <link>https://www.raspberrypi.org/blog/celebrating-over-15000-young-creators-at-the-coolest-projects-2026-online-showcase/</link>
-      <description>From first-time coders to seasoned makers, this year every single Coolest Projects creator brought all their creativity to their tech projects and made something to be proud of. Over 15,000 young people showcased more than 4,500 creations on a global stage. With participants from 40 countries and 47% girls, this year’s online showcase is a… The post Celebrating over 15,000 young creators at the Coolest Projects 2026 online showcase appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-cd6865e0cd94c1e8</guid>
-      <pubDate>Thu, 25 Jun 2026 08:39:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Look at a Gaggle of Transputer Boards</title>
-      <link>https://hackaday.com/2026/06/25/a-look-at-a-gaggle-of-transputer-boards/</link>
-      <description>A long time before Beowulf clusters wired up with commodity Ethernet hardware became a hobbyist thing and a running joke, the transputer took a swing at a very similar architecture. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-4159fb59d1e08e61</guid>
-      <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
