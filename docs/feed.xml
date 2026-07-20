@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Celestial Summer in Madison Square Park</title>
+      <link>https://blog.adafruit.com/2026/07/20/celestial-summer-in-madison-square-park/</link>
+      <description>How am I just finding out about the concept of a Moon Tree? How twee! How early 1970s late-stage Space Age optimism! Learn more about Celestial Celebrations here from Madison Square Park Conservancy: In 1971, NASA astronaut Stuart Roosa carried seeds from five tree species on the Apollo 14 mission. After returning to Earth, the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e385b290ca485be4</guid>
+      <pubDate>Mon, 20 Jul 2026 12:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth-like LHS 1140b May Feature the First Atmosphere Found on Exoplanet</title>
+      <link>https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/</link>
+      <description>Finding another planet outside of our solar system that can comfortably be called ‘Earth-like’ is one of those discoveries that — if confirmed — would be a major event. The …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9fcf2d70a9a66ce8</guid>
+      <pubDate>Mon, 20 Jul 2026 11:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/</link>
+      <description>Globalscale Technologies has launched the Case8 series of open-source cyberdeck-style computing platforms based on MediaTek Genio 520 and Genio 720 processors. The platform is offered in hacker (PCBA only), gaming, home automation, and education variants. The Case8 is built around an OSM-L compute module with a MediaTek Genio 520 or Genio 720 SoC with up to eight cores, a Mali-G67 GPU, and a 10 TOPS NPU. Depending on the configuration, it comes with 4GB, 8GB, or 16GB LPDDR5 memory and 64GB or 128GB UFS storage, along with Gigabit Ethernet, Wi-Fi 6, Bluetooth 5.4, stereo speakers, microphones, and optional 4G/5G connectivity. Display options include a 5-inch panel for the gaming model and 7-inch touch or non-touch displays for the home automation and education variants, with camera configurations varying by model. Case8 cyberdeck platform specifications: OSM-L compute module (one or the other) MediaTek Genio 520 CPU – 2x Cortex-A78 up to 2.2GHz, 6x [...] The post Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d627b4ebc8540a87</guid>
+      <pubDate>Mon, 20 Jul 2026 10:59:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collabora Releases First 64-Bit Arm Arch Linux Packages As It Prepares for Valve's Steam Frame VR</title>
+      <link>https://www.hackster.io/news/collabora-releases-first-64-bit-arm-arch-linux-packages-as-it-prepares-for-valve-s-steam-frame-vr-ae78c23fa883</link>
+      <description>Work progresses on a build system which will deliver a continuously-updated Arch Linux port for Valve's virtual reality headset.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-615969081cd658be</guid>
+      <pubDate>Mon, 20 Jul 2026 10:58:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3</title>
+      <link>https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/</link>
+      <description>Geniatech XPI-3576-CM5 is a Rockchip RK3576 octa-core Arm Cortex-A72/A53 system-on-module based on the Raspberry Pi CM4/CM5 form factor with up to 16GB LPDDR5 and 128GB eMMC flash. The module also features a RealTek RTL8211F Gigabit Ethernet controller, an Ampak AP6275S wireless module for dual-band WiFi 6 and Bluetooth 5.3 connectivity, and a Rockchip RK806S-5 PMIC for power management. It features two 100-pin B2B connectors, allowing it to be plugged into carrier boards designed for the Raspberry Pi CM4/CM5, with some limitations as we’ll see further below. Geniatech XPI-3576-CM5 specifications SoC – Rockchip RK3576 Octa-core CPU – 4x Cortex-A72 cores at 2.2GHz, 4x Cortex-A53 cores at 1.8GHz GPU – Arm Mali-G52 MC3 GPU at 1 GHz with support for OpenGL ES 3.2, OpenCL 2.0, and Vulkan 1.1 NPU – 6 TOPS (INT8) AI accelerator with support for INT4/INT8/INT16/BF16/TF32 mixed operations. VPU Video Decoder – H.264, H.265, VP9, AV1, and AVS2 up to [...] The post Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7ea3a139d26a3864</guid>
+      <pubDate>Mon, 20 Jul 2026 09:57:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Olimex's PICO-EVB Turns a Raspberry Pi Pico Into an Arduino, MicroPython Mini-PLC</title>
+      <link>https://www.hackster.io/news/olimex-s-pico-evb-turns-a-raspberry-pi-pico-into-an-arduino-micropython-mini-plc-60b5ef5cf49c</link>
+      <description>15A mains-level relays and optoisolated inputs, coupled with an industrial temperature rating, put open hardware in your control projects.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-7c8d3a65904e9264</guid>
+      <pubDate>Mon, 20 Jul 2026 09:55:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards</title>
+      <link>https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/</link>
+      <description>Last week, we wrote about the Olimex PICO-EVB automation board equipped with four relays and four isolated inputs and designed for Raspberry Pi Pico-compatible boards. Make Things Happy does something similar, but in a modular way, with the IoTextra family of carrier boards with four inputs and four outputs for automation, and supporting a range of IoTsmart MCU boards based on Raspberry Pi RP2350, ESP32-S3, etc… There are currently six IoTextra boards shipping or in development, all measuring 56×47 mm and featuring 3750 Vrms galvanic isolation per channel. All IoTextra modules support different MCU platforms via horizontally or vertically mounted IoTsmart SoM carriers based on Waveshare RP2350 and ESP32-S3 modules, Seeed Studio XIAO boards, and others, all connected via the HOST connector. All IoTextra 8-channel modules support several software ecosystems out of the box: IoTflow framework for no-code programming of distributed MCU nodes over MQTT and Node-RED; used to build custom [...] The post IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-c25c883215928a4c</guid>
+      <pubDate>Mon, 20 Jul 2026 04:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Existence of an Atmosphere Surrounding an Earth-like Planet</title>
+      <link>https://blog.adafruit.com/2026/07/19/the-existence-of-an-atmosphere-surrounding-an-earth-like-planet/</link>
+      <description>In this artist’s concept, the exoplanet LHS 1140 b is shown in the foreground, surrounded by a helium-rich atmosphere. Another nearby rocky planet orbits the same cool red dwarf star in the distance. A new study provides the strongest evidence yet that LHS 1140 b has retained an atmosphere, representing a milestone step toward the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-8e23bfb4409f3021</guid>
+      <pubDate>Sun, 19 Jul 2026 20:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Weekly Editorial Round Up: Pool Noodle Numchucks, Demofruit Rotozoom, &amp; more!</title>
+      <link>https://blog.adafruit.com/2026/07/19/adafruit-weekly-editorial-round-up-pool-noodle-numchucks-demofruit-rotozoom-more/</link>
+      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG Pool Noodle Numchucks #3DPrinting […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-34b678bf9cb54b1b</guid>
+      <pubDate>Sun, 19 Jul 2026 19:00:52 +0000</pubDate>
+    </item>
     <item>
       <title>QT6 brings BASIC to the Web Browser, or Your Computer</title>
       <link>https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/</link>
@@ -734,78 +806,6 @@
       <category>raspberry-pi</category>
       <guid isPermaLink="false">circuits-cd2ba539b2a4c0ea</guid>
       <pubDate>Thu, 09 Jul 2026 11:40:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure</title>
-      <link>https://www.cnx-software.com/2026/07/09/makerfabs-mauwb-for-home-assistant-an-esp32-s3-uwb-module-with-poe-and-enclosure/</link>
-      <description>Makerfabs MaUWB for Home Assistant is an ESP32-S3-based Ultra-Wideband (UWB) module designed for indoor positioning and Real-Time Location Systems (RTLS). It runs ESPHome for Home Assistant integration, enabling it to be used as part of a UWB-based positioning system to track tagged devices in homes, offices, and other indoor environments. The module combines an ESP32-S3 with a MaUWB UWB module based on the Qorvo DW3000, featuring a PA/LNA for long-range ranging. Compared to the earlier ESP32-S3 version, it drops the OLED and adds a WIZnet W5500 Ethernet controller that supports PoE. The module also supports Wi-Fi 4 and Bluetooth 5.0, and comes in an enclosure for fixed installations. Makerfabs MaUWB for Home Assistant specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 [...] The post Makerfabs MaUWB for Home Assistant – An ESP32-S3 UWB module with PoE and enclosure appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-e78f2ee604237ca4</guid>
-      <pubDate>Thu, 09 Jul 2026 10:57:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments</title>
-      <link>https://www.cnx-software.com/2026/07/09/norik-systems-introduces-nrf9151-based-usb-dongle-for-dect-nr-deployments/</link>
-      <description>Norik Systems has developed a compact USB dongle based on Nordic Semiconductor’s nRF9151 SiP, mostly designed to work as a DECT NR+ child node or a USB-powered gateway. As a reminder, DECT NR+ is a non-cellular 5G standard for long-range low-power applications that works at 1.9 GHz and supports up to one million nodes through mesh, star, and point-to-point topologies. The Norik USB dongle enables developers to easily add DECT NR+ to gateways or child modes. Norik Systems DECT NR+ USB dongle specifications: Wireless System-in-Package – Nordic Semi nRF9151 CPU – Arm Cortex-M33 @ 64 MHz Memory – 256KB RAM Storage – 1MB flash Connectivity Multimode LTE-M/NB-IoT/NB-NTN modem with DECT NR+ support and GNSS. 700-2200 MHz LTE band support. Power Class 5 20 dBm Power Class 3 23 dBm 1.9 GHz and 915 MHz DECT NR+ band support (1, 2, 9, 22) Security – Arm TrustZone + Arm CryptoCell 310. [...] The post Norik Systems introduces nRF9151-based USB Dongle for DECT NR+ deployments appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-ca9ea6e04167f016</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 7/7/26</title>
-      <link>https://blog.adafruit.com/2026/07/08/jps-product-pick-of-the-week-7-7-26/</link>
-      <description>What was JP’s pick of the week? It was our 2.9″ Grayscale eInk / ePaper Display FeatherWing! This ‘Wing is tested to work with all of our Feathers, from the ESP8266 to the M0. Check out the video to learn more and see how it use it. Want more JP’s Product Pick of the Week?! […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5311d28184febe82</guid>
-      <pubDate>Wed, 08 Jul 2026 13:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>This DIY Time Server is More Accurate Than You Need</title>
-      <link>https://hackaday.com/2026/07/08/this-diy-time-server-is-more-accurate-than-you-need/</link>
-      <description>You almost certainly don’t have an application for the sort of accurate timekeeping that’s made possible by this enhanced version of [Cristiano Monteiro]’s satellite-backed time server. By his own admission, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-35520d7c7a02999c</guid>
-      <pubDate>Wed, 08 Jul 2026 11:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 Keeps Tabs on Your Local Airspace</title>
-      <link>https://hackaday.com/2026/07/08/esp32-keeps-tabs-on-your-local-airspace/</link>
-      <description>We know, we know. Despite being called ESP32-Plane-Radar, this project from [Mateusz Juszczyk] isn’t actually using radar. But thanks to the round LCD this desktop gadget does a fantastic job …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-54fa46c6cc71f8e6</guid>
-      <pubDate>Wed, 08 Jul 2026 09:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC</title>
-      <link>https://www.cnx-software.com/2026/07/08/rikomagic-ds04-an-android-14-4k-digital-signage-player-powered-by-rockchip-rk3576-soc/</link>
-      <description>Rikomagic DS04 is a new 4K digital signage player running Android 14 on a Rockchip RK3576 octa-core Cortex-A72/A53 processor paired with 4GB of RAM and 32GB of storage. It looks to be a cost-down version of the Rockchip RK3588-powered Rikomagic DS08 8K digital signage player with many of the same ports and features, including two 4K-capable HDMI 2.1 ports, a Gigabit Ethernet RJ45 jack, WiFi 6 and Bluetooth 5.2 connectivity, optional 4G LTE, and a few USB ports. Rikomagic DS04 specifications: SoC – Rockchip RK3576 CPU 4x Cortex-A72 cores at 2.3GHz, 4x Cortex-A53 cores at 2.2GHz Arm Cortex-M0 MCU at 400MHz GPU – ARM Mali-G52 MC3 GPU with support for OpenGL ES 1.1, 2.0, and 3.2, OpenCL up to 2.0, and Vulkan 1.1 NPU – 6 TOPS (INT8) AI accelerator with support for INT4/INT8/INT16/BF16/TF32 mixed operations. VPU Video Decoder – H.264, H.265, VP9, AV1, and AVS2 up to 8Kp30 or [...] The post Rikomagic DS04 – An Android 14 4K digital signage player powered by Rockchip RK3576 SoC appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-b0e2352f1836b83c</guid>
-      <pubDate>Wed, 08 Jul 2026 07:47:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers</title>
-      <link>https://www.cnx-software.com/2026/07/08/kksb-10-inch-and-19-inch-rack-panels-target-raspberry-pi-clusters-support-pi-hats-and-active-coolers/</link>
-      <description>KKSB Cases has introduced a series of rack panels designed for Raspberry Pi clusters in standard rack enclosures. The lineup includes a 10-inch 1U model for two Raspberry Pi boards, a 19-inch 1U model for five boards, and a 19-inch 2U model for up to ten boards. All the panels support Raspberry Pi 5, Raspberry Pi 4, Raspberry Pi 3, Pi 2, and other boards sharing the same mounting hole pattern. The rack panels are made from powder-coated steel and expose the USB and Ethernet ports on the front of the rack for easier cable management. Each slot provides room for Raspberry Pi HATs and the official Raspberry Pi active cooler. KKSB also includes hex standoffs and 40-pin GPIO headers so HATs can be installed above the SBCs when additional clearance is required. Each Raspberry Pi is first attached to an individual mounting tray, which is then secured into the [...] The post KKSB 10-inch and 19-inch rack panels target Raspberry Pi clusters, support Pi HATs and active coolers appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-1acf2fe15f3ac788</guid>
-      <pubDate>Wed, 08 Jul 2026 04:17:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored)</title>
-      <link>https://www.cnx-software.com/2026/07/08/acemagic-discounts-its-amd-ryzen-7-mini-pcs-by-up-to-32/</link>
-      <description>ACEMAGIC has launched a promotion for two of its AMD Ryzen 7 mini PCs. The Matrix Mini K1 mini PC, powered by a Ryzen 7 7730U paired with 16GB LPDDR4X and a 512GB NVMe SSD, benefits from a 23% discount down to $386, and the company offers an even deeper 32% discount for the ACEMAGIC Retro X3 Ryzen 7 H 255 mini PC, shipping with 16GB LPDDR5 and a 1TB NVME SSD. ACEMAGICIAN Matrix Mini K1 Key features and specifications: SoC – AMD Ryzen 7 7730U 8-core/16-thread CPU @ up to 4.5 GHz with AMD Radeon Graphics @ 2000 MHz; TDP: 15W System Memory – 16GB LPDDR4X Storage – 512GB NVMe SSD Video Output HDMI 2.0, DP 1.4b, USB-C with DisplayPort Alt mode Up to 3x 4K displays supported Audio – 3.5 mm audio jack Networking Ethernet RJ45 port WiFI and Bluetooth USB 4x USB 3.2 Gen1 ports 2x USB [...] The post ACEMAGIC discounts its AMD Ryzen 7 mini PCs by up to 32% for a limited time (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c75553db5e232cd2</guid>
-      <pubDate>Wed, 08 Jul 2026 03:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>New nEw NEWS From Adafruit Round-Up: April, May &amp; June 2026</title>
-      <link>https://blog.adafruit.com/2026/07/07/new-new-news-from-adafruit-round-up-april-may-june-2026/</link>
-      <description>New nEw NEWs is Adafruit’s weekly newsletter that features new products, special offers and more. Sign up at Adafruit.com/Newsletter to receive New nEw NEWs! Vol. #458: Custom Sound Reactive Lamp with Adafruit Sparkle Motion! Vol. #459: MAX44009 Wide-range Lux Light Sensor Vol. #460: CircuitPython 10.2.0-rc.0 Released! Vol. #461: The Force is Awakening Vol. #462: 36mm […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b44a7d88215d2be3</guid>
-      <pubDate>Tue, 07 Jul 2026 22:30:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
