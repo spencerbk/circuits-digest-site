@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Robots, games, AI, and more at Coolest Projects UK 2026</title>
+      <link>https://www.raspberrypi.org/blog/robots-games-ai-and-more-at-coolest-projects-uk-2026/</link>
+      <description>Coolest Projects UK returned to Bradford in May, with more than 200 young people showcasing digital projects they had designed and built themselves. Visitors at the showcase event had the chance to explore an amazing range of projects across categories, from Scratch and Python to AI, hardware, web design, and game development. Every participant had… The post Robots, games, AI, and more at Coolest Projects UK 2026 appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-0ad4c3b3ccc36fac</guid>
+      <pubDate>Tue, 21 Jul 2026 12:02:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruhrbot Labs' 2K-Buddy Takes the Guesswork Out of Two-Part Polymer Mixing, Dispensing</title>
+      <link>https://www.hackster.io/news/ruhrbot-labs-2k-buddy-takes-the-guesswork-out-of-two-part-polymer-mixing-dispensing-521b00713b11</link>
+      <description>Combined pump and mixing system, which takes just two minutes to set up ready for use, due to start crowdfunding soon.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-7c7e72e4b6b139b1</guid>
+      <pubDate>Tue, 21 Jul 2026 11:45:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Globalscale Technologies' Case8 Cyberdeck Targets Gaming, Home Automation, and Education</title>
+      <link>https://www.hackster.io/news/globalscale-technologies-case8-cyberdeck-targets-gaming-home-automation-and-education-17b01c413134</link>
+      <description>Three variants, built around Mediatek Genio 520 and 720 chips, available at launch — plus a bare-bones "Hackers Edition" for makers.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-578d14edbbfdbe68</guid>
+      <pubDate>Tue, 21 Jul 2026 11:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java Ring Restored After Nearly 30 Years</title>
+      <link>https://hackaday.com/2026/07/21/java-ring-restored-after-nearly-30-years/</link>
+      <description>Back in the late 90s when absolutely everybody knew that Java was going to become the one programming language to rule them all, the Java Ring was handed out to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-22c5e77e2cbe1a08</guid>
+      <pubDate>Tue, 21 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor</title>
+      <link>https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/</link>
+      <description>Avalue Technology has introduced the RIVAR-1539, a 15.6-inch industrial fanless panel PC powered by the Intel N150 quad-core Twin Lake processor. The system features a Full HD projected capacitive touch display, dual Gigabit Ethernet, four USB 3.0 ports, and an IP65-rated front panel. The all-in-one POS terminal is designed for edge computing and HMI applications, such as self-ordering kiosks, smart counters, digital signage, and queue management systems across retail, healthcare, and public service environments. Avalue RIVAR-1539 specifications: SoC – Intel Processor N150 quad-core processor @ 800 MHz / 3.6 GHz (Turbo) with 6MB cache, 24EU Intel UHD graphics @ 1.0 GHz; TDP: 6W Memory – 8GB LPDDR5 Storage – 128GB eMMC flash Display – 15.6-inch Full HD (1920 x 1080) LED display Luminance – 350 cd/m² Contrast ratio – 1500:1 Viewing angle – 89° (U/D/L/R) Response time – 25ms 10-point projected capacitive multi-touch with USB interface controller Video Output – HDMI [...] The post Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-2cc2d92c5f62edc3</guid>
+      <pubDate>Tue, 21 Jul 2026 10:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Projects with Raspberry Pi — out now!</title>
+      <link>https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/</link>
+      <description>This latest book from Raspberry Pi Press is a hands-on guide to building real-world AI applications on Raspberry Pi. The post AI Projects with Raspberry Pi — out now! appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-32ff224f79f3ca5e</guid>
+      <pubDate>Tue, 21 Jul 2026 10:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU</title>
+      <link>https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/</link>
+      <description>The 600 MHz STM32H7R/S Cortex-M7 microcontroller family with an optional NeoChrom 2.5D GPU and up to 640 KB SRAM and 64 KB flash was introduced in 2024. However, apart from ST’s own development boards such as the NUCLEO-H7S3L8 and STM32H7S78-DK, we hadn’t seen any boards based on it. The ART-Pi II development board changes that. It’s a compact board powered by an STM32H7R7L8H microcontroller paired with 32 MB HyperRAM and 64 MB HyperFlash, and featuring a microSD card slot, an RGB LCD connector, WiFi 4 and Bluetooth 5.1 connectivity, two USB-C ports (OTG and Debug), a 40-pin Raspberry Pi-compatible GPIO header, a 28-pin GPIO header, two Qwiic connectors, and an on-board debugger. ART-Pi II board specifications: MCU – STMicro STM32H7R7L8H CPU core – Arm Cortex-M7 @ up to 600 MHz GPU – NeoChrom 2.5D GPU Memory – 64 KB flash Storage – 620 KB SRAM Package – TFBGA225 Memory – [...] The post ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-0db4f25b73704ff0</guid>
+      <pubDate>Tue, 21 Jul 2026 09:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs</title>
+      <link>https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/</link>
+      <description>nRF54L Arduino Core is an open-source project designed to bring Arduino support for Nordic Semiconductor nRF54L wireless SoCs, starting with Seeed Studio’s XIAO nRF54L15 (Sense) and XIAO nRF54LM20A (Sense) boards, as well as compatible Holyiot nRF54L15 modules. Since the launch of the nRF52840-based Arduino Nano 33 BLE board in 2019, Nordic nRF52 wireless microcontrollers have been officially supported by the Arduino IDE. However, it’s not quite the case for the newer nRF54L Cortex-M33 microcontrollers. Lolren has decided to change that with the unofficial nRF54 Arduino core project. nRF54L Arduino Core highlights: Dual-core access – Use the 128 MHz Cortex-M33 application CPU and the VPR RISC-V coprocessor without adopting a vendor RTOS Wireless Bluetooth LE support – Peripheral, central, dual-role, GATT server/client, HID, BLE UART, PHY/DLE/MTU control, LE Secure Connections, bonding, OOB, Numeric Comparison, privacy/RPA, and CSRK signed writes Experimental support for Zigbee – Partial stack and device demonstrations; incomplete Zigbee [...] The post nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d53b210f5f243f8d</guid>
+      <pubDate>Tue, 21 Jul 2026 03:27:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taking the unexpected routes in animation and gaming</title>
+      <link>https://blog.adafruit.com/2026/07/20/taking-the-unexpected-routes-in-animation-and-gaming/</link>
+      <description>Marcin Wichary looks at “bumping the lamp” – a phrase coined by Disney during the production of Roger Rabbit to describe going above and beyond what was expected of the animators. A lesson learned: I see craft blossom when it can flow from individuals, and when the organization and attendant processes recognize that. Let people […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2c46e5f0d7dc75cf</guid>
+      <pubDate>Mon, 20 Jul 2026 21:27:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starting a ZX Spectrum shooting gallery in earnest</title>
+      <link>https://blog.adafruit.com/2026/07/20/starting-a-zx-spectrum-shooting-gallery-in-earnest/</link>
+      <description>Michael Martin is working through a port of a shooting gallery Rosetta-stone program to the ZX Spectrum. It’s been a long road. We started out knowing how to control text and bitmap output and a decent handle on I/O. From there we designed a reasonably efficient blitting system that operated on 16×16 “sprites” that we carefully prepared for […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3869b9821c519c0c</guid>
+      <pubDate>Mon, 20 Jul 2026 21:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using a MikroTik as a home router</title>
+      <link>https://blog.adafruit.com/2026/07/20/using-a-mikrotik-as-a-home-router/</link>
+      <description>Rafał Opiłowski was looking at setting up a new homelab, starting with a comprehensive networking setup. Given my experiences related to performance and security issues with ISP-provider routers, I wanted to have a better control over the traffic on my home network. I decided to heavily focus traffic on wired connections, to offload WiFi and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1afc2d52d3f4b1c1</guid>
+      <pubDate>Mon, 20 Jul 2026 20:59:59 +0000</pubDate>
+    </item>
     <item>
       <title>Celestial Summer in Madison Square Park</title>
       <link>https://blog.adafruit.com/2026/07/20/celestial-summer-in-madison-square-park/</link>
@@ -718,94 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-9bc336a63f5ec42e</guid>
       <pubDate>Fri, 10 Jul 2026 02:05:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Filament Spool Dry Box – Pelican-Style Latching #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/09/filament-spool-dry-box-pelican-style-latching-3dprinting-3dthursday/</link>
-      <description>bcrooks shares: A Pelican-style latching dry box for a single 1kg filament spool. Robust latches with a TPU seal keep moisture out. Separate desiccant compartments hold beads in place, with an optional hygrometer install for humidity monitoring. Base needs tree support for the hygrometer variant. Ironed top surface for better sealing. By bcrooks download the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8e5a171f6751d050</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pyramid Ambient Light Desk Lamp – Grid Diffuser Panels #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/09/pyramid-ambient-light-desk-lamp-grid-diffuser-panels-3dthursday-3dprinting/</link>
-      <description>Shared by canmaxfire on Maker World: A pyramid-shaped ambient lamp with four PETG hollow-out light-shielding panels forming a grid texture around an internal semi-translucent sphere. Light scatters through the sphere and grid panels to create warm layered ambient effects. Egyptian architecture meets modern maker aesthetic. Download the files and learn more Every Thursday is #3dthursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-666d550d976996cc</guid>
-      <pubDate>Thu, 09 Jul 2026 23:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arduino UNO R4 Case Kit – Snap-Fit with Wall Mount #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/09/arduino-uno-r4-case-kit-snap-fit-with-wall-mount-3dprinting-3dthursday/</link>
-      <description>i.boxit shares: A snap-fit case kit specifically for the Arduino UNO R4, with an optional wall-mount variant. Reset button access, LED light-tube compatibility (transparent PLA fits as a light guide), integrated opener. Part of i-BoxIt’s popular snap-fit case series download the files on: https://makerworld.com/en/models/1498426-arduino-uno-r4-case-kit-snap-fit-wall-mount Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9de20aff62b786d5</guid>
-      <pubDate>Thu, 09 Jul 2026 22:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Homebrew Apple II Is Even Better Than It Looks</title>
-      <link>https://www.hackster.io/news/this-homebrew-apple-ii-is-even-better-than-it-looks-f3e31eb1d0d3</link>
-      <description>Simon Boak’s SB Mini II is a homebrew Apple II that is the perfect usable alternative to the real thing.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-efb5e1ab8cda8e7e</guid>
-      <pubDate>Thu, 09 Jul 2026 20:57:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Hangouts – Flight Tracker, Chiptune Player and Noodle Sword</title>
-      <link>https://blog.adafruit.com/2026/07/09/3d-hangouts-flight-tracker-chiptune-player-and-noodle-sword/</link>
-      <description>﻿ 3D Hangouts – Flight Tracker, Chiptune Player and Noodle Sword https://youtube.com/live/v4zxYy2-riQ?feature=share This week @adafruit Pedro is working on a flight tracker with lunar transit features. Noe wraps up Liz Clark’s CircuitPython chiptune player. This week’s timelapse features a pool noodle sword inspired by Zelda video games. Adafruit Feather RP2350 with 8MB PSRAM: https://www.adafruit.com/product/6130 Adafruit […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-50c034a407da8440</guid>
-      <pubDate>Thu, 09 Jul 2026 15:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOOM ported to the BBC Micro vintage computer</title>
-      <link>https://blog.adafruit.com/2026/07/09/doom-ported-to-the-bbc-micro-vintage-computer/</link>
-      <description>The ebenupton account on GitHub (likely the creator of the Raspberry Pi) has surfaced another gem of a project: a version of DOOM, an E1M1 wireframe renderer for a stock BBC Micro Model B (2MHz 6502, 32K + sideways RAM). Full BSP traversal, analytical hidden-surface removal, perspective projection, walkable with working doors and lifts, at […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7536768997564e07</guid>
-      <pubDate>Thu, 09 Jul 2026 14:48:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/07/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-9/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e6c521e9ca163731</guid>
-      <pubDate>Thu, 09 Jul 2026 14:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>QuadRF: The Open Source RF Camera That Lets You See Wi-Fi Signals</title>
-      <link>https://www.hackster.io/news/quadrf-the-open-source-rf-camera-that-lets-you-see-wi-fi-signals-141ad91f2a2d</link>
-      <description>QuadRF turns a Raspberry Pi 5 into a real-time RF camera to visualize and map wireless signals in AR.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-9aa0385017b56c5e</guid>
-      <pubDate>Thu, 09 Jul 2026 14:18:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Brief History of the Crazy Old 7-Segment Display</title>
-      <link>https://hackaday.com/2026/07/09/a-brief-history-of-the-crazy-old-7-segment-display/</link>
-      <description>How old is the seven-segment display? Surely it is a product of the 1970s. After all, calculators started showing up, and the height of junior high humor was plugging 7734 …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-d9632a30954dca75</guid>
-      <pubDate>Thu, 09 Jul 2026 14:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Non-Cellular 5G Networks Simplified</title>
-      <link>https://www.hackster.io/news/non-cellular-5g-networks-simplified-6a82ce18bb85</link>
-      <description>Norik Systems' DECT NR+ USB Dongle makes it easy to experiment with near-real-time communication on private 5G networks.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-2e41520b39be6626</guid>
-      <pubDate>Thu, 09 Jul 2026 13:31:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Set up OpenClaw on your Raspberry Pi</title>
-      <link>https://www.raspberrypi.com/news/set-up-openclaw-on-your-raspberry-pi/</link>
-      <description>Turn Raspberry Pi into a powerful AI assistant that can do anything on your computer and keep it safely contained. The post Set up OpenClaw on your Raspberry Pi appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-cd2ba539b2a4c0ea</guid>
-      <pubDate>Thu, 09 Jul 2026 11:40:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
