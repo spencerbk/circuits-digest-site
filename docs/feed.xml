@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>OpenCircuitX: a free, open-source EDA platform for VHDL and Verilog</title>
+      <link>https://blog.adafruit.com/2026/07/22/opencircuitx-a-free-open-source-eda-platform-for-vhdl-and-verilog/</link>
+      <description>OpenCircuitX is a free, open-source EDA (Electronic Design Automation) platform for VHDL and Verilog: the hardware description languages (HDL) used to design digital logic. It is developed by OpenLabX and unifies an IDE-quality HDL editor, a visual circuit canvas, an RTL schematic viewer, a waveform viewer, and a full FPGA toolchain in one window, for […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-70923cabc01287c1</guid>
+      <pubDate>Wed, 22 Jul 2026 13:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weathergotchi – an e-paper climate logger</title>
+      <link>https://blog.adafruit.com/2026/07/22/weathergotchi-an-e-paper-climate-logger/</link>
+      <description>Michael Manning and Royyan Dzakiy have made an open-source, battery-powered temperature and humidity data logger with an always-on e-paper display, Weathergotchi, under an MIT license. It records ambient conditions over time, stores readings in non-volatile memory, and displays current data along with a history graph. The device is designed for low power consumption, over 1 […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a8774b485929e34b</guid>
+      <pubDate>Wed, 22 Jul 2026 12:54:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>See inside insects with an electron microscope and a femtosecond laser</title>
+      <link>https://blog.adafruit.com/2026/07/22/see-inside-insects-with-an-electron-microscope-and-a-femtosecond-laser/</link>
+      <description>Ben Krasnow on the Applied Science YouTube Channel posts about seeing inside insects with an electron microscope and a femtosecond laser. I use a femtosecond laser like a lightsaber to cross section insects and inspect them with an electron microscope. What’s really inside an insect’s head? Femtosecond laser built by Oscillate Photonics: https://oscillatephotonics.com/ Open Beam […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-67b74eba8541fe0a</guid>
+      <pubDate>Wed, 22 Jul 2026 12:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Old TV Vacuum Tube Turned DIY X-Ray Machine</title>
+      <link>https://hackaday.com/2026/07/22/old-tv-vacuum-tube-turned-diy-x-ray-machine/</link>
+      <description>Just because you probably shouldn’t make a DIY X-ray machine, doesn’t mean nobody would. [mircemk] shows off his DIY unit, how it works, how to use it safely and of …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-3bd3fe94ccf61d11</guid>
+      <pubDate>Wed, 22 Jul 2026 11:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>The BloomBeacon Uses Persistence-of-Vision to Produce On-Demand Floating Touchscreens</title>
+      <link>https://www.hackster.io/news/the-bloombeacon-uses-persistence-of-vision-to-produce-on-demand-floating-touchscreens-90668d613831</link>
+      <description>3D-printed arched sensors on one blade and LEDs on another allow BloomBeacon to create a "floating" interactive display anywhere.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-f58826492000bc4d</guid>
+      <pubDate>Wed, 22 Jul 2026 10:40:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90</title>
+      <link>https://www.cnx-software.com/2026/07/22/arduino-uno-q-arcade-bundle-lets-you-build-a-custom-retro-gaming-console/</link>
+      <description>Arduino UNO Q Arcade bundle is a kit designed to build a custom retro gaming console. The bundle combines the Arduino UNO Q 4GB SBC with a set of daisy-chainable Modulino I2C modules, allowing users to create a custom game controller without requiring complex wiring or breadboards. The kit relies on Qwiic connectors to daisy-chain the input modules, whose data is then processed by the UNO Q to emulate standard HIDs for gaming or development. The plastic parts can be 3D printed by the user. Arduino UNO Q Arcade bundle contents: Arduino UNO Q 4GB – A Qualcomm Dragonwing QRB2210 SBC with an onboard eMMC, running Debian Linux Modulino Joystick – An I2C node configurable for simulating D-pad inputs or mouse cursor movements Modulino Buttons – An I2C node for mapping single keystrokes, multi-key shortcuts, or mouse clicks Modulino Movement – A 6-axis IMU node for motion-based mouse control Note: [...] The post Arduino UNO Q Arcade bundle lets you build a custom retro gaming console for about $90 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ae33b510aaca4070</guid>
+      <pubDate>Wed, 22 Jul 2026 10:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug Advisory Concerning Bootloader Forward Compatibility Issue Affecting OTA Updates on ESP32-C6/ ESP32-H2</title>
+      <link>https://www.espressif.com/en/node/11059</link>
+      <description>Language English AR2026-007BugsReleased Date: Wednesday, July 22, 2026Download: AR2026-007_Bug_Advisory_Concerning_Bootloader_Forward_Compatibility_Issue_Affecting_OTA_Updates_on_ESP32-C6_ESP32-H2_EN.pdfVersion: V1.0Advisories Status: ShowBody: This advisory describes a bootloader forward compatibility issue affecting OTA updates on ESP32-C6 and ESP32-H2. Applications built with ESP-IDF v6.0–v6.0.2 may fail to boot when running with older bootloaders due to incompatible CPU memory protection settings, causing the device to reset during startup. This advisory also provides the mitigation methods.Product Series: ESP32-C6 SeriesESP32-H2 SeriesFixed Status: Fixed with Commit</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-e383fc8a0c125878</guid>
+      <pubDate>Wed, 22 Jul 2026 10:21:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD</title>
+      <link>https://www.cnx-software.com/2026/07/22/acemagician-kron-k1-mini-pc-gets-low-cost-variant-with-amd-ryzen-r2544-cpu-8gb-ddr4-256gb-ssd/</link>
+      <description>Previously offered with AMD Ryzen 5/7/9 CPUs, the ACEMAGICIAN Kron K1 mini PC has now gotten a low-cost version based on the AMD Ryzen R2544 quad-core processor paired with 8GB DDR4 and a 256GB SSD and sold for just $279.99 on Amazon. With everything going up in price, companies are trying to offer more affordable systems. ACEMAGICIAN has decided to use a processor from the Ryzen Embedded R2000 family introduced in 2022 that’s typically found in industrial-grade modules and motherboards such as the AAEON COM-R2KC6 COM Express module or the Kontron D3723-R mini-ITX motherboard. ACEMAGICIAN Kron K1 R2544 specifications: SoC – AMD Ryzen Embedded R2544 CPU – Quad-core/eight-thread processor @ 3.35 / 3.7 GHz (Turbo) GPU – 8-core AMD Radeon Vega Graphics TDP – 45 Watts System Memory 8GB DDR4 RAM pre-installed Upgradeable up to 64GB via two DDR4 SO-DIMM sockets Storage 256GB M.2 SSD pre-installed 2x M.2 2280 slots: [...] The post ACEMAGICIAN Kron K1 mini PC gets low-cost variant with AMD Ryzen R2544 CPU, 8GB DDR4, 256GB SSD appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-426281acc8e6bacf</guid>
+      <pubDate>Wed, 22 Jul 2026 09:46:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>60 FPS NES Emulator on ESP32</title>
+      <link>https://hackaday.com/2026/07/22/60-fps-nes-emulator-on-esp32/</link>
+      <description>At least in theory, video games are more resistant to becoming lost media thanks to their digital nature — they’re easy to copy and emulators have saved many titles that …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f9ee3591d10e6030</guid>
+      <pubDate>Wed, 22 Jul 2026 08:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new 10″ Raspberry Pi Touch Display 2, available now at $80</title>
+      <link>https://www.raspberrypi.com/news/a-new-10-raspberry-pi-touch-display-2-available-now-at-80/</link>
+      <description>Our latest multi-touch display brings a bigger screen and higher resolution to the Touch Display family. The post A new 10″ Raspberry Pi Touch Display 2, available now at $80 appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-288a7a2b38e62e80</guid>
+      <pubDate>Wed, 22 Jul 2026 05:57:52 +0000</pubDate>
+    </item>
     <item>
       <title>Robots, games, AI, and more at Coolest Projects UK 2026</title>
       <link>https://www.raspberrypi.org/blog/robots-games-ai-and-more-at-coolest-projects-uk-2026/</link>
@@ -726,86 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-5447f794bcd618f6</guid>
       <pubDate>Sat, 11 Jul 2026 07:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/07/11/lua-programmable-elm11-feather-board-puts-gowin-gw1nr-fpga-into-feather-form-factor/</link>
-      <description>BrisbaneSilicon ELM11-Feather is a “microcontroller” board based on a Gowin GW1NR FPGA that is natively programmable in Lua, C, SystemVerilog, and VHDL. Compatible with the Adafruit Feather form factor, the board features GPIO headers, a built-in debugger, a USB-C port for power and programming, and a 2-pin header for a LiPo battery. The company calls it a microcontroller board because the FPGA runs a PicoRV32 MCU softcore at up to 75 MHz with 1MB RAM and 8MB flash, programmable with Lua, and the user can also customize hardware layers with RTL code using the remaining FPGA fabric. ELM11-Feather specifications: FPGA – Gowin GW1NR-LV9 FPGA from the GW1NR-9 family 8K LUTs 8,640 logical units (LUTs) 6,480 flip-flop 17,280 bits shadow SRAM (SSRAM) 486 Kbit block SRAM (BSRAM) 64 Mbit (8MB) PSRAM 608 Kbit user flash 2x PLL Up to 276x user I/O USB – 1x USB Type-C port for power and [...] The post Lua-programmable ELM11-Feather board puts Gowin GW1NR FPGA into Feather form factor (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-815963d6a5f70593</guid>
-      <pubDate>Sat, 11 Jul 2026 02:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>This DIY Digicam Looks Like It Belongs on the USCSS Nostromo</title>
-      <link>https://www.hackster.io/news/this-diy-digicam-looks-like-it-belongs-on-the-uscss-nostromo-f4ae37ec9781</link>
-      <description>This DIY Raspberry Pi-based digicam looks like it could have come directly from the Alien film set.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-c4d41b4eb71b3409</guid>
-      <pubDate>Fri, 10 Jul 2026 21:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s CircuitPython Parsec: Nested Display Groups</title>
-      <link>https://blog.adafruit.com/2026/07/10/john-parks-circuitpython-parsec-nested-display-groups/</link>
-      <description>#circuitpythonparsec Transform groups of groups with displayio inside of CircuitPython. code example To learn about CircuitPython: https://circuitpython.org</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d24ef2ead5ccc23d</guid>
-      <pubDate>Fri, 10 Jul 2026 18:38:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Empowering global AI literacy: Translating Experience AI resources into Croatian</title>
-      <link>https://www.raspberrypi.org/blog/empowering-global-ai-literacy-translating-experience-ai-resources-into-croatian/</link>
-      <description>We work with partners globally to promote AI literacy through Experience AI, our programme created in collaboration with Google DeepMind. With resources available in 19+ languages and a network of partners in over 38 countries, a key part of our work is translating and localising our materials so as many young people around the world… The post Empowering global AI literacy: Translating Experience AI resources into Croatian appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-875082aad49fb325</guid>
-      <pubDate>Fri, 10 Jul 2026 14:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support</title>
-      <link>https://www.cnx-software.com/2026/07/10/m5stack-stamp-c5-a-tiny-esp32-c5-usb-c-board-module-with-up-to-19-gpio-3-7v-battery-support/</link>
-      <description>M5Stack Stamp-C5, also known as the M5Stamp-C5, is a tiny wireless IoT USB-C board based on the Espressif ESP32-C5 RISC-V microcontroller with dual-band WiFi 6, Bluetooth LE, and 802.15.4 (Zigbee/Thread) connectivity. Despite its small size (19.1 x 17.6mm), the module exposes up to nineteen GPIO pins, eleven on standard 2.54mm pitch headers and castellated holes, and eight on an FPC extension connector. The board also supports battery charging and ships with an external IPEX antenna for wireless connectivity, since there’s no built-in antenna. M5Stack Stamp-C5 specifications: Wireless MCU – Espressif Systems ESP32-C5HF4 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 48 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip Storage – 320 KB ROM, 4MB SPI flash Wireless Dual-band (2.4/5 GHz) 802.11ax WiFi 6, 802.11b/g/n WiFi 4 backward compatibility WiFi modes: Station mode, SoftAP mode, SoftAP + [...] The post M5Stack Stamp-C5 – A Tiny ESP32-C5 USB-C board/module with up to 19 GPIO, 3.7V battery support appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-12b3fd11d6abf3bd</guid>
-      <pubDate>Fri, 10 Jul 2026 11:21:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Browser-Based Image Inpainting Runs Locally, If One Doesn’t Mind A Big Download</title>
-      <link>https://hackaday.com/2026/07/10/browser-based-image-inpainting-runs-locally-if-one-doesnt-mind-a-big-download/</link>
-      <description>[Simon Willison] ported the Moebuis 0.2B image inpainting model to run locally in a web browser. The web tool simply requires a user to provide an image, mark a section …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7f9d15b2ca02a31f</guid>
-      <pubDate>Fri, 10 Jul 2026 11:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enhancing your enrichment offer? Code Club is the answer</title>
-      <link>https://www.raspberrypi.org/blog/code-club-enrichment-offer-schools-free-support/</link>
-      <description>There’s something really special about a Code Club. It’s a unique space for young people to get creative with technology on their terms, explore what interests them, and learn through experimenting and having fun. But speak to any Code Club leader and they’ll tell you: Code Club delivers so much more than just coding skills.… The post Enhancing your enrichment offer? Code Club is the answer appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-242fcc10e892919e</guid>
-      <pubDate>Fri, 10 Jul 2026 10:48:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32-S31 Series SoC Errata</title>
-      <link>https://www.espressif.com/en/node/10971</link>
-      <description>Language English ESP32-S31This document describes known errata in ESP32-S31 series of SoCs.v0.1Friday, July 10, 2026https://docs.espressif.com/projects/esp-chip-errata/en/latest/esp32s31/index.htmlSend add/update notification to subscribers: Document Type: Datasheet &amp; ErrataDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-34cd6847f78c1b4d</guid>
-      <pubDate>Fri, 10 Jul 2026 10:23:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Super Cheap Desk Toy Becomes a Hackable Desktop Notifier</title>
-      <link>https://hackaday.com/2026/07/10/a-super-cheap-desk-toy-becomes-a-hackable-desktop-notifier/</link>
-      <description>The GeekMagic SmallTV is as its name suggests, a tiny, vaguely TV-styled, device with a screen, that’s sold as a desktop notifier. Depending on the firmware running on the device …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-8fea7c38eda66914</guid>
-      <pubDate>Fri, 10 Jul 2026 08:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/07/10/open-book-touch-a-drm-free-wifi-connected-4-26-inch-open-source-hardware-e-reader/</link>
-      <description>Oddly Specific Objects has launched a crowdfunding campaign for the Open Book Touch, an ESP32-S3-based e-reader with a 4.26-inch e-paper display with 480 x 800 resolution and a capacitive touch screen. The open-source hardware device comes with 16 MB flash, 8MB PSRAM, a frontlight with warm and cool LEDs, a microSD card for storage, and an 800 mAh user-replaceable LiPo battery with everything housed in a 3D printed enclosure. Open Book Touch specifications: SoC – Espressif Systems ESP32-S3 dual-core MCU with Wi-Fi and Bluetooth LE connectivity Memory – 8 MB octal SPI PSRAM Storage 16 MB quad SPI flash MicroSD card slot Display 4.26-inch, 480 × 800 e-paper; 1-bit and 2-bit grayscale with dithering Capacitive touchscreen based on FT6336 low-power controller Frontlight – five warm + five cool LEDs, independently dimmable USB – USB Type-C for power/charging and programming Misc – 3D-printed plastic enclosure; snap-fit, with 3D-printable CAD for custom shells; [...] The post Open Book Touch – A DRM-free, WiFi-connected 4.26-inch open-source hardware e-reader (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-9bc336a63f5ec42e</guid>
-      <pubDate>Fri, 10 Jul 2026 02:05:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
