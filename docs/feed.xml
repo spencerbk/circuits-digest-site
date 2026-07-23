@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Composite video on the NES: why’s it so wobbly?</title>
+      <link>https://blog.adafruit.com/2026/07/23/composite-video-on-the-nes-whys-it-so-wobbly/</link>
+      <description>Over on the Nicole Express blog the Nintendo Entertainment System’s video is examined. It’s actually kind of an oddball in its expandability and design. But there’s something else about it. The picture is a bit… wobbly. Well, over composite video anyway. Let’s dig in and learn a little bit more about the nitty-gritty of composite […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-df0cf0a7755816b6</guid>
+      <pubDate>Thu, 23 Jul 2026 13:28:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pool Noodle Mace #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/23/pool-noodle-mace-3dthursday-3dprinting/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pool Noodle Mace By thelightspd makerworld.com/en/models/1510937-pool-noodle-medieval-mace-print-in-place Bambu X1C PolyMaker PLA 8hr 24mins X:220 Y:227 Z:99mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 283g 230mm/s Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-eea4e221faa6ef33</guid>
+      <pubDate>Thu, 23 Jul 2026 13:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cable Organizer – Foldable Clip for Charging/USB Cables #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/23/cable-organizer-foldable-clip-for-charging-usb-cables-3dthursday-3dprinting/</link>
+      <description>user_2486456120 shares: A compact foldable cable organizer clip designed to securely collect and hold charging cables, USB cables, and other wires. Portable enough for desk, backpack, or travel. Reusable without damaging cables. Version 4 available from the same designer with additional features. By Singh Design download the files on: https://makerworld.com/en/models/675366-cable-organizer Every Thursday is #3dthursday here […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b3c5537f0136b53f</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Armaan Gomes and Friends Deliver Playable Doom on a Whole New Platform: A Custom RISC-V CPU</title>
+      <link>https://www.hackster.io/news/armaan-gomes-and-friends-deliver-playable-doom-on-a-whole-new-platform-a-custom-risc-v-cpu-811757ad0c1f</link>
+      <description>Designed from scratch and implementing a subset of the free and open RISC-V ISA, this custom CPU can play 1993's hottest game.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-c695258979663e47</guid>
+      <pubDate>Thu, 23 Jul 2026 11:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saving Some Coin With 3D Printed Stencils</title>
+      <link>https://hackaday.com/2026/07/23/saving-some-coin-with-3d-printed-stencils/</link>
+      <description>One of the extra tools someone might need when working with surface-mount components is a solder paste stencil, which not only simplifies the application of solder paste to a PCB …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-89fe17682febbc98</guid>
+      <pubDate>Thu, 23 Jul 2026 11:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Icy Electronics' nRF54L15 Discovery Board Comes with a Bundled CMSIS-DAP Programmer/Debugger</title>
+      <link>https://www.hackster.io/news/icy-electronics-nrf54l15-discovery-board-comes-with-a-bundled-cmsis-dap-programmer-debugger-8b9466f73aa4</link>
+      <description>Or you can flash the firmware to give yourself two independent microcontroller development boards for the price of one.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-16042f921a7cb826</guid>
+      <pubDate>Thu, 23 Jul 2026 10:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AIS-1000 AI Surveillance Station – A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L</title>
+      <link>https://www.cnx-software.com/2026/07/23/ais-1000-ai-surveillance-station-a-3640-ndaa-and-taa-compliant-ai-box-based-on-raspberry-pi-5-and-hailo-8l/</link>
+      <description>If you feel like a cheapskate when purchasing a Raspberry Pi 5 16GB for only $305, there’s now a solution to avoid embarrassment. Meet the $3,640 AIS-1000 AI Surveillance Station, pairing a Raspberry Pi 5 with a Hailo-8L AI accelerator and a 1TB NVMe SSD, all housed in a metal enclosure. Jokes aside, the device from Planet Technology is real, and users mostly pay for NDAA (National Defense Authorization Act) and TAA (Trade Agreements Act) compliance for use in AI-enhanced surveillance applications for government, critical infrastructure, or other high-security applications. Planet AIS-1000 hardware specifications: SBC – Raspberry Pi 5 (only advertised features listed) SoC – Broadcom BCM2712 CPU – Quad-core Arm Cortex-A76 processor @ 2.4 GHz GPU – VideoCore VII GPU @ 800 MHz with support for OpenGL ES 3.1, Vulkan 1.2, 4Kp60 HEVC decoder System Memory – 8GB LPDDR4X-4267 SDRAM Networking – Gigabit Ethernet RJ45 port via Broadcom BCM54213PE transceiver [...] The post AIS-1000 AI Surveillance Station – A $3,640 NDAA and TAA-compliant AI box based on Raspberry Pi 5 and Hailo-8L appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-83da7a1757b45b0f</guid>
+      <pubDate>Thu, 23 Jul 2026 10:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>From one club to a global movement: Celebrating 15 years of CoderDojo!</title>
+      <link>https://www.raspberrypi.org/blog/from-one-club-to-a-global-movement-celebrating-15-years-of-coderdojo/</link>
+      <description>4 years ago I decided to start a new CoderDojo in my community. The logic was simple: to provide the best support I could to the CoderDojo community, I wanted to understand what it was really like to be a CoderDojo Champion. And so, with the help of local volunteers, Selby CoderDojo was born. We… The post From one club to a global movement: Celebrating 15 years of CoderDojo! appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-1fda6886f0d4aafe</guid>
+      <pubDate>Thu, 23 Jul 2026 08:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger</title>
+      <link>https://www.cnx-software.com/2026/07/23/icy-electronics-nrf54l15-discovery-devboard-integrates-a-snappable-nrf52820-cmsis-dap-debugger/</link>
+      <description>The nRF54L15 Discovery is a compact wireless devboard with an onboard nRF52820 CMSIS-DAP debugger/programmer for Bluetooth LE, Thread, Zigbee, Matter, NFC, and other 2.4 GHz IoT applications. Its snap-apart design allows the target and interface MCUs to be used as two standalone boards. In the past, we have written about various development boards based on the Nordic nRF54L series, including the Seeed Studio XIAO nRF54L15, XIAO nRF54LM20A (Sense), and the nRF54L15 Connect Kit. The nRF54L15 Discovery board further integrates a snappable nRF52820 CMSIS-DAP debugger/programmer section. It also includes an nPM1300 PMIC with 32–800 mA LiPo battery charging and USB-C PD support, along with a TPS63900 buck-boost converter configurable for 1.8V or 3.3V I/O operation. nRF54L15 Discovery specifications: Wireless MCU – Nordic Semi nRF54L15 wireless SoC CPU Arm Cortex-M33 @ up to 128 MHz RISC-V coprocessor for “software-defined peripheral” Memory – 256 KB SRAM Storage – 1.5MB Non-volatile Memory (NVM) Wireless Bluetooth [...] The post Icy Electronics nRF54L15 Discovery devboard integrates a snappable nRF52820 CMSIS-DAP debugger appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-323a4020edda4dbc</guid>
+      <pubDate>Thu, 23 Jul 2026 07:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>$99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware</title>
+      <link>https://www.cnx-software.com/2026/07/23/99-xteink-x4-pro-4-3-inch-touchscreen-ereader-to-support-crosspoint-reader-open-source-firmware/</link>
+      <description>Xteink X4 Pro is a pocket-sized eReader with a 4.3-inch touchscreen E Ink display, a 16GB microSD card, 2.4 GHz WiFi and Bluetooth wireless connectivity, and a 1100 mAh battery. Previous models like the X3 and X4 e-readers were based on the ESP32-C3 RISC-V microcontroller, but the company has not disclosed which MCU was used in the new X4 Pro model. However, a recent comment on GitHub points to the X4 Pro featuring a more powerful ESP32-S3 microcontroller. Xteink X4 Pro specifications: SoC – ESP32-S3 microcontroller (TBC) with 2.4 GHz WiFi 4 and Bluetooth wireless connectivity Storage – 16 GB microSD card; expandable up to 256 GB Display 4.3-inch touchscreen E Ink display; 219 PPI Dual-tone front light Supported Formats (with default firmware) Document: EPUB, TXT Image: JPG, BMP Fonts: BIN, XTF Misc Home touch button Power, Reset, Previous, and Next buttons Built-in magnets for connection to the back of [...] The post $99 Xteink X4 Pro 4.3-inch touchscreen eReader to support CrossPoint Reader open-source firmware appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7761a08930fcecb7</guid>
+      <pubDate>Thu, 23 Jul 2026 04:47:31 +0000</pubDate>
+    </item>
     <item>
       <title>OpenCircuitX: a free, open-source EDA platform for VHDL and Verilog</title>
       <link>https://blog.adafruit.com/2026/07/22/opencircuitx-a-free-open-source-eda-platform-for-vhdl-and-verilog/</link>
@@ -726,86 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-1d18c37c9fc19d28</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round-Up: Adafruit Summer Sale! and more!</title>
-      <link>https://blog.adafruit.com/2026/07/12/adafruit-weekly-editorial-round-up-adafruit-summer-sale-and-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. SALE Use the code Gleam15 […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-24985fec01fc7ebb</guid>
-      <pubDate>Sun, 12 Jul 2026 22:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Close Encounters Hat #AdafruitLearnSystem</title>
-      <link>https://blog.adafruit.com/2026/07/12/close-encounters-hat-adafruitlearnsystem/</link>
-      <description>Surpise your friends with a mother ship on your head, Spielberg style with this guide from the Adadfruit Learn System! The Close Encounters hat is a nod to the incredible movie — with lights and sounds that mimic the mother ship, all stowed under the brim. A photocell triggers the action for GEMMA, while the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a32c5a7aa4abc3b5</guid>
-      <pubDate>Sun, 12 Jul 2026 16:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Printing Fungal Art with Laser Control</title>
-      <link>https://hackaday.com/2026/07/12/printing-fungal-art-with-laser-control/</link>
-      <description>Preservationists usually take great care to prevent fungi from appearing the world of art, but in the case of [Kexin Wang]’s Funguy project, the fungus itself is the art. It …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-26887acbb9d7d251</guid>
-      <pubDate>Sun, 12 Jul 2026 11:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro</title>
-      <link>https://www.cnx-software.com/2026/07/12/beelink-eqi-review-intel-core-3-304-wildcat-lake-mini-pc-windows-11-pro/</link>
-      <description>We’ve already checked out the specifications and hardware of the Beelink EQi Wildcat Lake mini PC in the first part of the review, with an unboxing and a teardown, before booting the mini PC into the pre-installed Windows 11 Pro for a first quick look. We’ve now had time to test the Intel Core 3 304 mini PC in more detail on Windows 11 Pro, so we’ll report our experience. The review includes feature testing, benchmark results, 4K and 8K YouTube video playback, 10GbE, 2.5GbE, and WiFi network performance evaluation, cooling performance, and measurement of fan noise and power consumption. Software Overview and Feature Testing After fully updating Windows 11 Pro and drivers to the latest version (excluding previews), I went to System &gt; About window again. We still have a 1.50 GHz (base frequency) Intel Core 3 304 processor with 16GB 6400MT/s memory, and 834GB of storage from the [...] The post Beelink EQi review – Part 2: An Intel Core 3 304 “Wildcat Lake” mini PC tested with Windows 11 Pro appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c818f4973b9aa997</guid>
-      <pubDate>Sun, 12 Jul 2026 09:58:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Software-Defined Vehicles Loom Closer Every Year</title>
-      <link>https://hackaday.com/2026/07/12/software-defined-vehicles-loom-closer-every-year/</link>
-      <description>Vehicles long ago began to incorporate electronics and software, to the point that modern vehicles increasingly have a sort of architecture problem. The software end of things evolves ever more …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-be113714e53cc4da</guid>
-      <pubDate>Sun, 12 Jul 2026 08:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Porting DOOM to the Casio Loopy</title>
-      <link>https://hackaday.com/2026/07/11/porting-doom-to-the-casio-loopy/</link>
-      <description>Targeted towards refined female gamers unlike the savagery of the mainstream game consoles of the era, 1995’s Casio Loopy was a bit of an oddity of a game console. Despite …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-0013be01b142b84f</guid>
-      <pubDate>Sun, 12 Jul 2026 05:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products 7/07/2026</title>
-      <link>https://blog.adafruit.com/2026/07/11/adafruit-new-products-7-07-2026/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debuted 5 New Products. Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special offers, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4106a32689b0bb3b</guid>
-      <pubDate>Sat, 11 Jul 2026 17:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clay Extruder Enables Printable Pottery</title>
-      <link>https://hackaday.com/2026/07/11/clay-extruder-enables-printable-pottery/</link>
-      <description>Ceramic 3D printers, despite using the same fundamental mechanism as standard FDM printers, are much harder to find. Part of this comes down to the material properties of fired ceramics …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-155a24ad577a4a1b</guid>
-      <pubDate>Sat, 11 Jul 2026 11:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Look Inside a 1997 BBC Ceefax Generator</title>
-      <link>https://hackaday.com/2026/07/11/a-look-inside-a-1997-bbc-ceefax-generator/</link>
-      <description>Ceefax was the BBC’s broadcast teletext service that ran until 2012, providing text and rudimentary graphics that were broadcast invisibly with the TV signal. In order to get this teletext …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f875edb7e0484d03</guid>
-      <pubDate>Sat, 11 Jul 2026 08:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/07/11/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-11/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5447f794bcd618f6</guid>
-      <pubDate>Sat, 11 Jul 2026 07:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
