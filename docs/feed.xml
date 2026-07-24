@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Open Home Foundation Invites All to Try Out the Home Assistant Device Database — In Preview Form</title>
+      <link>https://www.hackster.io/news/the-open-home-foundation-invites-all-to-try-out-the-home-assistant-device-database-in-preview-form-0ff977bb10aa</link>
+      <description>Initial public release includes "a deliberately focused" dataset including integration compatibility and protocol support.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-044d716e14ea43bd</guid>
+      <pubDate>Fri, 24 Jul 2026 11:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring Hidden JPEG Features</title>
+      <link>https://hackaday.com/2026/07/24/exploring-hidden-jpeg-features/</link>
+      <description>The lossy compression algorithm used by JPEG was useful for those on the early Internet not only because it enabled pictures to be shared easier, but because it allows a …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d687a30bdee7750b</guid>
+      <pubDate>Fri, 24 Jul 2026 11:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD</title>
+      <link>https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/</link>
+      <description>BOSGAME E6 ECO is another Wildcat Lake mini PC powered by the penta-core Intel Core 3 304 processor, paired with 12GB LPDDR5X and a 512GB NVMe SSD, and an attractive price tag of $379.99 and up. It also features three video outputs via HDMI 2.0, DisplayPort 1.4, and USB-C ports, dual GbE networking, Wi-Fi 7 and Bluetooth 5.4 wireless connectivity, a 3.5mm audio jack, and five USB ports. BOSGAME E6 ECO mini PC: SoC – Intel Core 3 304 “Wildcat Lake” 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache – 6MB L3 cache GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Manufacturing processor – Intel 18A System Memory – 12GB LPDDR5x @ 6400MT/s Storage 512GB M.2 NVMe SSD; upgradable to up to 4TB Additional M.2 2242 PCIe Gen4 slot Video Output HDMI 2.0 video [...] The post $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-bc9e9e8d8c37bcbb</guid>
+      <pubDate>Fri, 24 Jul 2026 09:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs</title>
+      <link>https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/</link>
+      <description>CirkitScape Top HAT (also written as TopHAT) is a multi-function expansion board for the Raspberry Pi that adds 16 extra GPIOs through an I2C expander, an RS-485 header, a 3-channel, 12-bit ADC, and four extra USB 2.0 ports through a USB hub. The company told us it’s designed to “make prototyping, sensing, automation, and real-world Raspberry Pi builds cleaner and easier without stacking as many separate add-ons”. A Top HAT Sensor Kit is also offered with a few sensors for environmental monitoring builds. CirkitScape Top HAT specifications: Supported SBCs – Raspberry Pi boards and compatible SBCs with 40-pin GPIO header, including the Pi 5, 4, 3B+, and Zero USB 4x USB 2.0 (480 Mbps) ports 4-port USB 2.0 hub Per-port current-limited switches (500mA per port) I/O Expansion 16x GPIOs via MCP23017 I²C expander Analog Input – 3-channel 12-bit ADC via ADS1015 chip RS-485 interface via MAX485 half-duplex transceiver Communication Interfaces [...] The post CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-0a5b4d34384698b7</guid>
+      <pubDate>Fri, 24 Jul 2026 08:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Blood Hack For An Old Game</title>
+      <link>https://hackaday.com/2026/07/24/a-new-blood-hack-for-an-old-game/</link>
+      <description>Even before 3D graphics and advanced shaders became common in the gaming world, there were concerns that virtual violence looked too realistic. Fighting games in the 1990s were routinely toned-down …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-75674775af7d146f</guid>
+      <pubDate>Fri, 24 Jul 2026 08:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1761 – Micsig MHO14 Tablet Oscilloscope TEARDOWN</title>
+      <link>https://www.eevblog.com/2026/07/24/eevblog-1761-micsig-mho14-tablet-oscilloscope-teardown/</link>
+      <description>Teardown of the new Micsig HMO14 4CH 200MHz 6th generation tablet oscilloscope with built in multimeter. Follow up on the lack of input ptotection! https://www.youtube.com/watch?v=W2o8otvVML4 Forum: https://www.eevblog.com/forum/blog/eevblog-1761-micsig-mho14-tablet-oscilloscope-teardown/ 00:00 – Micsig MHO14 12bit 6th generation oscilloscope 05:00 – Rubber baby buggy bumber 08:13 – The RF shield retaining clips 09:32 – The heat sink mounting is …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-b7d7033ca9bee8f1</guid>
+      <pubDate>Fri, 24 Jul 2026 07:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform</title>
+      <link>https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/</link>
+      <description>AMD has announced a range of new AI solutions at Advanced AI 2026, including 6th Gen AMD EPYC CPUs, AMD Instinct MI400 Series GPUs, and AMD Helios AI rackscale solutions designed for data centers. In this article, we’ll focus instead on embedded and physical AI solutions like the new Ryzen AI Embedded X100 processor family and a new Kria AI SoM integrated into the Kria AI Robotics Developer Platform pairing an X100 embedded CPU with a Kria FPGA. AMD Ryzen AI Embedded X100 AMD first introduced the Ryzen AI Embedded X100 family when it launched the Ryzen AI Embedded P100 family in January 2026, delivering up to 50 TOPS of AI performance. However, at the time there were very few details about the X100 family, just that it would offer higher CPU core counts and AI TOPS performance, and this latest announcement fixes that. AMD claims the new X100 series [...] The post AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-0e3e07e2031e7407</guid>
+      <pubDate>Fri, 24 Jul 2026 04:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modular Space Ship/Sci-Fi Corridor Wall Set #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/23/modular-space-ship-sci-fi-corridor-wall-set-3dthursday-3dprinting/</link>
+      <description>Shared by cale.lebl (BellForged) on MakerWorld: A modular sci-fi terrain wall set for space-themed tabletop gaming and dioramas. Circular portals fit 20mm and 40mm inserts. Compatible with any OpenForge terrain. Designed for anything sci-fi or space-themed. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-915215f4620f729c</guid>
+      <pubDate>Thu, 23 Jul 2026 23:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit QT PY ESP32-C3 Case – No Buttons Wire Passthrough #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/23/adafruit-qt-py-esp32-c3-case-no-buttons-wire-passthrough-3dthursday-3dprinting/</link>
+      <description>Eric_250094 shares: A simple, functional box for the Adafruit QT PY ESP32-C3 (no button cutouts) with wire passthrough openings and an optional solid lid variant. Direct-fit for one of Adafruit’s most popular tiny form-factor ESP32 boards — perfect for permanent sensor or STEMMA QT deployments. By Eric on Printables download the files on: https://www.printables.com/model/678640-adafruit-qt-py-esp32-c3-case-with-no-buttons Every […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-cdd585cb75798cfc</guid>
+      <pubDate>Thu, 23 Jul 2026 22:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Articulated Spider – Print-in-Place Halloween Decoration #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/23/articulated-spider-print-in-place-halloween-decoration-3dthursday-3dprinting/</link>
+      <description>Shared by Lucky 13 Toys on MakerWorld: A fully articulated spooky spider that can dangle from a web of filament. Print-in-place, no assembly required. Includes a 3MF with all parts, plus optional separate-eye printing (no MMU/AMS needed) for a two-color look. Test-fit one leg set before committing to the full print. Download the files and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-230a259bfd999cf1</guid>
+      <pubDate>Thu, 23 Jul 2026 21:04:18 +0000</pubDate>
+    </item>
     <item>
       <title>Composite video on the NES: why’s it so wobbly?</title>
       <link>https://blog.adafruit.com/2026/07/23/composite-video-on-the-nes-whys-it-so-wobbly/</link>
@@ -726,86 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-3140d1b6bf0d0dad</guid>
       <pubDate>Mon, 13 Jul 2026 21:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reviewing a trove of old computers in Germany</title>
-      <link>https://blog.adafruit.com/2026/07/13/reviewing-a-trove-of-old-computers-in-germany/</link>
-      <description>On July 26, 2006, The Computer History Museum curator Dag Spicer received an unexpected email from Dortmund, Germany. It described what appeared to be a lost trove of rare computers abandoned in a warehouse in the town of Castrop-Rauxel. The Museum’s collections committee agreed that a visit was necessary to see exactly what was there […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ee741e5bba555f9c</guid>
-      <pubDate>Mon, 13 Jul 2026 21:15:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Deere owners will get the right to repair their own equipment under a new FTC settlement</title>
-      <link>https://blog.adafruit.com/2026/07/13/john-deere-owners-will-get-the-right-to-repair-their-own-equipment-under-a-new-ftc-settlement/</link>
-      <description>It looks like John Deere owners can soon feel free to fix their own machines. The Federal Trade Commission and attorneys general from several states secured a right-to-repair settlement Wednesday with agriculture equipment giant Deere &amp; Co. — commonly known as John Deere — that requires the company to let farmers and independent shops fix their […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-1e34580afc5854d2</guid>
-      <pubDate>Mon, 13 Jul 2026 20:57:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hello World #30 out now: Critical thinking in the age of AI</title>
-      <link>https://www.raspberrypi.org/blog/hello-world-30-out-now-critical-thinking-in-the-age-of-ai/</link>
-      <description>Today’s data-driven tools can make many aspects of our personal lives less time-consuming, because they present us with options and even make decisions for us. By relying on predictive text features, we write messages more quickly and outsource our word choices. By using music and film recommendations, we outsource our personal taste. And by using… The post Hello World #30 out now: Critical thinking in the age of AI appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-2887b37c27097760</guid>
-      <pubDate>Mon, 13 Jul 2026 15:08:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery</title>
-      <link>https://www.cnx-software.com/2026/07/13/ambient-scientific-gpx10-pro-mcu-delivers-years-of-always-on-ai-on-a-coin-cell-battery/</link>
-      <description>Ambient Scientific GPX10 Pro is a processor/microcontroller for always-on embedded AI applications on power-constrained edge devices. With a consumption of under &lt;100μW, it can deliver years of always-on AI on one coin-cell battery. The SoC features ten software-programmable MX8 AI cores leveraging the company’s DigAn technology, ultra-low power ADC, an 8-bit DVP camera interface, 2048 KB SRAM, support for numerous peripherals, and an Arm Cortex-M4F core for non-AI workloads. GPX10 Pro key features and specifications: MCU core – Arm Cortex-M4F core clocked at 100 KHz to 100 MHz Memory 2048 KB system SRAM 64KB retention SRAM in “Always On” block Storage – External SPI or QSPI flash 10x MX8 programmable AI Cores for ultra-low power deep learning applications Based on the DigAn AI engine, which can change behavior between being a master and a slave. Up to 2,560 MAC operations per clock cycle (256 MAC per cycle per core) Peak [...] The post Ambient Scientific GPX10 Pro MCU delivers years of always-on AI on a coin-cell battery appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-46a35bafd1dec024</guid>
-      <pubDate>Mon, 13 Jul 2026 13:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Name your own price for this Raspberry Pi Press book bundle</title>
-      <link>https://www.raspberrypi.com/news/name-your-own-price-for-this-raspberry-pi-press-book-bundle/</link>
-      <description>Support the Raspberry Pi Foundation's work to help young people realise their potential through computing. The post Name your own price for this Raspberry Pi Press book bundle appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-042dfe84dd4b6b52</guid>
-      <pubDate>Mon, 13 Jul 2026 12:25:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>DIY Steam Controller Puck Offers Xbox, Switch, PlayStation Emulation Modes</title>
-      <link>https://hackaday.com/2026/07/13/diy-steam-controller-puck-offers-xbox-switch-playstation-emulation-modes/</link>
-      <description>Valve recently released a new version of the Steam Controller, which features a wired USB puck that serves both as charger and dedicated, low-latency wireless receiver. The downside is they …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-939fd35e866a0e2c</guid>
-      <pubDate>Mon, 13 Jul 2026 11:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway</title>
-      <link>https://www.cnx-software.com/2026/07/13/wismesh-station-review-telemetry-mqtt-and-grafana-tested-on-a-raspberry-pi-4-based-meshtastic-gateway/</link>
-      <description>RAKwireless has sent us a sample of the WisMesh Station, a Meshtastic gateway and base station based on a Raspberry Pi 4 Model B, a WisMesh Pi HAT RAK6421 expansion board, a LoRa module, a GNSS module, all housed in a compact metal enclosure. It comes with meshtasticd preinstalled, making it ready to use right out of the box. Just unbox it, plug it in, and start using Meshtastic immediately. We’ll also use software packages for communication, data storage, and visualization, such as MQTT, Node-RED, InfluxDB, and Grafana, mostly following RAKwireless’s user guide WisMesh Station is available in 2 models according to transmit power: the standard RAK8622 model that uses the RAK13300 LoRa module (Semtech SX1262 with 22 dBm transmit power), suitable for urban networks where nodes are close to each other, and the high-power RAK8623 (HP) model that uses the RAK13302 module (SX1262 + SKY66122 amplifier circuit with 30 [...] The post WisMesh Station Review – Telemetry, MQTT, and Grafana tested on a Raspberry Pi 4-based Meshtastic gateway appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-4b100da8c6dff959</guid>
-      <pubDate>Mon, 13 Jul 2026 08:13:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Newton’s Cradle Isn’t Really Perpetual</title>
-      <link>https://hackaday.com/2026/07/13/newtons-cradle-isnt-really-perpetual/</link>
-      <description>If any astute Hackaday reader saw [dongvua90]’s Newton’s cradle go on without human intervention all day long, they’d probably suspect the truth: there’s a battery and a magnet involved. But …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9c3c24069ddf422a</guid>
-      <pubDate>Mon, 13 Jul 2026 08:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>CGI Motion Capture with only a Camera</title>
-      <link>https://hackaday.com/2026/07/12/cgi-motion-capture-with-only-a-camera/</link>
-      <description>Computer-generated imagery (CGI) has largely replaced physical models in major film productions these days, but the transition didn’t exactly happen overnight. For a time there was an effort to blend …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-c56f3baea6778621</guid>
-      <pubDate>Mon, 13 Jul 2026 05:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board</title>
-      <link>https://www.cnx-software.com/2026/07/13/raspberry-pi-gets-10base-t1s-t1l-single-pair-ethernet-spe-hat-board/</link>
-      <description>Germany-based Brechel Electronic has launched two new Single Pair Ethernet (SPE) expansion boards for Raspberry Pi platforms: the BE-IIS-HPP-T1S and the BE-IIS-HPP-T1L. Designed for technology evaluation, industrial network prototyping, and educational laboratory use, these boards add 10 Mbit/s Ethernet communication over a single twisted pair to standard Raspberry Pi SBCs. The BE-IIS-HPP-T1S is based on the Microchip LAN8651 10BASE-T1S MAC-PHY and supports IEEE 802.3cg Single Pair Ethernet over multidrop networks with up to 8 nodes, enabling distances up to 25 meters on a shared bus. For longer-reach point-to-point links, the company offers the BE-IIS-HPP-T1L, built around Analog Devices ADIN1110 MAC-PHY. Both boards are part of the BE-IIS HAT++ ecosystem, which allows multiple industrial communication HATs to be stacked on a single Raspberry Pi without running into SPI or GPIO resource conflicts. Brechel Electronic 10BASE-T1L and 10BASE-T1S specifications: Compatibility – Raspberry Pi HAT+ compliant T1L – Supports Pi 3, 4, 5, and Zero [...] The post Raspberry Pi gets 10BASE-T1S/T1L Single Pair Ethernet (SPE) HAT+ board appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-1d18c37c9fc19d28</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
