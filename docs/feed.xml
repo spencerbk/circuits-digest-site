@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Repairing a RED Cinema Camera On The Cheap</title>
+      <link>https://hackaday.com/2026/07/25/repairing-a-red-cinema-camera-on-the-cheap/</link>
+      <description>[ALT CINE] took a punt recently when purchasing a damaged RED Komodo camera online. In functional form, the 6K-capable camera sells for several thousand pounds (or dollars, or euros), whether …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-c6b53dc5b6552e02</guid>
+      <pubDate>Sat, 25 Jul 2026 11:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICCU Monitor Logs Data in E-GMP EV Failures</title>
+      <link>https://hackaday.com/2026/07/25/iccu-monitor-logs-data-in-e-gmp-ev-failures/</link>
+      <description>EVs are less mechanically complicated than their combustion kin, but that doesn’t mean they’re immune to component failure. The Integrated Charge Control Unit (ICCU) has been the main failure point …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-5867683581cc348c</guid>
+      <pubDate>Sat, 25 Jul 2026 08:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots</title>
+      <link>https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/</link>
+      <description>Beelink “ME Pro 2-Bay AI NAS Mini PC Intel Wildcat Lake 304” offers two SATA bays and one M.2 PCIe Gen4 socket, and is equipped with 16GB DDR5-5600 SO-DIMM memory and 512GB UFS 3.1 storage. It’s an upgrade to the Beelink ME Pro Intel N95/N150 NAS and mini PC introduced last February. Besides the faster processor, the NAS trades its 5GbE port for a faster 10GbE port, and gains two Thunderbolt 4 ports. One downside, due to the lower number of PCIe lanes in Wildcat Lake processors, is that it now features one M.2 PCIe Gen4 socket, instead of three M.2 PCIe Gen3 sockets, which is somewhat mitigated by the built-in UFS storage. Beelink ME Pro specifications: SoC – Intel Core 3 304 “Wildcat Lake” 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache – 6MB L3 cache GPU – 1-core Intel [...] The post Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-f12a0b126e0db3ba</guid>
+      <pubDate>Sat, 25 Jul 2026 03:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s CircuitPython Parsec: Bitmaptools Rotozoom ZOOM</title>
+      <link>https://blog.adafruit.com/2026/07/24/john-parks-circuitpython-parsec-bitmaptools-rotozoom-zoom/</link>
+      <description>#circuitpythonparsec ZOOM a bitmap with ease using bitmaptools.rotozoom in CircuitPython. code example To learn about CircuitPython: https://circuitpython.org</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-184bf3666b11fdb5</guid>
+      <pubDate>Fri, 24 Jul 2026 20:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D Printed Linguo #piday #raspberrypi @Raspberry_Pi</title>
+      <link>https://blog.adafruit.com/2026/07/24/3d-printed-linguo-piday-raspberrypi-raspberry_pi/</link>
+      <description>“They *are* throwing robots.” carlos3dprint shares how they brought Lisa Simpson’s Linguo to life with a little help from AI, 3D printing, and a Raspberry Pi. Check out the details on instructables. I built Linguo from The Simpsons as a real 3D printed robot with AI. In the episode, Linguo is the grammar robot Lisa […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c0696ba3a5f5a526</guid>
+      <pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem</title>
+      <link>https://blog.adafruit.com/2026/07/24/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-3/</link>
+      <description>﻿ ﻿ Are you subscribed to the Adafruit Youtube channel? If you’re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-55f229d3b941eee7</guid>
+      <pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bots, Blasters, Bugs, and a Bunch of Open Sauce Hardware</title>
+      <link>https://makezine.com/article/maker-news/bots-blasters-bugs-and-a-bunch-of-open-sauce-hardware/</link>
+      <description>Open Sauce 2026 was filled with familiar faces, new projects, robots, and all kinds of wings. The post Bots, Blasters, Bugs, and a Bunch of Open Sauce Hardware appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-9436fc8c8b00d505</guid>
+      <pubDate>Fri, 24 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Open Home Foundation Invites All to Try Out the Home Assistant Device Database — In Preview Form</title>
       <link>https://www.hackster.io/news/the-open-home-foundation-invites-all-to-try-out-the-home-assistant-device-database-in-preview-form-0ff977bb10aa</link>
@@ -750,62 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-c40a56e15bbe0934</guid>
       <pubDate>Tue, 14 Jul 2026 21:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Historic 110-Year-Old NYC Business Is Shutting Down</title>
-      <link>https://blog.adafruit.com/2026/07/14/this-historic-110-year-old-nyc-business-is-shutting-down/</link>
-      <description>The American Wood Column Corp is located in Brooklyn, New York. It’s one of the last holdouts of old-school woodwork manufacturing in the city and is officially NYC’s last wood column factory. The family company’s CEO Thomas Lupo is quite candid and charming about the history and reality of the business, which will soon closer […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-414ce3cbbb426fab</guid>
-      <pubDate>Tue, 14 Jul 2026 12:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Book Touch Makes Crowd Funding Debut</title>
-      <link>https://hackaday.com/2026/07/14/open-book-touch-makes-crowd-funding-debut/</link>
-      <description>If you have even the slightest interest in open hardware e-readers, you’ve certainly heard of [Joey Castillo]’s Open Book project. We’ve covered his efforts to develop an affordable reader that …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-99b31b675fea402f</guid>
-      <pubDate>Tue, 14 Jul 2026 11:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI literacy begins with data literacy: An example from healthcare</title>
-      <link>https://www.raspberrypi.org/blog/ai-literacy-begins-with-data-literacy-an-example-from-healthcare/</link>
-      <description>The development of AI and data science has transformed how we gain insights from data. In healthcare, AI tools are being used in the development of new treatments as researchers apply machine learning methods to datasets. However, applying AI in healthcare also brings risks, particularly when systems amplify existing biases in data or design. In… The post AI literacy begins with data literacy: An example from healthcare appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-6d1871097e5f332a</guid>
-      <pubDate>Tue, 14 Jul 2026 09:49:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition)</title>
-      <link>https://www.cnx-software.com/2026/07/14/meet-moddo-pinch-the-world-smallest-arduino-compatible-board-2026-edition/</link>
-      <description>Canada-based Moddo has designed the Pinch board, which it claims is the world’s smallest 32-bit Arduino-compatible board so far, measuring just 10.9 x 10.5 mm. The board is powered by a Microchip SAMD11 Cortex-M0+ microcontroller with 4 KB SRAM and 16KB flash, features an RGB LED, reset/bootloader button, 3.3 V LDO, a USB-C port, and a total of 12 GPIOs. Moddo Pinch specifications: Microcontroller – Microchip SAM D11 (ATSAMD11D14A) MCU core – Arm Cortex-M0+ processor running at up to 48 MHz RAM – 4 KB SRAM Storage – 16 KB Flash (12 KB for sketches, 4 KB bootloader) USB – 1x USB Type-C port for power, programming (CDC serial), and HID Expansion – 16-pin header (1.27mm pitch) 12x GPIO (D0–D11) 5x analog input (A0–A4) 11x PWM 1x DAC 1x I2C, 1x SPI, 2x UART(multiplexed with USB &amp; D5/D6) Debug – SWD on D5 (SWCLK) and D6 (SWDIO) Misc RGB LED [...] The post Meet Moddo Pinch – The world’s smallest 32-bit Arduino-compatible board (2026 Edition) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-9ab281b5f3d74385</guid>
-      <pubDate>Tue, 14 Jul 2026 08:02:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Seemingly Impossible Oscillator</title>
-      <link>https://hackaday.com/2026/07/14/the-seemingly-impossible-oscillator/</link>
-      <description>Back in the days when an integrated circuit meant a simple but expensive device such as a 741 or a 555, most electronics enthusiasts made do with discrete transistor circuits. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-0ef157dc6b57b0ae</guid>
-      <pubDate>Tue, 14 Jul 2026 08:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant</title>
-      <link>https://www.cnx-software.com/2026/07/14/iotlabs-wm-bus-gateway-an-esp32-device-with-wireless-m-bus-connectivity-for-home-assistant/</link>
-      <description>IoTLabs wM-Bus Gateway is an ESP32 device supporting the Wireless M-Bus (wM-Bus) standard for receiving data from compatible meters and sensors, designed for full integration with Home Assistant. Wireless M-Bus (Wireless Meter Bus) is a wireless protocol specifically designed for remote reading of smart meters, generally gas, water, or electricity meters, and typically used by utilities, but the wM-Bus gateway allows you to deploy the standard for your home automation solution, meters, and sensors. wM-Bus gateway specifications: Main controller – ESP32 dual-core microcontroller with Wi-Fi and BLE connectivity Display – 1.3-inch OLED for live measurements and status wM-Bus – 868 MHz radio receiver; Semtech SX1276-based RFM95/RFM96 according to the code Supports T1 and C1 frames, compatible with the wmbusmeters library Antennas Built-in 2.4 GHz antenna for Wi-Fi and Bluetooth External SMA antenna for wireless M-Bus; important: must be connected before powering the device to avoid damage Misc Top button to [...] The post IoTLabs wM-Bus gateway – An ESP32 device with Wireless M-Bus connectivity for Home Assistant appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-3fd78af40db8d592</guid>
-      <pubDate>Tue, 14 Jul 2026 03:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Input Device Tailored to Vibe Coding</title>
-      <link>https://www.hackster.io/news/an-input-device-tailored-to-vibe-coding-b24ae38b3093</link>
-      <description>A microphone and speech-to-text are all you need for vibe coding, which led Gokux to creating this unique input device tailored the practice</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-3140d1b6bf0d0dad</guid>
-      <pubDate>Mon, 13 Jul 2026 21:21:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
