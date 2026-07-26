@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes</title>
+      <link>https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/</link>
+      <description>Creality has sent us a sample of the Pika portable 3D scanner for review. In some ways, it shares some of the features of the high-end Sermoon S1 3D scanner, like blue laser and NIR structured light scanning modes, but it’s more affordable and compact, works out of the box through USB or WiFi, and is offered in a design and form factor similar to an action or point-and-shoot camera. In this review, I’ll start by listing the specifications, then go through an unboxing, and test the Pika with an (underpowered) Android phone, before spending more time testing the portable 3D scanner on a powerful mini PC connected to an NVIDIA GeForce RTX 5060 Ti 16GB GPU dock. Pika 3D scanner specifications and host requirements Pika (CRS15CPK) specifications: SoC – Unnamed octa-core processor clocked at 2.0 GHz Display – 3-inch touchscreen display Scanning Modes 7 Parallel Blue Laser Lines Working [...] The post Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-a7d776f02328cc31</guid>
+      <pubDate>Sun, 26 Jul 2026 11:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duplicating Parts Using Silicone Molds</title>
+      <link>https://hackaday.com/2026/07/26/duplicating-parts-using-silicone-molds/</link>
+      <description>[Do As I Do] had a simple task to complete. A couple of small parts needed to be duplicated in some quantity, with good dimensional accuracy and surface finish. There …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b3f75c0bd7aeaf6b</guid>
+      <pubDate>Sun, 26 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Pen Plotter Draws In Multiple Colors</title>
+      <link>https://hackaday.com/2026/07/26/delta-pen-plotter-draws-in-multiple-colors/</link>
+      <description>If you’re building your first plotter, or you just like thinking in right angles, you’d probably consider a Cartesian design for your build. [András Vujovits] went another route with his …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-92efd82636ad9629</guid>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Early Space Weather Warnings with MAGIC</title>
+      <link>https://blog.adafruit.com/2026/07/25/early-space-weather-warnings-with-magic/</link>
+      <description>The MAGIC instrument – the flight instrument that has just been finished and will soon be sent for integration into HENON. It is missing the sensor, which is attached by a wire and will be mounted on a deployable boom. Credit: Harry Lewis/ Imperial College London Licence type: Attribution (CC BY 4.0) via the Royal […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-7430222f9bd8766a</guid>
+      <pubDate>Sat, 25 Jul 2026 20:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elegoo’s New H1 HT Filament Dryer Addresses Centauri Carbon 2 Concerns</title>
+      <link>https://www.hackster.io/news/elegoo-s-new-h1-ht-filament-dryer-addresses-centauri-carbon-2-concerns-2343908ebe35</link>
+      <description>The Centauri Carbon 2 has one problem and that is exposed spools. Now Elegoo is launching a solution: the Elegoo H1 HT filament dryer.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-74c240dd7a4201b8</guid>
+      <pubDate>Sat, 25 Jul 2026 18:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voice Recognition and Speech Synthesis on an RPi Pico 2</title>
+      <link>https://blog.adafruit.com/2026/07/25/voice-recognition-and-speech-synthesis-on-an-rpi-pico-2/</link>
+      <description>Pete Warden is on a mission to run a full voice interface on a fifty cent chip. This project hasn’t quite reached that goal but it is well on the way. Uses a Pi Pico with the help of a Adafruit I2S MEMS Microphone Breakout and a Adafruit I2S 3W Class D Amplifier Breakout Most […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-170afc81d1f7bada</guid>
+      <pubDate>Sat, 25 Jul 2026 17:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backyard Squirrel Box With Camera</title>
+      <link>https://blog.adafruit.com/2026/07/25/backyard-squirrel-box-with-camera/</link>
+      <description>image via Hey Jude in Living, Instructables Interacting with local nature can be very fun. Over on Instructables Hey Jude in Living put together a build a nice little home for squirrels that also serves as a squirrel observation opportunity: So, dear remaining readers, as someone who is also up for some squirrel shenanigans, […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-de842fb05b1b5560</guid>
+      <pubDate>Sat, 25 Jul 2026 14:00:17 +0000</pubDate>
+    </item>
     <item>
       <title>Repairing a RED Cinema Camera On The Cheap</title>
       <link>https://hackaday.com/2026/07/25/repairing-a-red-cinema-camera-on-the-cheap/</link>
@@ -750,62 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-1b1b649f968cf799</guid>
       <pubDate>Wed, 15 Jul 2026 12:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making a Locked Down Wearable Work Without a Subscription</title>
-      <link>https://hackaday.com/2026/07/15/making-a-locked-down-wearable-work-without-a-subscription/</link>
-      <description>WHOOP does not have the presence in the wearable space as other brands, but in certain circles, it’s a household name. Their business model requires you to have a yearly …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-e60fdac7bbab58a5</guid>
-      <pubDate>Wed, 15 Jul 2026 11:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hacking Around the Financial Pain of New 3DS XL Top Screens</title>
-      <link>https://hackaday.com/2026/07/15/hacking-around-the-financial-pain-of-new-3ds-xl-top-screens/</link>
-      <description>With Nintendo’s 3DS experiencing a bit of a renaissance lately, prices for functioning systems have shot through the roof. Getting a busted one with a broken screen is a lot …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-615d3b8e3b3c1769</guid>
-      <pubDate>Wed, 15 Jul 2026 08:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux</title>
-      <link>https://www.cnx-software.com/2026/07/15/reverse-engineering-brings-rk3576-npu-support-to-open-source-rocket-driver-for-mainline-linux/</link>
-      <description>Back in 2024, we noted that the open-source driver for RK3588’s NPU by Tomeu Vizoso delivered decent performance for object detection. Since then, good progress has been made, and it’s now known as the Rocket driver in mainline Linux. However, the Rockchip RK3576 SoC is not supported by the Rocket driver in mainline yet, despite sharing a similar NPU. The good news is that Ga Hing Woo has been working on mainline Linux support for the Rockchip RK3576 NPU using the Rocket driver stack and has tested the updates on the Radxa ROCK 4D running Linux 7.1-rc5. This required some serious reverse-engineering work due to hidden registers not documented in the TRM. Ga Hing Woo (also written as Jiaxing Hu) sent us an email explaining some of the challenges: Single int8 convolution now comes out byte-exact against a CPU reference on the open stack. Getting there meant reverse-engineering the compute [...] The post Reverse-engineering brings RK3576 NPU support to open-source Rocket driver for mainline Linux appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-ef4c7b97e78a47de</guid>
-      <pubDate>Wed, 15 Jul 2026 05:01:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored)</title>
-      <link>https://www.cnx-software.com/2026/07/15/big-savings-alert-aivon-pcba-monthly-smt-special-deals-free-shipping/</link>
-      <description>In today’s fast-paced electronics industry, bringing innovative products from concept to market quickly and cost-effectively is more important than ever. AIVON, a trusted PCB manufacturing expert with over 15 years of experience in high-quality PCBA production, understands these challenges deeply. To support engineers, hardware startups, makers, and established electronics companies, AIVON is launching its Monthly PCBA Deals for low-cost PCBA prototyping starting at $35 with free shipping. The factory-direct promotions are designed to significantly reduce prototyping and small-batch production costs while maintaining strict quality standards and professional manufacturing support. Limited-Time SMT Assembly Offers (Open to All Customers) $35 Super Prototype Special – Ideal for fast validation and early development Order quantity: ≤ 10pcs $75 Small-Batch Power Deal – Perfect for pilot runs and small production Order quantity: ≤ 30pcs Each user can enjoy this deal twice per month $30 Shipping Relief Applies to SMT orders ≤ 30pcs Each user can [...] The post Big Savings Alert! AIVON PCBA Monthly SMT Special Deals + Free Shipping (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-cc8a605739c79d28</guid>
-      <pubDate>Wed, 15 Jul 2026 02:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a robotics research setup that lives next to a desk</title>
-      <link>https://blog.adafruit.com/2026/07/14/building-a-robotics-research-setup-that-lives-next-to-a-desk/</link>
-      <description>Matthias Plappert at dfdx labs will spend the next several months doing independent research on robotic manipulation, and doing it in the open. I don’t expect the main output to be papers or an open-source codebase. What I care about here is the research log itself: what works, what fails, and what I learn from […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c16ebc2876a58af6</guid>
-      <pubDate>Tue, 14 Jul 2026 21:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Advanced Nintendo Entertainment System</title>
-      <link>https://blog.adafruit.com/2026/07/14/an-advanced-nintendo-entertainment-system/</link>
-      <description>decrazyo on GitHub outlines the process for modding the Nintendo Entertainment System (NES) to use 2 PPUs for advanced graphical features. I don’t expect anyone to actually bother building this so the docs might be kind of half-assed at times. Check out my modified fork of Mesen2 if you’d like to play with this concept without modding […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-0b0e6ee2c7407bac</guid>
-      <pubDate>Tue, 14 Jul 2026 21:22:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Beavis Ultrasound PnP ISA sound card replica</title>
-      <link>https://blog.adafruit.com/2026/07/14/a-beavis-ultrasound-pnp-isa-sound-card-replica/</link>
-      <description>Eric Schlaepfer On Tube Time has designed the Beavis Ultrasound PnP, an open source replica of the Gravis Ultrasound Pnp. Unlike other clones, this design includes the entire schematic as well as the reverse-engineered source code of the GAL. While Eric notes “I have not generated the fab package since I have not actually fabricated […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c40a56e15bbe0934</guid>
-      <pubDate>Tue, 14 Jul 2026 21:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
