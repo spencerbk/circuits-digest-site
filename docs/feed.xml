@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 13:45:02 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Vivariums, drone shows, and TV kits, all powered by Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/vivariums-drone-shows-and-tv-kits-all-powered-by-raspberry-pi/</link>
+      <description>Here are some highlights from the latest batch of third-party products to join the Powered by Raspberry Pi roster. The post Vivariums, drone shows, and TV kits, all powered by Raspberry Pi appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-a32dfa29d8816d05</guid>
+      <pubDate>Mon, 27 Jul 2026 13:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32-S31 Now in Mass Production and Available for Purchase</title>
+      <link>https://www.espressif.com/en/news/ESP32_S31_Mass_Production</link>
+      <description>Shanghai, ChinaEspressif Systems (SSE: 688018) announces that its ESP32-S31 has entered mass production and is now available for purchase. Designed for next-generation AIoT applications, ESP32-S31 is a high-performance dual-core RISC-V SoC with comprehensive wireless connectivity, making it ideal for smart home hubs, smart speakers, edge AI devices, industrial automation, and more. ESP32-S31 features a dual-core 32-bit RISC-V CPU running at up to 320 MHz, with one core supporting a 128-bit data path and SIMD instruction set for accelerated computing performance. The chip also integrates a 40 MHz low-power coprocessor, 512 KB of on-chip SRAM, support for high-speed 250 MHz DDR PSRAM expansion, and up to 60 GPIOs. ESP32-S31 integrates Wi-Fi 6 (2.4 GHz), Bluetooth 5.4 (including LE Audio and Classic BR/EDR), IEEE 802.15.4 (Zigbee and Thread), and a Gigabit Ethernet MAC. It also supports Matter over both Wi-Fi and Thread. To support rich human-machine interaction, ESP32-S31 provides interfaces for DVP cameras, multiple LCD display types, and up to 14 capacitive touch channels. Dedicated hardware accelerators (including a JPEG encoder/decoder and a 2D graphics accelerator) help improve multimedia performance, while dual I2S controllers enable hardware-level Bluetooth audio synchronization. ESP32-S31 is fully supported by Espressif's ESP-IDF development framework and is compatible with Espressif's software ecosystem, including ESP-Matter, ESP-GMF, ESP-BLE-MESH, and ESP-BLE-AUDIO. It can also be deployed as a connectivity coprocessor through ESP-Hosted and ESP-AT. ESP32-S31 development boards are now available from the Espressif Official AliExpress Store. Developers can also visit the ESP32-S31 Developer Portal Platform for comprehensive documentation, software resources, example projects, and development tools. For product inquiries or technical support, please contact the Espressif team. We're ready to help you bring your next AIoT product to life. Monday, July 27, 2026 - 19:30New Type: Press ReleaseSticky-on-top: trueNews Status: Hide</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-e5f5116ef0554751</guid>
+      <pubDate>Mon, 27 Jul 2026 11:46:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neighborhood Bulletin Boards, circa 1982</title>
+      <link>https://hackaday.com/2026/07/27/neighborhood-bulletin-boards-circa-1982/</link>
+      <description>When the Internet first started gaining mainstream popularity in the late 90s, many optimists claimed that it would bring people together by reducing barriers to communication. That ideal hasn’t exactly …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b97f5c6e2c09387c</guid>
+      <pubDate>Mon, 27 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module</title>
+      <link>https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/</link>
+      <description>Jetway has introduced the SMC-ARK1, a new SMARC system-on-module built around the Rockchip RK3588 octa-core processor. Designed for embedded computing and edge AI applications, the board includes up to 16GB of LPDDR4x memory and up to 128GB of eMMC flash, dual GbE, and an Ampak AP6398SV Wi-Fi 5 and Bluetooth 5.0 module, alongside a dedicated HDMI input via an I-PEX FPC connector. We’ve previously written about the Geniatech SOM-3568-SMARC module based on the Rockchip RK3568, but Jetway’s SMC-ARK1 appears to be the first SMARC module we’ve seen based on the Rockchip RK3588. The module follows the SMARC 2.1 short form-factor specification (82 × 50 mm) and can be used with compatible SMARC carrier boards. Jetway SMC-ARK1 specifications: SoC – Rockchip RK3588 octa-core processor with CPU – 4x Cortex‑A76 cores @ up to 2.4 GHz, 4x Cortex‑A55 cores @ 1.8 GHz GPU – Arm Mali-G610 MP4 GPU Video decoder – 8Kp60 H.265, VP9, AVS2, 8Kp30 [...] The post Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-89f391561263e04a</guid>
+      <pubDate>Mon, 27 Jul 2026 10:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years</title>
+      <link>https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/</link>
+      <description>Joshua Riek’s ubuntu-rockchip project helped many run working OS images for their Rockchip SBCs, but due to burnout and lack of support, he decided to step away in late 2024, and the project is now archived. However, that doesn’t mean his efforts have gone to waste. GitHub user defcom5-rockchip forked the project and released two Ubuntu 24.04-based distributions working on the Orange Pi 5B, notably integrating two fixes for the Ampak AP6275P WiFi and Bluetooth module, including one that Cypress apparently already fixed in 2018, but took a while to be integrated into Rockchip OS images. Short description of the two OS images Pi Desktop v1.0-beta – A curated daily-driver desktop: 4K@120 via custom VOP2/dclk kernel work, hardware video decode, zero snaps/telemetry, and “self-healing Bluetooth”: a background service that revives the AP6275P radio wedge in ~10 seconds automatically. Pi Studio v1.3 — the audio-production sibling: low-latency kernel (PREEMPT/1000Hz), Sonic Pi [...] The post Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-dcf245f4b807b8ff</guid>
+      <pubDate>Mon, 27 Jul 2026 09:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Music Box With A Very Modern Heart</title>
+      <link>https://hackaday.com/2026/07/27/a-music-box-with-a-very-modern-heart/</link>
+      <description>A ballerina music box is a charming ornament, but it remains one that is limited by its mechanism to a very short performance. [ShielaDixon] has one, and decided to make …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d57ecccb69104ccb</guid>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scanwheel: A Pocket-Sized POV TV</title>
+      <link>https://hackaday.com/2026/07/26/scanwheel-a-pocket-sized-pov-tv/</link>
+      <description>When you hear the word TV, you probably think of a big LED screen, maybe even the old CRT TVs, but in either case it’s something large and fairly complicated. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-47391e60a5a48264</guid>
+      <pubDate>Mon, 27 Jul 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA Explains The Science Behind ‘Project Hail Mary’</title>
+      <link>https://blog.adafruit.com/2026/07/26/nasa-explains-the-science-behind-project-hail-mary/</link>
+      <description>NASA separates the science facts from the science fiction in Project Hail Mary. In the science-fiction novel and movie “Project Hail Mary,” the story revolves around the rigors of an astronaut working and surviving during a yearslong mission, the power of deep-space communications, the search for life beyond Earth, and nearby star systems that actually […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9911e7e9104f7934</guid>
+      <pubDate>Sun, 26 Jul 2026 20:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Weekly Editorial Round-Up: Pool Noodle Mace, GameBoy cart hacking &amp; Demofruit: Demoscene for Fruit Jam</title>
+      <link>https://blog.adafruit.com/2026/07/26/adafruit-weekly-editorial-round-up-pool-noodle-mace-gameboy-cart-hacking-demofruit-demoscene-for-fruit-jam/</link>
+      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Pool Noodle Mace […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-7cdd5e750697c0c1</guid>
+      <pubDate>Sun, 26 Jul 2026 19:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>A computer mouse controlled entirely by your tongue</title>
+      <link>https://blog.adafruit.com/2026/07/26/a-computer-mouse-controlled-entirely-by-your-tongue/</link>
+      <description>Augmental introduced two new accessibility products A lot of the gadgets that get promoted at CES never make it past the concept stage so it’s cool to see this mouth mouse hit the market. Introduced by Augmental at CES 2024, the MouthPad is like a retainer that gives you full cursor control with your tongue. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2bd7f152a78a2dd8</guid>
+      <pubDate>Sun, 26 Jul 2026 17:34:11 +0000</pubDate>
+    </item>
     <item>
       <title>Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes</title>
       <link>https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/</link>
@@ -726,86 +806,6 @@
       <category>espressif</category>
       <guid isPermaLink="false">circuits-d38db29eb8e9ea1b</guid>
       <pubDate>Thu, 16 Jul 2026 09:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building education technology that children can trust</title>
-      <link>https://www.raspberrypi.org/blog/draft-principles-for-safe-responsible-edtech/</link>
-      <description>Millions of young people and educators around the world use our technology to teach, learn, and create with code. Building it safely and responsibly is intrinsic to who we are and what we stand for. A growing body of research and public commentary links the use of social media, smartphones, and algorithmic platforms to declining… The post Building education technology that children can trust appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-53b3066322b54ad9</guid>
-      <pubDate>Thu, 16 Jul 2026 08:46:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transponder Mania</title>
-      <link>https://hackaday.com/2026/07/16/transponder-mania/</link>
-      <description>In order to not hit something, you generally need to know where that thing is. On land, the meager human eyesight tends to be sufficient. On the water, however, the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-56229be0c3d26ee0</guid>
-      <pubDate>Thu, 16 Jul 2026 08:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/07/16/openinfrared-point-esp32-s3-universal-remote-hub-infrared-ble-nfc-audio-streaming/</link>
-      <description>OpenInfrared Point is a universal remote hub built around ESP32-S3 that lets users control compatible devices from a smartphone by scanning a QR code or tapping an NFC tag, eliminating the need for dedicated remote controls. Powered via USB-C, the Point hub can learn IR codes from existing remote controls and supports infrared, IP (HTTP), and Bluetooth Low Energy (BLE) device control, with RF support planned as a future add-on. Hardware features include an IR output for external emitters, an audio input for private TV audio streaming, built-in NFC, QR-code access, and support for controlling TVs, projectors, AV receivers, air conditioners, streaming devices, and other compatible equipment. OpenInfrared Point specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB [...] The post OpenInfrared Point is an ESP32-S3 powered universal remote hub with Infrared, BLE, NFC, audio streaming (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-5821c90e33c25dea</guid>
-      <pubDate>Thu, 16 Jul 2026 07:41:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Unusual Repair</title>
-      <link>https://www.eevblog.com/2026/07/16/an-unusual-repair/</link>
-      <description>An Unusual Repair of a returned new BM786 multimeter Forum: https://www.eevblog.com/forum/repair/an-unusual-bm786-repair/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-daa3d063da1c611b</guid>
-      <pubDate>Thu, 16 Jul 2026 03:53:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1760 – Today in the Dumpster (July 12th, 2026)</title>
-      <link>https://www.eevblog.com/2026/07/16/eevblog-1760-today-in-the-dumpster-july-12th-2026/</link>
-      <description>Today in the dumpster! Forum: https://www.eevblog.com/forum/blog/eevblog-1760-today-in-the-dumpster-(july-12th-2026)/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-f41cbd5ea78a809e</guid>
-      <pubDate>Thu, 16 Jul 2026 03:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1759 – ACES Hardware Meetup (Startup Hardware is Hard)</title>
-      <link>https://www.eevblog.com/2026/07/16/eevblog-1759-aces-hardware-meetup-startup-hardware-is-hard/</link>
-      <description>The 10th ACES hardware meetup in Sydney at Engineers Australia. All talks and open mics. https://luma.com/sydney-114f 00:00 – Engineers Australia HQ 03:19 – Intro 05:42 – Cibby Pulikkaseril from Zabidou https://www.zabidou.com/ 14:42 – Matt Crott from MAKO Aero – Prototype to Product https://mako.aero/ 25:28 – Panel discussion with Cibby, Matt and Brendan Hill from TEN13 …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-42dc8039994f342c</guid>
-      <pubDate>Thu, 16 Jul 2026 03:48:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>This E Ink Typewriter Has Some Very Fun Extra Features</title>
-      <link>https://www.hackster.io/news/this-e-ink-typewriter-has-some-very-fun-extra-features-09775b1a57f3</link>
-      <description>Jamie built her own typewriter-style writerDeck with aesthetic flair and charming features.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-6b53c176066e695c</guid>
-      <pubDate>Wed, 15 Jul 2026 20:55:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Run Ultralytics YOLO on Raspberry Pi with OpenVINO</title>
-      <link>https://www.raspberrypi.com/news/run-ultralytics-yolo-on-raspberry-pi-with-openvino/</link>
-      <description>A practical guide to deploying Ultralytics YOLO computer vision models on Raspberry Pi with OpenVINO. The post Run Ultralytics YOLO on Raspberry Pi with OpenVINO appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-09dfff031c447f3b</guid>
-      <pubDate>Wed, 15 Jul 2026 13:53:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/07/15/bigme-hibreak-dual-2-an-android-16-smartphone-with-6-13-inch-80fps-e-ink-and-5-inch-lcd-display/</link>
-      <description>Bigme has launched the Hibreak Dual 2, an Android 16 smartphone with a 6.13-inch 80fps E-Ink display on the front and a 5-inch LCD on the rear. Built around the MediaTek Dimensity 8300 processor and supports dual 5G connectivity, positioning it as an E-Ink smartphone with flagship-class hardware. The front E-Ink can be used for reading, writing, and general everyday use, whereas the LCD in the back serves as a conventional smartphone display for applications that require higher refresh rates and full-color output, like video gaming and navigation. This dual-screen setup allows users to switch between the two displays depending on the task. Bigme Hibreak Dual 2 specifications: SoC – MediaTek Dimensity 8300 CPU – Octa-core processor with 4x Arm Cortex-A715 and 4x Cortex-A510 GPU – Arm Mali-G615 VPU Video Encoding – H.264, HEVC Video Playback – H.264, HEVC, VP9, AV1 AI accelerator – MediaTek NPU 780 Memory – 12GB [...] The post Bigme Hibreak Dual 2 – An Android 16 smartphone with 6.13-inch 80fps E-Ink and 5-inch LCD display (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-5ca55062e8dff0c0</guid>
-      <pubDate>Wed, 15 Jul 2026 13:08:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dragon Labs Launches the CR-8 Eight-Channel Coherent SDR</title>
-      <link>https://www.hackster.io/news/dragon-labs-launches-the-cr-8-eight-channel-coherent-sdr-be937864c886</link>
-      <description>The Dragon Labs CR-8 is an affordable eight-channel coherent SDR that brings beamforming and direction finding to your workbench.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-1b1b649f968cf799</guid>
-      <pubDate>Wed, 15 Jul 2026 12:31:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
