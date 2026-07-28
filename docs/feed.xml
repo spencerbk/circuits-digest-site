@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>FreeBSD Just Removed the Last of its GPL-Licensed Code</title>
+      <link>https://hackaday.com/2026/07/28/freebsd-just-removed-the-last-of-its-gpl-licensed-code/</link>
+      <description>With a recent change that removed dialog in favor of bsddialog, FreeBSD has now retired the last piece of GPL-licensed code in its base system. Although the impact of this …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-8fc68d3d45712edd</guid>
+      <pubDate>Tue, 28 Jul 2026 11:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support</title>
+      <link>https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/</link>
+      <description>The DFI X6X-ORN is a fanless, IP67-rated Edge AI computer powered by the NVIDIA Jetson Orin NX/Nano. It is designed for extreme outdoor and industrial environments in maritime, agriculture, construction, and intelligent transportation applications. The system fully relies on rugged M12 and M20 circular waterproof connectors for all its I/O, including PoE and GMSL2 camera interfaces. It delivers up to 157 TOPS of AI performance when equipped with the Jetson Orin NX 16GB module, complies with MIL-STD-810H shock and vibration standards, and supports an operating temperature range of -20°C to 60°C. DFI X6X-ORN specifications: SoM – NVIDIA Jetson Orin NX/Nano module Jetson Orin NX 16GB – Up to 157 TOPS, 16GB LPDDR5, 10W/15W/25W/ 40W power modes Jetson Orin NX 8GB – Up to 117 TOPS, 8GB LPDDR5, 10W/15W/25W/40W power modes Jetson Orin Nano 8GB – Up to 67 TOPS, 8GB LPDDR5, 7W/10W/25W power modes Jetson Orin Nano 4GB – Up [...] The post DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-71c454d53cf26d80</guid>
+      <pubDate>Tue, 28 Jul 2026 10:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing the global Bebras community together in Cambridge</title>
+      <link>https://www.raspberrypi.org/blog/bringing-the-global-bebras-community-together-in-cambridge/</link>
+      <description>On 10–15 May, we welcomed the global Bebras community to Cambridge, UK for the 22nd Bebras International Task Workshop. As organisers of the UK Bebras Challenge, we hosted this year’s annual Task Workshop, bringing together Bebras organisers, educators, and researchers from around the world to review and refine the computational thinking tasks in preparation for… The post Bringing the global Bebras community together in Cambridge appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-1ea0950fbe7e972b</guid>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE</title>
+      <link>https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/</link>
+      <description>Waveshare RP2350-POE-ETH is a Raspberry Pi RP2350 board with Ethernet implemented through a W6300 chip, support for optional PoE (Power-over-Ethernet), and two GPIO headers. We had covered a few Raspberry Pi RP2350 boards with Ethernet from WIZNet, including the W5100S-EVB-Pico2, W5500-EVB-Pico2, and W6300-EVB-Pico2, but none were advertised with PoE at the time. Since then, the 4-pin WizPOE-P1 module changes that, and the Waveshare RP2350-POE-ETH board offers a more affordable option. Waveshare RP2350-POE-ETH specifications: Microcontroller – Raspberry Pi RP2350A CPU Dual-core Arm Cortex-M33 processor @ 150 MHz Dual-core 32-bit RISC-V Hazard3 @ 150 MHz Up to two cores can be used at a time, either 2x Arm, 2x RISC-V, or 1x Arm + 1x RISC-V Memory – 520KB internal RAM Storage – 8KB OTP Storage Storage – 16Mbit SPI NOR flash Ethernet 10/100Mbps Ethernet RJ45 port via WIZnet W6300 “iEthernet” chip 6-pin PoE connector for optional module USB – USB 1.1 C-Type [...] The post Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-c959632dd6886977</guid>
+      <pubDate>Tue, 28 Jul 2026 08:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Orphaned Sources At The Hacker Camp: What Happened Next</title>
+      <link>https://hackaday.com/2026/07/28/the-orphaned-sources-at-the-hacker-camp-what-happened-next/</link>
+      <description>At the 2024 Electromagnetic Field event in the UK, some awkward items turned up at the swap meet: radioactive sources. Fortunately there was [Tryst] at hand, who works in the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9bdccf3edf5d32d1</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors</title>
+      <link>https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/</link>
+      <description>LILYGO T-Display C5 is an ESP32-C5 board with a 1.9-inch IPS color LCD, a USB-C port for power and programming, Lithium battery support, and GPIO expansion via headers and two Qwiic expansion connectors. The main benefit of using an ESP32-C5 chip is support for dual-band WiFi 6 connectivity (2.4/5.0 GHz), and it also keeps Bluetooth LE 5.x and the 802.15.4 radio for Zigbee/Thread/Matter found in the ESP32-C6. LILYGO T-Display C5 specifications: Wireless module – Espressif Systems ESP32-WROOM-C5-1U-N16R8 SoC – ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip, 8MB PSRAM Storage – 320 KB ROM Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback Bluetooth 5.0 Low Energy (LE) 802.15.4 radio for Zigbee 3.0 and Thread 1.3 Storage – 16MB flash Antenna – [...] The post LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ce76e435abf18044</guid>
+      <pubDate>Tue, 28 Jul 2026 04:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scanwheel Recreates the Spirit of Mechanical Television in a Tiny Spinny Package</title>
+      <link>https://www.hackster.io/news/scanwheel-recreates-the-spirit-of-mechanical-television-in-a-tiny-spinny-package-1626dd47ba73</link>
+      <description>James Brown (AKA “Ancient”) embraced the bizarre and built this very unique modern interpretation of the mechanical television.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d34d877cc986b7d4</guid>
+      <pubDate>Tue, 28 Jul 2026 01:09:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreeCAD e‑sport speed run challenge at EMF camp 2026</title>
+      <link>https://blog.adafruit.com/2026/07/27/freecad-e-sport-speed-run-challenge-at-emf-camp-2026/</link>
+      <description>EMF Camp has recently taken place in the UK. This, every two year, festival/hacker camp sees around 4000 people descend on the grounds of Eastnor Castle UK. It’s an amazing event with all manner of talks, art installations, workshops and indeed partying in Null Sector. Amongst all this the fabulous Chia, Kliment and Carston pulled together an amazing […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d077b1a70be7f51b</guid>
+      <pubDate>Mon, 27 Jul 2026 21:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32-S31 now in mass production and available for purchase</title>
+      <link>https://blog.adafruit.com/2026/07/27/esp32-s31-now-in-mass-production-and-available-for-purchase/</link>
+      <description>Espressif Systems (SSE: 688018) announces that its ESP32-S31 has entered mass production and is now available for purchase. Designed for next-generation AIoT applications, ESP32-S31 is a high-performance dual-core RISC-V SoC with comprehensive wireless connectivity, making it ideal for smart home hubs, smart speakers, edge AI devices, industrial automation, and more. ESP32-S31 features a dual-core 32-bit […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-eeebe707e61858ef</guid>
+      <pubDate>Mon, 27 Jul 2026 21:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>MatrixPortal S3 Flight Proximity Tracker #AdafruitLearnGuide</title>
+      <link>https://blog.adafruit.com/2026/07/27/matrixportal-s3-flight-proximity-tracker-adafruitlearnguide/</link>
+      <description>The Flight Proximity Tracker is a project that keeps you in the know about the nearby aerial traffic. This project displays real-time data of nearby aircraft using scrolling text, along with airline icons just like a departure board in an airport! This project uses the Matrix Portal S3 with CircuitPython. The Matrix Portal S3 fetches […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-540a2ccd810da923</guid>
+      <pubDate>Mon, 27 Jul 2026 20:00:38 +0000</pubDate>
+    </item>
     <item>
       <title>Vivariums, drone shows, and TV kits, all powered by Raspberry Pi</title>
       <link>https://www.raspberrypi.com/news/vivariums-drone-shows-and-tv-kits-all-powered-by-raspberry-pi/</link>
@@ -726,86 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-27a81783326d3514</guid>
       <pubDate>Fri, 17 Jul 2026 10:19:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads</title>
-      <link>https://www.cnx-software.com/2026/07/17/recamera-pro-open-ai-camera-supports-computer-vision-llm-vlm-stt-and-tts-workloads/</link>
-      <description>Seeed Studio’s reCamera Pro is an AI camera powered by a Rockchip RV1126B quad-core Cortex-A53 SoC with a 3 TOPS NPU for on-device AI vision, but also large language models (LLMs), vision language models (VLMs), as well as speech-to-text (STT) and text-to-speech (TTS) with built-in audio capabilities. It offers a powerful update to the earlier reCamera modular AI camera based on an SG2002 RISC-V AI SoC, with up to 4GB RAM, 16GB eMMC flash, an 8MP camera sensor supporting up to 4K @ 30 FPS, an M12 lens mount, a built-in 1W speaker, two microphones, Gigabit Ethernet with PoE, dual-band WiFi 5 connectivity, a USB-C port for power and data, and and expansion through a GPIO and MIPI DSI connectors. reCamera Pro specifications: SoC – Rockchip RV1126B CPU – Quad-core Arm Cortex-A53 up to 1.2 GHz with 32KB L1 I-Cache and 32KB L1 D-Cache, unified 512KB L2 Cache MCU – [...] The post reCamera Pro “Open AI Camera” supports computer vision, LLM, VLM, STT, and TTS workloads appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-e07cdf996f93e947</guid>
-      <pubDate>Fri, 17 Jul 2026 09:12:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wireless LCD Streaming for the ANENG AN870 Multimeter</title>
-      <link>https://hackaday.com/2026/07/17/wireless-lcd-streaming-for-the-aneng-an870-multimeter/</link>
-      <description>Having the information shown on the display of a digital multimeter also recorded off-screen can be incredibly useful, but unless the device exposes something like SCPI on a network interface, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7528b8dcf89845b5</guid>
-      <pubDate>Fri, 17 Jul 2026 08:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP8266 NodeMCU Case – Fully Customizable + Ready-to-Print Profiles #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/16/esp8266-nodemcu-case-fully-customizable-ready-to-print-profiles-3dprinting-3dthursday/</link>
-      <description>Derek3Rosen shares: A parametric ESP8266 NodeMCU case with in-slicer Customize mode plus multiple ready-to-print profiles. Tight snap fit for the MCU, optional wall-mount ball joint screw hole, and Gap parameters for extra internal room for sensors. Wall thickness, lid thickness, and radius all tunable. Part of the designer’s 200+ box variations. By Derek download the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b7d73d07a09492a2</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Custom Security Camera Built for Complete Privacy</title>
-      <link>https://www.hackster.io/news/a-custom-security-camera-built-for-complete-privacy-01d769a977f3</link>
-      <description>Clem Mayer designed a custom, offline security camera with the PocketBeagle 2 to keep your footage private and off the cloud.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-56ab97a72c6f3cd4</guid>
-      <pubDate>Thu, 16 Jul 2026 16:39:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pool Noodle Numchucks #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/16/pool-noodle-numchucks-3dprinting-3dthursday/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pool Noodle Numchucks By CompliantDesigns makerworld.com/en/models/1497093-pool-noodle-numchucks Bambu X1C PolyMaker PLA 3hr 58mins X:202 Y:202 Z:130mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 85g 230mm/s Every Thursday is #3dthursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f417537c3497f589</guid>
-      <pubDate>Thu, 16 Jul 2026 13:00:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elegant Snap-Fit Arduino UNO R3 Enclosure – Transparent Cover Option #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/16/elegant-snap-fit-arduino-uno-r3-enclosure-transparent-cover-option-3dprinting-3dthursday/</link>
-      <description>baszczewski shares: A clean, compact Arduino UNO R3 enclosure with a four-pin snap-fit top cover that can be printed in transparent filament to keep the board visible. Board sits on three guide pins and can be secured with a small computer screw (Ø2.85mm, 5.7mm). Note: ICSP ports require removing the top cover. By baszczewski download […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-27524d7b19311217</guid>
-      <pubDate>Thu, 16 Jul 2026 12:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Earth Desktop Client to be Retired in 2027</title>
-      <link>https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/</link>
-      <description>Come next year, those looking to explore the globe virtually via Google Earth will have to do so on their smartphone or from within their browser, as the search giant …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-dfb0ad2b95358d30</guid>
-      <pubDate>Thu, 16 Jul 2026 11:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 4/5 Wall Mount Case – Arcade-Style Slide-In #3DPrinting #3DThursday</title>
-      <link>https://blog.adafruit.com/2026/07/16/raspberry-pi-4-5-wall-mount-case-arcade-style-slide-in-3dprinting-3dthursday/</link>
-      <description>twgondeck shares: A slide-in wall-mount case designed for arcade builds. Both Pi 4 and Pi 5 versions slide easily into the wall mount with all ports accessible. Pi 5 version fits the RP5 Active Cooler; Pi 4 has two variants (30mm fan or passive cooling slots). Uses M2.5×16mm screws download the files on: https://makerworld.com/en/models/1109124-raspberry-pi-4-5-wall-mount-case Every […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7bb485c860ce2c31</guid>
-      <pubDate>Thu, 16 Jul 2026 11:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter</title>
-      <link>https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/</link>
-      <description>pico-usb-wifi is an open-source firmware project that converts the Raspberry Pi Pico W into a driverless USB WiFi adapter that works with Windows, Linux, macOS, and other operating systems with USB CDC-NCM support. The Infineon CYW43439 chip found in the SBC can’t be used directly as a USB to WiFi bridge, and instead, the firmware implements a transparent Layer-2 bridge between the Pico W’s wireless module and USB interfaces. It basically works as an Ethernet to WiFi gateway/bridge, which exposes an Ethernet connection through USB (aka USB gadget mode) used to route Wi-Fi packets from the network. pico-usb-wifi highlights: Transparent Layer-2 Bridging between the Pico W’s wireless and USB interfaces Exposed as a USB CDC-NCM device IPv4 and IPv6 with no NAT, no private subnet, and no port-forwarding to configure Out-of-band management and debug consoles over CDC-ACM serial WPA2-PSK and WPA3-SAE authentication (and open networks) Throughput – Average 4.75 Mbits/sec; [...] The post pico-usb-wifi firmware converts the Raspberry Pi Pico W into a driverless USB WiFi adapter appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-a108742709d943b9</guid>
-      <pubDate>Thu, 16 Jul 2026 09:58:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Espressif Announces Aliro Solution for Interoperable Smart Access Products</title>
-      <link>https://www.espressif.com/en/news/ESP_Aliro_Release</link>
-      <description>Shanghai, China Espressif Systems today announced its Aliro solution, enabling developers and device makers to build interoperable smart locks and access control products using Espressif’s wireless SoCs, ESP-IDF, and Matter development ecosystem. What is Aliro Aliro, developed by the Connectivity Standards Alliance, is a new open standard for mobile access credentials. It is designed to unify digital access across smartphones, wearables, smart locks, and access readers, enabling a consistent digital key experience across residential, enterprise, hospitality, campus, and other access control scenarios. Matter and Aliro are complementary standards: Matter enables interoperable smart-home device control, while Aliro focuses on interoperable digital access credentials and unlock experiences. Aliro supports NFC for tap-to-unlock, Bluetooth LE for user-initiated access, and Bluetooth LE + UWB for secure hands-free access. Enabling Aliro for Smart Locks and Access Control Aliro addresses one of the key challenges in digital access: fragmentation across devices, access readers, credential systems, and mobile wallet ecosystems. By defining a common credential and communication framework, Aliro enables device makers to build products that can work more consistently across major mobile platforms and wallet ecosystems. Espressif’s initial Aliro solution supports Aliro NFC for tap-to-unlock applications, with Bluetooth LE and Bluetooth LE + UWB support planned for future releases. The solution can be used with Espressif’s Matter software ecosystem to build smart lock products using either Matter over Wi-Fi or Matter over Thread. Available for Developers Developers can combine Espressif Wi-Fi or Thread SoCs with an NFC module to quickly prototype and productize Aliro-enabled smart locks and access control devices. For ultra-low-power Matter over Thread products, Espressif’s next-generation SoCs--ESP32-H21 and ESP32-H4, integrate Bluetooth LE and IEEE 802.15.4 connectivity, providing a highly competitive platform for battery-powered Thread, Zigbee, Matter, and Bluetooth LE devices: ESP32-H21 features a single-core RISC-V architecture with an integrated DC-DC converter. Its streamlined architecture enables a more cost-effective solution, making it an ideal choice for access control, sensing, and other applications where both power consumption and cost are critical considerations. ESP32-H4 features a dual-core RISC-V architecture and supports external PSRAM, providing greater memory capacity and processing performance for applications with complex protocol stacks and demanding buffer requirements. Espressif has also developed a reference demo for an Aliro-enabled Matter door lock using the M5Stack NanoH2 Dev Kit, powered by ESP32-H2, and the M5Stack NFC Universal Unit based on ST25R3916. The demo showcases Matter over Thread connectivity, Aliro NFC tap-to-unlock, and integration with Espressif’s Thread SoC platform. Aliro represents an important step toward a more interoperable access control ecosystem. With Espressif’s Aliro solution, developers and device makers can build smart access products that combine digital key access, Matter ecosystem compatibility, and Espressif’s proven wireless connectivity platforms. For more information about Espressif’s Aliro solution, please refer to the blog post, or contact Espressif’s customer support team at sales@espressif.com. Thursday, July 16, 2026 - 17:15New Type: Press ReleaseSticky-on-top: trueNews Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-d38db29eb8e9ea1b</guid>
-      <pubDate>Thu, 16 Jul 2026 09:19:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
