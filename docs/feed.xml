@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Behold The Most Beautifully Ambitious Starship Simulator Yet</title>
+      <link>https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/</link>
+      <description>[Kevin Kelm] created something wondrous: Halcyon Dawn, an utterly unique and desperately challenging game that is equal parts intricate starship simulator, imposing hardware console, video game, and love letter to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-31f6ba7e8f00d097</guid>
+      <pubDate>Wed, 29 Jul 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200×1200 or 800×800 resolution</title>
+      <link>https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/</link>
+      <description>VIEWE UEDX12120076-HMD-RB-A and UEDX80800076-HMD-RB-A are 7.6-inch square HDMI capacitive touch displays with 1200×1200 and 800×800 resolution, respectively. We had previously seen 4-inch square HDMI +USB touch displays with 720×720 resolution for Raspberry Pi or other SBCs, but if you need something larger, VIEWE has now launched 7.6-inch variants with higher resolutions. VIEWE UEDX12120076-HMD-RB-A/UEDX80800076-HMD specifications: Display 7.6-inch MIPI DSI square IPS display Resolution UEDX80800076-HMD-RB-A – 800 x 800 UEDX12120076-HMD-RB-A – 1200 x 1200 Display driver ILI9881C for UEDX80800076-HMD-RB-A Potentially HX8279 for UEDX12120076-HMD-RB-A Brightness – 1,000 cd/㎡ Active area – 135.36 x 135.36 mm Touchscreen – Optional 5-point capacitive touchscreen via USB-C port (likely FT6336U touch IC) Video Input Mini HDMI 1.4 ITE HDMI input to MIPI DSI bridge based on the blurry photo of the controller. USB – USB-C port for power and touchscreen Misc – LED lifetime: 30,000 hours Power Supply – 5V via USB-C port Dimensions – 148.24 x [...] The post 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200×1200 or 800×800 resolution appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-9fd43d39c4e758b9</guid>
+      <pubDate>Wed, 29 Jul 2026 10:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-IDF User Guide for ESP32-C3, SDK v5.2.7</title>
+      <link>https://www.espressif.com/en/node/11069</link>
+      <description>Language English ESP32-C3The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v5.2.7Wednesday, May 20, 2026https://docs.espressif.com/projects/esp-idf/en/v5.2.7/esp32c3/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-58383a24c9e91edf</guid>
+      <pubDate>Wed, 29 Jul 2026 09:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-IDF User Guide for ESP32-C6, SDK v5.5.3</title>
+      <link>https://www.espressif.com/en/node/11067</link>
+      <description>Language English ESP32-C6The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v5.5.3Tuesday, February 24, 2026https://docs.espressif.com/projects/esp-idf/en/v5.5.3/esp32c6/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-7e30cf4a463d871f</guid>
+      <pubDate>Wed, 29 Jul 2026 09:46:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Portable Weather Radar</title>
+      <link>https://hackaday.com/2026/07/29/building-a-portable-weather-radar/</link>
+      <description>If you run a large meteorology bureau, then you probably have access to a wonderful weather radar for scrying the heavens. The rest of us aren’t so lucky. If you …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-94824eec48c94195</guid>
+      <pubDate>Wed, 29 Jul 2026 08:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amateur Scientist: Measure the Height of the Ozone Layer</title>
+      <link>https://makezine.com/projects/amateur-scientist-measure-the-height-of-the-ozone-layer/</link>
+      <description>Earth’s atmospheric “sunscreen,” the ozone layer, is vital to life. Find its peak altitude with this DIY instrument. The post Amateur Scientist: Measure the Height of the Ozone Layer appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-37202581a4c20238</guid>
+      <pubDate>Tue, 28 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PicoJig: control peripherals (GPIO, ADC, UART, SPI, I2C, PWM) of a Raspberry Pi Pico / Pico W from a Windows PC via USB or WiFi  @raspberry_pi</title>
+      <link>https://blog.adafruit.com/2026/07/28/picojig-control-peripherals-gpio-adc-uart-spi-i2c-pwm-of-a-raspberry-pi-pico-pico-w-from-a-windows-pc-via-usb-or-wifi-raspberry_pi/</link>
+      <description>PicoJig / PicoJig-WL allows you to control the peripherals (GPIO, ADC, UART, SPI, I2C, PWM) of a Raspberry Pi Pico or Pico W from a Windows PC via USB or WiFi. It consists of firmware, a PC application, and a library. Main Features Two Connection Modes: USB Mode: Control via Virtual COM port (Supports both Pico […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9177f57f98ce6896</guid>
+      <pubDate>Tue, 28 Jul 2026 21:31:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The SPOKE Board – The Raspberry Pi Official Magazine, Issue 167 @rpimagazine</title>
+      <link>https://blog.adafruit.com/2026/07/28/the-spoke-board-the-raspberry-pi-official-magazine-issue-167-rpimagazine/</link>
+      <description>The Raspberry Pi Official Magazine – Issue 167 looks at the SPOKE board, using an RP2040 microcontroller running CircuitPython. …the SPOKE could easily be mistaken for an album by a 1990s indie band. The main difference is that it has 27 holes around its perimeter, each surrounded by a copper oval: these are capacitive touch […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a24ab9cfac44d7e5</guid>
+      <pubDate>Tue, 28 Jul 2026 20:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind the Scenes with Walter Wick at the High Museum of Art</title>
+      <link>https://blog.adafruit.com/2026/07/28/behind-the-scenes-with-walter-wick-at-the-high-museum-of-art/</link>
+      <description>Calling all 90s kids who have ever sat in a waiting room, laundromat, or in the back of a car during a road trip with an I SPY book! The High Museum of Art in Atlanta will be hosting a conversation with Walter Wick this September. The I SPY! Walter Wick’s Hidden Wonders exhibition will […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-84f178aac88cdafc</guid>
+      <pubDate>Tue, 28 Jul 2026 20:00:36 +0000</pubDate>
+    </item>
     <item>
       <title>FreeBSD Just Removed the Last of its GPL-Licensed Code</title>
       <link>https://hackaday.com/2026/07/28/freebsd-just-removed-the-last-of-its-gpl-licensed-code/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-34053a0d19af86a5</guid>
       <pubDate>Sun, 19 Jul 2026 00:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Embedded Arena Uses Hardware Feedback to Perfect Edge AI Models</title>
-      <link>https://www.hackster.io/news/embedded-arena-uses-hardware-feedback-to-perfect-edge-ai-models-9ef968c00b49</link>
-      <description>Embedded Arena connects AI agents directly to microcontrollers, using real hardware feedback to optimize edge AI models for each platform.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-fe3ef80a789fdb7f</guid>
-      <pubDate>Sat, 18 Jul 2026 20:53:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reactor’s Lift of SFF/H for Young Adult Readers</title>
-      <link>https://blog.adafruit.com/2026/07/18/reactors-lift-of-sff-h-for-young-adult-readers/</link>
-      <description>Some of the best reads are on a summer day at the beach or in the middle of the park. Check out Reactor Mag’s list of anticipated young adult SFF/H for July and August. It may be hotter than Hades outside, but at least you’ve got your TBR to give you an excuse to visit […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a6629f63907813d3</guid>
-      <pubDate>Sat, 18 Jul 2026 20:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>From The Archives: MagTag Kitchen Timer</title>
-      <link>https://blog.adafruit.com/2026/07/18/from-the-archives-magtag-kitchen-timer/</link>
-      <description>Build a handy kitchen timer with the Adafruit MagTag. This project uses the eInk display, NeoPixels, and built-in buttons of the Adafruit MagTag to make a rechargeable, programmable kitchen timer that is also magnetic. The MagTag displays the time left and then plays an alarm through the speaker and flashes the NeoPixels when the timer […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-65b1f3c0886f3428</guid>
-      <pubDate>Sat, 18 Jul 2026 17:48:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features</title>
-      <link>https://www.cnx-software.com/2026/07/18/m5stack-core2-gets-open-source-firmware-to-reproduce-openais-codex-micro-features/</link>
-      <description>IAMLIUBO has written firmware for the M5Stack Core2 IoT controller to reproduce the features of the $230 Codex Micro macro pad for OpenAI’s AI coding agent platform, enabling developers to more easily monitor and control agents. The original is neat with a CNC-milled enclosure, a rotary encoder, and a joystick, but it’s rather pricey (and now out of stock), only ships to the US, and the company has now launched pre-orders for a 25-key “Custom Alternative” going for $125. However, you can easily reproduce the same functionality with other macro pads with rotary encoders, such as the SayoDevice O3C, DuckyPad Pro, Waveshare MK10, T-Keyboard-S3 Pro, and others at a fraction of the price by simply remapping the keys. IAMLIUBO went another route with the M5Stack Core2 IoT controller since it doesn’t come with any keys. Instead, he leveraged the 2-inch touchscreen LCD of the ESP32 device with six agent keys, [...] The post M5Stack Core2 gets open-source firmware to reproduce OpenAI’s Codex Micro features appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-fa234f2f6605b616</guid>
-      <pubDate>Sat, 18 Jul 2026 07:27:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEW PRODUCT – NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated Drivers</title>
-      <link>https://blog.adafruit.com/2026/07/17/new-product-neopixel-stick-8-x-5050-wwa-white-leds-with-integrated-drivers/</link>
-      <description>NEW PRODUCT – NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated Drivers __________________________________________________________________________________________________ What is better than smart LEDs? Smart WWA LEDs! These NeoPixel sticks now have 3 white LEDs in them in three tints (also known as ‘color temperatures’): warm white, cool white and amber, great for excellent lighting effects that want pure white […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f1ee007508af71e0</guid>
-      <pubDate>Fri, 17 Jul 2026 13:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/07/17/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-17-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-241784472c3b7e3a</guid>
-      <pubDate>Fri, 17 Jul 2026 12:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU Adds Exemptions to User-Serviceable Batteries Rules</title>
-      <link>https://hackaday.com/2026/07/17/eu-adds-exemptions-to-user-serviceable-batteries-rules/</link>
-      <description>Built-in batteries put a timebomb inside devices, with especially the calendar aging feature of Li-ion chemistries setting a hard limit on when you’ll have to toss the device or figure …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-eca30a6692366d51</guid>
-      <pubDate>Fri, 17 Jul 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>LoRa radio communication devices for Raspberry Pi</title>
-      <link>https://www.raspberrypi.com/news/lora-radio-communication-devices-for-raspberry-pi/</link>
-      <description>Use these LoRa add-on boards to send data from Raspberry Pi projects located beyond your home Wi-Fi range. The post LoRa radio communication devices for Raspberry Pi appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-da83289f8d5746bd</guid>
-      <pubDate>Fri, 17 Jul 2026 10:33:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs</title>
-      <link>https://www.cnx-software.com/2026/07/17/espressif-releases-sdk-for-aliro-smart-door-locks-based-on-esp32-c-or-esp32-h-socs/</link>
-      <description>Espressif Systems has just released the SDK for Aliro, designed for smart Matter door locks and other access control solutions built around ESP32-C (WiFi) or ESP32-H (Thread) microcontroller and third-party NFC chips. We recently wrote about the Aliro vendor-agnostic digital access control standard working over NFC, Bluetooth LE, or BLE+UWB. It’s basically the equivalent of Matter, but for smart locks, instead of the broader Smart Home ecosystem. The ultimate goal is to reduce fragmentation and allow users to use compliant wallets from Google, Apple, Samsung, and others to work with Aliro-compatible devices. Espressif’s SDK for Aliro (ESP-Aliro) currently supports the following features of Aliro-over-NFC: Standard Expedited Phase Fast Expedited Phase Reader Certificate Sending via AUTH1/LoadCert Command Keyslot to Look up Access Credential Public Key Mailbox of Exchange command Step-up Phase Espressif’s solution currently only works with Aliro NFC for tap-to-unlock applications, although Bluetooth LE and Bluetooth LE + UWB support [...] The post Espressif releases SDK for Aliro smart door locks based on ESP32-C or ESP32-H SoCs appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-27a81783326d3514</guid>
-      <pubDate>Fri, 17 Jul 2026 10:19:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
