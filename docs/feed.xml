@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Jimothy #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/30/jimothy-3dthursday-3dprinting/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Jimothy By NateStormArt makerworld.com/en/models/3069661-jimothy-running Bambu X1C PolyMaker PLA 14hr 25mins X:99 Y:77 Z:77mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 34g 230mm/s Every Thursday is #3dthursday here at […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c7414f382425f6ec</guid>
+      <pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Spider-Inspired Robot Built to Save Drowning Victims</title>
+      <link>https://www.hackster.io/news/a-spider-inspired-robot-built-to-save-drowning-victims-484b311d0233</link>
+      <description>QuadBoat is a spider-inspired robot built to locate, retrieve, and transport drowning victims to safety when every second counts.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-b330de7aed48413a</guid>
+      <pubDate>Thu, 30 Jul 2026 12:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bambu Lab LED Kit 001 Zen Lamp – Organic Wave Diffuser #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/30/bambu-lab-led-kit-001-zen-lamp-organic-wave-diffuser-3dthursday-3dprinting/</link>
+      <description>cipriani3design shares: A serene Japandi-aesthetic lamp with a flowing wave texture inspired by folded paper and moving water. 100% support-free print. Bambu LED Kit 001 slot integrated into the base. PLA (white, translucent, or natural) recommended for best light diffusion. By Cipriani 3Design Studio download the files on: https://makerworld.com/en/models/2285863-bambu-lab-led-kit-001-zen-lamp-cipriani-3design Every Thursday is #3dthursday here at […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-cc6ddb8abc889ab4</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif Systems 2026 Q2 &amp; Half-Year Report</title>
+      <link>https://www.espressif.com/en/content/espressif-systems-2026-q2-half-year-report</link>
+      <description>Language English Report: Espressif Systems 2026 Q2 &amp; Half-Year Report.pdfRelease Date: Thursday, July 30, 2026Responsibility Report: falseReport Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-44cfef9db5f2ce33</guid>
+      <pubDate>Thu, 30 Jul 2026 11:34:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-KVM – An open-source IP KVM solution based on ESP32-P4 RISC-V MCU</title>
+      <link>https://www.cnx-software.com/2026/07/30/esp-kvm-an-open-source-ip-kvm-solution-based-on-esp32-p4-risc-v-mcu/</link>
+      <description>Earlier this month, the P4 KVM project was brought to my attention. It provides IP KVM functionality to a Waveshare ESP32-P4-WIFI6-POE-ETH board when paired with a Toshiba TC358743 HDMI-to-CSI adapter. However, it doesn’t work with the new ESP32-P4 V3.x variants featuring a proper H.264 video encoding implementation, and the developer (Jonathan Rowny) says it’s just a proof-of-concept with many bugs and no security, so I decided to skip it. The good news is that he also encouraged others to fork the project, and Evgenij Spitsyn did just that with the release of the ESP-KVM project, which supports both MJPEG and H.264 encoding and a range of other features. ESP-KVM highlights: Video capture, resolution changes, and MJPEG or H.264 encoding Keyboard, absolute and relative pointer, media keys, copy/paste Touch mode for phones and tablets (trackpad, on-screen keyboard) Multiple viewers, one in control at a time with takeover HTTPS, login, physical password [...] The post ESP-KVM – An open-source IP KVM solution based on ESP32-P4 RISC-V MCU appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-c7b88d638f4df40d</guid>
+      <pubDate>Thu, 30 Jul 2026 11:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>RC Telemetry Board Lets Virtual Crewmember Help You Race Better</title>
+      <link>https://hackaday.com/2026/07/30/rc-telemetry-board-lets-virtual-crewmember-help-you-race-better/</link>
+      <description>Logging and telemetry in remote controlled racing is a great thing, and not only does [jwachlin]’s Open RC Spotter do a fantastic job of that, it has quite a few …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-17ef335bbf4b2065</guid>
+      <pubDate>Thu, 30 Jul 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sci-Fi Corridor Tiles – Corner Pieces with OpenLock Base #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/30/sci-fi-corridor-tiles-corner-pieces-with-openlock-base-3dthursday-3dprinting/</link>
+      <description>Remix by Together3D shares: Modern sci-fi corridor corner tiles that click together with OpenLock triplex bases for limitless configurations. Includes a wall connector for keeping walls upright and additional beams for improved bottom texture. Great for TTRPG maps and sci-fi dioramas. By Together 3D download the files on: https://makerworld.com/en/models/1810583-sci-fi-tiles-corners Every Thursday is #3dthursday here at […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4aa7b946b8b79df8</guid>
+      <pubDate>Thu, 30 Jul 2026 10:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS</title>
+      <link>https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/</link>
+      <description>Running LLMs locally on an SBC or mini PC is a good way to keep your data private, but they typically require a conventional operating system, which uses a good portion of system memory. NightRun is an experimental open-source project that addresses this issue by booting a machine directly into a local LLM from a USB drive or microSD card, without loading a conventional OS. By removing the operating system, NightRun makes more RAM and memory bandwidth available for AI inference. The runtime is written in Rust, and during boot it loads a quantized model (1.3 GB to 2.4 GB) directly into RAM while verifying its CRC-32 checksums. After the model is loaded, storage is “sealed,” meaning any later attempt to read from the disk will trigger a hard fault. NightRun key features: Hardware support – Supports 64-bit x86_64 UEFI PCs (Secure Boot disabled) and Raspberry Pi 5 via USB [...] The post NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-45ab70d19cdc1467</guid>
+      <pubDate>Thu, 30 Jul 2026 08:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Capable KVM Built With The ESP32</title>
+      <link>https://hackaday.com/2026/07/30/a-capable-kvm-built-with-the-esp32/</link>
+      <description>[Evgenij Spitsyn] spotted a KVM build on these very pages some time ago. That inspired their own build, leveraging the versatility of the ESP32-P4 microcontroller. The concept is straightforward. Named …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-954342579fa7e9ce</guid>
+      <pubDate>Thu, 30 Jul 2026 08:00:47 +0000</pubDate>
+    </item>
     <item>
       <title>Behold The Most Beautifully Ambitious Starship Simulator Yet</title>
       <link>https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/</link>
@@ -734,78 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-c25c883215928a4c</guid>
       <pubDate>Mon, 20 Jul 2026 04:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Existence of an Atmosphere Surrounding an Earth-like Planet</title>
-      <link>https://blog.adafruit.com/2026/07/19/the-existence-of-an-atmosphere-surrounding-an-earth-like-planet/</link>
-      <description>In this artist’s concept, the exoplanet LHS 1140 b is shown in the foreground, surrounded by a helium-rich atmosphere. Another nearby rocky planet orbits the same cool red dwarf star in the distance. A new study provides the strongest evidence yet that LHS 1140 b has retained an atmosphere, representing a milestone step toward the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8e23bfb4409f3021</guid>
-      <pubDate>Sun, 19 Jul 2026 20:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round Up: Pool Noodle Numchucks, Demofruit Rotozoom, &amp; more!</title>
-      <link>https://blog.adafruit.com/2026/07/19/adafruit-weekly-editorial-round-up-pool-noodle-numchucks-demofruit-rotozoom-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG Pool Noodle Numchucks #3DPrinting […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-34b678bf9cb54b1b</guid>
-      <pubDate>Sun, 19 Jul 2026 19:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>QT6 brings BASIC to the Web Browser, or Your Computer</title>
-      <link>https://hackaday.com/2026/07/19/qt6-brings-basic-to-the-web-browser-or-your-computer/</link>
-      <description>In the old days, you either swore by BASIC or you swore at it — but just about everybody got their start on the educational language. Nowadays, the kids are …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-29cdf61ba447d257</guid>
-      <pubDate>Sun, 19 Jul 2026 11:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC</title>
-      <link>https://www.cnx-software.com/2026/07/19/beelink-eqi-304-review-part-3-ubuntu-26-04-on-a-wildcat-lake-mini-pc/</link>
-      <description>After checking out the hardware with an unboxing and a teardown of the Beelink EQi Wildcat Lake mini PC, we reviewed the Intel Core 3 304 computer with Windows 11 in detail. We’ve now had time to test the Beelink EQi mini PC running Ubuntu 26.04 with Linux 7.0/7.1 kernels. We’ll report our experience with feature testing, benchmark results, 2.5GbE, 10GbE, and WiFi 6 networking evaluation, storage and USB/Thunderbolt tests, and more, including power consumption measurements. Ubuntu 26.04 installation and system information I’d usually resize the Windows partition to install Ubuntu alongside it in dual boot configuration. However, since the Beelink EQi mini PC also comes with two PCIe Gen4 x1/x2 sockets, I installed Ubuntu 26.04 on a 256GB NVMe (PCIe Gen3 x4) SSD fitted into the PCIe x2 socket and left the Windows 11 partition on the UFS storage alone. Despite the Intel Core 3 304 chip being a [...] The post Beelink EQi 304 review – Part 3: Ubuntu 26.04 on a Wildcat Lake mini PC appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-15db6b0db2fbd001</guid>
-      <pubDate>Sun, 19 Jul 2026 10:41:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Pop-Up Truck Camper for Less</title>
-      <link>https://hackaday.com/2026/07/19/a-pop-up-truck-camper-for-less/</link>
-      <description>We live in a veritable Cambrian Explosion of camping options, ranging from a tarp on the ground to multi-million dollar RVs. Somewhere around the middle is the pop-up truck camper, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2bdcbf56d665d208</guid>
-      <pubDate>Sun, 19 Jul 2026 08:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/07/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-19/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-774d1419a08a46ec</guid>
-      <pubDate>Sun, 19 Jul 2026 07:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open-Source Mid-Drive e-Bike Motor Has Lots of Promise, and Hyphens</title>
-      <link>https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/</link>
-      <description>[Pedro Neves] has a mid-drive e-bike, but he doesn’t own it — not truly, since he can’t repair the motor unit. For a hacker to be in that position, there …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-224bf74900a137cd</guid>
-      <pubDate>Sun, 19 Jul 2026 05:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Write 2D and 3D Games in Modern MoonBASIC</title>
-      <link>https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/</link>
-      <description>One of the major strengths of the BASIC programming languages has always been their no-fuss setup and rich set of commands for operations that would take considerably more work in …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9d22ca0c98c7cf4c</guid>
-      <pubDate>Sun, 19 Jul 2026 02:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products 7/15/2026</title>
-      <link>https://blog.adafruit.com/2026/07/18/adafruit-new-products-7-15-2026/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debuted 1 New Product. NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated Drivers What is better than smart LEDs? Smart WWA LEDs! These NeoPixel sticks now have 3 white LEDs in them in three tints (also known as ‘color […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-34053a0d19af86a5</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
