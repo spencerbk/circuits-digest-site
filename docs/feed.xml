@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/07/31/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-31-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-13f53eca0f35bab1</guid>
+      <pubDate>Fri, 31 Jul 2026 13:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a Reproduction PlayStation Motherboard</title>
+      <link>https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/</link>
+      <description>Thanks to things like spilled drinks, leaky batteries, and the general ravages of time, older consoles can be tough to keep going. In particular, excessive damage to a motherboard can …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a18c7ef727c0bebf</guid>
+      <pubDate>Fri, 31 Jul 2026 11:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port</title>
+      <link>https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/</link>
+      <description>NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the first from FriendlyELEC to implement a USB-C console port, often requested by our readers. At just 49.5 x 49.5 x 24 mm in its metal case, the Rockchip RK3528A-powered router also features 1GB LPDDR4, a microSD card slot and an eMMC module socket for storage, WiFi 6 and Bluetooth 5.3 wireless connectivity. The USB-C ports are only used for power, eMMC firmware upgrades, and debugging, and the system doesn’t feature any USB port for data connectivity, nor any GPIO header for expansion. In other words, it’s mostly useful for networking (firewalls, soft routers), as well as IoT gateway applications. NanoPi R28S specifications: SoC – Rockchip RK3528A CPU – Quad-core ARM Cortex-A53 @ 1.8 GHz GPU – Arm Mali-450 GPU with support for OpenGL ES1.1, ES2.0, and OpenVG 1.1 APIs VPU [...] The post NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3301d8e940570c77</guid>
+      <pubDate>Fri, 31 Jul 2026 10:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)</title>
+      <link>https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/</link>
+      <description>Seeed Studio’s reTerminal Sticky is a 3.97-inch “AI-powered” magnetic touch ePaper display powered by an ESP32-S3 microcontroller, which serves as a sticky-note alternative, an e-reader, a live dashboard, or a home automation controller. The 800 x 480 resolution display comes with 8MB PSRAM, 32MB Flash, a microSD card slot, and next/previous page buttons. It’s “AI-powered” through a microphone and an AI Voice button leveraging the ESP32-S3 Edge AI capabilities for a voice-to-note feature. It also features a temperature and humidity sensor and a 3-axis accelerometer, as well as a built-in magnet and a magnetic ring for easy mounting. reTerminal Sticky specifications: SoC – Espressif ESP32-S3R8 CPU – Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory – 8MB PSRAM Wireless – 2.4 GHz WiFi 4 and Bluetooth 5.0 LE Storage 32 MB flash MicroSD card slot (SanDisk recommended) Display 3.97-inch monochrome (B&amp;W) ePaper 4-level [...] The post reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3f4e28c1280612d5</guid>
+      <pubDate>Fri, 31 Jul 2026 08:01:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using the Chimney Effect to Drop Passively Cooled PC Temperatures</title>
+      <link>https://hackaday.com/2026/07/31/using-the-chimney-effect-to-drop-passively-cooled-pc-temperatures/</link>
+      <description>The stack effect — also known as the chimney effect — is the basic principle that hot air not only rises, but if guided through a tube, the rising hot …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b79ec4235b2da7c6</guid>
+      <pubDate>Fri, 31 Jul 2026 08:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs</title>
+      <link>https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/</link>
+      <description>Maker Go ESP32-C5-EVB is an ESP32-C5 board with four relays, four opto-isolated inputs, RS-485 communication, and support for Wi-Fi 6, Bluetooth Low Energy 5.0, and Thread/Zigbee connectivity. It’s a variant of the Maker Go ESP32-C6-EVB released in 2024 that replaces the ESP32-C6 module with an ESP32-C5 module and a GPIO header with a terminal block for RS-485. The Maker Go ESP32-C6-EVB was mostly a clone of the Olimex ESP32-C6-EVB, and while Olimex already released its own ESP32-C5-EVB, it has a different dual-channel relay design. Maker Go ESP32-C5-EVB specifications: Wireless module – DOIT ESPC5-32 module SoC – Espressif Systems ESP32-C5 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip, support for external PSRAM Storage – 320 KB ROM, support for external flash Connectivity Dual-band 802.11ax WiFi 6 in the 2.4GHz [...] The post Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-eee76ea7c0a3a2ab</guid>
+      <pubDate>Fri, 31 Jul 2026 05:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 5 Case for Pimoroni NVMe Base #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/30/raspberry-pi-5-case-for-pimoroni-nvme-base-3dthursday-3dprinting/</link>
+      <description>tdack. shares: A dedicated case for the Raspberry Pi 5 with a Pimoroni NVMe base fitted. Uses the silicon dots from the Pimoroni parts package stuck to the bottom of the NVMe base as standoffs. Clean, purpose-built for one of the most popular NVMe expansion options for the Pi 5 download the files on: https://makerworld.com/en/models/170315 […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-8bc6f6107b1446ee</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modular Smart Lamp – E26 Bulb Base Configurator #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/07/30/modular-smart-lamp-e26-bulb-base-configurator-3dthursday-3dprinting/</link>
+      <description>Shared by Embrace Making on MakerWorld: A flexible modular smart lamp built around an E26 bulb base and collet system. Mix and match parts to make it funky, classy, or minimalist — swap looks quickly and easily. Fully customizable and remix-friendly. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-fb8d3a3bb9017b55</guid>
+      <pubDate>Thu, 30 Jul 2026 23:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Sovol M1D Combines IDEX with Tool Changing</title>
+      <link>https://www.hackster.io/news/the-new-sovol-m1d-combines-idex-with-tool-changing-bf3909ebff3c</link>
+      <description>Sovol went ahead and put both IDEX and tool changing into their new M1D 3D printer.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-e1470f92ddc31197</guid>
+      <pubDate>Thu, 30 Jul 2026 22:27:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChronoWatch X2040</title>
+      <link>https://www.raspberrypi.com/news/chronowatch-x2040/</link>
+      <description>This smart-looking watch based on RP2040 tells the time without unnecessary distractions. The post ChronoWatch X2040 appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-e20e70fc1589af08</guid>
+      <pubDate>Thu, 30 Jul 2026 17:38:50 +0000</pubDate>
+    </item>
     <item>
       <title>Jimothy #3DThursday #3DPrinting</title>
       <link>https://blog.adafruit.com/2026/07/30/jimothy-3dthursday-3dprinting/</link>
@@ -726,86 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-d53b210f5f243f8d</guid>
       <pubDate>Tue, 21 Jul 2026 03:27:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taking the unexpected routes in animation and gaming</title>
-      <link>https://blog.adafruit.com/2026/07/20/taking-the-unexpected-routes-in-animation-and-gaming/</link>
-      <description>Marcin Wichary looks at “bumping the lamp” – a phrase coined by Disney during the production of Roger Rabbit to describe going above and beyond what was expected of the animators. A lesson learned: I see craft blossom when it can flow from individuals, and when the organization and attendant processes recognize that. Let people […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2c46e5f0d7dc75cf</guid>
-      <pubDate>Mon, 20 Jul 2026 21:27:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Starting a ZX Spectrum shooting gallery in earnest</title>
-      <link>https://blog.adafruit.com/2026/07/20/starting-a-zx-spectrum-shooting-gallery-in-earnest/</link>
-      <description>Michael Martin is working through a port of a shooting gallery Rosetta-stone program to the ZX Spectrum. It’s been a long road. We started out knowing how to control text and bitmap output and a decent handle on I/O. From there we designed a reasonably efficient blitting system that operated on 16×16 “sprites” that we carefully prepared for […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-3869b9821c519c0c</guid>
-      <pubDate>Mon, 20 Jul 2026 21:10:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using a MikroTik as a home router</title>
-      <link>https://blog.adafruit.com/2026/07/20/using-a-mikrotik-as-a-home-router/</link>
-      <description>Rafał Opiłowski was looking at setting up a new homelab, starting with a comprehensive networking setup. Given my experiences related to performance and security issues with ISP-provider routers, I wanted to have a better control over the traffic on my home network. I decided to heavily focus traffic on wired connections, to offload WiFi and […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-1afc2d52d3f4b1c1</guid>
-      <pubDate>Mon, 20 Jul 2026 20:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celestial Summer in Madison Square Park</title>
-      <link>https://blog.adafruit.com/2026/07/20/celestial-summer-in-madison-square-park/</link>
-      <description>How am I just finding out about the concept of a Moon Tree? How twee! How early 1970s late-stage Space Age optimism! Learn more about Celestial Celebrations here from Madison Square Park Conservancy: In 1971, NASA astronaut Stuart Roosa carried seeds from five tree species on the Apollo 14 mission. After returning to Earth, the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e385b290ca485be4</guid>
-      <pubDate>Mon, 20 Jul 2026 12:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Earth-like LHS 1140b May Feature the First Atmosphere Found on Exoplanet</title>
-      <link>https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/</link>
-      <description>Finding another planet outside of our solar system that can comfortably be called ‘Earth-like’ is one of those discoveries that — if confirmed — would be a major event. The …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9fcf2d70a9a66ce8</guid>
-      <pubDate>Mon, 20 Jul 2026 11:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/</link>
-      <description>Globalscale Technologies has launched the Case8 series of open-source cyberdeck-style computing platforms based on MediaTek Genio 520 and Genio 720 processors. The platform is offered in hacker (PCBA only), gaming, home automation, and education variants. The Case8 is built around an OSM-L compute module with a MediaTek Genio 520 or Genio 720 SoC with up to eight cores, a Mali-G67 GPU, and a 10 TOPS NPU. Depending on the configuration, it comes with 4GB, 8GB, or 16GB LPDDR5 memory and 64GB or 128GB UFS storage, along with Gigabit Ethernet, Wi-Fi 6, Bluetooth 5.4, stereo speakers, microphones, and optional 4G/5G connectivity. Display options include a 5-inch panel for the gaming model and 7-inch touch or non-touch displays for the home automation and education variants, with camera configurations varying by model. Case8 cyberdeck platform specifications: OSM-L compute module (one or the other) MediaTek Genio 520 CPU – 2x Cortex-A78 up to 2.2GHz, 6x [...] The post Globalscale Case8 – A MediaTek Genio 520/720 cyberdeck for gaming, home automation, and education (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d627b4ebc8540a87</guid>
-      <pubDate>Mon, 20 Jul 2026 10:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Collabora Releases First 64-Bit Arm Arch Linux Packages As It Prepares for Valve's Steam Frame VR</title>
-      <link>https://www.hackster.io/news/collabora-releases-first-64-bit-arm-arch-linux-packages-as-it-prepares-for-valve-s-steam-frame-vr-ae78c23fa883</link>
-      <description>Work progresses on a build system which will deliver a continuously-updated Arch Linux port for Valve's virtual reality headset.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-615969081cd658be</guid>
-      <pubDate>Mon, 20 Jul 2026 10:58:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3</title>
-      <link>https://www.cnx-software.com/2026/07/20/geniatech-xpi-3576-cm5-a-raspberry-pi-cm5-compatible-rockchip-rk3576-ai-compute-module-with-wifi-6-bluetooth-5-3/</link>
-      <description>Geniatech XPI-3576-CM5 is a Rockchip RK3576 octa-core Arm Cortex-A72/A53 system-on-module based on the Raspberry Pi CM4/CM5 form factor with up to 16GB LPDDR5 and 128GB eMMC flash. The module also features a RealTek RTL8211F Gigabit Ethernet controller, an Ampak AP6275S wireless module for dual-band WiFi 6 and Bluetooth 5.3 connectivity, and a Rockchip RK806S-5 PMIC for power management. It features two 100-pin B2B connectors, allowing it to be plugged into carrier boards designed for the Raspberry Pi CM4/CM5, with some limitations as we’ll see further below. Geniatech XPI-3576-CM5 specifications SoC – Rockchip RK3576 Octa-core CPU – 4x Cortex-A72 cores at 2.2GHz, 4x Cortex-A53 cores at 1.8GHz GPU – Arm Mali-G52 MC3 GPU at 1 GHz with support for OpenGL ES 3.2, OpenCL 2.0, and Vulkan 1.1 NPU – 6 TOPS (INT8) AI accelerator with support for INT4/INT8/INT16/BF16/TF32 mixed operations. VPU Video Decoder – H.264, H.265, VP9, AV1, and AVS2 up to [...] The post Geniatech XPI-3576-CM5 – A Raspberry Pi CM5-compatible Rockchip RK3576 AI Compute Module with WiFi 6, Bluetooth 5.3 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-7ea3a139d26a3864</guid>
-      <pubDate>Mon, 20 Jul 2026 09:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Olimex's PICO-EVB Turns a Raspberry Pi Pico Into an Arduino, MicroPython Mini-PLC</title>
-      <link>https://www.hackster.io/news/olimex-s-pico-evb-turns-a-raspberry-pi-pico-into-an-arduino-micropython-mini-plc-60b5ef5cf49c</link>
-      <description>15A mains-level relays and optoisolated inputs, coupled with an industrial temperature rating, put open hardware in your control projects.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-7c8d3a65904e9264</guid>
-      <pubDate>Mon, 20 Jul 2026 09:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards</title>
-      <link>https://www.cnx-software.com/2026/07/20/iotextra-modular-automation-boards-with-4-inputs-4-outputs-work-with-raspberry-pi-and-esp32-mcu-boards/</link>
-      <description>Last week, we wrote about the Olimex PICO-EVB automation board equipped with four relays and four isolated inputs and designed for Raspberry Pi Pico-compatible boards. Make Things Happy does something similar, but in a modular way, with the IoTextra family of carrier boards with four inputs and four outputs for automation, and supporting a range of IoTsmart MCU boards based on Raspberry Pi RP2350, ESP32-S3, etc… There are currently six IoTextra boards shipping or in development, all measuring 56×47 mm and featuring 3750 Vrms galvanic isolation per channel. All IoTextra modules support different MCU platforms via horizontally or vertically mounted IoTsmart SoM carriers based on Waveshare RP2350 and ESP32-S3 modules, Seeed Studio XIAO boards, and others, all connected via the HOST connector. All IoTextra 8-channel modules support several software ecosystems out of the box: IoTflow framework for no-code programming of distributed MCU nodes over MQTT and Node-RED; used to build custom [...] The post IoTextra modular automation boards with 4 inputs, 4 outputs work with Raspberry Pi and ESP32 MCU boards appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c25c883215928a4c</guid>
-      <pubDate>Mon, 20 Jul 2026 04:55:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
