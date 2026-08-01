@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>August is Back to School Month!! #BackToSchool #BackToSchool2026</title>
+      <link>https://blog.adafruit.com/2026/08/01/august-is-back-to-school-month-backtoschool-backtoschool2026/</link>
+      <description>Don’t get fooled by the pleasant weather, more heat and rain are on the way. It won’t be long, though, before false fall to come knocking, bringing shorter days and…a new school year approaching! August is Back to School Month so join us and get prepared for another scholastic voyage into the school year. We […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f9b8c6ac5a49a555</guid>
+      <pubDate>Sat, 01 Aug 2026 12:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing a 3D Printed Cycloidal Gearbox Design</title>
+      <link>https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</link>
+      <description>Cycloidal gearboxes are a recurring theme in the hobbyist space due to the performance their promise in a compact package. They are capable of taking in a high-speed input and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9ec1e1056439fec8</guid>
+      <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Compact Game Controller For Your Phone</title>
+      <link>https://hackaday.com/2026/08/01/a-compact-game-controller-for-your-phone/</link>
+      <description>[Gil Yankovitch] noted that playing games on a touchscreen phone gave up a certain something in terms of the tactile feedback one gets from real buttons. To that end, he …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ddefe9168e0f77b4</guid>
+      <pubDate>Sat, 01 Aug 2026 08:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules</title>
+      <link>https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/</link>
+      <description>Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world’s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W diode laser, 20w fiber laser, 60W MOPA laser, and 5W UV Laser 5W. The laser heads can be swapped tool-free in just 15 seconds. It works with an HD camera and AI system and can engrave and cut a wide range of materials including wood, leather, acrylic, metal, glass, crystal, and plastic. Diode laser modules are ideal for cutting and engraving wood, leather, and acrylic, the fiber laser module is better suited for marking and engraving metal, the MOPA laser module supports color marking on metals such as stainless steel and titanium, and the UV laser module uses cold processing for high-precision work on glass, [...] The post Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-77a46ca9b1db7cef</guid>
+      <pubDate>Sat, 01 Aug 2026 07:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>These DIY Robot Legs Are Awesome, Even Without a Torso</title>
+      <link>https://www.hackster.io/news/these-diy-robot-legs-are-awesome-even-without-a-torso-6e78217715da</link>
+      <description>Oliver Paff's DIY robot legs are the perfect illustration of how far the maker community has come.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-ef8f2457ae70ad4f</guid>
+      <pubDate>Fri, 31 Jul 2026 21:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Installing Docker on the Raspberry Pi</title>
+      <link>https://blog.adafruit.com/2026/07/31/installing-docker-on-the-raspberry-pi/</link>
+      <description>PiMyLifeUp shares how to install Docker on your Raspberry Pi. Docker is an incredibly powerful tool that provides OS-level virtualization to deliver software packages within containers. Being in a container means the software cannot access anything that the Docker runtime doesn’t hand to it; this can help with security and resource management. Docker allows you […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-0bf805a5beecf7be</guid>
+      <pubDate>Fri, 31 Jul 2026 20:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem</title>
+      <link>https://blog.adafruit.com/2026/07/31/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4/</link>
+      <description>﻿ ﻿ Are you subscribed to the Adafruit Youtube channel? If you’re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ccae046e4077cfc9</guid>
+      <pubDate>Fri, 31 Jul 2026 18:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
       <link>https://blog.adafruit.com/2026/07/31/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-31-2/</link>
@@ -26,7 +82,7 @@
     <item>
       <title>NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port</title>
       <link>https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/</link>
-      <description>NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the first from FriendlyELEC to implement a USB-C console port, often requested by our readers. At just 49.5 x 49.5 x 24 mm in its metal case, the Rockchip RK3528A-powered router also features 1GB LPDDR4, a microSD card slot and an eMMC module socket for storage, WiFi 6 and Bluetooth 5.3 wireless connectivity. The USB-C ports are only used for power, eMMC firmware upgrades, and debugging, and the system doesn’t feature any USB port for data connectivity, nor any GPIO header for expansion. In other words, it’s mostly useful for networking (firewalls, soft routers), as well as IoT gateway applications. NanoPi R28S specifications: SoC – Rockchip RK3528A CPU – Quad-core ARM Cortex-A53 @ 1.8 GHz GPU – Arm Mali-450 GPU with support for OpenGL ES1.1, ES2.0, and OpenVG 1.1 APIs VPU [...] The post NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port appeared first on CNX Software - Embedded Systems News.</description>
+      <description>NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the second from FriendlyELEC to implement a USB-C console port, often requested by our readers, after the NanoPi R2S Plus launched in 2024. At just 49.5 x 49.5 x 24 mm in its metal case, the Rockchip RK3528A-powered router also features 1GB LPDDR4, a microSD card slot and an eMMC module socket for storage, WiFi 6 and Bluetooth 5.3 wireless connectivity. The USB-C ports are only used for power, eMMC firmware upgrades, and debugging, and the system doesn’t feature any USB port for data connectivity, nor any GPIO header for expansion. In other words, it’s mostly useful for networking (firewalls, soft routers), as well as IoT gateway applications. NanoPi R28S specifications: SoC – Rockchip RK3528A CPU – Quad-core ARM Cortex-A53 @ 1.8 GHz GPU – Arm Mali-450 GPU with support for [...] The post NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port appeared first on CNX Software - Embedded Systems News.</description>
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-3301d8e940570c77</guid>
       <pubDate>Fri, 31 Jul 2026 10:26:53 +0000</pubDate>
@@ -750,62 +806,6 @@
       <category>raspberry-pi-foundation</category>
       <guid isPermaLink="false">circuits-0ad4c3b3ccc36fac</guid>
       <pubDate>Tue, 21 Jul 2026 12:02:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruhrbot Labs' 2K-Buddy Takes the Guesswork Out of Two-Part Polymer Mixing, Dispensing</title>
-      <link>https://www.hackster.io/news/ruhrbot-labs-2k-buddy-takes-the-guesswork-out-of-two-part-polymer-mixing-dispensing-521b00713b11</link>
-      <description>Combined pump and mixing system, which takes just two minutes to set up ready for use, due to start crowdfunding soon.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-7c7e72e4b6b139b1</guid>
-      <pubDate>Tue, 21 Jul 2026 11:45:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Globalscale Technologies' Case8 Cyberdeck Targets Gaming, Home Automation, and Education</title>
-      <link>https://www.hackster.io/news/globalscale-technologies-case8-cyberdeck-targets-gaming-home-automation-and-education-17b01c413134</link>
-      <description>Three variants, built around Mediatek Genio 520 and 720 chips, available at launch — plus a bare-bones "Hackers Edition" for makers.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-578d14edbbfdbe68</guid>
-      <pubDate>Tue, 21 Jul 2026 11:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Java Ring Restored After Nearly 30 Years</title>
-      <link>https://hackaday.com/2026/07/21/java-ring-restored-after-nearly-30-years/</link>
-      <description>Back in the late 90s when absolutely everybody knew that Java was going to become the one programming language to rule them all, the Java Ring was handed out to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-22c5e77e2cbe1a08</guid>
-      <pubDate>Tue, 21 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor</title>
-      <link>https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/</link>
-      <description>Avalue Technology has introduced the RIVAR-1539, a 15.6-inch industrial fanless panel PC powered by the Intel N150 quad-core Twin Lake processor. The system features a Full HD projected capacitive touch display, dual Gigabit Ethernet, four USB 3.0 ports, and an IP65-rated front panel. The all-in-one POS terminal is designed for edge computing and HMI applications, such as self-ordering kiosks, smart counters, digital signage, and queue management systems across retail, healthcare, and public service environments. Avalue RIVAR-1539 specifications: SoC – Intel Processor N150 quad-core processor @ 800 MHz / 3.6 GHz (Turbo) with 6MB cache, 24EU Intel UHD graphics @ 1.0 GHz; TDP: 6W Memory – 8GB LPDDR5 Storage – 128GB eMMC flash Display – 15.6-inch Full HD (1920 x 1080) LED display Luminance – 350 cd/m² Contrast ratio – 1500:1 Viewing angle – 89° (U/D/L/R) Response time – 25ms 10-point projected capacitive multi-touch with USB interface controller Video Output – HDMI [...] The post Avalue RIVAR-1539 is a 15.6-inch fanless industrial panel PC powered by an Intel N150 Twin Lake processor appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-2cc2d92c5f62edc3</guid>
-      <pubDate>Tue, 21 Jul 2026 10:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Projects with Raspberry Pi — out now!</title>
-      <link>https://www.raspberrypi.com/news/ai-projects-with-raspberry-pi-out-now/</link>
-      <description>This latest book from Raspberry Pi Press is a hands-on guide to building real-world AI applications on Raspberry Pi. The post AI Projects with Raspberry Pi — out now! appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-32ff224f79f3ca5e</guid>
-      <pubDate>Tue, 21 Jul 2026 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU</title>
-      <link>https://www.cnx-software.com/2026/07/21/art-pi-ii-development-board-features-600-mhz-stm32h7r7-cortex-m7-mcu-with-neochrom-gpu/</link>
-      <description>The 600 MHz STM32H7R/S Cortex-M7 microcontroller family with an optional NeoChrom 2.5D GPU and up to 640 KB SRAM and 64 KB flash was introduced in 2024. However, apart from ST’s own development boards such as the NUCLEO-H7S3L8 and STM32H7S78-DK, we hadn’t seen any boards based on it. The ART-Pi II development board changes that. It’s a compact board powered by an STM32H7R7L8H microcontroller paired with 32 MB HyperRAM and 64 MB HyperFlash, and featuring a microSD card slot, an RGB LCD connector, WiFi 4 and Bluetooth 5.1 connectivity, two USB-C ports (OTG and Debug), a 40-pin Raspberry Pi-compatible GPIO header, a 28-pin GPIO header, two Qwiic connectors, and an on-board debugger. ART-Pi II board specifications: MCU – STMicro STM32H7R7L8H CPU core – Arm Cortex-M7 @ up to 600 MHz GPU – NeoChrom 2.5D GPU Memory – 64 KB flash Storage – 620 KB SRAM Package – TFBGA225 Memory – [...] The post ART-Pi II development board features 600 MHz STM32H7R7 Cortex-M7 MCU with NeoChrom GPU appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-0db4f25b73704ff0</guid>
-      <pubDate>Tue, 21 Jul 2026 09:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs</title>
-      <link>https://www.cnx-software.com/2026/07/21/nrf54l-arduino-core-project-brings-arduino-support-to-nordic-semi-nrf54l-wireless-socs/</link>
-      <description>nRF54L Arduino Core is an open-source project designed to bring Arduino support for Nordic Semiconductor nRF54L wireless SoCs, starting with Seeed Studio’s XIAO nRF54L15 (Sense) and XIAO nRF54LM20A (Sense) boards, as well as compatible Holyiot nRF54L15 modules. Since the launch of the nRF52840-based Arduino Nano 33 BLE board in 2019, Nordic nRF52 wireless microcontrollers have been officially supported by the Arduino IDE. However, it’s not quite the case for the newer nRF54L Cortex-M33 microcontrollers. Lolren has decided to change that with the unofficial nRF54 Arduino core project. nRF54L Arduino Core highlights: Dual-core access – Use the 128 MHz Cortex-M33 application CPU and the VPR RISC-V coprocessor without adopting a vendor RTOS Wireless Bluetooth LE support – Peripheral, central, dual-role, GATT server/client, HID, BLE UART, PHY/DLE/MTU control, LE Secure Connections, bonding, OOB, Numeric Comparison, privacy/RPA, and CSRK signed writes Experimental support for Zigbee – Partial stack and device demonstrations; incomplete Zigbee [...] The post nRF54L Arduino Core project brings Arduino support to Nordic Semi nRF54L wireless SoCs appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d53b210f5f243f8d</guid>
-      <pubDate>Tue, 21 Jul 2026 03:27:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
