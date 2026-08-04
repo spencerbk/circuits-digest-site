@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Turn your framework 12 into a creaky wooden door</title>
+      <link>https://blog.adafruit.com/2026/08/04/turn-your-framework-12-into-a-creaky-wooden-door/</link>
+      <description>Arca Cengiz has created creakwork12 which turns your Framework 12 laptop into a creaky wooden door It’s basically this (that was also the inspiration too) but ported to a fw12. It may or may not work on other laptops too, I haven’t tested it. The filtering is optimised for framework 12’s hinge stiffness. See this […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-72bec85bc1daf87b</guid>
+      <pubDate>Tue, 04 Aug 2026 13:28:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Installing structural beams on a ceiling to support art installations  #ArtTuesday</title>
+      <link>https://blog.adafruit.com/2026/08/04/installing-structural-beams-on-a-ceiling-to-support-art-installations-arttuesday/</link>
+      <description>Patten Studio is no stranger to using structural beams to support art projects, whether on a floor, wall, or ceiling. In their latest work, they are designing another suspended light sculpture. We’ve built a bunch of ceiling-mounted sculptures in recent years. (Check out our Instagram to see All Points Canada and Ceramic Cloud installed at Google Toronto. Shoutout SOSO for two […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f05de28f14ebe426</guid>
+      <pubDate>Tue, 04 Aug 2026 12:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>This DIY Robot Will Haul Your Beach Gear For You</title>
+      <link>https://www.hackster.io/news/this-diy-robot-will-haul-your-beach-gear-for-you-d2d4d2c8c246</link>
+      <description>Tired of hauling beach gear? John Boss built an ESP32-powered robot to drive his cooler around for him.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-a9fd2d6295a9ef10</guid>
+      <pubDate>Tue, 04 Aug 2026 12:48:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Byte Magazine’s “Technological Breakthrough” cover re-created as a photograph  #ArtTuesday</title>
+      <link>https://blog.adafruit.com/2026/08/04/byte-magazines-technological-breakthrough-cover-re-created-as-a-photograph-arttuesday/</link>
+      <description>Bob Alexander at Galactic Studios has been recreating Robert Tinney’s Byte magazine paintings as photographs. The latest work is “Technological Breakthrough”. Byte’s January 1986 issue had a focus on robotics. Mr. Tinney painted a robot claw hatching out of an egg. As I’ve done with several other Byte covers, I re-created Tinney’s vision as if it […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-385765d333b5e902</guid>
+      <pubDate>Tue, 04 Aug 2026 12:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing Hundreds of Used LFP Cells Requires Some Automation</title>
+      <link>https://hackaday.com/2026/08/04/testing-hundreds-of-used-lfp-cells-requires-some-automation/</link>
+      <description>Although Li-ion cells have become a lot cheaper over the years, if you wish to buy hundreds of high-quality ones for that performance go-kart project, you may feel financially pressured …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-12c44ea578bd8e66</guid>
+      <pubDate>Tue, 04 Aug 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supporting AI education for 150,000 learners in Aotearoa New Zealand and Australia</title>
+      <link>https://www.raspberrypi.org/blog/supporting-ai-education-for-150000-learners-in-aotearoa-new-zealand-and-australia/</link>
+      <description>We’re pleased to share that we are expanding our Experience AI programme to Australia and Aotearoa New Zealand to train 5000 educators who can reach 150,000 students by 2028, thanks to generous funding of $1.2 million from Google.org. Working with local education organisations, we will support young people to develop a foundational understanding of AI… The post Supporting AI education for 150,000 learners in Aotearoa New Zealand and Australia appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-323303457a14ba17</guid>
+      <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yellow YAG Produces Powerful Pulses in Les’ Leftover Laser</title>
+      <link>https://hackaday.com/2026/08/04/yellow-yag-produces-powerful-pulses-in-les-leftover-laser/</link>
+      <description>[Les] likes lasing lasers, and who doesn’t? [Les] likes larger lasers than lots of folks, with his current project being an Nd:YAG (that’s Neodymium:Yttrium Aluminum Garnet) flash pumped laser intended …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-e027b50cb5d4e878</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware</title>
+      <link>https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/</link>
+      <description>If you’ve ever wanted to build your own watch, the ChronoWatch X2040 DIY watch allows you to do it the easy way with a Waveshare RP2040-Touch-LCD-1.28 touch LCD board, a 3D-printed case, a 3.7V LiPo battery, a few screws, and firmware using the Pico C/C++ SDK. When Vishal Soni decided he wanted to build a watch, he initially planned to design a custom board, but since there are already several round LCD boards based on Raspberry Pi RP2040 MCU, he went with a Waveshare board, preferring to spend more time on firmware programming. ChronoWatch X2040 parts: Waveshare RP2040-Touch-LCD-1.28 with Raspberry Pi RP2040 MCU and 1.28-inch round touch display – About $23 to $29 on Amazon, AliExpress, or the Waveshare store. 3D printed case designed with Tinkercad 3.7V 950mAh Lipo battery (35 x 25 x 10 mm) M2 4mm screw M2 heat inserts 2-pin MX1.25 connector 1mm heat shrink sleeve tube [...] The post ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d44744aee52237d8</guid>
+      <pubDate>Mon, 03 Aug 2026 14:45:50 +0000</pubDate>
+    </item>
     <item>
       <title>The DEF CON 34 Badge Packs a Surprise: Andrew "bunnie" Huang's "Mostly-Open" Baochip-x1</title>
       <link>https://www.hackster.io/news/the-def-con-34-badge-packs-a-surprise-andrew-bunnie-huang-s-mostly-open-baochip-x1-1e03307d4797</link>
@@ -742,70 +806,6 @@
       <category>eevblog</category>
       <guid isPermaLink="false">circuits-b7d7033ca9bee8f1</guid>
       <pubDate>Fri, 24 Jul 2026 07:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform</title>
-      <link>https://www.cnx-software.com/2026/07/24/amd-launches-ryzen-ai-embedded-x100-processors-kria-ai-som-and-physical-ai-robotics-developer-platform/</link>
-      <description>AMD has announced a range of new AI solutions at Advanced AI 2026, including 6th Gen AMD EPYC CPUs, AMD Instinct MI400 Series GPUs, and AMD Helios AI rackscale solutions designed for data centers. In this article, we’ll focus instead on embedded and physical AI solutions like the new Ryzen AI Embedded X100 processor family and a new Kria AI SoM integrated into the Kria AI Robotics Developer Platform pairing an X100 embedded CPU with a Kria FPGA. AMD Ryzen AI Embedded X100 AMD first introduced the Ryzen AI Embedded X100 family when it launched the Ryzen AI Embedded P100 family in January 2026, delivering up to 50 TOPS of AI performance. However, at the time there were very few details about the X100 family, just that it would offer higher CPU core counts and AI TOPS performance, and this latest announcement fixes that. AMD claims the new X100 series [...] The post AMD launches Ryzen AI Embedded X100 processors, Kria AI SoM, and physical AI/robotics developer platform appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-0e3e07e2031e7407</guid>
-      <pubDate>Fri, 24 Jul 2026 04:55:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modular Space Ship/Sci-Fi Corridor Wall Set #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/23/modular-space-ship-sci-fi-corridor-wall-set-3dthursday-3dprinting/</link>
-      <description>Shared by cale.lebl (BellForged) on MakerWorld: A modular sci-fi terrain wall set for space-themed tabletop gaming and dioramas. Circular portals fit 20mm and 40mm inserts. Compatible with any OpenForge terrain. Designed for anything sci-fi or space-themed. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-915215f4620f729c</guid>
-      <pubDate>Thu, 23 Jul 2026 23:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit QT PY ESP32-C3 Case – No Buttons Wire Passthrough #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/23/adafruit-qt-py-esp32-c3-case-no-buttons-wire-passthrough-3dthursday-3dprinting/</link>
-      <description>Eric_250094 shares: A simple, functional box for the Adafruit QT PY ESP32-C3 (no button cutouts) with wire passthrough openings and an optional solid lid variant. Direct-fit for one of Adafruit’s most popular tiny form-factor ESP32 boards — perfect for permanent sensor or STEMMA QT deployments. By Eric on Printables download the files on: https://www.printables.com/model/678640-adafruit-qt-py-esp32-c3-case-with-no-buttons Every […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-cdd585cb75798cfc</guid>
-      <pubDate>Thu, 23 Jul 2026 22:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Articulated Spider – Print-in-Place Halloween Decoration #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/23/articulated-spider-print-in-place-halloween-decoration-3dthursday-3dprinting/</link>
-      <description>Shared by Lucky 13 Toys on MakerWorld: A fully articulated spooky spider that can dangle from a web of filament. Print-in-place, no assembly required. Includes a 3MF with all parts, plus optional separate-eye printing (no MMU/AMS needed) for a two-color look. Test-fit one leg set before committing to the full print. Download the files and […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-230a259bfd999cf1</guid>
-      <pubDate>Thu, 23 Jul 2026 21:04:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composite video on the NES: why’s it so wobbly?</title>
-      <link>https://blog.adafruit.com/2026/07/23/composite-video-on-the-nes-whys-it-so-wobbly/</link>
-      <description>Over on the Nicole Express blog the Nintendo Entertainment System’s video is examined. It’s actually kind of an oddball in its expandability and design. But there’s something else about it. The picture is a bit… wobbly. Well, over composite video anyway. Let’s dig in and learn a little bit more about the nitty-gritty of composite […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-df0cf0a7755816b6</guid>
-      <pubDate>Thu, 23 Jul 2026 13:28:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pool Noodle Mace #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/23/pool-noodle-mace-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pool Noodle Mace By thelightspd makerworld.com/en/models/1510937-pool-noodle-medieval-mace-print-in-place Bambu X1C PolyMaker PLA 8hr 24mins X:220 Y:227 Z:99mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 283g 230mm/s Every Thursday is #3dthursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-eea4e221faa6ef33</guid>
-      <pubDate>Thu, 23 Jul 2026 13:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cable Organizer – Foldable Clip for Charging/USB Cables #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/23/cable-organizer-foldable-clip-for-charging-usb-cables-3dthursday-3dprinting/</link>
-      <description>user_2486456120 shares: A compact foldable cable organizer clip designed to securely collect and hold charging cables, USB cables, and other wires. Portable enough for desk, backpack, or travel. Reusable without damaging cables. Version 4 available from the same designer with additional features. By Singh Design download the files on: https://makerworld.com/en/models/675366-cable-organizer Every Thursday is #3dthursday here […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b3c5537f0136b53f</guid>
-      <pubDate>Thu, 23 Jul 2026 12:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armaan Gomes and Friends Deliver Playable Doom on a Whole New Platform: A Custom RISC-V CPU</title>
-      <link>https://www.hackster.io/news/armaan-gomes-and-friends-deliver-playable-doom-on-a-whole-new-platform-a-custom-risc-v-cpu-811757ad0c1f</link>
-      <description>Designed from scratch and implementing a subset of the free and open RISC-V ISA, this custom CPU can play 1993's hottest game.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-c695258979663e47</guid>
-      <pubDate>Thu, 23 Jul 2026 11:12:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
