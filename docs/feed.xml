@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Creality's Pika Puts a Dual-Mode Laser/NIR 3D Scanner in Your Pocket — With Gaussian Splatting Soon</title>
+      <link>https://www.hackster.io/news/creality-s-pika-puts-a-dual-mode-laser-nir-3d-scanner-in-your-pocket-with-gaussian-splatting-soon-f904b18bffd4</link>
+      <description>Sub-$700 scanner include seven-beam parallel blue laser and near-infrared scanning modes, and comes with two batteries included.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-271674b726f37b03</guid>
+      <pubDate>Wed, 05 Aug 2026 12:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could Camera Hardware Be The Physical Equivalent to USB-C?</title>
+      <link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link>
+      <description>[Mansour] presents an interesting idea in his essay A Common Thread — just as USB-C has become the “One Connector To Rule Them All” in the world of electronics, so …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-6c96abd858c01d36</guid>
+      <pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks</title>
+      <link>https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/</link>
+      <description>Designed by ZecTrix Lab in China, the Note 4 is an ESP32-S3-based AI smart note with a 4.2-inch e-paper display and built-in voice input. The device is designed to display reminders, notes, clocks, weather, images, and custom templates, while the Note 4C variant replaces the monochrome display with a four-color e-paper panel. The device features 2.4GHz Wi-Fi and Bluetooth 5.0 connectivity, a microphone, a speaker, NFC, physical buttons, a USB Type-C port, a 2,000mAh rechargeable battery, and GPIO expansion for custom hardware projects. ZecTrix Note 4 / Note 4C specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Display Note 4 – 4.2-inch monochrome E-Ink display, 400 × 300 resolution; supports partial refresh Note 4C – 4.2-inch four-color (BWRY) E-Ink display, [...] The post ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-32ebe4d4480af8aa</guid>
+      <pubDate>Wed, 05 Aug 2026 04:57:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Negative electrical resistance</title>
+      <link>https://blog.adafruit.com/2026/08/04/negative-electrical-resistance/</link>
+      <description>Michal Zalewski on the lcamtuf’s thing website writes: If you tinker with analog electronics, you might have heard that some circuits can exhibit negative resistance. This is usually followed by a current-to-voltage plot featuring some sort of a kinked curve and an assertion that this property might help the circuit designer in some way. But […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ab9a85e1f46d027b</guid>
+      <pubDate>Tue, 04 Aug 2026 21:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>A drum style mechanical television you can build yourself</title>
+      <link>https://blog.adafruit.com/2026/08/04/a-drum-style-mechanical-television-you-can-build-yourself/</link>
+      <description>Scanwheel is a drum style mechanical television you can build yourself. It features five windows side by side, each taking advantage of the same scanning drum, but with separate LEDs to allow separate images. The windows are a luxurious 9mm x 8mm each, with 20 scan lines. The software uses the Raspberry Pi Pico’s PIO […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b05aec1e407fe9b2</guid>
+      <pubDate>Tue, 04 Aug 2026 20:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Arduino IMU daemon library for marine and robotics navigation</title>
+      <link>https://blog.adafruit.com/2026/08/04/an-arduino-imu-daemon-library-for-marine-and-robotics-navigation/</link>
+      <description>ImudClient is an Arduino client library for imud — an IMU daemon for marine and robotics navigation that fuses gyro/accel/ magnetometer data with a Kalman filter and publishes attitude (heading, roll, pitch, quaternion, rate of turn, heave, sea state…) over TCP or UDP. ImudClient receives, validates, and decodes imud’s binary packets on ESP32-class boards — […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a5aed753b3577291</guid>
+      <pubDate>Tue, 04 Aug 2026 19:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>How our tiny computers learnt to count sheep (and spot hi-vis jackets)</title>
+      <link>https://www.raspberrypi.com/news/how-our-tiny-computers-learnt-to-count-sheep-and-spot-hi-vis-jackets/</link>
+      <description>Exploring the rise of artificial intelligence and how Raspberry Pi is making an impact at the edge. The post How our tiny computers learnt to count sheep (and spot hi-vis jackets) appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-39723ae58eb2901a</guid>
+      <pubDate>Tue, 04 Aug 2026 16:11:24 +0000</pubDate>
+    </item>
     <item>
       <title>Turn your framework 12 into a creaky wooden door</title>
       <link>https://blog.adafruit.com/2026/08/04/turn-your-framework-12-into-a-creaky-wooden-door/</link>
@@ -750,62 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-55f229d3b941eee7</guid>
       <pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bots, Blasters, Bugs, and a Bunch of Open Sauce Hardware</title>
-      <link>https://makezine.com/article/maker-news/bots-blasters-bugs-and-a-bunch-of-open-sauce-hardware/</link>
-      <description>Open Sauce 2026 was filled with familiar faces, new projects, robots, and all kinds of wings. The post Bots, Blasters, Bugs, and a Bunch of Open Sauce Hardware appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-9436fc8c8b00d505</guid>
-      <pubDate>Fri, 24 Jul 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Open Home Foundation Invites All to Try Out the Home Assistant Device Database — In Preview Form</title>
-      <link>https://www.hackster.io/news/the-open-home-foundation-invites-all-to-try-out-the-home-assistant-device-database-in-preview-form-0ff977bb10aa</link>
-      <description>Initial public release includes "a deliberately focused" dataset including integration compatibility and protocol support.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-044d716e14ea43bd</guid>
-      <pubDate>Fri, 24 Jul 2026 11:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exploring Hidden JPEG Features</title>
-      <link>https://hackaday.com/2026/07/24/exploring-hidden-jpeg-features/</link>
-      <description>The lossy compression algorithm used by JPEG was useful for those on the early Internet not only because it enabled pictures to be shared easier, but because it allows a …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-d687a30bdee7750b</guid>
-      <pubDate>Fri, 24 Jul 2026 11:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>$379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD</title>
-      <link>https://www.cnx-software.com/2026/07/24/379-99-bosgame-e6-eco-mini-pc-features-intel-core-3-304-wildcat-lake-cpu-12gb-lpddr5x-512gb-nvme-ssd/</link>
-      <description>BOSGAME E6 ECO is another Wildcat Lake mini PC powered by the penta-core Intel Core 3 304 processor, paired with 12GB LPDDR5X and a 512GB NVMe SSD, and an attractive price tag of $379.99 and up. It also features three video outputs via HDMI 2.0, DisplayPort 1.4, and USB-C ports, dual GbE networking, Wi-Fi 7 and Bluetooth 5.4 wireless connectivity, a 3.5mm audio jack, and five USB ports. BOSGAME E6 ECO mini PC: SoC – Intel Core 3 304 “Wildcat Lake” 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache – 6MB L3 cache GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Manufacturing processor – Intel 18A System Memory – 12GB LPDDR5x @ 6400MT/s Storage 512GB M.2 NVMe SSD; upgradable to up to 4TB Additional M.2 2242 PCIe Gen4 slot Video Output HDMI 2.0 video [...] The post $379.99 BOSGAME E6 ECO mini PC features Intel Core 3 304 Wildcat Lake CPU, 12GB LPDDR5X, 512GB NVMe SSD appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-bc9e9e8d8c37bcbb</guid>
-      <pubDate>Fri, 24 Jul 2026 09:38:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs</title>
-      <link>https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/</link>
-      <description>CirkitScape Top HAT (also written as TopHAT) is a multi-function expansion board for the Raspberry Pi that adds 16 extra GPIOs through an I2C expander, an RS-485 header, a 3-channel, 12-bit ADC, and four extra USB 2.0 ports through a USB hub. The company told us it’s designed to “make prototyping, sensing, automation, and real-world Raspberry Pi builds cleaner and easier without stacking as many separate add-ons”. A Top HAT Sensor Kit is also offered with a few sensors for environmental monitoring builds. CirkitScape Top HAT specifications: Supported SBCs – Raspberry Pi boards and compatible SBCs with 40-pin GPIO header, including the Pi 5, 4, 3B+, and Zero USB 4x USB 2.0 (480 Mbps) ports 4-port USB 2.0 hub Per-port current-limited switches (500mA per port) I/O Expansion 16x GPIOs via MCP23017 I²C expander Analog Input – 3-channel 12-bit ADC via ADS1015 chip RS-485 interface via MAX485 half-duplex transceiver Communication Interfaces [...] The post CirkitScape Top HAT adds extra GPIOs, RS-485, 3-channel ADC, four USB 2.0 ports to Raspberry Pi SBCs appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-0a5b4d34384698b7</guid>
-      <pubDate>Fri, 24 Jul 2026 08:07:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Blood Hack For An Old Game</title>
-      <link>https://hackaday.com/2026/07/24/a-new-blood-hack-for-an-old-game/</link>
-      <description>Even before 3D graphics and advanced shaders became common in the gaming world, there were concerns that virtual violence looked too realistic. Fighting games in the 1990s were routinely toned-down …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-75674775af7d146f</guid>
-      <pubDate>Fri, 24 Jul 2026 08:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1761 – Micsig MHO14 Tablet Oscilloscope TEARDOWN</title>
-      <link>https://www.eevblog.com/2026/07/24/eevblog-1761-micsig-mho14-tablet-oscilloscope-teardown/</link>
-      <description>Teardown of the new Micsig HMO14 4CH 200MHz 6th generation tablet oscilloscope with built in multimeter. Follow up on the lack of input ptotection! https://www.youtube.com/watch?v=W2o8otvVML4 Forum: https://www.eevblog.com/forum/blog/eevblog-1761-micsig-mho14-tablet-oscilloscope-teardown/ 00:00 – Micsig MHO14 12bit 6th generation oscilloscope 05:00 – Rubber baby buggy bumber 08:13 – The RF shield retaining clips 09:32 – The heat sink mounting is …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-b7d7033ca9bee8f1</guid>
-      <pubDate>Fri, 24 Jul 2026 07:25:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
