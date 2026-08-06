@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:45:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>LED Lamp Kit – Adjustable Desk Lamp with Magnetic Glare Shield #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/06/led-lamp-kit-adjustable-desk-lamp-with-magnetic-glare-shield-3dthursday-3dprinting/</link>
+      <description>PrestigeProto shares: A minimalist Bambu LED Kit lamp with adjustable head and height, mounted on a 1-inch dowel with a thumbscrew for stable rotation lock. Three M3×10mm screws for bracket assembly. Optional print-without-bottom-layer + fill-with-plaster for extra base weight. Magnetic-mounted glare shield attaches with 5×3mm or 6×3mm magnets download the files on: https://makerworld.com/en/models/145041-led-lamp-kit-adjustable-desk-lamp Every Thursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d2f905678a338349</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spider on Web Halloween Decor – Articulated Corner Piece #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/06/spider-on-web-halloween-decor-articulated-corner-piece-3dthursday-3dprinting/</link>
+      <description>dungeandwyve shares: A cute Halloween corner-decor piece with a spider that dangles from a web. Three variants: thinner (1.5hr), thicker solid (2.5hr), and thicker with screw holes (can double as a shelf bracket). The two without screw holes stick on with Command Strips or Blu Tac. Updated version at the designer’s page. By dungeons and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a672b02707ac75e2</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>LumoTiles Lamp – Modular Tile-Inspired Bambu LED Kit Design #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/06/lumotiles-lamp-modular-tile-inspired-bambu-led-kit-design-3dthursday-3dprinting/</link>
+      <description>ModularMapping shares: A fast-to-print, easy-assembly modular lamp with no screws, glue, or supports needed. Slide the interlocking side panels into each other, twist the four feet 45° into the base to lock, install the Bambu Lab LED kit, press the panels in, and fit the top. Uses transparent filament for the “windows” for maximum glow […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-84cbe259302b7b41</guid>
+      <pubDate>Thu, 06 Aug 2026 11:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amiga and Commodore, Back Together (Sort Of)</title>
+      <link>https://hackaday.com/2026/08/06/amiga-and-commodore-back-together-sort-of/</link>
+      <description>The story of Commodore, the famous manufacturer of home computers, is a murky one at best. Commodore fans will decry their woeful marketing and dismal product roadmap, while former employees …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b1a3076dc9cf2cef</guid>
+      <pubDate>Thu, 06 Aug 2026 11:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build a Raspberry Pi Pico route finder using Dijkstra’s algorithm</title>
+      <link>https://www.raspberrypi.com/news/build-a-raspberry-pi-pico-route-finder-using-dijkstras-algorithm/</link>
+      <description>Build a pocket-sized route finder with Raspberry Pi Pico and navigate your way to treasure using proper computer science. The post Build a Raspberry Pi Pico route finder using Dijkstra’s algorithm appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-77a10b12e450058c</guid>
+      <pubDate>Thu, 06 Aug 2026 09:51:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Only the Hottest Tunes Play on This Fire Organ</title>
+      <link>https://hackaday.com/2026/08/06/only-the-hottest-tunes-play-on-this-fire-organ/</link>
+      <description>Most musical organs use air as their working fluid, but there’s nothing in the rule book that says they have to. Calliopes have used steam for 150 years now, while …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7ed9cfba909619b9</guid>
+      <pubDate>Thu, 06 Aug 2026 08:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1764 – Can I Retire Now?</title>
+      <link>https://www.eevblog.com/2026/08/06/eevblog-1764-can-i-retire-now/</link>
+      <description>I guess I have 1 million subscribers now. Forum: https://www.eevblog.com/forum/blog/eevblog-1764-can-i-retire-now/</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-baa532b02d5ea02b</guid>
+      <pubDate>Thu, 06 Aug 2026 01:36:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Practice When You Can Build a Motorized Badminton Racket?</title>
+      <link>https://www.hackster.io/news/why-practice-when-you-can-build-a-motorized-badminton-racket-f8ad246985b7</link>
+      <description>Instead of practicing badminton, a former NASA engineer built a motorized, twin-racket spinning robot to smash his rival into submission.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-60533f844e9dd78e</guid>
+      <pubDate>Wed, 05 Aug 2026 19:35:22 +0000</pubDate>
+    </item>
     <item>
       <title>Creality's Pika Puts a Dual-Mode Laser/NIR 3D Scanner in Your Pocket — With Gaussian Splatting Soon</title>
       <link>https://www.hackster.io/news/creality-s-pika-puts-a-dual-mode-laser-nir-3d-scanner-in-your-pocket-with-gaussian-splatting-soon-f904b18bffd4</link>
@@ -742,70 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-74c240dd7a4201b8</guid>
       <pubDate>Sat, 25 Jul 2026 18:10:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voice Recognition and Speech Synthesis on an RPi Pico 2</title>
-      <link>https://blog.adafruit.com/2026/07/25/voice-recognition-and-speech-synthesis-on-an-rpi-pico-2/</link>
-      <description>Pete Warden is on a mission to run a full voice interface on a fifty cent chip. This project hasn’t quite reached that goal but it is well on the way. Uses a Pi Pico with the help of a Adafruit I2S MEMS Microphone Breakout and a Adafruit I2S 3W Class D Amplifier Breakout Most […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-170afc81d1f7bada</guid>
-      <pubDate>Sat, 25 Jul 2026 17:15:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backyard Squirrel Box With Camera</title>
-      <link>https://blog.adafruit.com/2026/07/25/backyard-squirrel-box-with-camera/</link>
-      <description>image via Hey Jude in Living, Instructables Interacting with local nature can be very fun. Over on Instructables Hey Jude in Living put together a build a nice little home for squirrels that also serves as a squirrel observation opportunity: So, dear remaining readers, as someone who is also up for some squirrel shenanigans, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-de842fb05b1b5560</guid>
-      <pubDate>Sat, 25 Jul 2026 14:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repairing a RED Cinema Camera On The Cheap</title>
-      <link>https://hackaday.com/2026/07/25/repairing-a-red-cinema-camera-on-the-cheap/</link>
-      <description>[ALT CINE] took a punt recently when purchasing a damaged RED Komodo camera online. In functional form, the 6K-capable camera sells for several thousand pounds (or dollars, or euros), whether …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-c6b53dc5b6552e02</guid>
-      <pubDate>Sat, 25 Jul 2026 11:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICCU Monitor Logs Data in E-GMP EV Failures</title>
-      <link>https://hackaday.com/2026/07/25/iccu-monitor-logs-data-in-e-gmp-ev-failures/</link>
-      <description>EVs are less mechanically complicated than their combustion kin, but that doesn’t mean they’re immune to component failure. The Integrated Charge Control Unit (ICCU) has been the main failure point …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-5867683581cc348c</guid>
-      <pubDate>Sat, 25 Jul 2026 08:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots</title>
-      <link>https://www.cnx-software.com/2026/07/25/beelink-me-pro-2-bay-hybrid-nas-gets-wildcat-lake-treatment-gains-10gbe-and-thunderbolt-4-loses-a-few-m-2-slots/</link>
-      <description>Beelink “ME Pro 2-Bay AI NAS Mini PC Intel Wildcat Lake 304” offers two SATA bays and one M.2 PCIe Gen4 socket, and is equipped with 16GB DDR5-5600 SO-DIMM memory and 512GB UFS 3.1 storage. It’s an upgrade to the Beelink ME Pro Intel N95/N150 NAS and mini PC introduced last February. Besides the faster processor, the NAS trades its 5GbE port for a faster 10GbE port, and gains two Thunderbolt 4 ports. One downside, due to the lower number of PCIe lanes in Wildcat Lake processors, is that it now features one M.2 PCIe Gen4 socket, instead of three M.2 PCIe Gen3 sockets, which is somewhat mitigated by the built-in UFS storage. Beelink ME Pro specifications: SoC – Intel Core 3 304 “Wildcat Lake” 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache – 6MB L3 cache GPU – 1-core Intel [...] The post Beelink ME Pro 2-bay hybrid NAS gets Wildcat Lake treatment, gains 10GbE and Thunderbolt 4, loses a few M.2 slots appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-f12a0b126e0db3ba</guid>
-      <pubDate>Sat, 25 Jul 2026 03:56:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s CircuitPython Parsec: Bitmaptools Rotozoom ZOOM</title>
-      <link>https://blog.adafruit.com/2026/07/24/john-parks-circuitpython-parsec-bitmaptools-rotozoom-zoom/</link>
-      <description>#circuitpythonparsec ZOOM a bitmap with ease using bitmaptools.rotozoom in CircuitPython. code example To learn about CircuitPython: https://circuitpython.org</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-184bf3666b11fdb5</guid>
-      <pubDate>Fri, 24 Jul 2026 20:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Printed Linguo #piday #raspberrypi @Raspberry_Pi</title>
-      <link>https://blog.adafruit.com/2026/07/24/3d-printed-linguo-piday-raspberrypi-raspberry_pi/</link>
-      <description>“They *are* throwing robots.” carlos3dprint shares how they brought Lisa Simpson’s Linguo to life with a little help from AI, 3D printing, and a Raspberry Pi. Check out the details on instructables. I built Linguo from The Simpsons as a real 3D printed robot with AI. In the episode, Linguo is the grammar robot Lisa […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c0696ba3a5f5a526</guid>
-      <pubDate>Fri, 24 Jul 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem</title>
-      <link>https://blog.adafruit.com/2026/07/24/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-3/</link>
-      <description>﻿ ﻿ Are you subscribed to the Adafruit Youtube channel? If you’re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-55f229d3b941eee7</guid>
-      <pubDate>Fri, 24 Jul 2026 19:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
