@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 13:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:45:18 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Get Creative with Robotics Using CRICKIT</title>
+      <link>https://blog.adafruit.com/2026/08/07/get-creative-with-robotics-using-crickit/</link>
+      <description>Make a robot friend with Adafruit’s CRICKIT, an add-on to our popular Circuit Playground Express, FEATHER and other platforms to make and program robots with CircuitPython, MakeCode, and Arduino. CRICKIT complements and extends your boards so you can still use all the goodies on the microcontroller, just with an additional robotics playground! See all that […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a494ef14fc249258</guid>
+      <pubDate>Fri, 07 Aug 2026 12:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cale Loveridge's MiniPin Pinball Machines Are Printable on Almost Any 3D Printer — With One Spool</title>
+      <link>https://www.hackster.io/news/cale-loveridge-s-minipin-pinball-machines-are-printable-on-almost-any-3d-printer-with-one-spool-7d19bb42900b</link>
+      <description>Compact parts squeeze into a 180×180×180mm build volume, making these cabinets accessible to even low-cost printer owners.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-99f566f138003b18</guid>
+      <pubDate>Fri, 07 Aug 2026 11:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Looking to Boost Your Software's Performance? Crack an egg, Researchers Say</title>
+      <link>https://www.hackster.io/news/looking-to-boost-your-software-s-performance-crack-an-egg-researchers-say-d893e3db43b5</link>
+      <description>The permissively-licensed egg toolkit uses e-graphs to deliver a universal approach to software optimization.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-2e01f0906139aa1e</guid>
+      <pubDate>Fri, 07 Aug 2026 11:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>FlipBuddy is Borg, You Will Be Assimilated</title>
+      <link>https://hackaday.com/2026/08/07/flipbuddy-is-borg-you-will-be-assimilated/</link>
+      <description>When you think about it, time is all we’ve really got. Where to go from there is ultimately up to you. Maybe you use an app to track every task, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-c08349239dd5f07b</guid>
+      <pubDate>Fri, 07 Aug 2026 11:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot</title>
+      <link>https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/</link>
+      <description>We’ve just received a sample of the GEEKOM IT13 Max mini PC powered by an Intel Core Ultra 9 185H CPU for review. With up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, the Meteor Lake mini PC is well-suited for AI workloads, creative tasks, coding, and heavy multitasking. Two configurations are available: one with 16 GB DDR5 SODIMM RAM and a 1 TB PCIe Gen4 SSD, and another with 24 GB soldered-on LPDDR5-5600 memory and a 500 GB SSD. Both feature two 40 Gbps USB4 ports, five USB 3.2 Gen 2 Type-A ports, two HDMI 2.0 ports, Wi-Fi 7, Bluetooth 5.4, and dual 2.5 GbE networking, and come pre-installed with Windows 11 Pro. GEEKOM specifically sent us the IT13 Max mini PC with 24 GB LPDDR5 and a 500 GB M.2 SSD for testing. In this article, we will cover [...] The post GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-74654fe2d4038186</guid>
+      <pubDate>Fri, 07 Aug 2026 10:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>SPOKE: An RP2040-powered touch controller</title>
+      <link>https://www.raspberrypi.com/news/spoke-an-rp2040-powered-touch-controller/</link>
+      <description>SPOKE is a well-designed RP2040-powered touch controller that can also act as a MIDI input or HID. The post SPOKE: An RP2040-powered touch controller appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-3e771d64f3a4c339</guid>
+      <pubDate>Fri, 07 Aug 2026 09:19:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</link>
+      <description>Fractal Manifold has introduced the Token Monitor, a 4-inch ESP32-S3-based desktop display for monitoring real-time AI coding assistant usage. The device features a 4-inch 480×480 IPS touchscreen with 5-point capacitive touch, Wi-Fi 4 and Bluetooth LE 5 wireless connectivity, USB-C power, optional 1-cell Li-ion battery support via an AXP2101 PMIC, and two side buttons for power and boot functions. It shows usage information including quota consumption, session limits, token counts, reset timers, and estimated token costs. A local broker service fetches the usage data and transfers it to the device over a secure connection, keeping credentials on the user’s machine. Token Monitor specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Display – 4-inch 480×480 capacitive touchscreen with ST7701 driver and [...] The post Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-cb61d2c6ecaec42e</guid>
+      <pubDate>Fri, 07 Aug 2026 07:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proxmox VE now officially supports 64-bit Arm (Aarch64) targets</title>
+      <link>https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/</link>
+      <description>Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built on Debian 13.5 “Trixie” with Linux 7.0, and is otherwise based on the same code as the x86-64 version, and relies on the same configuration, tooling, and documentation, except for a few architecture-specific differences. The developers note that Proxmox VE for Arm fully supports NVIDIA Grace Hopper and NVIDIA Vera platforms, and “best-effort” support is available on other UEFI-based Armv8-A/Armv9-A hardware. However, device-tree-only single-board computers, such as the Raspberry Pi, are not supported, since the host must boot through UEFI and describe its hardware through ACPI. Having said that, we previously noted work on an UEFI+ACPI port for the Raspberry Pi 4, and users have already managed to have the release work [...] The post Proxmox VE now officially supports 64-bit Arm (Aarch64) targets appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-e4966b6a93496263</guid>
+      <pubDate>Fri, 07 Aug 2026 03:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/06/esp32-devkit-30-pin-usb-c-case-3dthursday-3dprinting/</link>
+      <description>kmccoy shares: A snap-fit case for the 30-pin ESP32 devkit with USB-C connector, presumably fits similar clone versions. Embossed ‘ESP32’ and USB indicator on the inside, plus ‘EN’ and ‘BOOT’ labels on the top surface near access holes. July 2025 update added a bottom variant with bolt hole for Multiboard or OpenGrid mounting. ‘No text’ […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ec9260afee17b199</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waveshare CM4 Case with GPIO #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/06/waveshare-cm4-case-with-gpio-3dthursday-3dprinting/</link>
+      <description>Shared by Rasmussen on MakerWorld: A redesigned enclosure for the Waveshare CM4 IO board with Raspberry Pi 4 Compute Module, adapted to allow full GPIO connector access. Integrated 40mm fan design blows air across the top, around the sides, and out the bottom for effective cooling. Alternative Pi enclosure form-factor for those running Compute Module […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b7cd38428700460f</guid>
+      <pubDate>Thu, 06 Aug 2026 23:00:33 +0000</pubDate>
+    </item>
     <item>
       <title>LED Lamp Kit – Adjustable Desk Lamp with Magnetic Glare Shield #3DThursday #3DPrinting</title>
       <link>https://blog.adafruit.com/2026/08/06/led-lamp-kit-adjustable-desk-lamp-with-magnetic-glare-shield-3dthursday-3dprinting/</link>
@@ -726,86 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-dcf245f4b807b8ff</guid>
       <pubDate>Mon, 27 Jul 2026 09:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Music Box With A Very Modern Heart</title>
-      <link>https://hackaday.com/2026/07/27/a-music-box-with-a-very-modern-heart/</link>
-      <description>A ballerina music box is a charming ornament, but it remains one that is limited by its mechanism to a very short performance. [ShielaDixon] has one, and decided to make …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-d57ecccb69104ccb</guid>
-      <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scanwheel: A Pocket-Sized POV TV</title>
-      <link>https://hackaday.com/2026/07/26/scanwheel-a-pocket-sized-pov-tv/</link>
-      <description>When you hear the word TV, you probably think of a big LED screen, maybe even the old CRT TVs, but in either case it’s something large and fairly complicated. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-47391e60a5a48264</guid>
-      <pubDate>Mon, 27 Jul 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASA Explains The Science Behind ‘Project Hail Mary’</title>
-      <link>https://blog.adafruit.com/2026/07/26/nasa-explains-the-science-behind-project-hail-mary/</link>
-      <description>NASA separates the science facts from the science fiction in Project Hail Mary. In the science-fiction novel and movie “Project Hail Mary,” the story revolves around the rigors of an astronaut working and surviving during a yearslong mission, the power of deep-space communications, the search for life beyond Earth, and nearby star systems that actually […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9911e7e9104f7934</guid>
-      <pubDate>Sun, 26 Jul 2026 20:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round-Up: Pool Noodle Mace, GameBoy cart hacking &amp; Demofruit: Demoscene for Fruit Jam</title>
-      <link>https://blog.adafruit.com/2026/07/26/adafruit-weekly-editorial-round-up-pool-noodle-mace-gameboy-cart-hacking-demofruit-demoscene-for-fruit-jam/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Pool Noodle Mace […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7cdd5e750697c0c1</guid>
-      <pubDate>Sun, 26 Jul 2026 19:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A computer mouse controlled entirely by your tongue</title>
-      <link>https://blog.adafruit.com/2026/07/26/a-computer-mouse-controlled-entirely-by-your-tongue/</link>
-      <description>Augmental introduced two new accessibility products A lot of the gadgets that get promoted at CES never make it past the concept stage so it’s cool to see this mouth mouse hit the market. Introduced by Augmental at CES 2024, the MouthPad is like a retainer that gives you full cursor control with your tongue. […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2bd7f152a78a2dd8</guid>
-      <pubDate>Sun, 26 Jul 2026 17:34:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes</title>
-      <link>https://www.cnx-software.com/2026/07/26/creality-pika-review-an-affordable-portable-3d-scanner-with-infrared-and-blue-laser-modes/</link>
-      <description>Creality has sent us a sample of the Pika portable 3D scanner for review. In some ways, it shares some of the features of the high-end Sermoon S1 3D scanner, like blue laser and NIR structured light scanning modes, but it’s more affordable and compact, works out of the box through USB or WiFi, and is offered in a design and form factor similar to an action or point-and-shoot camera. In this review, I’ll start by listing the specifications, then go through an unboxing, and test the Pika with an (underpowered) Android phone, before spending more time testing the portable 3D scanner on a powerful mini PC connected to an NVIDIA GeForce RTX 5060 Ti 16GB GPU dock. Pika 3D scanner specifications and host requirements Pika (CRS15CPK) specifications: SoC – Unnamed octa-core processor clocked at 2.0 GHz Display – 3-inch touchscreen display Scanning Modes 7 Parallel Blue Laser Lines Working [...] The post Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-a7d776f02328cc31</guid>
-      <pubDate>Sun, 26 Jul 2026 11:10:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Duplicating Parts Using Silicone Molds</title>
-      <link>https://hackaday.com/2026/07/26/duplicating-parts-using-silicone-molds/</link>
-      <description>[Do As I Do] had a simple task to complete. A couple of small parts needed to be duplicated in some quantity, with good dimensional accuracy and surface finish. There …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b3f75c0bd7aeaf6b</guid>
-      <pubDate>Sun, 26 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delta Pen Plotter Draws In Multiple Colors</title>
-      <link>https://hackaday.com/2026/07/26/delta-pen-plotter-draws-in-multiple-colors/</link>
-      <description>If you’re building your first plotter, or you just like thinking in right angles, you’d probably consider a Cartesian design for your build. [András Vujovits] went another route with his …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-92efd82636ad9629</guid>
-      <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Early Space Weather Warnings with MAGIC</title>
-      <link>https://blog.adafruit.com/2026/07/25/early-space-weather-warnings-with-magic/</link>
-      <description>The MAGIC instrument – the flight instrument that has just been finished and will soon be sent for integration into HENON. It is missing the sensor, which is attached by a wire and will be mounted on a deployable boom. Credit: Harry Lewis/ Imperial College London Licence type: Attribution (CC BY 4.0) via the Royal […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7430222f9bd8766a</guid>
-      <pubDate>Sat, 25 Jul 2026 20:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elegoo’s New H1 HT Filament Dryer Addresses Centauri Carbon 2 Concerns</title>
-      <link>https://www.hackster.io/news/elegoo-s-new-h1-ht-filament-dryer-addresses-centauri-carbon-2-concerns-2343908ebe35</link>
-      <description>The Centauri Carbon 2 has one problem and that is exposed spools. Now Elegoo is launching a solution: the Elegoo H1 HT filament dryer.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-74c240dd7a4201b8</guid>
-      <pubDate>Sat, 25 Jul 2026 18:10:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
