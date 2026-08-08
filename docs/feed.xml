@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 13:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Happy International Cat Day 2026 🌎🐈 #CatsofEngineering #WorldCatDay</title>
+      <link>https://blog.adafruit.com/2026/08/08/happy-international-cat-day-2026-%f0%9f%8c%8e%f0%9f%90%88-catsofengineering-worldcatday/</link>
+      <description>Today is International Cat Day! Every August 8 cats are celebrated globally! Checkout over 165+ Cats of Engineering! If you want to add your feline facilitator visit the “submit a cat” page – CLICK HERE! Make a project with your cat and help from the Adafruit Learning System: Automatic Cat Treat Dispenser Kitty Toe Bean Keypad […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d06278cd6a45a57b</guid>
+      <pubDate>Sat, 08 Aug 2026 13:05:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tim Hunkin’s History Of Arcade Machines</title>
+      <link>https://hackaday.com/2026/08/08/tim-hunkins-history-of-arcade-machines/</link>
+      <description>There was a particular treat at the recent Electromagnetic Field event in the UK, as [Tim Hunkin] delivered a talk on the history of arcade machines. Given that he’s something …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-08256e4e86af2907</guid>
+      <pubDate>Sat, 08 Aug 2026 11:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Want Energy Efficiency? Dude, You’re Getting a Dell!</title>
+      <link>https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/</link>
+      <description>With a title like “Intel Just Matched Apple Silicon. Seriously.“, the latest video from [Jeff Geerling] makes some pretty bold claims. But as we’d expect from [Jeff], he’s got the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-c2b6d1e22333b6d3</guid>
+      <pubDate>Sat, 08 Aug 2026 08:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stop Whining!</title>
+      <link>https://www.hackster.io/news/stop-whining-02f09dc69007</link>
+      <description>Fed up with noisy LED lights? Aaron Shady built an open source controller board to silence that high-pitched dimming whine for good.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-cd45553788c2d178</guid>
+      <pubDate>Fri, 07 Aug 2026 20:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Now the Right Time to Build Your Own Raspberry Pi-Powered Retro Video Game Console #piday #raspberrypi</title>
+      <link>https://blog.adafruit.com/2026/08/07/is-now-the-right-time-to-build-your-own-raspberry-pi-powered-retro-video-game-console-piday-raspberrypi/</link>
+      <description>With modern game prices creeping up, and consoles doing away with physical media, it might be the perfect time to dive into some retro games! Will Greenwald and Jason Cohen at PCMag.com put together this handy guide. It also serves as a good reminder of huge back catalog of classic games waiting to be […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5e94664419a20b48</guid>
+      <pubDate>Fri, 07 Aug 2026 19:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem</title>
+      <link>https://blog.adafruit.com/2026/08/07/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4-2/</link>
+      <description>﻿ Are you subscribed to the Adafruit Youtube channel? If you’re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit Ask […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-30523d31d5328467</guid>
+      <pubDate>Fri, 07 Aug 2026 18:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Get Creative with Robotics Using CRICKIT</title>
       <link>https://blog.adafruit.com/2026/08/07/get-creative-with-robotics-using-crickit/</link>
@@ -758,54 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-eeebe707e61858ef</guid>
       <pubDate>Mon, 27 Jul 2026 21:27:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>MatrixPortal S3 Flight Proximity Tracker #AdafruitLearnGuide</title>
-      <link>https://blog.adafruit.com/2026/07/27/matrixportal-s3-flight-proximity-tracker-adafruitlearnguide/</link>
-      <description>The Flight Proximity Tracker is a project that keeps you in the know about the nearby aerial traffic. This project displays real-time data of nearby aircraft using scrolling text, along with airline icons just like a departure board in an airport! This project uses the Matrix Portal S3 with CircuitPython. The Matrix Portal S3 fetches […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-540a2ccd810da923</guid>
-      <pubDate>Mon, 27 Jul 2026 20:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vivariums, drone shows, and TV kits, all powered by Raspberry Pi</title>
-      <link>https://www.raspberrypi.com/news/vivariums-drone-shows-and-tv-kits-all-powered-by-raspberry-pi/</link>
-      <description>Here are some highlights from the latest batch of third-party products to join the Powered by Raspberry Pi roster. The post Vivariums, drone shows, and TV kits, all powered by Raspberry Pi appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-a32dfa29d8816d05</guid>
-      <pubDate>Mon, 27 Jul 2026 13:33:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32-S31 Now in Mass Production and Available for Purchase</title>
-      <link>https://www.espressif.com/en/news/ESP32_S31_Mass_Production</link>
-      <description>Shanghai, ChinaEspressif Systems (SSE: 688018) announces that its ESP32-S31 has entered mass production and is now available for purchase. Designed for next-generation AIoT applications, ESP32-S31 is a high-performance dual-core RISC-V SoC with comprehensive wireless connectivity, making it ideal for smart home hubs, smart speakers, edge AI devices, industrial automation, and more. ESP32-S31 features a dual-core 32-bit RISC-V CPU running at up to 320 MHz, with one core supporting a 128-bit data path and SIMD instruction set for accelerated computing performance. The chip also integrates a 40 MHz low-power coprocessor, 512 KB of on-chip SRAM, support for high-speed 250 MHz DDR PSRAM expansion, and up to 60 GPIOs. ESP32-S31 integrates Wi-Fi 6 (2.4 GHz), Bluetooth 5.4 (including LE Audio and Classic BR/EDR), IEEE 802.15.4 (Zigbee and Thread), and a Gigabit Ethernet MAC. It also supports Matter over both Wi-Fi and Thread. To support rich human-machine interaction, ESP32-S31 provides interfaces for DVP cameras, multiple LCD display types, and up to 14 capacitive touch channels. Dedicated hardware accelerators (including a JPEG encoder/decoder and a 2D graphics accelerator) help improve multimedia performance, while dual I2S controllers enable hardware-level Bluetooth audio synchronization. ESP32-S31 is fully supported by Espressif's ESP-IDF development framework and is compatible with Espressif's software ecosystem, including ESP-Matter, ESP-GMF, ESP-BLE-MESH, and ESP-BLE-AUDIO. It can also be deployed as a connectivity coprocessor through ESP-Hosted and ESP-AT. ESP32-S31 development boards are now available from the Espressif Official AliExpress Store. Developers can also visit the ESP32-S31 Developer Portal Platform for comprehensive documentation, software resources, example projects, and development tools. For product inquiries or technical support, please contact the Espressif team. We're ready to help you bring your next AIoT product to life. Monday, July 27, 2026 - 19:30New Type: Press ReleaseSticky-on-top: trueNews Status: Hide</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-e5f5116ef0554751</guid>
-      <pubDate>Mon, 27 Jul 2026 11:46:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neighborhood Bulletin Boards, circa 1982</title>
-      <link>https://hackaday.com/2026/07/27/neighborhood-bulletin-boards-circa-1982/</link>
-      <description>When the Internet first started gaining mainstream popularity in the late 90s, many optimists claimed that it would bring people together by reducing barriers to communication. That ideal hasn’t exactly …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b97f5c6e2c09387c</guid>
-      <pubDate>Mon, 27 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module</title>
-      <link>https://www.cnx-software.com/2026/07/27/jetway-smc-ark1-a-rockchip-rk3588-smarc-2-1-compliant-system-on-module/</link>
-      <description>Jetway has introduced the SMC-ARK1, a new SMARC system-on-module built around the Rockchip RK3588 octa-core processor. Designed for embedded computing and edge AI applications, the board includes up to 16GB of LPDDR4x memory and up to 128GB of eMMC flash, dual GbE, and an Ampak AP6398SV Wi-Fi 5 and Bluetooth 5.0 module, alongside a dedicated HDMI input via an I-PEX FPC connector. We’ve previously written about the Geniatech SOM-3568-SMARC module based on the Rockchip RK3568, but Jetway’s SMC-ARK1 appears to be the first SMARC module we’ve seen based on the Rockchip RK3588. The module follows the SMARC 2.1 short form-factor specification (82 × 50 mm) and can be used with compatible SMARC carrier boards. Jetway SMC-ARK1 specifications: SoC – Rockchip RK3588 octa-core processor with CPU – 4x Cortex‑A76 cores @ up to 2.4 GHz, 4x Cortex‑A55 cores @ 1.8 GHz GPU – Arm Mali-G610 MP4 GPU Video decoder – 8Kp60 H.265, VP9, AVS2, 8Kp30 [...] The post Jetway SMC-ARK1 – A Rockchip RK3588 SMARC 2.1 compliant system-on-module appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-89f391561263e04a</guid>
-      <pubDate>Mon, 27 Jul 2026 10:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years</title>
-      <link>https://www.cnx-software.com/2026/07/27/orange-pi-5b-sbc-gets-ubuntu-desktop-and-audio-production-os-images-with-bluetooth-wi-fi-fix-missed-for-8-years/</link>
-      <description>Joshua Riek’s ubuntu-rockchip project helped many run working OS images for their Rockchip SBCs, but due to burnout and lack of support, he decided to step away in late 2024, and the project is now archived. However, that doesn’t mean his efforts have gone to waste. GitHub user defcom5-rockchip forked the project and released two Ubuntu 24.04-based distributions working on the Orange Pi 5B, notably integrating two fixes for the Ampak AP6275P WiFi and Bluetooth module, including one that Cypress apparently already fixed in 2018, but took a while to be integrated into Rockchip OS images. Short description of the two OS images Pi Desktop v1.0-beta – A curated daily-driver desktop: 4K@120 via custom VOP2/dclk kernel work, hardware video decode, zero snaps/telemetry, and “self-healing Bluetooth”: a background service that revives the AP6275P radio wedge in ~10 seconds automatically. Pi Studio v1.3 — the audio-production sibling: low-latency kernel (PREEMPT/1000Hz), Sonic Pi [...] The post Orange Pi 5B SBC gets Ubuntu Desktop and Audio Production OS images with Bluetooth/Wi-Fi fix missed for 8 years appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-dcf245f4b807b8ff</guid>
-      <pubDate>Mon, 27 Jul 2026 09:06:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
