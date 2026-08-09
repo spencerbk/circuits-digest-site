@@ -5,8 +5,40 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Continously Extruding 3D Printed Tubes with Compressed Air</title>
+      <link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link>
+      <description>[Jan] of [Roetz 4.0] has a unique approach to multi-material 3D printing: he’s designed an extruder which takes two different materials and extrudes one as a shell around the other. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-aefe368789d85d67</guid>
+      <pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whatever Happened to the Computer of Tomorrow, Anyway? The Xerox Alto Story</title>
+      <link>https://hackaday.com/2026/08/09/whatever-happened-to-the-computer-of-tomorrow-anyway-the-xerox-alto-story/</link>
+      <description>You’ve almost certainly heard of the Xerox Alto, the machine that pioneered the desktop-mouse-keyboard interface and inspired Steve Jobs to produce the Apple Lisa and Macintosh computers. It wasn’t just …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-c0a0e396f9bfd488</guid>
+      <pubDate>Sun, 09 Aug 2026 08:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging</title>
+      <link>https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/</link>
+      <description>Makerfabs MaTouch ESP32-S3 MaUWB is a development board that combines an ESP32-S3 wireless MCU, a 3.95-inch touchscreen display, and a UWB module for indoor positioning and ranging applications. The board can be used as a portable positioning terminal. It uses a trilateration algorithm with up to three fixed UWB anchors to calculate the tag’s coordinates in real time. The MaUWB chipset operates on UWB Channel 5 (6489.6 MHz) and supports up to 8 anchors and 64 tags. For portable use, the board includes a LiPo battery connector, charging circuit, and battery level monitoring. MaTouch ESP32-S3 MaUWB specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Antenna – PCB antenna Storage – MicroSD card slot for local data [...] The post MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-f78e6d47c23a3b68</guid>
+      <pubDate>Sun, 09 Aug 2026 03:41:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit New Products 8/07/2026</title>
+      <link>https://blog.adafruit.com/2026/08/08/adafruit-new-products-7-07-2026-2/</link>
+      <description>We’ve got the New nEw NEW for you right here This week we debuted 2 New Products. Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special offers, […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5dd285e1c1ad6ea9</guid>
+      <pubDate>Sat, 08 Aug 2026 20:30:32 +0000</pubDate>
+    </item>
     <item>
       <title>Happy International Cat Day 2026 🌎🐈 #CatsofEngineering #WorldCatDay</title>
       <link>https://blog.adafruit.com/2026/08/08/happy-international-cat-day-2026-%f0%9f%8c%8e%f0%9f%90%88-catsofengineering-worldcatday/</link>
@@ -774,38 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-9bdccf3edf5d32d1</guid>
       <pubDate>Tue, 28 Jul 2026 08:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors</title>
-      <link>https://www.cnx-software.com/2026/07/28/lilygo-t-display-c5-board-features-1-9-inch-ips-color-lcd-battery-support-qwiic-expansion-connectors/</link>
-      <description>LILYGO T-Display C5 is an ESP32-C5 board with a 1.9-inch IPS color LCD, a USB-C port for power and programming, Lithium battery support, and GPIO expansion via headers and two Qwiic expansion connectors. The main benefit of using an ESP32-C5 chip is support for dual-band WiFi 6 connectivity (2.4/5.0 GHz), and it also keeps Bluetooth LE 5.x and the 802.15.4 radio for Zigbee/Thread/Matter found in the ESP32-C6. LILYGO T-Display C5 specifications: Wireless module – Espressif Systems ESP32-WROOM-C5-1U-N16R8 SoC – ESP32-C5HR8 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip, 8MB PSRAM Storage – 320 KB ROM Wireless Connectivity Dual-band (2.4GHz/5 GHz) 802.11ax WiFi 6, with 802.11b/g/n WiFi 4 standard fallback Bluetooth 5.0 Low Energy (LE) 802.15.4 radio for Zigbee 3.0 and Thread 1.3 Storage – 16MB flash Antenna – [...] The post LILYGO T-Display C5 board features 1.9-inch IPS color LCD, battery support, Qwiic expansion connectors appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-ce76e435abf18044</guid>
-      <pubDate>Tue, 28 Jul 2026 04:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scanwheel Recreates the Spirit of Mechanical Television in a Tiny Spinny Package</title>
-      <link>https://www.hackster.io/news/scanwheel-recreates-the-spirit-of-mechanical-television-in-a-tiny-spinny-package-1626dd47ba73</link>
-      <description>James Brown (AKA “Ancient”) embraced the bizarre and built this very unique modern interpretation of the mechanical television.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d34d877cc986b7d4</guid>
-      <pubDate>Tue, 28 Jul 2026 01:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>FreeCAD e‑sport speed run challenge at EMF camp 2026</title>
-      <link>https://blog.adafruit.com/2026/07/27/freecad-e-sport-speed-run-challenge-at-emf-camp-2026/</link>
-      <description>EMF Camp has recently taken place in the UK. This, every two year, festival/hacker camp sees around 4000 people descend on the grounds of Eastnor Castle UK. It’s an amazing event with all manner of talks, art installations, workshops and indeed partying in Null Sector. Amongst all this the fabulous Chia, Kliment and Carston pulled together an amazing […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d077b1a70be7f51b</guid>
-      <pubDate>Mon, 27 Jul 2026 21:40:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32-S31 now in mass production and available for purchase</title>
-      <link>https://blog.adafruit.com/2026/07/27/esp32-s31-now-in-mass-production-and-available-for-purchase/</link>
-      <description>Espressif Systems (SSE: 688018) announces that its ESP32-S31 has entered mass production and is now available for purchase. Designed for next-generation AIoT applications, ESP32-S31 is a high-performance dual-core RISC-V SoC with comprehensive wireless connectivity, making it ideal for smart home hubs, smart speakers, edge AI devices, industrial automation, and more. ESP32-S31 features a dual-core 32-bit […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-eeebe707e61858ef</guid>
-      <pubDate>Mon, 27 Jul 2026 21:27:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
