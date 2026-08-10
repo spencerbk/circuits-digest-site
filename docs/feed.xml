@@ -5,8 +5,48 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Curiously minty Raspberry Pi Zero cyberdeck</title>
+      <link>https://www.raspberrypi.com/news/curiously-minty-raspberry-pi-zero-cyberdeck/</link>
+      <description>Marrying the Raspberry Pi community's enduring love for cyberdecks and building tiny projects inside Altoids tins. The post Curiously minty Raspberry Pi Zero cyberdeck appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-680aacea0e521ac5</guid>
+      <pubDate>Mon, 10 Aug 2026 12:52:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Triggering Lightning with a Rocket</title>
+      <link>https://hackaday.com/2026/08/10/triggering-lightning-with-a-rocket/</link>
+      <description>Lightning, despite being a common and readily-detected phenomenon, is nevertheless difficult to study. One reason is the difficulty of predicting when and where lightning will strike; tall structures do attract …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-8f71c1791b33efc8</guid>
+      <pubDate>Mon, 10 Aug 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port</title>
+      <link>https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/</link>
+      <description>Over the years, we have seen several tiny “omu” USB boards that share this “fits-in-a-USB-port” form factor. It started with the Tomu, based on a Silicon Labs EFM32 Cortex-M0+, followed by the Fomu with a Lattice iCE40 FPGA, Qomu with an EOS S3 Cortex-M4F MCU and FPGA, and the Somu, a tiny FIDO2 security key. Icy Electronics has now introduced Comu, another tiny development board based on the 144 MHz WCH CH32V203 RISC-V MCU. While measuring just 13 x 9.4 mm (slightly smaller than a microSD card), the board still packs two white LEDs, four capacitive touch buttons, and six GPIOs exposed through test pads. It is designed for bare-metal programming, custom USB HID projects, and USB packet experimentation. Comu specifications: MCU – WCH CH32V203V203F8 CPU – Single-core 32-bit RISC-V clocked at 144MHz Memory – 20KB SRAM Storage – 224KB Flash (64KB of 0-wait Flash and 160KB of normal Flash) [...] The post Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-49fe4e1923f8cb6f</guid>
+      <pubDate>Mon, 10 Aug 2026 04:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Weekly Editorial Round Up: Fruit Jam Library – Buttons, Hacking the Teenage Engineering EP-2350 Ting, NeoPixel LED Dress Tutorial and more!</title>
+      <link>https://blog.adafruit.com/2026/08/09/adafruit-weekly-editorial-round-up-fruit-jam-library-buttons-hacking-the-teenage-engineering-ep-2350-ting-neopixel-led-dress-tutorial-and-more/</link>
+      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. John Park’s CircuitPython Parsec: Fruit […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-19ca67dd4577ab09</guid>
+      <pubDate>Sun, 09 Aug 2026 21:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making a 16×2 LCD 7 Times Bigger</title>
+      <link>https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/</link>
+      <description>UncleStem leveled, er, scaled up 7 times in this video on YouTube: Instead of trying to manufacture a real liquid crystal display, I replaced every LCD pixel with an individually controllable LED and designed custom PCBs to recreate the original 16×2 layout. We’ve got a handful of tradionally sized 16×2 LCDs here and guides too! […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2a7eb6692a123a46</guid>
+      <pubDate>Sun, 09 Aug 2026 14:00:46 +0000</pubDate>
+    </item>
     <item>
       <title>Continously Extruding 3D Printed Tubes with Compressed Air</title>
       <link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link>
@@ -766,46 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-84f178aac88cdafc</guid>
       <pubDate>Tue, 28 Jul 2026 20:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>FreeBSD Just Removed the Last of its GPL-Licensed Code</title>
-      <link>https://hackaday.com/2026/07/28/freebsd-just-removed-the-last-of-its-gpl-licensed-code/</link>
-      <description>With a recent change that removed dialog in favor of bsddialog, FreeBSD has now retired the last piece of GPL-licensed code in its base system. Although the impact of this …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-8fc68d3d45712edd</guid>
-      <pubDate>Tue, 28 Jul 2026 11:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support</title>
-      <link>https://www.cnx-software.com/2026/07/28/dfi-x6x-orn-an-ip67-rated-rugged-jetson-orin-nx-nano-edge-ai-computer-with-gmsl2-camera-support/</link>
-      <description>The DFI X6X-ORN is a fanless, IP67-rated Edge AI computer powered by the NVIDIA Jetson Orin NX/Nano. It is designed for extreme outdoor and industrial environments in maritime, agriculture, construction, and intelligent transportation applications. The system fully relies on rugged M12 and M20 circular waterproof connectors for all its I/O, including PoE and GMSL2 camera interfaces. It delivers up to 157 TOPS of AI performance when equipped with the Jetson Orin NX 16GB module, complies with MIL-STD-810H shock and vibration standards, and supports an operating temperature range of -20°C to 60°C. DFI X6X-ORN specifications: SoM – NVIDIA Jetson Orin NX/Nano module Jetson Orin NX 16GB – Up to 157 TOPS, 16GB LPDDR5, 10W/15W/25W/ 40W power modes Jetson Orin NX 8GB – Up to 117 TOPS, 8GB LPDDR5, 10W/15W/25W/40W power modes Jetson Orin Nano 8GB – Up to 67 TOPS, 8GB LPDDR5, 7W/10W/25W power modes Jetson Orin Nano 4GB – Up [...] The post DFI X6X-ORN – An IP67-rated, rugged Jetson Orin NX/Nano edge AI computer with GMSL2 camera support appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-71c454d53cf26d80</guid>
-      <pubDate>Tue, 28 Jul 2026 10:27:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bringing the global Bebras community together in Cambridge</title>
-      <link>https://www.raspberrypi.org/blog/bringing-the-global-bebras-community-together-in-cambridge/</link>
-      <description>On 10–15 May, we welcomed the global Bebras community to Cambridge, UK for the 22nd Bebras International Task Workshop. As organisers of the UK Bebras Challenge, we hosted this year’s annual Task Workshop, bringing together Bebras organisers, educators, and researchers from around the world to review and refine the computational thinking tasks in preparation for… The post Bringing the global Bebras community together in Cambridge appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-1ea0950fbe7e972b</guid>
-      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE</title>
-      <link>https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/</link>
-      <description>Waveshare RP2350-POE-ETH is a Raspberry Pi RP2350 board with Ethernet implemented through a W6300 chip, support for optional PoE (Power-over-Ethernet), and two GPIO headers. We had covered a few Raspberry Pi RP2350 boards with Ethernet from WIZNet, including the W5100S-EVB-Pico2, W5500-EVB-Pico2, and W6300-EVB-Pico2, but none were advertised with PoE at the time. Since then, the 4-pin WizPOE-P1 module changes that, and the Waveshare RP2350-POE-ETH board offers a more affordable option. Waveshare RP2350-POE-ETH specifications: Microcontroller – Raspberry Pi RP2350A CPU Dual-core Arm Cortex-M33 processor @ 150 MHz Dual-core 32-bit RISC-V Hazard3 @ 150 MHz Up to two cores can be used at a time, either 2x Arm, 2x RISC-V, or 1x Arm + 1x RISC-V Memory – 520KB internal RAM Storage – 8KB OTP Storage Storage – 16Mbit SPI NOR flash Ethernet 10/100Mbps Ethernet RJ45 port via WIZnet W6300 “iEthernet” chip 6-pin PoE connector for optional module USB – USB 1.1 C-Type [...] The post Waveshare RP2350-POE-ETH – A Raspberry Pi RP2350 MCU board with PoE appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c959632dd6886977</guid>
-      <pubDate>Tue, 28 Jul 2026 08:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Orphaned Sources At The Hacker Camp: What Happened Next</title>
-      <link>https://hackaday.com/2026/07/28/the-orphaned-sources-at-the-hacker-camp-what-happened-next/</link>
-      <description>At the 2024 Electromagnetic Field event in the UK, some awkward items turned up at the swap meet: radioactive sources. Fortunately there was [Tryst] at hand, who works in the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9bdccf3edf5d32d1</guid>
-      <pubDate>Tue, 28 Jul 2026 08:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
