@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Coldcard postmortem from MicroPython’s perspective</title>
+      <link>https://blog.adafruit.com/2026/08/11/the-coldcard-postmortem-from-micropythons-perspective/</link>
+      <description>Damien George, MicroPython’s creator, writes on the MicroPython discussion on GitHub: Coldcard is a Bitcoin hardware wallet, and it’s firmware is built using MicroPython. (Trezor is another hardware wallet also using MicroPython, but it’s not relevant here and not discussed further.) Recently a vulnerability in the Coldcard firmware was exploited to steal over $100M worth […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a781c7dbe33f78c6</guid>
+      <pubDate>Tue, 11 Aug 2026 13:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alignment-Flipping Liquid-Crystal Ink Delivers 3D-Printable Programmable, Flexible Soft Actuators</title>
+      <link>https://www.hackster.io/news/alignment-flipping-liquid-crystal-ink-delivers-3d-printable-programmable-flexible-soft-actuators-f50b790cd9a1</link>
+      <description>New material adjusts molecular orientation on-demand, and could find a home in wearables, medical tools, soft robotics, and more.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d15f0afaab6e40c2</guid>
+      <pubDate>Tue, 11 Aug 2026 12:14:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running DOOM on a Cheap 104-in-One Handheld</title>
+      <link>https://hackaday.com/2026/08/11/running-doom-on-a-cheap-104-in-one-handheld/</link>
+      <description>Taking a break from putting DOOM on devices that absolutely were never conceived for use as gaming devices, [Aaron Christophel] recently got enticed by some cheapo handheld gaming systems at …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-8acc4400b4c8e21e</guid>
+      <pubDate>Tue, 11 Aug 2026 11:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating the community: Douglas and Oasis Mathare</title>
+      <link>https://www.raspberrypi.org/blog/celebrating-the-community-douglas-and-oasis-mathare/</link>
+      <description>We love hearing from members of the community and sharing the stories of amazing young people, volunteers, and educators who are using their passion for technology to create positive change in the world around them. Last year, we shared the story of Douglas, founder and director of Oasis Mathare, an organisation using technology to open… The post Celebrating the community: Douglas and Oasis Mathare appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-8a6329b0ef053e79</guid>
+      <pubDate>Tue, 11 Aug 2026 10:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>GEEKOM IT13 Max review – Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026)</title>
+      <link>https://www.cnx-software.com/2026/08/11/geekom-it13-max-review-part-2-an-intel-core-ultra-9-185h-mini-pc-tested-with-windows-11-pro-in-2026/</link>
+      <description>We previously checked out the hardware of the GEEKOM IT13 Max mini PC with an unboxing and a teardown of the 16-core Intel Core Ultra 9 185H mini PC in the first part of the review, before booting it up to Windows 11 Pro. We’ve now had time to test it in more detail. So we will report our experience with the GEEKOM IT13 Max on Windows 11 Pro, covering feature testing, system performance benchmarks, AI benchmarks, YouTube 4K and 8K video playback in Firefox, 2.5GbE and Wi-Fi 6 network performance testing, and thermal performance, as well as measurements of fan noise and power consumption. Since we had already reviewed the GEEKOM GT1 Mega mini PC with the same Intel Meteor Lake CPU in 2024, we’ll compare the results to report any improvements or regressions since then. Software Overview and Feature Testing The System-&gt;About window confirms we have an “IT13_Max” [...] The post GEEKOM IT13 Max review – Part 2: An Intel Core Ultra 9 185H mini PC tested with Windows 11 Pro (in 2026) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-a498e68887d748cc</guid>
+      <pubDate>Tue, 11 Aug 2026 10:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>PewCB One Desktop PCB fabrication system enables rapid prototyping at home</title>
+      <link>https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/</link>
+      <description>PewCB One is a desktop PCB prototyping system designed to accelerate hardware development by manufacturing PCBs at home or in the office in a few hours or less, instead of waiting days for a PCB to come back from the factory. Unlike desktop fabrication methods that rely on chemical processing, the PewCB One is more akin to a fully enclosed laser engraver housed with an integrated air filtration system. Users can perform the full process from double-sided PCB blanks to a complete PCBA at home. PewCB One highlights: Laser Wavelength – 1064 nm Average optical power – 20 W Pulse duration – ~100 ns Spot diameter – 35 μm PCB Blanks Double-sided PCB blanks with vias and plated through-holes Made of copper-clad alumina and zirconia ceramics Dimensions – 23 x 23mm to 84 x 80 mm PCB traces – As low as 0.1mm; formed using laser ablation, a process that removes [...] The post PewCB One Desktop PCB fabrication system enables rapid prototyping at home appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3d8b64c83917b094</guid>
+      <pubDate>Tue, 11 Aug 2026 04:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICYMI Python on Microcontrollers Newsletter: MicroPython for the bao, CircuitPython Day Soon, Coldcard and More!</title>
+      <link>https://blog.adafruit.com/2026/08/10/icymi-python-on-microcontrollers-newsletter-micropython-for-the-bao-circuitpython-day-soon-coldcard-and-more/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,386 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-829a8f426392cfe3</guid>
+      <pubDate>Mon, 10 Aug 2026 21:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ProvenMetal makes PCBs fast</title>
+      <link>https://blog.adafruit.com/2026/08/10/provenmetal-makes-pcbs-fast/</link>
+      <description>ProvenMetal claim is they makes printed circuit boards (PCB) fast. Speed is our middle name. You ship hardware on a clock. 4 weeks ain’t cuttin it. We do it better. Boards back in as few as five days, or slower and cheaper when the schedule allows. You pick. Fast, and we can prove it. We […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-949a385944978e26</guid>
+      <pubDate>Mon, 10 Aug 2026 20:36:55 +0000</pubDate>
+    </item>
     <item>
       <title>Curiously minty Raspberry Pi Zero cyberdeck</title>
       <link>https://www.raspberrypi.com/news/curiously-minty-raspberry-pi-zero-cyberdeck/</link>
@@ -742,70 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-31f6ba7e8f00d097</guid>
       <pubDate>Wed, 29 Jul 2026 11:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200×1200 or 800×800 resolution</title>
-      <link>https://www.cnx-software.com/2026/07/29/7-6-inch-square-hdmi-displays-with-usb-capacitive-touchscreen-offered-at-1200x1200-or-800x800-resolution/</link>
-      <description>VIEWE UEDX12120076-HMD-RB-A and UEDX80800076-HMD-RB-A are 7.6-inch square HDMI capacitive touch displays with 1200×1200 and 800×800 resolution, respectively. We had previously seen 4-inch square HDMI +USB touch displays with 720×720 resolution for Raspberry Pi or other SBCs, but if you need something larger, VIEWE has now launched 7.6-inch variants with higher resolutions. VIEWE UEDX12120076-HMD-RB-A/UEDX80800076-HMD specifications: Display 7.6-inch MIPI DSI square IPS display Resolution UEDX80800076-HMD-RB-A – 800 x 800 UEDX12120076-HMD-RB-A – 1200 x 1200 Display driver ILI9881C for UEDX80800076-HMD-RB-A Potentially HX8279 for UEDX12120076-HMD-RB-A Brightness – 1,000 cd/㎡ Active area – 135.36 x 135.36 mm Touchscreen – Optional 5-point capacitive touchscreen via USB-C port (likely FT6336U touch IC) Video Input Mini HDMI 1.4 ITE HDMI input to MIPI DSI bridge based on the blurry photo of the controller. USB – USB-C port for power and touchscreen Misc – LED lifetime: 30,000 hours Power Supply – 5V via USB-C port Dimensions – 148.24 x [...] The post 7.6-inch square HDMI displays with USB capacitive touchscreen offered at 1200×1200 or 800×800 resolution appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-9fd43d39c4e758b9</guid>
-      <pubDate>Wed, 29 Jul 2026 10:06:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-IDF User Guide for ESP32-C3, SDK v5.2.7</title>
-      <link>https://www.espressif.com/en/node/11069</link>
-      <description>Language English ESP32-C3The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v5.2.7Wednesday, May 20, 2026https://docs.espressif.com/projects/esp-idf/en/v5.2.7/esp32c3/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-58383a24c9e91edf</guid>
-      <pubDate>Wed, 29 Jul 2026 09:48:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-IDF User Guide for ESP32-C6, SDK v5.5.3</title>
-      <link>https://www.espressif.com/en/node/11067</link>
-      <description>Language English ESP32-C6The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v5.5.3Tuesday, February 24, 2026https://docs.espressif.com/projects/esp-idf/en/v5.5.3/esp32c6/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-7e30cf4a463d871f</guid>
-      <pubDate>Wed, 29 Jul 2026 09:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a Portable Weather Radar</title>
-      <link>https://hackaday.com/2026/07/29/building-a-portable-weather-radar/</link>
-      <description>If you run a large meteorology bureau, then you probably have access to a wonderful weather radar for scrying the heavens. The rest of us aren’t so lucky. If you …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-94824eec48c94195</guid>
-      <pubDate>Wed, 29 Jul 2026 08:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amateur Scientist: Measure the Height of the Ozone Layer</title>
-      <link>https://makezine.com/projects/amateur-scientist-measure-the-height-of-the-ozone-layer/</link>
-      <description>Earth’s atmospheric “sunscreen,” the ozone layer, is vital to life. Find its peak altitude with this DIY instrument. The post Amateur Scientist: Measure the Height of the Ozone Layer appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-37202581a4c20238</guid>
-      <pubDate>Tue, 28 Jul 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PicoJig: control peripherals (GPIO, ADC, UART, SPI, I2C, PWM) of a Raspberry Pi Pico / Pico W from a Windows PC via USB or WiFi  @raspberry_pi</title>
-      <link>https://blog.adafruit.com/2026/07/28/picojig-control-peripherals-gpio-adc-uart-spi-i2c-pwm-of-a-raspberry-pi-pico-pico-w-from-a-windows-pc-via-usb-or-wifi-raspberry_pi/</link>
-      <description>PicoJig / PicoJig-WL allows you to control the peripherals (GPIO, ADC, UART, SPI, I2C, PWM) of a Raspberry Pi Pico or Pico W from a Windows PC via USB or WiFi. It consists of firmware, a PC application, and a library. Main Features Two Connection Modes: USB Mode: Control via Virtual COM port (Supports both Pico […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9177f57f98ce6896</guid>
-      <pubDate>Tue, 28 Jul 2026 21:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>The SPOKE Board – The Raspberry Pi Official Magazine, Issue 167 @rpimagazine</title>
-      <link>https://blog.adafruit.com/2026/07/28/the-spoke-board-the-raspberry-pi-official-magazine-issue-167-rpimagazine/</link>
-      <description>The Raspberry Pi Official Magazine – Issue 167 looks at the SPOKE board, using an RP2040 microcontroller running CircuitPython. …the SPOKE could easily be mistaken for an album by a 1990s indie band. The main difference is that it has 27 holes around its perimeter, each surrounded by a copper oval: these are capacitive touch […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a24ab9cfac44d7e5</guid>
-      <pubDate>Tue, 28 Jul 2026 20:08:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind the Scenes with Walter Wick at the High Museum of Art</title>
-      <link>https://blog.adafruit.com/2026/07/28/behind-the-scenes-with-walter-wick-at-the-high-museum-of-art/</link>
-      <description>Calling all 90s kids who have ever sat in a waiting room, laundromat, or in the back of a car during a road trip with an I SPY book! The High Museum of Art in Atlanta will be hosting a conversation with Walter Wick this September. The I SPY! Walter Wick’s Hidden Wonders exhibition will […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-84f178aac88cdafc</guid>
-      <pubDate>Tue, 28 Jul 2026 20:00:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
