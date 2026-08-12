@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Forlinx Embedded Targets Reliable Industrial Automation with New TI AM62L32-Powered SBC</title>
+      <link>https://www.hackster.io/news/forlinx-embedded-targets-reliable-industrial-automation-with-new-ti-am62l32-powered-sbc-2fa969b0a2c3</link>
+      <description>Evaluation board includes easy access to a wide range of peripherals plus an industrial-grade temperature rating for improved reliability.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-4b8ae720c83a11de</guid>
+      <pubDate>Wed, 12 Aug 2026 11:49:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Lidar Sensor Could Check Electric Cars for Gas Leaks, Temperature, and More, Researchers Say</title>
+      <link>https://www.hackster.io/news/a-new-lidar-sensor-could-check-electric-cars-for-gas-leaks-temperature-and-more-researchers-say-3ff65bf801f9</link>
+      <description>Rather than just scanning for depth information, a new lidar developed at the Harbin Institute of Technology acts as a multi-modal sensor.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-45f7899d8885ce3d</guid>
+      <pubDate>Wed, 12 Aug 2026 11:15:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 KB Solitaire Fits in QR-Code, Runs in DOS</title>
+      <link>https://hackaday.com/2026/08/12/3-kb-solitaire-fits-in-qr-code-runs-in-dos/</link>
+      <description>In these days of hundred-gigabyte-and-more monster games, it can be nice to stop and remember what a human can do with assembly language and very, very little storage space. In …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-33e3c790023520c5</guid>
+      <pubDate>Wed, 12 Aug 2026 11:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules</title>
+      <link>https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/</link>
+      <description>Apollo Automation’s ESPHome Starter Kit is the first official ESPHome starter kit designed and engineered by Apollo Automation in partnership with the Open Home Foundation. It features the ESPHome C6 board with the ESP32-C6-MINI-1 wireless module and two FPC expansion connectors for four modules part of the kit for PIR motion, temperature, and humidity sensing, as well as a button, a buzzer, and ten RGB LEDs. ESPHome Starter Kit highlights and specifications: Main board – ESPHome C6 Board Wireless Module – ESP32-C6-MINI-1 with 2.4GHz Wi-Fi 6, Bluetooth LE, and Thread/Zigbee connectivity Expansion – 2x 14-pin FPC connectors Misc Reset and Boot buttons RGB LED Power Supply 5V via USB-C port Optional rechargeable LiPo battery Dimensions – TBD Modules MH-SR602 PIR motion module with 0 to 3.5 m range AHT20F temperature and humidity module with ±0.3 °C and ±2% RH accuracy 10x RGB LEDs and a piezo buzzer via ESPHome Casita [...] The post Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-506a56e4c794dbb6</guid>
+      <pubDate>Wed, 12 Aug 2026 10:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC</title>
+      <link>https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/</link>
+      <description>Forlinx Embedded AM62L32 Local EVM is a low-power industrial SBC built around the Texas Instruments AM62L32 Arm Cortex-A53/M4 hybrid SoC. It is designed for industrial control, IoT gateways, edge computing, embedded HMI, smart security, and other applications. What’s interesting about this board is that it uses a 4-layer integrated PCB design instead of a separate SoM and carrier board configuration that we found on other development platforms like the Calixto Systems AM62L STAMP SOM and iWave Systems AM62Lx SBC. Forlinx AM62L32 Local EVM specifications: SoC – Texas Instruments Sitara AM62L32 dual-core Arm Cortex-A53 processor @ 1.25GHz Memory – 512MB LPDDR4 (Industrial-grade original Winbond W66CP6RBHAGJ) Storage 8GB eMMC flash OSPI Flash (Winbond W25Q128JWSIQ) MicroSD card slot supporting the SD 3.0 protocol Unpopulated OSPI Octal Serial Peripheral footprint GPMC (General-Purpose Memory Controller) Display 4-lane MIPI-DSI up to 1080p60 18-bit RGB (RGB666) LCD interface (multiplexed with GPIO/SPI/I2C) PWM routed for LCD backlight adjustment [...] The post Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d8801ea86468c76e</guid>
+      <pubDate>Wed, 12 Aug 2026 09:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263</title>
+      <link>https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/</link>
+      <description>MINISFORUM Elite Mini M2 Air-304 is a barebone mini PC powered by an Intel Core 3 304 Wildcat Lake penta-core processor with a DDR5 SO-DIMM slot and an M.2 PCIe Gen4 x4 socket for NVMe SSD storage. There’s currently a limited number of Wildcat Lake mini PCs which you can purchase or pre-order, such as the Beelink EQi Wildcat Lake and the BOSGAME E6 Eco. These are ready to use out of the box with memory, storage, and Windows 11 pre-loaded. The MINISFORUM model is the first Wildcat Lake barebone mini PC we’ve seen, where users can bring their own memory, storage, and OS. MINISFORUM Elite Mini M2 Air-304 specifications: SoC – Intel Core 3 304 “Wildcat Lake” 5-core CPU – 1x P-core @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache – 6MB L3 cache GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) [...] The post MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-891729aa5b1b5a52</guid>
+      <pubDate>Wed, 12 Aug 2026 01:42:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>JP’s Product Pick of the Week — 6pm Eastern TODAY! 8/11/26 @adafruit #adafruit #newproductpick</title>
+      <link>https://blog.adafruit.com/2026/08/11/jps-product-pick-of-the-week-6pm-eastern-today-8-11-26-adafruit-adafruit-newproductpick/</link>
+      <description>Come on by for JP’s Product Pick of The Week ! A new product pick will be revealed. The show airs at 4pm ET / 1pm PT Check out the livestream right here inside this product page you won’t want to miss it because there will be a BIG DISCOUNT during the show! Tune in […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-939801267a9295f6</guid>
+      <pubDate>Tue, 11 Aug 2026 19:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wi-Fi Enabled Pico-Powered Neopixel Art Display #ArtTuesday</title>
+      <link>https://blog.adafruit.com/2026/08/11/wi-fi-enabled-pico-powered-neopixel-art-display-arttuesday/</link>
+      <description>Created by TheFargo on GitHub, The Blossom is an open-source hardware project built around the Raspberry Pi Pico 2W and a NeoPixel ring. It is part art project and part learning tool, the guide is intended to help advance burgeoning makers. Thanks for sharing!! Blossom is a standalone interactive art piece that connects to your […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a989ecef6210a65c</guid>
+      <pubDate>Tue, 11 Aug 2026 18:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are You Playa Ready? Burning Man Begins Sunday August 30 2026! #BurningMan2026 #AxisMundi</title>
+      <link>https://blog.adafruit.com/2026/08/11/are-you-playa-ready-burning-man-begins-sunday-august-30-2026-burningman2026-axismundi/</link>
+      <description>Black Rock City’s theme for 2026 is Axis Mundi – Stay connected and centered as you get making! Burning Man 2026 in Black Rock City and beyond will celebrate the interconnectedness of our global community, the new social realities we are creating together, and our enduring ties to the natural world. Creative interpretations of the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4470eb5694f843a5</guid>
+      <pubDate>Tue, 11 Aug 2026 18:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mastering edge AI on Raspberry Pi with LiteRT and Gemma</title>
+      <link>https://www.raspberrypi.com/news/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/</link>
+      <description>Our friends at Google have been busy working on improving LiteRT performance on the Raspberry Pi platform. The post Mastering edge AI on Raspberry Pi with LiteRT and Gemma appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-64e854f75056c9b3</guid>
+      <pubDate>Tue, 11 Aug 2026 15:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Coldcard postmortem from MicroPython’s perspective</title>
       <link>https://blog.adafruit.com/2026/08/11/the-coldcard-postmortem-from-micropythons-perspective/</link>
@@ -726,86 +806,6 @@
       <category>raspberry-pi</category>
       <guid isPermaLink="false">circuits-e20e70fc1589af08</guid>
       <pubDate>Thu, 30 Jul 2026 17:38:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jimothy #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/30/jimothy-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Jimothy By NateStormArt makerworld.com/en/models/3069661-jimothy-running Bambu X1C PolyMaker PLA 14hr 25mins X:99 Y:77 Z:77mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 34g 230mm/s Every Thursday is #3dthursday here at […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c7414f382425f6ec</guid>
-      <pubDate>Thu, 30 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Spider-Inspired Robot Built to Save Drowning Victims</title>
-      <link>https://www.hackster.io/news/a-spider-inspired-robot-built-to-save-drowning-victims-484b311d0233</link>
-      <description>QuadBoat is a spider-inspired robot built to locate, retrieve, and transport drowning victims to safety when every second counts.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-b330de7aed48413a</guid>
-      <pubDate>Thu, 30 Jul 2026 12:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bambu Lab LED Kit 001 Zen Lamp – Organic Wave Diffuser #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/30/bambu-lab-led-kit-001-zen-lamp-organic-wave-diffuser-3dthursday-3dprinting/</link>
-      <description>cipriani3design shares: A serene Japandi-aesthetic lamp with a flowing wave texture inspired by folded paper and moving water. 100% support-free print. Bambu LED Kit 001 slot integrated into the base. PLA (white, translucent, or natural) recommended for best light diffusion. By Cipriani 3Design Studio download the files on: https://makerworld.com/en/models/2285863-bambu-lab-led-kit-001-zen-lamp-cipriani-3design Every Thursday is #3dthursday here at […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-cc6ddb8abc889ab4</guid>
-      <pubDate>Thu, 30 Jul 2026 12:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Espressif Systems 2026 Q2 &amp; Half-Year Report</title>
-      <link>https://www.espressif.com/en/content/espressif-systems-2026-q2-half-year-report</link>
-      <description>Language English Report: Espressif Systems 2026 Q2 &amp; Half-Year Report.pdfRelease Date: Thursday, July 30, 2026Responsibility Report: falseReport Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-44cfef9db5f2ce33</guid>
-      <pubDate>Thu, 30 Jul 2026 11:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-KVM – An open-source IP KVM solution based on ESP32-P4 RISC-V MCU</title>
-      <link>https://www.cnx-software.com/2026/07/30/esp-kvm-an-open-source-ip-kvm-solution-based-on-esp32-p4-risc-v-mcu/</link>
-      <description>Earlier this month, the P4 KVM project was brought to my attention. It provides IP KVM functionality to a Waveshare ESP32-P4-WIFI6-POE-ETH board when paired with a Toshiba TC358743 HDMI-to-CSI adapter. However, it doesn’t work with the new ESP32-P4 V3.x variants featuring a proper H.264 video encoding implementation, and the developer (Jonathan Rowny) says it’s just a proof-of-concept with many bugs and no security, so I decided to skip it. The good news is that he also encouraged others to fork the project, and Evgenij Spitsyn did just that with the release of the ESP-KVM project, which supports both MJPEG and H.264 encoding and a range of other features. ESP-KVM highlights: Video capture, resolution changes, and MJPEG or H.264 encoding Keyboard, absolute and relative pointer, media keys, copy/paste Touch mode for phones and tablets (trackpad, on-screen keyboard) Multiple viewers, one in control at a time with takeover HTTPS, login, physical password [...] The post ESP-KVM – An open-source IP KVM solution based on ESP32-P4 RISC-V MCU appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c7b88d638f4df40d</guid>
-      <pubDate>Thu, 30 Jul 2026 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>RC Telemetry Board Lets Virtual Crewmember Help You Race Better</title>
-      <link>https://hackaday.com/2026/07/30/rc-telemetry-board-lets-virtual-crewmember-help-you-race-better/</link>
-      <description>Logging and telemetry in remote controlled racing is a great thing, and not only does [jwachlin]’s Open RC Spotter do a fantastic job of that, it has quite a few …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-17ef335bbf4b2065</guid>
-      <pubDate>Thu, 30 Jul 2026 11:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sci-Fi Corridor Tiles – Corner Pieces with OpenLock Base #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/30/sci-fi-corridor-tiles-corner-pieces-with-openlock-base-3dthursday-3dprinting/</link>
-      <description>Remix by Together3D shares: Modern sci-fi corridor corner tiles that click together with OpenLock triplex bases for limitless configurations. Includes a wall connector for keeping walls upright and additional beams for improved bottom texture. Great for TTRPG maps and sci-fi dioramas. By Together 3D download the files on: https://makerworld.com/en/models/1810583-sci-fi-tiles-corners Every Thursday is #3dthursday here at […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4aa7b946b8b79df8</guid>
-      <pubDate>Thu, 30 Jul 2026 10:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS</title>
-      <link>https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/</link>
-      <description>Running LLMs locally on an SBC or mini PC is a good way to keep your data private, but they typically require a conventional operating system, which uses a good portion of system memory. NightRun is an experimental open-source project that addresses this issue by booting a machine directly into a local LLM from a USB drive or microSD card, without loading a conventional OS. By removing the operating system, NightRun makes more RAM and memory bandwidth available for AI inference. The runtime is written in Rust, and during boot it loads a quantized model (1.3 GB to 2.4 GB) directly into RAM while verifying its CRC-32 checksums. After the model is loaded, storage is “sealed,” meaning any later attempt to read from the disk will trigger a hard fault. NightRun key features: Hardware support – Supports 64-bit x86_64 UEFI PCs (Secure Boot disabled) and Raspberry Pi 5 via USB [...] The post NightRun UEFI application boots a local LLM on Raspberry Pi 5 and x86 PCs without an OS appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-45ab70d19cdc1467</guid>
-      <pubDate>Thu, 30 Jul 2026 08:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Capable KVM Built With The ESP32</title>
-      <link>https://hackaday.com/2026/07/30/a-capable-kvm-built-with-the-esp32/</link>
-      <description>[Evgenij Spitsyn] spotted a KVM build on these very pages some time ago. That inspired their own build, leveraging the versatility of the ESP32-P4 microcontroller. The concept is straightforward. Named …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-954342579fa7e9ce</guid>
-      <pubDate>Thu, 30 Jul 2026 08:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behold The Most Beautifully Ambitious Starship Simulator Yet</title>
-      <link>https://hackaday.com/2026/07/29/behold-the-most-beautifully-ambitious-starship-simulator-yet/</link>
-      <description>[Kevin Kelm] created something wondrous: Halcyon Dawn, an utterly unique and desperately challenging game that is equal parts intricate starship simulator, imposing hardware console, video game, and love letter to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-31f6ba7e8f00d097</guid>
-      <pubDate>Wed, 29 Jul 2026 11:00:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
