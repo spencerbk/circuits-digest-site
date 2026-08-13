@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>NEW PRODUCT – Raspberry Pi Touch Display 2 – 10″ 1200×1920 w/ Capacitive Touch</title>
+      <link>https://blog.adafruit.com/2026/08/13/new-product-raspberry-pi-touch-display-2-10-1200x1920-w-capacitive-touch/</link>
+      <description>NEW PRODUCT – Raspberry Pi Touch Display 2 – 10″ 1200×1920 w/ Capacitive Touch __________________________________________________________________________________________________ Raspberry Pi Touch Display 2 is the sequel to the popular Raspberry Pi Official Display. Next in the lineup, is a 10′′ touchscreen display for Raspberry Pi. Unlike the original, it has a much higher quality IPS TFT screen, the same kind […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-18d002bf57677d9c</guid>
+      <pubDate>Thu, 13 Aug 2026 13:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facehugger Mask #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/13/facehugger-mask-3dthursday-3dprinting-2/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Facehugger Mask By CZDimensions makerworld.com/en/models/642035-facehugger-mask Bambu X1C PolyMaker PLA 10hr 30mins X:192 Y:192 Z:12mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 148g 230mm/s Every Thursday is #3dthursday here […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c7a375eb7236edad</guid>
+      <pubDate>Thu, 13 Aug 2026 13:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flipper Devices' Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One</title>
+      <link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698</link>
+      <description>Built as a set of tools atop a Linux base, the Flipper OS stack promises to do away with project-hopping leading to a "trash system."</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-094575f06c0e2b52</guid>
+      <pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-Touch ESP32-2432S028R Desk Stand – Cheap Yellow Display Companion #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/13/x-touch-esp32-2432s028r-desk-stand-cheap-yellow-display-companion-3dthursday-3dprinting/</link>
+      <description>Remixed by MichalKMR7 shares: A dedicated desk stand for the ESP32-2432S028R ‘Cheap Yellow Display’ (CYD) running X-Touch firmware. Uses 4× M3×12mm screws to secure front to back. Alternative ESP32 dashboard variant if you’d rather feature the X-Touch project than the E-Paper Dashboard at 5PM. By Michal download the files on: https://makerworld.com/en/models/746963-x-touch-esp32-2432s028r-desk-stand Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c4de4296f680171b</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>WCH Electronics' CH32V407 Packs Vector Extensions for a Speed Boost — Plus Optional PSRAM</title>
+      <link>https://www.hackster.io/news/wch-electronics-ch32v407-packs-vector-extensions-for-a-speed-boost-plus-optional-psram-290b6ebe5e9e</link>
+      <description>200MHz RISC-V part includes the optional vector extensions for improved performance in ML and DSP tasks, and up to 8MB of external PSRAM.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-613db174c87426bb</guid>
+      <pubDate>Thu, 13 Aug 2026 11:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks</title>
+      <link>https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/</link>
+      <description>Qualcomm unveiled the Snapdragon C entry-level Arm SoC for $300+ Windows laptops at Computex 2026 with a ridiculously small amount of details last May, so we had to rely on the specs of the upcoming Acer Aspire Go 15 (AG15-Q31P) laptop. Qualcomm has now released a document entitled “Snapdragon C Platform Overview” with more technical details and “unplugged” benchmarks – meaning running on batteries – comparing a Snapdragon C laptop to one based on Intel Processor N250 Twin Lake SoC. The presentation Snapdragon C specifications: CPU – Up to an octa-core Kryo processor at up to 3.0 GHz (single-core) or 2.0 GHz (quad-core) with 2 MB total cache; note: no data for eight cores GPU – Qualcomm Adreno GPU at up to 900 MHz AI accelerator – Built-in Qualcomm Hexagon NPU (still unspecified performance) System Memory – Up to 16GB LPDDR5/5x or LPDDR4 Storage – PCIe 3.0 NVMe, UFS 2.2/3.1 [...] The post Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7a14a30a845af1f0</guid>
+      <pubDate>Thu, 13 Aug 2026 09:39:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to improve students’ problem-solving skills using subgoal labels</title>
+      <link>https://www.raspberrypi.org/blog/how-to-improve-students-problem-solving-skills-using-subgoal-labels/</link>
+      <description>When faced with a programming problem, computing educators often start solving it without a second thought. Before writing a single line of code, experienced programmers use a range of skills to choose their approach and make other key decisions. Thanks to repeated practice, many of these decisions feel automatic and require little conscious thought. However,… The post How to improve students’ problem-solving skills using subgoal labels appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-e7a8f7fc4736494f</guid>
+      <pubDate>Thu, 13 Aug 2026 09:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get started with LiteRT on Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/get-started-with-litert-on-raspberry-pi/</link>
+      <description>Install and run high-performance on-device AI using the LiteRT CLI tool on Raspberry Pi. The post Get started with LiteRT on Raspberry Pi appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-17114609963fc56e</guid>
+      <pubDate>Thu, 13 Aug 2026 08:41:56 +0000</pubDate>
+    </item>
     <item>
       <title>Forlinx Embedded Targets Reliable Industrial Automation with New TI AM62L32-Powered SBC</title>
       <link>https://www.hackster.io/news/forlinx-embedded-targets-reliable-industrial-automation-with-new-ti-am62l32-powered-sbc-2fa969b0a2c3</link>
@@ -742,70 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-a18c7ef727c0bebf</guid>
       <pubDate>Fri, 31 Jul 2026 11:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port</title>
-      <link>https://www.cnx-software.com/2026/07/31/nanopi-r28s-a-tiny-dual-gbe-rockchip-rk3528a-wireless-sbc-and-router-with-a-usb-c-console-port/</link>
-      <description>NanoPi R28S is yet another tiny dual Gigabit Ethernet single board computer or router (with a metal enclosure), and the second from FriendlyELEC to implement a USB-C console port, often requested by our readers, after the NanoPi R2S Plus launched in 2024. At just 49.5 x 49.5 x 24 mm in its metal case, the Rockchip RK3528A-powered router also features 1GB LPDDR4, a microSD card slot and an eMMC module socket for storage, WiFi 6 and Bluetooth 5.3 wireless connectivity. The USB-C ports are only used for power, eMMC firmware upgrades, and debugging, and the system doesn’t feature any USB port for data connectivity, nor any GPIO header for expansion. In other words, it’s mostly useful for networking (firewalls, soft routers), as well as IoT gateway applications. NanoPi R28S specifications: SoC – Rockchip RK3528A CPU – Quad-core ARM Cortex-A53 @ 1.8 GHz GPU – Arm Mali-450 GPU with support for [...] The post NanoPi R28S – A tiny dual GbE Rockchip RK3528A wireless SBC and router with a USB-C console port appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-3301d8e940570c77</guid>
-      <pubDate>Fri, 31 Jul 2026 10:26:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far)</title>
-      <link>https://www.cnx-software.com/2026/07/31/reterminal-sticky-3-97-inch-magnetic-touch-epaper-display-is-supported-by-four-open-source-firmware-projects/</link>
-      <description>Seeed Studio’s reTerminal Sticky is a 3.97-inch “AI-powered” magnetic touch ePaper display powered by an ESP32-S3 microcontroller, which serves as a sticky-note alternative, an e-reader, a live dashboard, or a home automation controller. The 800 x 480 resolution display comes with 8MB PSRAM, 32MB Flash, a microSD card slot, and next/previous page buttons. It’s “AI-powered” through a microphone and an AI Voice button leveraging the ESP32-S3 Edge AI capabilities for a voice-to-note feature. It also features a temperature and humidity sensor and a 3-axis accelerometer, as well as a built-in magnet and a magnetic ring for easy mounting. reTerminal Sticky specifications: SoC – Espressif ESP32-S3R8 CPU – Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory – 8MB PSRAM Wireless – 2.4 GHz WiFi 4 and Bluetooth 5.0 LE Storage 32 MB flash MicroSD card slot (SanDisk recommended) Display 3.97-inch monochrome (B&amp;W) ePaper 4-level [...] The post reTerminal Sticky 3.97-inch touch ePaper display is supported by four open-source firmware projects (so far) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-3f4e28c1280612d5</guid>
-      <pubDate>Fri, 31 Jul 2026 08:01:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using the Chimney Effect to Drop Passively Cooled PC Temperatures</title>
-      <link>https://hackaday.com/2026/07/31/using-the-chimney-effect-to-drop-passively-cooled-pc-temperatures/</link>
-      <description>The stack effect — also known as the chimney effect — is the basic principle that hot air not only rises, but if guided through a tube, the rising hot …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b79ec4235b2da7c6</guid>
-      <pubDate>Fri, 31 Jul 2026 08:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs</title>
-      <link>https://www.cnx-software.com/2026/07/31/maker-go-esp32-c5-evb-board-features-rs-485-interface-four-relays-four-opto-isolated-inputs/</link>
-      <description>Maker Go ESP32-C5-EVB is an ESP32-C5 board with four relays, four opto-isolated inputs, RS-485 communication, and support for Wi-Fi 6, Bluetooth Low Energy 5.0, and Thread/Zigbee connectivity. It’s a variant of the Maker Go ESP32-C6-EVB released in 2024 that replaces the ESP32-C6 module with an ESP32-C5 module and a GPIO header with a terminal block for RS-485. The Maker Go ESP32-C6-EVB was mostly a clone of the Olimex ESP32-C6-EVB, and while Olimex already released its own ESP32-C5-EVB, it has a different dual-channel relay design. Maker Go ESP32-C5-EVB specifications: Wireless module – DOIT ESPC5-32 module SoC – Espressif Systems ESP32-C5 CPU Single-core 32-bit RISC-V processor @ up to 240 MHz Low-power RISC-V core @ 40 MHz acting as the main processor for power-sensitive applications Memory – 384 KB SRAM on-chip, support for external PSRAM Storage – 320 KB ROM, support for external flash Connectivity Dual-band 802.11ax WiFi 6 in the 2.4GHz [...] The post Maker Go ESP32-C5-EVB board features RS-485 interface, four relays, four opto-isolated inputs appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-eee76ea7c0a3a2ab</guid>
-      <pubDate>Fri, 31 Jul 2026 05:24:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 5 Case for Pimoroni NVMe Base #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/30/raspberry-pi-5-case-for-pimoroni-nvme-base-3dthursday-3dprinting/</link>
-      <description>tdack. shares: A dedicated case for the Raspberry Pi 5 with a Pimoroni NVMe base fitted. Uses the silicon dots from the Pimoroni parts package stuck to the bottom of the NVMe base as standoffs. Clean, purpose-built for one of the most popular NVMe expansion options for the Pi 5 download the files on: https://makerworld.com/en/models/170315 […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8bc6f6107b1446ee</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modular Smart Lamp – E26 Bulb Base Configurator #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/07/30/modular-smart-lamp-e26-bulb-base-configurator-3dthursday-3dprinting/</link>
-      <description>Shared by Embrace Making on MakerWorld: A flexible modular smart lamp built around an E26 bulb base and collet system. Mix and match parts to make it funky, classy, or minimalist — swap looks quickly and easily. Fully customizable and remix-friendly. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-fb8d3a3bb9017b55</guid>
-      <pubDate>Thu, 30 Jul 2026 23:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The New Sovol M1D Combines IDEX with Tool Changing</title>
-      <link>https://www.hackster.io/news/the-new-sovol-m1d-combines-idex-with-tool-changing-bf3909ebff3c</link>
-      <description>Sovol went ahead and put both IDEX and tool changing into their new M1D 3D printer.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-e1470f92ddc31197</guid>
-      <pubDate>Thu, 30 Jul 2026 22:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChronoWatch X2040</title>
-      <link>https://www.raspberrypi.com/news/chronowatch-x2040/</link>
-      <description>This smart-looking watch based on RP2040 tells the time without unnecessary distractions. The post ChronoWatch X2040 appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-e20e70fc1589af08</guid>
-      <pubDate>Thu, 30 Jul 2026 17:38:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
