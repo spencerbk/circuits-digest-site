@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>These 3D-Printed "Microflier" Drones Are Powered, And Controlled, By Sound Alone</title>
+      <link>https://www.hackster.io/news/these-3d-printed-microflier-drones-are-powered-and-controlled-by-sound-alone-a39a6f57fa8a</link>
+      <description>Researchers harness resonance to build rocket- and helicopter-like flying drones, and small boats, driven solely by sound.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-060f1cc9888ba897</guid>
+      <pubDate>Fri, 14 Aug 2026 13:01:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redesigning Fiber Optics From the Inside Out</title>
+      <link>https://www.hackster.io/news/redesigning-fiber-optics-from-the-inside-out-dd95173bf319</link>
+      <description>Researchers created a ribbon-like flat optical fiber that detects pressure with up to 1,000x the sensitivity of round fibers.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-dc8fa5b9e6555760</guid>
+      <pubDate>Fri, 14 Aug 2026 12:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShieldFont: Bludgeoning AI Scrapers that Disrespect Robots.txt</title>
+      <link>https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/</link>
+      <description>In the more innocent days of the World Wide Web you could simply put a robots.txt file in the root of your website that search engine indexing bots and similar …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-98ca71ba01a09f20</guid>
+      <pubDate>Fri, 14 Aug 2026 11:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition</title>
+      <link>https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/</link>
+      <description>Researchers from Northwestern University have introduced EITWatch, an open-source ESP32-S3-based EIT (Electrical Impedance Tomography) gesture-sensing system that fits within a standard smartwatch footprint. It relies on a Seeed Studio XIAO ESP32-S3 board and eight electrodes arranged on the back of the case to detect hand gestures via impedance changes caused by muscle and tendon movement beneath the skin. Unlike other wrist-EIT systems that use circumferential electrode bands, EITWatch places all eight electrodes on the back of the smartwatch case. The sensing area consists of a 31 mm electrode ring that fits within a standard 40 mm watch case, while a 20 mm PCB extension carries the discrete analog front end (AFE). EITWatch hardware specifications: Wireless board – XIAO ESP32-S3 SoC – Espressif ESP32-S3R8 CPU – Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory – 512KB SRAM, 8MB PSRAM Wireless – Wi-Fi 4 and [...] The post EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-aa3f72e6b5b93642</guid>
+      <pubDate>Fri, 14 Aug 2026 11:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor</title>
+      <link>https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/</link>
+      <description>Giada DK320 is an ultra-compact Wildcat Lake mini PC powered by up to an Intel Core 5 315 hexa-core processor and designed for digital signage, edge computing, and embedded applications requiring real-time analytics, intelligent monitoring, and automated decision-making. The system supports up to 48GB DDR5 RAM and M.2 2240/2280 NVMe storage, and offers dual 4K-capable HDMI video output, 2.5GbE networking, an optional WiFi 5/6/7 and Bluetooth module, an RS232 COM port, and four USB 3.2 ports. Giada DK320 specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Intel Core 5 315 6-core CPU – 2x P-cores @ 1.5/4.4 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 2-core Intel Xe3 Graphics @ 2.3 GHz [...] The post Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-02eea2172e24eba0</guid>
+      <pubDate>Fri, 14 Aug 2026 09:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Just released: Raspberry Pi Book of Making 2027</title>
+      <link>https://www.raspberrypi.com/news/just-released-raspberry-pi-book-of-making-2027/</link>
+      <description>We’ve once again rounded up a few of our favourite projects previously published in Raspberry Pi Official Magazine. The post Just released: Raspberry Pi Book of Making 2027 appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-d0b0271fb906f82f</guid>
+      <pubDate>Fri, 14 Aug 2026 09:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime</title>
+      <link>https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/</link>
+      <description>Gemma Translator is an open-source project for the Raspberry Pi 5 that acts as a multilingual interpreter running locally without access to the cloud using Google Gemma 4 and LiteRT runtime. It’s a project built by three Google engineers with the help of Google Antigravity. It includes code to run an on-device, fully offline voice translator/interpreter using Gemma 4 E2B (2.3B effective / ~5.1B total parameters with per-layer embeddings) and the LiteRT runtime. The hardware is comprised of a few components: A Raspberry Pi 5 with 8GB of RAM Display – HDMI monitor or touchscreen display such as a 480×320 kiosk display Audio Microphone or USB audio capture interface Speaker or headphone output device Keyboard – The project demonstrated below appears to use a custom PCB (AX-4LABS-NEW) with a rotary encoder and four mechanical keys (of which only two are used) Optional 3D printed parts for the enclosure Software highlights: [...] The post Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-054805cc2b6e9b99</guid>
+      <pubDate>Fri, 14 Aug 2026 07:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/13/raspberry-pi-pico-case-with-sensor-cage-snap-fit-wall-mount-3dthursday-3dprinting/</link>
+      <description>i.boxit shares: A snap-fit Pi Pico case with an integrated sensor cage that lets you keep temp/humidity or other sensors mounted outside the electronics enclosure. Fits Pico, Pico W, and Pico 2. Includes wall mount, Bootsel button access, user LED light tube, cooling grille, and a built-in opener. 0.4mm nozzle at 0.2mm layer height. By […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-37ed5feee49bd06c</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Articulated Skeleton Halloween Flexy – Print-in-Place with Keychain #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/13/articulated-skeleton-halloween-flexy-print-in-place-with-keychain-3dthursday-3dprinting/</link>
+      <description>Shared by Printpals on MakerWorld: A funny human skeleton — articulated and flexible for easy posing, quick to print, and simple to assemble. Print-in-place, no supports. Includes a keychain hole on top of the head. Alternative Halloween skeleton variant. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a92d93e02cd045a3</guid>
+      <pubDate>Thu, 13 Aug 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flexi Skeleton – Fun and Spooky with GITD + Magnet + Keychain #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/13/flexi-skeleton-fun-and-spooky-with-gitd-magnet-keychain-3dthursday-3dprinting/</link>
+      <description>michelem shares: A jiggly articulated skeleton with head, arms, torso, and legs that shake when moved. Print-in-place with only 27 minutes in single color or 1 hour multicolor. Glow-in-the-dark filament recommended. Includes magnet slot (fridge companion) and keyring hole. Alternative Halloween skeleton — GITD-friendly and fastest to print of the batch. By Michele download the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ee33eb875f5d3807</guid>
+      <pubDate>Thu, 13 Aug 2026 22:00:33 +0000</pubDate>
+    </item>
     <item>
       <title>NEW PRODUCT – Raspberry Pi Touch Display 2 – 10″ 1200×1920 w/ Capacitive Touch</title>
       <link>https://blog.adafruit.com/2026/08/13/new-product-raspberry-pi-touch-display-2-10-1200x1920-w-capacitive-touch/</link>
@@ -726,86 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-a133fd210042b927</guid>
       <pubDate>Sat, 01 Aug 2026 14:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>That Project: A Standalone Rubik’s Cube Solver</title>
-      <link>https://blog.adafruit.com/2026/08/01/that-project-a-standalone-rubiks-cube-solver/</link>
-      <description>That Project made a screenless, standalone ESP32-S3 Rubik’s cube solver and shared the project on YouTube: This is a fully handheld, offline Rubik’s Cube solver powered by an ESP32-S3. It scans the cube using a built-in camera, detects colors with OpenCV, allows manual touch correction via an LVGL UI, and guides you through the solution […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7ff4442611025d6e</guid>
-      <pubDate>Sat, 01 Aug 2026 14:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>August is Back to School Month!! #BackToSchool #BackToSchool2026</title>
-      <link>https://blog.adafruit.com/2026/08/01/august-is-back-to-school-month-backtoschool-backtoschool2026/</link>
-      <description>Don’t get fooled by the pleasant weather, more heat and rain are on the way. It won’t be long, though, before false fall to come knocking, bringing shorter days and…a new school year approaching! August is Back to School Month so join us and get prepared for another scholastic voyage into the school year. We […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f9b8c6ac5a49a555</guid>
-      <pubDate>Sat, 01 Aug 2026 12:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Testing a 3D Printed Cycloidal Gearbox Design</title>
-      <link>https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</link>
-      <description>Cycloidal gearboxes are a recurring theme in the hobbyist space due to the performance their promise in a compact package. They are capable of taking in a high-speed input and …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9ec1e1056439fec8</guid>
-      <pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Compact Game Controller For Your Phone</title>
-      <link>https://hackaday.com/2026/08/01/a-compact-game-controller-for-your-phone/</link>
-      <description>[Gil Yankovitch] noted that playing games on a touchscreen phone gave up a certain something in terms of the tactile feedback one gets from real buttons. To that end, he …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-ddefe9168e0f77b4</guid>
-      <pubDate>Sat, 01 Aug 2026 08:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules</title>
-      <link>https://www.cnx-software.com/2026/08/01/creality-falcon-t1-review-a-5-in-1-modular-laser-engraver-tested-with-20w-fiber-and-40w-diode-laser-modules/</link>
-      <description>Creality sent us a sample of the Falcon T1 5-in-1 modular laser engraver for review. The company describes it as the world’s first 5-in-1 laser engraving and cutting machine that supports five types of laser modules in a single unit: 20W diode laser 20W, 40W diode laser, 20w fiber laser, 60W MOPA laser, and 5W UV Laser 5W. The laser heads can be swapped tool-free in just 15 seconds. It works with an HD camera and AI system and can engrave and cut a wide range of materials including wood, leather, acrylic, metal, glass, crystal, and plastic. Diode laser modules are ideal for cutting and engraving wood, leather, and acrylic, the fiber laser module is better suited for marking and engraving metal, the MOPA laser module supports color marking on metals such as stainless steel and titanium, and the UV laser module uses cold processing for high-precision work on glass, [...] The post Creality Falcon T1 review – A 5-in-1 modular laser engraver tested with 20W fiber and 40W diode laser modules appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-77a46ca9b1db7cef</guid>
-      <pubDate>Sat, 01 Aug 2026 07:01:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>These DIY Robot Legs Are Awesome, Even Without a Torso</title>
-      <link>https://www.hackster.io/news/these-diy-robot-legs-are-awesome-even-without-a-torso-6e78217715da</link>
-      <description>Oliver Paff's DIY robot legs are the perfect illustration of how far the maker community has come.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-ef8f2457ae70ad4f</guid>
-      <pubDate>Fri, 31 Jul 2026 21:38:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Installing Docker on the Raspberry Pi</title>
-      <link>https://blog.adafruit.com/2026/07/31/installing-docker-on-the-raspberry-pi/</link>
-      <description>PiMyLifeUp shares how to install Docker on your Raspberry Pi. Docker is an incredibly powerful tool that provides OS-level virtualization to deliver software packages within containers. Being in a container means the software cannot access anything that the Docker runtime doesn’t hand to it; this can help with security and resource management. Docker allows you […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-0bf805a5beecf7be</guid>
-      <pubDate>Fri, 31 Jul 2026 20:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem</title>
-      <link>https://blog.adafruit.com/2026/07/31/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4/</link>
-      <description>﻿ ﻿ Are you subscribed to the Adafruit Youtube channel? If you’re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell every Wednesday at 7:30pm ET. Adafruit […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ccae046e4077cfc9</guid>
-      <pubDate>Fri, 31 Jul 2026 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/07/31/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-31-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-13f53eca0f35bab1</guid>
-      <pubDate>Fri, 31 Jul 2026 13:40:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building a Reproduction PlayStation Motherboard</title>
-      <link>https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/</link>
-      <description>Thanks to things like spilled drinks, leaky batteries, and the general ravages of time, older consoles can be tough to keep going. In particular, excessive damage to a motherboard can …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a18c7ef727c0bebf</guid>
-      <pubDate>Fri, 31 Jul 2026 11:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
