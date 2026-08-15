@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>ESP32 Music Sequencer is Clearly Nailing the Y2K Aesthetic</title>
+      <link>https://hackaday.com/2026/08/15/esp32-music-sequencer-is-clearly-nailing-the-y2k-aesthetic/</link>
+      <description>Do you remember back when electronics came in clear cases? Back around the turn of the millennium, when translucency was chic. [3DSage] sure does, which is why he went to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-1e333714a92fa242</guid>
+      <pubDate>Sat, 15 Aug 2026 11:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer</title>
+      <link>https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/</link>
+      <description>We’ve already checked out the hardware with an unboxing and a teardown of the GEEKOM IT13 Max in the first part of the review, before testing the Intel Core Ultra 9 185H mini PC with Windows 11, so it’s now time to test Linux on the mini computer using Ubuntu 26.04. In this review, we will report our experience running Ubuntu 26.04 on the GEEKOM IT13 Max, after going through feature testing, running system benchmarks and AI benchmarks on the CPU, GPU, and NPU, checking out storage and USB performance, testing 2.5GbE and WiFi 6/7, stress testing the mini PC, and measuring the Meteor Lake mini PC’s fan noise and power consumption. Installing Ubuntu 26.04 We installed Ubuntu 26.04 alongside Windows 11 in dual boot configuration. We first shrank the Windows partition (C:) size by approximately half, before inserting a USB flash drive with Ubuntu 26.04 to start the installation [...] The post GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7b0216d83dd968aa</guid>
+      <pubDate>Sat, 15 Aug 2026 09:39:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Tape Deck Gets a Service</title>
+      <link>https://hackaday.com/2026/08/15/a-tape-deck-gets-a-service/</link>
+      <description>If there’s an engineer’s equivalent to those YouTube ASMR videos, then perhaps it comes in a good repair or servicing journey filmed without edits at the bench. Relaxing to watch, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-faf141bf575b23c6</guid>
+      <pubDate>Sat, 15 Aug 2026 08:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemma Translator – Live Translating Offline on a Raspberry Pi 5   #piday #raspberrypi</title>
+      <link>https://blog.adafruit.com/2026/08/14/gemma-translator-live-translating-offline-on-a-raspberry-pi-5-piday-raspberrypi/</link>
+      <description>This open source translator was built by a team at google. It is an experiment to build a fully offline translator. All the parts are off the shelf and easy to find: a Raspberry Pi 5, portable battery pack, tiny touchscreen display, mini speaker, and micro keyboard with a knob to select languages. It’s all […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6b3aac6c5c5203dd</guid>
+      <pubDate>Fri, 14 Aug 2026 22:48:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</title>
+      <link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</link>
+      <description>These are my thoughts about the InfiMaker K1 five-axis desktop CNC mill after attending the launch event.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-0b2bdf79c6676729</guid>
+      <pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s CircuitPython Parsec: Fruit Jam Library – NeoPixels</title>
+      <link>https://blog.adafruit.com/2026/08/14/john-parks-circuitpython-parsec-fruit-jam-library-neopixels/</link>
+      <description>#circuitpythonparsec Use the Fruit Jam Library peripherals module to light on-board NeoPixels. Try out the code example To learn about CircuitPython: https://circuitpython.org</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-470b53eb7965f7c9</guid>
+      <pubDate>Fri, 14 Aug 2026 17:23:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Low-Tech Buzzing Operation Game #BackToSchool #BackToSchool2026</title>
+      <link>https://blog.adafruit.com/2026/08/14/low-tech-buzzing-operation-game-backtoschool-backtoschool2026/</link>
+      <description>Low-Tech Buzzing Operation Game Build a buzzing gameboard that teaches simple circuits — great for kids and classes! This version uses mainly everyday household and recycled materials, and it’s easy for kids to build themselves. There’s no programming involved — just a simple paper circuit, basic components, and 3V coin battery for power. August is […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9f607b96c5cf6fd6</guid>
+      <pubDate>Fri, 14 Aug 2026 15:28:52 +0000</pubDate>
+    </item>
     <item>
       <title>These 3D-Printed "Microflier" Drones Are Powered, And Controlled, By Sound Alone</title>
       <link>https://www.hackster.io/news/these-3d-printed-microflier-drones-are-powered-and-controlled-by-sound-alone-a39a6f57fa8a</link>
@@ -62,6 +118,14 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-054805cc2b6e9b99</guid>
       <pubDate>Fri, 14 Aug 2026 07:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32-S31-Korvo-1 Reference Design</title>
+      <link>https://www.espressif.com/en/node/11101</link>
+      <description>Language English ESP32-S31-Korvo-1_Reference_Design_EN.zipESP32-S31ESP32-S31-Korvo-1 reference design resources include schematics, PCB layout files, Gerber files, PCB fabrication specifications, bills of materials (BOMs), and placement files.v1.1Friday, August 14, 2026Send add/update notification to subscribers: Document Type: ReferenceDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-698bea1846f89c0a</guid>
+      <pubDate>Fri, 14 Aug 2026 06:47:34 +0000</pubDate>
     </item>
     <item>
       <title>Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting</title>
@@ -742,70 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-88418f9f736b8276</guid>
       <pubDate>Sun, 02 Aug 2026 22:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit’s Top Ten Blog Posts of July 2026 #TopTen</title>
-      <link>https://blog.adafruit.com/2026/08/02/adafruits-top-ten-blog-posts-of-july-2026-topten/</link>
-      <description>ESP32-S31 now in mass production and available for purchase Replacing a $120k bowling center system with $1,600 in ESP32s Filament Spool Dry Box – Pelican-Style Latching #3DPrinting #3DThursday ESP32-S3 SuperMini + mmWave Sensor Enclosure (ESPHome) #3DPrinting #3DThursday Cassegotchi: Arduino Nano Tamagotchi Framework’s 10G Ethernet module exposes USB-C’s complexity CYD Desk Buddy – Bambu Lab + […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-96b7783e9e694594</guid>
-      <pubDate>Sun, 02 Aug 2026 15:28:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round Up:  ESP32-S31 now in mass production, Jimothy &amp; more!</title>
-      <link>https://blog.adafruit.com/2026/08/02/adafruit-weekly-editorial-round-up-esp32-s31-now-in-mass-production-jimothy-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. ESP32-S31 now in mass production […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-99092fe4df00ba1a</guid>
-      <pubDate>Sun, 02 Aug 2026 14:55:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Coloring Book Day 2026</title>
-      <link>https://blog.adafruit.com/2026/08/02/national-coloring-book-day-2026/</link>
-      <description>It’s National Coloring Book Day so now is the time to power up your pencils and let your creativity run wild! Whether you’re de-stressing or doodling with the littles, coloring is for everyone. Did you know Adafruit has its own? Check out Ladyada’s Coloring Book – R is for Robots! You can also get instant […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a68b4de5e12f7d41</guid>
-      <pubDate>Sun, 02 Aug 2026 12:35:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Architectural LED Install Shows How To Do It With Style</title>
-      <link>https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/</link>
-      <description>Anyone can string up some LED string lights in a space with mixed results. However, if you want to create a lighting environment that’s classy and stylish, it takes a …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a1ff195f02bcfcef</guid>
-      <pubDate>Sun, 02 Aug 2026 11:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Seven Sensors and Breakout Boards to Avoid in a Product</title>
-      <link>https://hackaday.com/2026/08/02/the-seven-sensors-and-breakout-boards-to-avoid-in-a-product/</link>
-      <description>We’ve all seen these sensors and modules kicking around, as part of beginner kits, strapped into prototypes and potentially even in products deployed in the field. Yet as [John Teel] …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-fbe2811727f36c37</guid>
-      <pubDate>Sun, 02 Aug 2026 08:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Play games with your brain signals using Octopus 16 wireless EEG device</title>
-      <link>https://www.cnx-software.com/2026/08/02/play-games-with-your-brain-signals-using-octopus-16-wireless-eeg-device/</link>
-      <description>Octopus 16 is a wireless biosignal HID device for the XIAO ESP32-S3 board designed to let users play computer games using brain signals (EEG) with no hands (or implants) needed. The board packs 16 electrodes to measure biosignals, including EEG (electroencephalography), EMG (electromyography), and ECG (electrocardiography), and the coin-sized device is much more compact than other brain-computer interface (BCI) solutions, which typically require a cap kit with 8 to 16 electrodes and wires. Octopus 16 specifications: ADC – 2x Texas Instruments ADS131M08 24-bit, 8-channel, simultaneous-sampling, delta-sigma (ΔΣ) analog-to-digital converters Channels – 16x 24-bit channels (8x per ADC) Programmable gain (PGA) – x1 to x128 (set in firmware; default gain register 0x2222) Input high-pass / DC block – Integrated ADC DC-block filter enabled (≈ &gt;1 Hz) Host interface (to XIAO board) – Power + SPI via 2x 7-pin Brain interface 18x spring-loaded pogo pins 16x electrodes 1x reference (AINREF) 1x Ground [...] The post Play games with your brain signals using Octopus 16 wireless EEG device appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-9ef39eee53188bfc</guid>
-      <pubDate>Sun, 02 Aug 2026 07:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Star Wars™: The Experience at The Franklin Institute Philadelphia</title>
-      <link>https://blog.adafruit.com/2026/08/01/star-wars-the-experience-at-the-franklin-institute-philadelphia/</link>
-      <description>Star Wars™: The Experience – A Journey Through the Galaxy will be making its exclusive world premiere at The Franklin Institute in Philadelphia in February 2027. The exhibition will feature immersive environments, props, and original costumes. The all-new exhibition traces the legacy of Star Wars from its handcrafted beginnings to today’s groundbreaking digital frontiers, exploring […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a0e22e535dd58e6b</guid>
-      <pubDate>Sat, 01 Aug 2026 20:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Running a 28.9M Parameter LLM on an $8 Microcontroller</title>
-      <link>https://www.hackster.io/news/running-a-28-9m-parameter-llm-on-an-8-microcontroller-173f1f370708</link>
-      <description>A developer borrowed a trick from Google's Gemma models to fit a 28.9M parameter LLM on an $8 ESP32 chip.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-a133fd210042b927</guid>
-      <pubDate>Sat, 01 Aug 2026 14:19:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
