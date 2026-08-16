@@ -5,8 +5,48 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>It’s National Roller Coaster Day #NationalRollerCoasterDay #coasterday</title>
+      <link>https://blog.adafruit.com/2026/08/16/its-national-roller-coaster-day-nationalrollercoasterday-coasterday/</link>
+      <description>Cyclone Roller Coaster, Coney Island, New York via Wikipedia Did you know every August 16 is National Roller Coaster Day? Ride out the summer, with all of the ups and downs, on a coaster of your choosing. If you can stomach them, coasters are marvels of engineering and have been teaching young engineers lessons […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b74afe076ded3941</guid>
+      <pubDate>Sun, 16 Aug 2026 12:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>r-Selecting Tiny Probes to Shotgun Into Saturn’s Rings</title>
+      <link>https://hackaday.com/2026/08/16/r-selecting-tiny-probes-to-shotgun-into-saturns-rings/</link>
+      <description>In ecology, there used to be a concept — now largely unfashionable — that species could be described as r- or K-selected, depending on how they treat their offspring. An …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-0de0d8ff06348997</guid>
+      <pubDate>Sun, 16 Aug 2026 11:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Hack an Airline Analog</title>
+      <link>https://hackaday.com/2026/08/16/how-to-hack-an-airliner/</link>
+      <description>Modern airliners are rather complicated feats of engineering. Innumerable safety-critical components are connected with tens of miles of wiring, complex digital buses, and dozens (perhaps hundreds) of computers. But, as …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-955a46600a2b97ce</guid>
+      <pubDate>Sun, 16 Aug 2026 08:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04</title>
+      <link>https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/</link>
+      <description>When we used the NVIDIA GeForce RTX 5060 Ti 16GB-based Khadas Mind Graphics 2 dock with a mini PC running Ubuntu 26.04 last week, the USB4-connected eGPU was detected and enabled automatically, but we encountered two issues: very poor performance and the mini PC failed to boot when the dock was removed. The solution is partially documented as part of a long GEEKOM IT13 Max Ubuntu 26.04 review, but I thought it might be useful to document everything in a shorter article for people who own the Khadas Mind Graphics 2 or another NVIDIA Blackwell eGPU connected over USB4/Thunderbolt. Fixing Khadas Mind Graphics 2 performance issues on Ubuntu The Khadas Mind Graphics 2 and NVIDIA graphics card were automatically detected when I connected the dock to an Ubuntu 26.04 mini PC The post Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-20eae10361b5d0ae</guid>
+      <pubDate>Sun, 16 Aug 2026 07:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machine Learning COFFIES “Hears” Sunspots Before We Can See Them</title>
+      <link>https://hackaday.com/2026/08/15/machine-learning-coffies-hears-sunspots-before-we-can-see-them/</link>
+      <description>In this age of neural net “AI”, even the most skeptical of Butlerians have to agree that these machine learning models can be very, very good at pattern recognition if …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-79c677e357e29817</guid>
+      <pubDate>Sun, 16 Aug 2026 05:00:57 +0000</pubDate>
+    </item>
     <item>
       <title>ESP32 Music Sequencer is Clearly Nailing the Y2K Aesthetic</title>
       <link>https://hackaday.com/2026/08/15/esp32-music-sequencer-is-clearly-nailing-the-y2k-aesthetic/</link>
@@ -766,46 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-3121d2b8778f276c</guid>
       <pubDate>Mon, 03 Aug 2026 10:40:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>$299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4</title>
-      <link>https://www.cnx-software.com/2026/08/03/299-99-asus-ugen300-usb-ai-accelerator-hailo-10h-8gb-lpddr4/</link>
-      <description>ASUS UGen300 USB AI accelerator features a 40 TOPS Hailo-10H AI processor and 8GB of LPDDR4 memory to support large language models (LLMs), vision language models (VLMs), and AI vision workloads while consuming less than 2.5 Watts. In some ways, the hardware is similar to the Raspberry Pi AI HAT+ 2, but in a slim dongle form factor (105 x 50 x 18mm) and a 10 Gbps USB 3.2 Gen1 USB-C Type-C port instead of a 5 or 8 GT/s PCIe interface. ASUS UGen300 USB AI accelerator (UGen300-USB-8G) specifications: AI accelerator – Hailo Hailo-10H delivering up to 40 TOPS (INT4) or 20 TOPS (INT8) inferencing performance Memory – 8GB LPDDR4 @ 4266 MT/s Host interface – USB 3.1 Gen2 (10 Gbps) Type-C port Power Supply – 5V via USB-C port Power Consumption – 2.5 Watts (typical) Dimensions – 105 x 50 x 18 mm Weight – 145 grams ASUS says the [...] The post $299.99 ASUS UGen300 USB AI accelerator combines 40 TOPS Hailo-10H chip with 8GB LPDDR4 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-64dcc9b9c93b65b3</guid>
-      <pubDate>Mon, 03 Aug 2026 04:52:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1763 – Meet Dylan</title>
-      <link>https://www.eevblog.com/2026/08/03/eevblog-1763-meet-dylan/</link>
-      <description>Meet Dylan Forum: https://www.eevblog.com/forum/blog/eevblog-1763-meet-dylan/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-aae6c50964cf6dc9</guid>
-      <pubDate>Mon, 03 Aug 2026 03:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1762 – BIOHAZARD TEARDOWN!: Logitech Keyboard</title>
-      <link>https://www.eevblog.com/2026/08/03/eevblog-1762-biohazard-teardown-logitech-keyboard/</link>
-      <description>What lurks inside Dave’s decade old Logitech keyboard? Gross-out WARNING! Forum: https://www.eevblog.com/forum/blog/eevblog-1762-logitech-keyboard-vs-food-gross-teardown/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-b3302697ea55d8d9</guid>
-      <pubDate>Mon, 03 Aug 2026 03:44:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots</title>
-      <link>https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/</link>
-      <description>Abu Dhabi-based Aliensense has introduced NXS, a compact sensor board designed to easily connect cameras and sensors to robots, without custom wiring or driver work. The board relies on a single GMSL 2/3 cable for power, video, and sensor data over up to 15 meters, extendable to 40 meters over CAN-FD (data only, reduced baudrate). The STM32G491 board is also compatible with the 2,000+ boards in MikroElektronika’s Click ecosystem thanks to a mikroBUS connector brought out through a Shuttle add-on board. This means you can use compatible sensors (via mikroBUS) in addition to, or instead of, a camera. NXS specifications: MCU – STMicro STM32G491 Cortex-M4F microcontroller with 112KB SRAM, up to 512KB flash Camera Interface – MIPI CSI-2 input, MAX96793 GMSL2/3 serializer, power-over-coax Connectivity – GMSL2/3, CAN-FD, Cyphal/serial, I2C register map Expansion – mikroBUS socket with I2C, SPI, UART, PWM, analog, INT, RST Recovery support – Signed A/B firmware, watchdog [...] The post Aliensense NXS is a plug-and-play GMSL 2/3 and CAN-FD sensor board for robots appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-636a867c9e6820f2</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Overwatch Prop Gun: Lucio’s Blaster #AdafruitLearnGuide</title>
-      <link>https://blog.adafruit.com/2026/08/02/overwatch-prop-gun-lucios-blaster-adafruitlearnguide/</link>
-      <description>Print and assemble the Overwatch Lucio blaster with this three-part guide from John Park: Overwatch Prop Gun: Lucio’s Blaster Pt. 1 – Lights, music, and sound effects prop circuit design Overwatch Prop Gun: Lucio’s Blaster Pt. 2 – Lights, music, and sound effects prop circuit integration Overwatch Prop Gun: Lucio’s Blaster Pt. 3 – Permanent […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-88418f9f736b8276</guid>
-      <pubDate>Sun, 02 Aug 2026 22:00:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
