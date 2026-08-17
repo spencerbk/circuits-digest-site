@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Runar Tenfjord Releases an Open Dev Board for the STMicro STM32C5 — With Oberon-2 Support</title>
+      <link>https://www.hackster.io/news/runar-tenfjord-releases-an-open-dev-board-for-the-stmicro-stm32c5-with-oberon-2-support-92a0475c07a1</link>
+      <description>ESCOberon, an embedded variant of Oberon-2, is available for this MIT-licensed dev board as an alternative to C/C++ programming.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-90fe37145d6f23e2</guid>
+      <pubDate>Mon, 17 Aug 2026 12:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iris colour detection with Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/iris-colour-detection-with-raspberry-pi/</link>
+      <description>This computer vision project helps explain the genetic mechanisms underlying the inheritance of eye colour. The post Iris colour detection with Raspberry Pi appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-673733089035d79d</guid>
+      <pubDate>Mon, 17 Aug 2026 11:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Printing FDM Filaments that are just Plain Weird</title>
+      <link>https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/</link>
+      <description>The fun thing about thermopolymers like PLA is that you can blend in additives, some of which are necessary to make it at all usable, while so many other additives …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-e3c255e2f5724cc1</guid>
+      <pubDate>Mon, 17 Aug 2026 11:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge</title>
+      <link>https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/</link>
+      <description>Designed by ACE Design Studio in China, the Pi-Ener-lite is a dedicated UPS board made specifically for the Raspberry Pi Zero series. It features a standard flat-top 18650 lithium-ion battery holder and switches to battery power when external power is lost, while supporting simultaneous charging and discharging. The Pi-Ener-lite connects to the bottom of the Raspberry Pi Zero via seven spring-loaded pogo pins that handle both power delivery and I2C data communication, leaving the top GPIO header free for other HATs or expansions. Pi-Ener-lite specifications: Compatibility – Raspberry Pi Zero series SBCs USB – 1x USB Type-C port for charging Misc Power switch DS1307 real-time clock (RTC) chip with a CR1220 coin cell battery holder 7x spring pogo pins for power delivery and I2C data Power Management Battery Support – Standard flat-top 18650 lithium-ion cell; supports simultaneous charging and discharging Charging current – 1A @ 5V Output current – 2.5A [...] The post Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-4429fb8a502fe8cd</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays</title>
+      <link>https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/</link>
+      <description>Luckfox Lyra PLC is a Linux-based programmable logic controller powered by a Rockchip RK3506B tri-core Arm Cortex-A7 SoC, equipped with dual Ethernet, WiFi 6 and Bluetooth 5.2 wireless connectivity, a 1.9-inch touchscreen LCD, and a range of I/Os. The I/Os are mostly exposed through two 11-pole terminal blocks with one RS232, one shared RS422/RS485, one CAN Bus, and two relays, as well as smaller connectors for I2C, GPIO, and debugging. The system can be powered via USB-C (5V only), terminal block pins supporting 7V-24V DC input, or an optional PoE module. Luckfox Lyra PLC specifications: SoC – Rockchip RK3506B CPU 3x Arm Cortex-A7 cores up to 1.2 GHz Arm Cortex-M0 real-time core GPU – 2D GPU only No VPU, no NPU System Memory – 512MB DDR3L Storage – 8GB eMMC flash Display – 1.9-inch touchscreen LCD with 320 x 170 resolution Networking 2x 10/100 Mbps Ethernet RJ45 ports 2.4 GHz [...] The post Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-2e6d6395fe8d6a7b</guid>
+      <pubDate>Mon, 17 Aug 2026 05:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</title>
+      <link>https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/</link>
+      <description>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn’t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a830f3fae1e5761796087/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...] The post Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-24f4d84219d3a121</guid>
+      <pubDate>Mon, 17 Aug 2026 03:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Weekly Editorial Round Up: Back to School, LED Devil Horns, and more!</title>
+      <link>https://blog.adafruit.com/2026/08/16/adafruit-weekly-editorial-round-up-back-to-school-led-devil-horns-and-more/</link>
+      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG Back to School LEARN […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-23c19cbb68cf9474</guid>
+      <pubDate>Sun, 16 Aug 2026 19:00:15 +0000</pubDate>
+    </item>
     <item>
       <title>It’s National Roller Coaster Day #NationalRollerCoasterDay #coasterday</title>
       <link>https://blog.adafruit.com/2026/08/16/its-national-roller-coaster-day-nationalrollercoasterday-coasterday/</link>
@@ -750,62 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-385765d333b5e902</guid>
       <pubDate>Tue, 04 Aug 2026 12:27:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Testing Hundreds of Used LFP Cells Requires Some Automation</title>
-      <link>https://hackaday.com/2026/08/04/testing-hundreds-of-used-lfp-cells-requires-some-automation/</link>
-      <description>Although Li-ion cells have become a lot cheaper over the years, if you wish to buy hundreds of high-quality ones for that performance go-kart project, you may feel financially pressured …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-12c44ea578bd8e66</guid>
-      <pubDate>Tue, 04 Aug 2026 11:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supporting AI education for 150,000 learners in Aotearoa New Zealand and Australia</title>
-      <link>https://www.raspberrypi.org/blog/supporting-ai-education-for-150000-learners-in-aotearoa-new-zealand-and-australia/</link>
-      <description>We’re pleased to share that we are expanding our Experience AI programme to Australia and Aotearoa New Zealand to train 5000 educators who can reach 150,000 students by 2028, thanks to generous funding of $1.2 million from Google.org. Working with local education organisations, we will support young people to develop a foundational understanding of AI… The post Supporting AI education for 150,000 learners in Aotearoa New Zealand and Australia appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-323303457a14ba17</guid>
-      <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yellow YAG Produces Powerful Pulses in Les’ Leftover Laser</title>
-      <link>https://hackaday.com/2026/08/04/yellow-yag-produces-powerful-pulses-in-les-leftover-laser/</link>
-      <description>[Les] likes lasing lasers, and who doesn’t? [Les] likes larger lasers than lots of folks, with his current project being an Nd:YAG (that’s Neodymium:Yttrium Aluminum Garnet) flash pumped laser intended …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-e027b50cb5d4e878</guid>
-      <pubDate>Tue, 04 Aug 2026 08:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware</title>
-      <link>https://www.cnx-software.com/2026/08/03/chronowatch-x2040-a-diy-watch-with-off-the-shelf-raspberry-pi-rp2040-round-display-3d-printed-case-and-custom-firmware/</link>
-      <description>If you’ve ever wanted to build your own watch, the ChronoWatch X2040 DIY watch allows you to do it the easy way with a Waveshare RP2040-Touch-LCD-1.28 touch LCD board, a 3D-printed case, a 3.7V LiPo battery, a few screws, and firmware using the Pico C/C++ SDK. When Vishal Soni decided he wanted to build a watch, he initially planned to design a custom board, but since there are already several round LCD boards based on Raspberry Pi RP2040 MCU, he went with a Waveshare board, preferring to spend more time on firmware programming. ChronoWatch X2040 parts: Waveshare RP2040-Touch-LCD-1.28 with Raspberry Pi RP2040 MCU and 1.28-inch round touch display – About $23 to $29 on Amazon, AliExpress, or the Waveshare store. 3D printed case designed with Tinkercad 3.7V 950mAh Lipo battery (35 x 25 x 10 mm) M2 4mm screw M2 heat inserts 2-pin MX1.25 connector 1mm heat shrink sleeve tube [...] The post ChronoWatch X2040 – A DIY watch with off-the-shelf Raspberry Pi RP2040 round display, 3D printed case, and custom firmware appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d44744aee52237d8</guid>
-      <pubDate>Mon, 03 Aug 2026 14:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The DEF CON 34 Badge Packs a Surprise: Andrew "bunnie" Huang's "Mostly-Open" Baochip-x1</title>
-      <link>https://www.hackster.io/news/the-def-con-34-badge-packs-a-surprise-andrew-bunnie-huang-s-mostly-open-baochip-x1-1e03307d4797</link>
-      <description>27,000 Baochip-x1 badges, which include a removable camera module, to be distributed at the event.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-73903ab7fe7c6613</guid>
-      <pubDate>Mon, 03 Aug 2026 11:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>BrisbaneSilicon's ELM11 Feather, a Lua-Native Dual-Core FPGA Dev Board, Opens Crowdfunding</title>
-      <link>https://www.hackster.io/news/brisbanesilicon-s-elm11-feather-a-lua-native-dual-core-fpga-dev-board-opens-crowdfunding-fd37ad633843</link>
-      <description>Teased back in April, the GOWIN-powered FPGA board offers two independent soft cores and high hardware flexibility for $39.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-79063acaacd33406</guid>
-      <pubDate>Mon, 03 Aug 2026 11:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s</title>
-      <link>https://www.cnx-software.com/2026/08/03/28-9m-parameter-llm-runs-locally-on-esp32-s3-at-9-tokens-s/</link>
-      <description>Slava S. (slvDev) has optimized a 28.9M-parameter LLM running locally on an ESP32-S3 development board at around 9 tokens/s while generating text, or more exactly, telling short stories. We’ve written about LLMs and ESP32 in the past, but usually the boards are used as low-power gateways to interact with online LLMs hosted on powerful servers in data centers. Such products or projects include HiWonderLLM “smart chat module”, the ESP-Claw framework, or the ESP32 Agent Dev Kit. Slava’s “esp32-ai” project is quite different, as everything runs on the ESP32-S3 microcontroller. This won’t work on all ESP32-S3 as you’ll need enough memory and storage to store the 14.9MB (4-bit) model file, and Slava tested his demo on an ~$8 ESP32-S3 board with 512KB SRAM+8MB SPRAM and 16MB flash connected to a small I2C display to display short stories. Dave Bennett already did something similar with the ESP32-LLM project, but it only relied [...] The post 28.9M-parameter LLM runs locally on ESP32-S3 at 9 tokens/s appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-3121d2b8778f276c</guid>
-      <pubDate>Mon, 03 Aug 2026 10:40:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
