@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>ICYMI: Python on Microcontrollers Newsletter: openbricks your ESP32 robot, CircuitPython Day, Python Guitar Pedal and More!</title>
+      <link>https://blog.adafruit.com/2026/08/18/icymi-python-on-microcontrollers-newsletter-openbricks-your-esp32-robot-circuitpython-day-python-guitar-pedal-and-more/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,382 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1d405497e82c9f85</guid>
+      <pubDate>Tue, 18 Aug 2026 13:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch Soldering Up Close and From Any Angle, in VR</title>
+      <link>https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/</link>
+      <description>A manual skill like soldering is so much easier to learn and grasp when one can watch it in action, and there’s a brand new way to do that using …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4912d57101fdc331</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Thing Solves Communication for Married Introverts</title>
+      <link>https://www.hackster.io/news/this-thing-solves-communication-for-married-introverts-c6088c56e4db</link>
+      <description>Thumblegudget helped his wife accommodate his introversion by designing this clever device inspired by old-fashioned ship telegraph systems.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-ace02d4db22f2132</guid>
+      <pubDate>Tue, 18 Aug 2026 00:37:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/08/17/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-17/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9a0b2bab58fe5645</guid>
+      <pubDate>Mon, 17 Aug 2026 21:09:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Miss Twisted’s Mermaid Ballgown Fin Prop</title>
+      <link>https://blog.adafruit.com/2026/08/17/mermaid-ballgown-fin-prop/</link>
+      <description>Miss Twisted made this incredible fin prop for their mermaid ballgown. If you’re working on your own mermaid costume and looking to add more props, check out these guides from Erin St. Blaine in the Adafruit Learn System. Glowing Scale Armor Light-Up Costumes in Harsh Environments Ursula’s Seashell Necklace</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4ac509009ea4ab98</guid>
+      <pubDate>Mon, 17 Aug 2026 20:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senior Design Verification Engineer</title>
+      <link>https://www.espressif.com/en/company/job-opportunities/job-search/senior-design-verification-engineer</link>
+      <description>Language English Description: We are looking for a Senior Design Verification Engineer to work on Espressif's next-generation wireless and AI-capable SoCs. You will work closely with RTL designers and chip architects, and provide technical leadership within a small verification sub-team.Job Responsibilities1. Define verification plans and test cases based on design specifications, and own the verification environment end-to-end2. Collaborate with design engineers to identify and resolve design defects, and continuously drive verification coverage improvement3. Maintain simulation/verification environments using industry-standard EDA tools4. Write scripts to automate testing workflows in Python, Perl, TCL, or Shell5. Track and report code/functional coverage metrics; identify and close gaps before tapeout6. Debug failures and root-cause issues, working closely with designers to resolve issues7. Leverage AI tools to optimize verification flows and improve team-wide efficiency8. Mentor junior verification engineers and provide technical guidance across the teamJob Requirements1. Bachelor's degree or above in Electronic Engineering, Computer Engineering, Computer Science, or a related field2. Preferably 3+ years of ASIC/SoC/IP design verification experience3. Proficiency in Verilog, SystemVerilog, UVM, and C4. Proficiency in scripting languages such as Python, Perl, Shell, or TCL5. Strong interest in exploring and adopting AI tools to improve day-to-day engineering productivity and verification efficiencyJob Location Select: SingaporeJob Status: HideResume Inbox: recruit.sgpr@espressif.comJob Sort: 0Job Classification: ExperiencedJob Function: IC DesignPortfolio Required: No</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-219a35413acf79ca</guid>
+      <pubDate>Mon, 17 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Runar Tenfjord Releases an Open Dev Board for the STMicro STM32C5 — With Oberon-2 Support</title>
       <link>https://www.hackster.io/news/runar-tenfjord-releases-an-open-dev-board-for-the-stmicro-stm32c5-with-oberon-2-support-92a0475c07a1</link>
@@ -758,54 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-b05aec1e407fe9b2</guid>
       <pubDate>Tue, 04 Aug 2026 20:49:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Arduino IMU daemon library for marine and robotics navigation</title>
-      <link>https://blog.adafruit.com/2026/08/04/an-arduino-imu-daemon-library-for-marine-and-robotics-navigation/</link>
-      <description>ImudClient is an Arduino client library for imud — an IMU daemon for marine and robotics navigation that fuses gyro/accel/ magnetometer data with a Kalman filter and publishes attitude (heading, roll, pitch, quaternion, rate of turn, heave, sea state…) over TCP or UDP. ImudClient receives, validates, and decodes imud’s binary packets on ESP32-class boards — […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a5aed753b3577291</guid>
-      <pubDate>Tue, 04 Aug 2026 19:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How our tiny computers learnt to count sheep (and spot hi-vis jackets)</title>
-      <link>https://www.raspberrypi.com/news/how-our-tiny-computers-learnt-to-count-sheep-and-spot-hi-vis-jackets/</link>
-      <description>Exploring the rise of artificial intelligence and how Raspberry Pi is making an impact at the edge. The post How our tiny computers learnt to count sheep (and spot hi-vis jackets) appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-39723ae58eb2901a</guid>
-      <pubDate>Tue, 04 Aug 2026 16:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turn your framework 12 into a creaky wooden door</title>
-      <link>https://blog.adafruit.com/2026/08/04/turn-your-framework-12-into-a-creaky-wooden-door/</link>
-      <description>Arca Cengiz has created creakwork12 which turns your Framework 12 laptop into a creaky wooden door It’s basically this (that was also the inspiration too) but ported to a fw12. It may or may not work on other laptops too, I haven’t tested it. The filtering is optimised for framework 12’s hinge stiffness. See this […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-72bec85bc1daf87b</guid>
-      <pubDate>Tue, 04 Aug 2026 13:28:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Installing structural beams on a ceiling to support art installations  #ArtTuesday</title>
-      <link>https://blog.adafruit.com/2026/08/04/installing-structural-beams-on-a-ceiling-to-support-art-installations-arttuesday/</link>
-      <description>Patten Studio is no stranger to using structural beams to support art projects, whether on a floor, wall, or ceiling. In their latest work, they are designing another suspended light sculpture. We’ve built a bunch of ceiling-mounted sculptures in recent years. (Check out our Instagram to see All Points Canada and Ceramic Cloud installed at Google Toronto. Shoutout SOSO for two […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f05de28f14ebe426</guid>
-      <pubDate>Tue, 04 Aug 2026 12:58:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>This DIY Robot Will Haul Your Beach Gear For You</title>
-      <link>https://www.hackster.io/news/this-diy-robot-will-haul-your-beach-gear-for-you-d2d4d2c8c246</link>
-      <description>Tired of hauling beach gear? John Boss built an ESP32-powered robot to drive his cooler around for him.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-a9fd2d6295a9ef10</guid>
-      <pubDate>Tue, 04 Aug 2026 12:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Byte Magazine’s “Technological Breakthrough” cover re-created as a photograph  #ArtTuesday</title>
-      <link>https://blog.adafruit.com/2026/08/04/byte-magazines-technological-breakthrough-cover-re-created-as-a-photograph-arttuesday/</link>
-      <description>Bob Alexander at Galactic Studios has been recreating Robert Tinney’s Byte magazine paintings as photographs. The latest work is “Technological Breakthrough”. Byte’s January 1986 issue had a focus on robotics. Mr. Tinney painted a robot claw hatching out of an egg. As I’ve done with several other Byte covers, I re-created Tinney’s vision as if it […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-385765d333b5e902</guid>
-      <pubDate>Tue, 04 Aug 2026 12:27:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
