@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Teaching Drones to Play Tag Like a Puppy Could Deliver a Big Boost in Autonomy</title>
+      <link>https://www.hackster.io/news/teaching-drones-to-play-tag-like-a-puppy-could-deliver-a-big-boost-in-autonomy-02ef1aa4b6d1</link>
+      <description>Reinforcement learning delivers mini-drones capable of evading pursuers — and even causing them to crash into each other.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-81f38991a1439e9a</guid>
+      <pubDate>Wed, 19 Aug 2026 11:27:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simple DIY STM32 Oscilloscope Project</title>
+      <link>https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/</link>
+      <description>In part one of what is intended to be a series on developing an STM32-based oscilloscope, [BTTLab] demonstrates a how to use the built-in ADC of an STM32F207 MCU to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-73a4dbded92508de</guid>
+      <pubDate>Wed, 19 Aug 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices</title>
+      <link>https://www.cnx-software.com/2026/08/19/pine64-hits-pause-on-linux-devices-due-to-ram-and-emmc-shortage-high-prices/</link>
+      <description>While some companies keep increasing prices, the Pine64 community has now announced they don’t intend to manufacture Linux devices due to the current RAM and eMMC flash shortage and related high prices. Pine64 started with the launch of the Pine A64 development board in 2015, and since then they have launched more Arm and RISC-V Linux SBCs, Linux smartphones, and Linux tablets and e-Readers. We used to get several announcements per year, but this year so far, we only covered one: the Pine64 PineVoice. But it’s not a Linux device, and instead, a smart speaker based on a BL602 RISC-V microcontroller. Here’s the full (unedited) announcement published on Telegram, which you should also find on other Pine64 channels: Hi everyone! Just a quick reminder that due to the current DRAM/eMMC shortage, there isn’t any plans to continue producing more Linux devices in the near future. Whether production continues or not [...] The post Pine64 hits pause on Linux devices due to RAM and eMMC shortage/high prices appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-0f197d3bc32130da</guid>
+      <pubDate>Wed, 19 Aug 2026 10:29:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>PwrBlock 323 – A USB-C PD programmable power supply for automated test fixtures (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/08/19/pwrblock-323-usb-c-pd-programmable-power-supply-for-automated-test-fixtures/</link>
+      <description>Finland-based Everypin has introduced the PwrBlock 323, a programmable USB-C PD power supply designed specifically for automated test fixtures. It can provide 1 to 32V at up to 3A, with up to 92W output from a 100W USB-C PD source, and supports software-controlled power switching, voltage and current measurement, and power cycling for a device under test (DUT). The company highlights that the PwrBlock 323 can be mounted inside a test jig or stand using its mounting points and pin headers to control and power the DUT directly as part of the automated test sequence. It adds one more option to USB-C programmable lab power supplies such as Ampisu, PocketPD, and BenchVolt PD, PwrBlock 323 specifications: MCU – STMicro STM32G0C1CEU Arm Cortex-M0+ microcontroller USB 2x USB Type-C ports for power and control 10-pin IDC USB control connector (connects to a host computer or test controller over USB) Expansion – 40-pin [...] The post PwrBlock 323 – A USB-C PD programmable power supply for automated test fixtures (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-cc0390f563623947</guid>
+      <pubDate>Wed, 19 Aug 2026 09:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Compute Module 5 gets an official programming jig</title>
+      <link>https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/</link>
+      <description>The Raspberry Pi Compute Module 5 Programming Jig is a single-head provisioning system designed to easily flash an OS to the Raspberry Pi CM5 without a carrier board. The jig connects to the provisioning network via Ethernet or Wi-Fi and also features a second Ethernet port for the Compute Module. The CM5 is kept in place by a mechanical clamping mechanism, and the jig relies on pogo pins to interface with the Compute Module. Specifications: Features Provisioning head Pogo pin interface Mechanical clamping mechanism Compatible with Raspberry Pi Compute Module 5 Connectivity JIG ETH – Gigabit Ethernet RJ45 jack for connecting the jig to the network; note DUT ETH – Gigabit Ethernet RJ45 jack for connecting the CM5 to the network WiFi with external antenna, as an alternative to JIG ETH USB-C boot connector to connect to the host Misc – LED status indicators Power – 12V/2A (24W) DC via power [...] The post Raspberry Pi Compute Module 5 gets an official programming jig appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-dac9d5b31fb7c6a4</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Raspberry Pi Compute Module 5 Programming Jig</title>
+      <link>https://www.raspberrypi.com/news/introducing-the-raspberry-pi-compute-module-5-programming-jig/</link>
+      <description>Provision Raspberry Pi Compute Module 5 at scale with the Raspberry Pi Compute Module 5 Programming Jig, on sale now. The post Introducing the Raspberry Pi Compute Module 5 Programming Jig appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-3980919dbea80795</guid>
+      <pubDate>Wed, 19 Aug 2026 06:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Benchmark-pocalypse</title>
+      <link>https://blog.adafruit.com/2026/08/18/the-benchmark-pocalypse/</link>
+      <description>There’s been a lot of talk about the vuln-pocalypse, to which Dan Luu doesn’t have much to add because Dan isn’t not a security person. But there hasn’t been much discussion on the closely related (and to be fair, less serious, issue), the benchmark-pocalypse. While it’s become easier than ever to make serious performance gains, […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5d2660f6ea7ad3e8</guid>
+      <pubDate>Tue, 18 Aug 2026 21:19:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wide format scanning using photography on a train or ferry</title>
+      <link>https://blog.adafruit.com/2026/08/18/wide-format-scanning-using-photography-on-a-train-or-ferry/</link>
+      <description>Philomena posts on Philo’s Website about using an industrial linear scanning camera to take very wide photos out of trains and ferries. Getting it working has been quite the challenge, but I think the results speak for themselves. The camera is pointed out of a moving vehicle and is constantly capturing a single vertical line […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ab08a37d10af86da</guid>
+      <pubDate>Tue, 18 Aug 2026 21:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta files a patent for facial recognition and automatic recording of people</title>
+      <link>https://blog.adafruit.com/2026/08/18/meta-files-a-patent-for-facial-recognition-and-automatic-recording-of-people/</link>
+      <description>Meta has filed for a patent that includes a “memory recall” system that appears to: detect people via facial recognition, record them automatically, and show you a highlights reel later. Meta’s Ray-Ban smart glasses have garnered a reputation as “covert/spy” glasses, with many reports of them being used to record people surreptitiously using the onboard […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6e962480b1d90c11</guid>
+      <pubDate>Tue, 18 Aug 2026 20:47:41 +0000</pubDate>
+    </item>
     <item>
       <title>ICYMI: Python on Microcontrollers Newsletter: openbricks your ESP32 robot, CircuitPython Day, Python Guitar Pedal and More!</title>
       <link>https://blog.adafruit.com/2026/08/18/icymi-python-on-microcontrollers-newsletter-openbricks-your-esp32-robot-circuitpython-day-python-guitar-pedal-and-more/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-b1a3076dc9cf2cef</guid>
       <pubDate>Thu, 06 Aug 2026 11:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build a Raspberry Pi Pico route finder using Dijkstra’s algorithm</title>
-      <link>https://www.raspberrypi.com/news/build-a-raspberry-pi-pico-route-finder-using-dijkstras-algorithm/</link>
-      <description>Build a pocket-sized route finder with Raspberry Pi Pico and navigate your way to treasure using proper computer science. The post Build a Raspberry Pi Pico route finder using Dijkstra’s algorithm appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-77a10b12e450058c</guid>
-      <pubDate>Thu, 06 Aug 2026 09:51:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Only the Hottest Tunes Play on This Fire Organ</title>
-      <link>https://hackaday.com/2026/08/06/only-the-hottest-tunes-play-on-this-fire-organ/</link>
-      <description>Most musical organs use air as their working fluid, but there’s nothing in the rule book that says they have to. Calliopes have used steam for 150 years now, while …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7ed9cfba909619b9</guid>
-      <pubDate>Thu, 06 Aug 2026 08:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1764 – Can I Retire Now?</title>
-      <link>https://www.eevblog.com/2026/08/06/eevblog-1764-can-i-retire-now/</link>
-      <description>I guess I have 1 million subscribers now. Forum: https://www.eevblog.com/forum/blog/eevblog-1764-can-i-retire-now/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-baa532b02d5ea02b</guid>
-      <pubDate>Thu, 06 Aug 2026 01:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Practice When You Can Build a Motorized Badminton Racket?</title>
-      <link>https://www.hackster.io/news/why-practice-when-you-can-build-a-motorized-badminton-racket-f8ad246985b7</link>
-      <description>Instead of practicing badminton, a former NASA engineer built a motorized, twin-racket spinning robot to smash his rival into submission.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-60533f844e9dd78e</guid>
-      <pubDate>Wed, 05 Aug 2026 19:35:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creality's Pika Puts a Dual-Mode Laser/NIR 3D Scanner in Your Pocket — With Gaussian Splatting Soon</title>
-      <link>https://www.hackster.io/news/creality-s-pika-puts-a-dual-mode-laser-nir-3d-scanner-in-your-pocket-with-gaussian-splatting-soon-f904b18bffd4</link>
-      <description>Sub-$700 scanner include seven-beam parallel blue laser and near-infrared scanning modes, and comes with two batteries included.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-271674b726f37b03</guid>
-      <pubDate>Wed, 05 Aug 2026 12:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could Camera Hardware Be The Physical Equivalent to USB-C?</title>
-      <link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link>
-      <description>[Mansour] presents an interesting idea in his essay A Common Thread — just as USB-C has become the “One Connector To Rule Them All” in the world of electronics, so …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-6c96abd858c01d36</guid>
-      <pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks</title>
-      <link>https://www.cnx-software.com/2026/08/05/zectrix-note-4-a-4-2-inch-esp32-s3-wireless-e-paper-display-for-voice-tasks/</link>
-      <description>Designed by ZecTrix Lab in China, the Note 4 is an ESP32-S3-based AI smart note with a 4.2-inch e-paper display and built-in voice input. The device is designed to display reminders, notes, clocks, weather, images, and custom templates, while the Note 4C variant replaces the monochrome display with a four-color e-paper panel. The device features 2.4GHz Wi-Fi and Bluetooth 5.0 connectivity, a microphone, a speaker, NFC, physical buttons, a USB Type-C port, a 2,000mAh rechargeable battery, and GPIO expansion for custom hardware projects. ZecTrix Note 4 / Note 4C specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Display Note 4 – 4.2-inch monochrome E-Ink display, 400 × 300 resolution; supports partial refresh Note 4C – 4.2-inch four-color (BWRY) E-Ink display, [...] The post ZecTrix Note 4 – A 4.2-inch ESP32-S3 wireless e-paper display for voice tasks appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-32ebe4d4480af8aa</guid>
-      <pubDate>Wed, 05 Aug 2026 04:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Negative electrical resistance</title>
-      <link>https://blog.adafruit.com/2026/08/04/negative-electrical-resistance/</link>
-      <description>Michal Zalewski on the lcamtuf’s thing website writes: If you tinker with analog electronics, you might have heard that some circuits can exhibit negative resistance. This is usually followed by a current-to-voltage plot featuring some sort of a kinked curve and an assertion that this property might help the circuit designer in some way. But […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ab9a85e1f46d027b</guid>
-      <pubDate>Tue, 04 Aug 2026 21:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>A drum style mechanical television you can build yourself</title>
-      <link>https://blog.adafruit.com/2026/08/04/a-drum-style-mechanical-television-you-can-build-yourself/</link>
-      <description>Scanwheel is a drum style mechanical television you can build yourself. It features five windows side by side, each taking advantage of the same scanning drum, but with separate LEDs to allow separate images. The windows are a luxurious 9mm x 8mm each, with 20 scan lines. The software uses the Raspberry Pi Pico’s PIO […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b05aec1e407fe9b2</guid>
-      <pubDate>Tue, 04 Aug 2026 20:49:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
