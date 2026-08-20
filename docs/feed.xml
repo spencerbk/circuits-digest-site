@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Momo Creepy smile mask #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/20/momo-creepy-smile-mask-3dthursday-3dprinting/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Momo smile mask By cforms makerworld.com/en/models/1839027-creepy-smile-horror-mask-2-wearable Bambu X1C PolyMaker PLA 5hr 16mins X:176 Y:173 Z:67mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 102g 230mm/s Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6545730119a36213</guid>
+      <pubDate>Thu, 20 Aug 2026 13:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>A star racing at 15,000 miles per second tests Einstein theory of relativity</title>
+      <link>https://blog.adafruit.com/2026/08/20/a-star-racing-at-15000-miles-per-second-tests-einstein-theory-of-relativity/</link>
+      <description>The Milky Way galaxy is anchored by a supermassive black hole named Sagittarius A*, that has a mass over four million times greater than the sun. While Sagittarius A* exerts an influence on everything inside its cosmic neighborhood, astronomers have detected one particular cosmic thrall that may offer a glimpse into some of the universe’s […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4be0a8ca22e08a15</guid>
+      <pubDate>Thu, 20 Aug 2026 12:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>UPDATED GUIDE: Adafruit SCD-4x – True CO2 Temperature and Humidity Sensors #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/08/20/updated-guide-adafruit-scd-4x-true-co2-temperature-and-humidity-sensors-adafruitlearningsystem-adafruit/</link>
+      <description>The Adafruit SCD-4x guide has been updated with information on how to interface with the new SCD-43 sensor breakout. The same Arduino and CircuitPython drivers and examples can be used with this board for all of your CO2, temperature and humidity sensing needs. Read more at Adafruit SCD-4x – True CO2 Temperature and Humidity Sensors</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d9da530a27e98c4f</guid>
+      <pubDate>Thu, 20 Aug 2026 12:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Takamori Robot's HIRO Is a Second-Generation Raspberry Pi Pico 2-Powered DIY Robot Kit</title>
+      <link>https://www.hackster.io/news/takamori-robot-s-hiro-is-a-second-generation-raspberry-pi-pico-2-powered-diy-robot-kit-da06d5211e8d</link>
+      <description>Lessons learned from the original HIRO campaign have led to a new and improved version of the educational robot kit.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-96ac238dc2d7a5f8</guid>
+      <pubDate>Thu, 20 Aug 2026 11:28:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teardown Shows Low-Fi Microphone is Surprisingly Sophisticated</title>
+      <link>https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/</link>
+      <description>The Ting FX EP-2350 by Teenage Engineering is a standalone microphone with a few extras, including samples and built-in effect presets that can be modified by the user. It also …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a4cc6058eea066dd</guid>
+      <pubDate>Thu, 20 Aug 2026 11:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keep coding when your internet drops: Offline support in the Code Editor</title>
+      <link>https://www.raspberrypi.org/blog/offline-support-in-the-code-editor/</link>
+      <description>Our free, browser-based Code Editor now keeps working when your internet connection doesn’t. If your connection breaks in the middle of a lesson or a project, you can carry on writing and running your code without disruption, even if the page is reloaded. Why we built this An unstable internet connection is a minor annoyance… The post Keep coding when your internet drops: Offline support in the Code Editor appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-182f4ac8e772c870</guid>
+      <pubDate>Thu, 20 Aug 2026 10:31:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards?</title>
+      <link>https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/</link>
+      <description>Yesterday I received an email with the subject “Rp2350 pi pico 2 modified one”. I found the request funny because it features an illustration with a Raspberry Pi Pico 2 board and an Apple Lightning cable, and I had no idea why somebody would do that at the time. Coming to my physical address (today!) was also humorous considering where I live… Nevertheless, I decided to share the screenshot above on X, and quickly found out the reasons: jailbreaking/bypassing iDevices with Apple A12/A13 CPUs using the usbliter8 boot ROM exploit by Paradigm Shift. One X user (stacksmashing) even replied: “I literally have this on my desk right now”. The original blog post on Paradigm Shift and the code on GitHub have been taken down due to a U.S. federal court order in a trade-secrets lawsuit filed by Magnet Forensics. But since the cat is out of the bag, forks of [...] The post Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-bc377f568604e494</guid>
+      <pubDate>Thu, 20 Aug 2026 09:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1767 – Harogic PXN-90 9GHz Spectrum Analyser TEARDOWN</title>
+      <link>https://www.eevblog.com/2026/08/20/eevblog-1767-harogic-pxn-90-9ghz-spectrum-analyser-teardown/</link>
+      <description>Teardown and detailed analysis of the Harogic PXN-90 9GHz Spectrum Analyser. https://www.harogic.com/product/harogic-px-series-standard-spectrum-analyzer-receiver/ Forum: https://www.eevblog.com/forum/blog/eevblog-1767-harogic-pxn-90-9ghz-spectrum-analyser-teardown/</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-b3a188107158cf72</guid>
+      <pubDate>Thu, 20 Aug 2026 05:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>eevBLAB 143 – HUGE Youtube Change on View Count</title>
+      <link>https://www.eevblog.com/2026/08/20/eevblab-143-huge-youtube-change-on-view-count/</link>
+      <description>Youtube have just completely changed what constitutes a “view” ! And they have doubled the limit on monestisation thresholds. https://support.google.com/youtube/thread/433409976</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-0aaee390756786c9</guid>
+      <pubDate>Thu, 20 Aug 2026 05:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog Now Available on Spotify</title>
+      <link>https://www.eevblog.com/2026/08/20/eevblog-now-available-on-spotify/</link>
+      <description>All the EEVblog videos are now available on Spotify thanks to Dylan vibe coding a bulk upload engine with Claude AI. No API? No problem! Plus some interesting EEVblog stats. https://open.spotify.com/show/2LsuS1kDu8jbE3GsOxDQrk One day the Spotify Monetisation might come through.</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-84b209d927c5ae52</guid>
+      <pubDate>Thu, 20 Aug 2026 05:05:26 +0000</pubDate>
+    </item>
     <item>
       <title>Teaching Drones to Play Tag Like a Puppy Could Deliver a Big Boost in Autonomy</title>
       <link>https://www.hackster.io/news/teaching-drones-to-play-tag-like-a-puppy-could-deliver-a-big-boost-in-autonomy-02ef1aa4b6d1</link>
@@ -726,86 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-c08349239dd5f07b</guid>
       <pubDate>Fri, 07 Aug 2026 11:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot</title>
-      <link>https://www.cnx-software.com/2026/08/07/geekom-it13-max-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/</link>
-      <description>We’ve just received a sample of the GEEKOM IT13 Max mini PC powered by an Intel Core Ultra 9 185H CPU for review. With up to 35 TOPS, sixteen cores clocked up to 5.1 GHz, and up to 24 GB LPDDR5 memory, the Meteor Lake mini PC is well-suited for AI workloads, creative tasks, coding, and heavy multitasking. Two configurations are available: one with 16 GB DDR5 SODIMM RAM and a 1 TB PCIe Gen4 SSD, and another with 24 GB soldered-on LPDDR5-5600 memory and a 500 GB SSD. Both feature two 40 Gbps USB4 ports, five USB 3.2 Gen 2 Type-A ports, two HDMI 2.0 ports, Wi-Fi 7, Bluetooth 5.4, and dual 2.5 GbE networking, and come pre-installed with Windows 11 Pro. GEEKOM specifically sent us the IT13 Max mini PC with 24 GB LPDDR5 and a 500 GB M.2 SSD for testing. In this article, we will cover [...] The post GEEKOM IT13 Max mini PC review – Part 1: specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-74654fe2d4038186</guid>
-      <pubDate>Fri, 07 Aug 2026 10:06:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>SPOKE: An RP2040-powered touch controller</title>
-      <link>https://www.raspberrypi.com/news/spoke-an-rp2040-powered-touch-controller/</link>
-      <description>SPOKE is a well-designed RP2040-powered touch controller that can also act as a MIDI input or HID. The post SPOKE: An RP2040-powered touch controller appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-3e771d64f3a4c339</guid>
-      <pubDate>Fri, 07 Aug 2026 09:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</link>
-      <description>Fractal Manifold has introduced the Token Monitor, a 4-inch ESP32-S3-based desktop display for monitoring real-time AI coding assistant usage. The device features a 4-inch 480×480 IPS touchscreen with 5-point capacitive touch, Wi-Fi 4 and Bluetooth LE 5 wireless connectivity, USB-C power, optional 1-cell Li-ion battery support via an AXP2101 PMIC, and two side buttons for power and boot functions. It shows usage information including quota consumption, session limits, token counts, reset timers, and estimated token costs. A local broker service fetches the usage data and transfers it to the device over a secure connection, keeping credentials on the user’s machine. Token Monitor specifications: SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Display – 4-inch 480×480 capacitive touchscreen with ST7701 driver and [...] The post Token Monitor – An ESP32-S3 desktop display that tracks AI coding assistant usage (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-cb61d2c6ecaec42e</guid>
-      <pubDate>Fri, 07 Aug 2026 07:15:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proxmox VE now officially supports 64-bit Arm (Aarch64) targets</title>
-      <link>https://www.cnx-software.com/2026/08/07/proxmox-ve-now-officially-supports-64-bit-arm-aarch64-targets/</link>
-      <description>Proxmox has recently announced the first official release of Proxmox Virtual Environment (VE) with support for 64-bit Arm (arm64/aarch64). Until now, the popular virtualization solution was only available for x86-64 (amd64). Proxmox VE 9.2 for arm64 is built on Debian 13.5 “Trixie” with Linux 7.0, and is otherwise based on the same code as the x86-64 version, and relies on the same configuration, tooling, and documentation, except for a few architecture-specific differences. The developers note that Proxmox VE for Arm fully supports NVIDIA Grace Hopper and NVIDIA Vera platforms, and “best-effort” support is available on other UEFI-based Armv8-A/Armv9-A hardware. However, device-tree-only single-board computers, such as the Raspberry Pi, are not supported, since the host must boot through UEFI and describe its hardware through ACPI. Having said that, we previously noted work on an UEFI+ACPI port for the Raspberry Pi 4, and users have already managed to have the release work [...] The post Proxmox VE now officially supports 64-bit Arm (Aarch64) targets appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-e4966b6a93496263</guid>
-      <pubDate>Fri, 07 Aug 2026 03:55:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/06/esp32-devkit-30-pin-usb-c-case-3dthursday-3dprinting/</link>
-      <description>kmccoy shares: A snap-fit case for the 30-pin ESP32 devkit with USB-C connector, presumably fits similar clone versions. Embossed ‘ESP32’ and USB indicator on the inside, plus ‘EN’ and ‘BOOT’ labels on the top surface near access holes. July 2025 update added a bottom variant with bolt hole for Multiboard or OpenGrid mounting. ‘No text’ […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ec9260afee17b199</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waveshare CM4 Case with GPIO #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/06/waveshare-cm4-case-with-gpio-3dthursday-3dprinting/</link>
-      <description>Shared by Rasmussen on MakerWorld: A redesigned enclosure for the Waveshare CM4 IO board with Raspberry Pi 4 Compute Module, adapted to allow full GPIO connector access. Integrated 40mm fan design blows air across the top, around the sides, and out the bottom for effective cooling. Alternative Pi enclosure form-factor for those running Compute Module […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b7cd38428700460f</guid>
-      <pubDate>Thu, 06 Aug 2026 23:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>LED Lamp Kit – Adjustable Desk Lamp with Magnetic Glare Shield #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/06/led-lamp-kit-adjustable-desk-lamp-with-magnetic-glare-shield-3dthursday-3dprinting/</link>
-      <description>PrestigeProto shares: A minimalist Bambu LED Kit lamp with adjustable head and height, mounted on a 1-inch dowel with a thumbscrew for stable rotation lock. Three M3×10mm screws for bracket assembly. Optional print-without-bottom-layer + fill-with-plaster for extra base weight. Magnetic-mounted glare shield attaches with 5×3mm or 6×3mm magnets download the files on: https://makerworld.com/en/models/145041-led-lamp-kit-adjustable-desk-lamp Every Thursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d2f905678a338349</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spider on Web Halloween Decor – Articulated Corner Piece #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/06/spider-on-web-halloween-decor-articulated-corner-piece-3dthursday-3dprinting/</link>
-      <description>dungeandwyve shares: A cute Halloween corner-decor piece with a spider that dangles from a web. Three variants: thinner (1.5hr), thicker solid (2.5hr), and thicker with screw holes (can double as a shelf bracket). The two without screw holes stick on with Command Strips or Blu Tac. Updated version at the designer’s page. By dungeons and […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a672b02707ac75e2</guid>
-      <pubDate>Thu, 06 Aug 2026 12:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>LumoTiles Lamp – Modular Tile-Inspired Bambu LED Kit Design #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/06/lumotiles-lamp-modular-tile-inspired-bambu-led-kit-design-3dthursday-3dprinting/</link>
-      <description>ModularMapping shares: A fast-to-print, easy-assembly modular lamp with no screws, glue, or supports needed. Slide the interlocking side panels into each other, twist the four feet 45° into the base to lock, install the Bambu Lab LED kit, press the panels in, and fit the top. Uses transparent filament for the “windows” for maximum glow […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-84cbe259302b7b41</guid>
-      <pubDate>Thu, 06 Aug 2026 11:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amiga and Commodore, Back Together (Sort Of)</title>
-      <link>https://hackaday.com/2026/08/06/amiga-and-commodore-back-together-sort-of/</link>
-      <description>The story of Commodore, the famous manufacturer of home computers, is a murky one at best. Commodore fans will decry their woeful marketing and dismal product roadmap, while former employees …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b1a3076dc9cf2cef</guid>
-      <pubDate>Thu, 06 Aug 2026 11:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
