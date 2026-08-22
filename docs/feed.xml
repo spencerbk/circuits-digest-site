@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Digi-Comp I, a plastic mechanical computer from 1963</title>
+      <link>https://blog.adafruit.com/2026/08/22/the-digi-comp-i-a-plastic-mechanical-computer-from-1963/</link>
+      <description>Chris Staecker on YouTube presents the Digi-Comp I, a plastic mechanical computer from 1963. This educational toy used logic rods and tubes to simulate binary computation, offering a tangible introduction to programming for kids during the space race era. More resources: Scans of Digi-Comp I documents Digi-Comp I manual scan See the video below:</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-001a341d6229e266</guid>
+      <pubDate>Sat, 22 Aug 2026 13:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building an Analog Geiger Counter</title>
+      <link>https://hackaday.com/2026/08/22/building-an-analog-geiger-counter/</link>
+      <description>These days, it’s plenty easy to build a Geiger counter with a microcontroller that has a nice fancy display and a simple digital readout for how many radiations you’re likely …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-131d4be989213e01</guid>
+      <pubDate>Sat, 22 Aug 2026 11:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sleeper E-bike has Solenoid Display</title>
+      <link>https://hackaday.com/2026/08/22/sleeper-e-bike-has-solenoid-display/</link>
+      <description>[GRMNT] decided to bring his grandpa’s beautiful road bike into the future by making a sleeper e-bike conversion. Going into the project, [GRMNT] didn’t really know what he was working …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9637f5af4a709a56</guid>
+      <pubDate>Sat, 22 Aug 2026 08:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor</title>
+      <link>https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/</link>
+      <description>The ESP32-S31 microprocessor is getting Linux support from Espressif Systems. The ESP32-S31 dual-core RISC-V microprocessor was first unveiled in March, two ESP32-S31 development boards followed in May, and mass production was announced a few weeks ago. The new RISC-V chip features an MMU (Memory Management Unit), which makes Linux much easier to handle, and the development boards also come with 16MB PSRAM, so a minimal Linux image is possible. Moving from theory to practice, Espressif Systems has now released a developer preview version of the ESP Linux BSP for ESP32-S31, and some community Linux ports are also in the works (more on that at the end of the article). Let’s focus on the official ESP Linux BSP. The aforementioned repo only contains the image layout and packaging tools used by the ESP32-S31 Buildroot integration, and the core of the project can be found in the esp-buildroot-external repo with ESP32-S31 NOR boot [...] The post Espressif Systems releases a Linux BSP developer preview for ESP32-S31 RISC-V microprocessor appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-946182b6ef0d3d3e</guid>
+      <pubDate>Sat, 22 Aug 2026 04:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>West of House on a Steam Controller?!</title>
+      <link>https://www.hackster.io/news/west-of-house-on-a-steam-controller-cfee93400023</link>
+      <description>Thanks to Owen Feldman, Zork can now run on the Steam Controller's own internal hardware.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-64e1c49f75a7b7c3</guid>
+      <pubDate>Fri, 21 Aug 2026 23:12:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Sleep with CircuitPython #CircuitPythonDay</title>
+      <link>https://blog.adafruit.com/2026/08/21/deep-sleep-with-circuitpython-circuitpythonday/</link>
+      <description>If you’d like to maximize the battery life on a CircuitPython project, you need to be able to put your program to sleep when it’s not doing something. For instance, you may want to read a temperature or fetch some data only every few minutes or hours. In between, your board can go to sleep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-83bb310527b559a0</guid>
+      <pubDate>Fri, 21 Aug 2026 20:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s Workshop — LIVE! Today CircuitPython Day 8/21/26</title>
+      <link>https://blog.adafruit.com/2026/08/21/john-parks-workshop-live-today-circuitpython-day-8-21-26/</link>
+      <description>Up next! It’s JOHN PARK’S WORKSHOP — LIVE! — Coming up at 4pm ET / 1pm PT Friday, 8/21/26 LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects CircuitPython Parsec Learn Guide Recap Tool Tips Retro Gear! and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e519411a962d68a3</guid>
+      <pubDate>Fri, 21 Aug 2026 19:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-Mosaico V1.0 User Guide</title>
+      <link>https://www.espressif.com/en/node/11109</link>
+      <description>Language English ESP32-S31This user guide will help you get started with ESP-Mosaico and provides detailed information about this development board.latestFriday, August 21, 2026https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s31/esp-mosaico/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-9298234c5569e8b1</guid>
+      <pubDate>Fri, 21 Aug 2026 14:24:37 +0000</pubDate>
+    </item>
     <item>
       <title>Today is CircuitPython Day 2026! Live stream schedule  #CircuitPythonDay2026</title>
       <link>https://blog.adafruit.com/2026/08/21/today-is-circuitpython-day-2026-live-stream-schedule-circuitpythonday2026/</link>
@@ -742,70 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-49fe4e1923f8cb6f</guid>
       <pubDate>Mon, 10 Aug 2026 04:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round Up: Fruit Jam Library – Buttons, Hacking the Teenage Engineering EP-2350 Ting, NeoPixel LED Dress Tutorial and more!</title>
-      <link>https://blog.adafruit.com/2026/08/09/adafruit-weekly-editorial-round-up-fruit-jam-library-buttons-hacking-the-teenage-engineering-ep-2350-ting-neopixel-led-dress-tutorial-and-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. John Park’s CircuitPython Parsec: Fruit […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-19ca67dd4577ab09</guid>
-      <pubDate>Sun, 09 Aug 2026 21:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making a 16×2 LCD 7 Times Bigger</title>
-      <link>https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/</link>
-      <description>UncleStem leveled, er, scaled up 7 times in this video on YouTube: Instead of trying to manufacture a real liquid crystal display, I replaced every LCD pixel with an individually controllable LED and designed custom PCBs to recreate the original 16×2 layout. We’ve got a handful of tradionally sized 16×2 LCDs here and guides too! […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2a7eb6692a123a46</guid>
-      <pubDate>Sun, 09 Aug 2026 14:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Continously Extruding 3D Printed Tubes with Compressed Air</title>
-      <link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link>
-      <description>[Jan] of [Roetz 4.0] has a unique approach to multi-material 3D printing: he’s designed an extruder which takes two different materials and extrudes one as a shell around the other. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-aefe368789d85d67</guid>
-      <pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Whatever Happened to the Computer of Tomorrow, Anyway? The Xerox Alto Story</title>
-      <link>https://hackaday.com/2026/08/09/whatever-happened-to-the-computer-of-tomorrow-anyway-the-xerox-alto-story/</link>
-      <description>You’ve almost certainly heard of the Xerox Alto, the machine that pioneered the desktop-mouse-keyboard interface and inspired Steve Jobs to produce the Apple Lisa and Macintosh computers. It wasn’t just …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-c0a0e396f9bfd488</guid>
-      <pubDate>Sun, 09 Aug 2026 08:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging</title>
-      <link>https://www.cnx-software.com/2026/08/09/matouch-esp32-s3-mauwb-board-integrates-3-95-inch-touchscreen-and-uwb-module-for-indoor-positioning-and-ranging/</link>
-      <description>Makerfabs MaTouch ESP32-S3 MaUWB is a development board that combines an ESP32-S3 wireless MCU, a 3.95-inch touchscreen display, and a UWB module for indoor positioning and ranging applications. The board can be used as a portable positioning terminal. It uses a trilateration algorithm with up to three fixed UWB anchors to calculate the tag’s coordinates in real time. The MaUWB chipset operates on UWB Channel 5 (6489.6 MHz) and supports up to 8 anchors and 64 tags. For portable use, the board includes a LiPo battery connector, charging circuit, and battery level monitoring. MaTouch ESP32-S3 MaUWB specifications: Wireless Module – ESP32-S3-WROOM-1 SoC – Espressif Systems ESP32-S3 CPU – Dual-core Tensilica LX7 up to 240 MHz with vector extension for AI/ML workloads RAM – 512KB SRAM; 8MB PSRAM Wireless – WiFi 4 and Bluetooth LE 5 Storage – 16MB flash Antenna – PCB antenna Storage – MicroSD card slot for local data [...] The post MaTouch ESP32-S3 MaUWB board integrates 3.95-inch touchscreen and UWB module for indoor positioning and ranging appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-f78e6d47c23a3b68</guid>
-      <pubDate>Sun, 09 Aug 2026 03:41:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products 8/07/2026</title>
-      <link>https://blog.adafruit.com/2026/08/08/adafruit-new-products-7-07-2026-2/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debuted 2 New Products. Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special offers, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5dd285e1c1ad6ea9</guid>
-      <pubDate>Sat, 08 Aug 2026 20:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Happy International Cat Day 2026 🌎🐈 #CatsofEngineering #WorldCatDay</title>
-      <link>https://blog.adafruit.com/2026/08/08/happy-international-cat-day-2026-%f0%9f%8c%8e%f0%9f%90%88-catsofengineering-worldcatday/</link>
-      <description>Today is International Cat Day! Every August 8 cats are celebrated globally! Checkout over 165+ Cats of Engineering! If you want to add your feline facilitator visit the “submit a cat” page – CLICK HERE! Make a project with your cat and help from the Adafruit Learning System: Automatic Cat Treat Dispenser Kitty Toe Bean Keypad […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d06278cd6a45a57b</guid>
-      <pubDate>Sat, 08 Aug 2026 13:05:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tim Hunkin’s History Of Arcade Machines</title>
-      <link>https://hackaday.com/2026/08/08/tim-hunkins-history-of-arcade-machines/</link>
-      <description>There was a particular treat at the recent Electromagnetic Field event in the UK, as [Tim Hunkin] delivered a talk on the history of arcade machines. Given that he’s something …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-08256e4e86af2907</guid>
-      <pubDate>Sat, 08 Aug 2026 11:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
