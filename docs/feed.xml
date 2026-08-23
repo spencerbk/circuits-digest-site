@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Bluetooth Shock Collar Keeps Wearer On Task</title>
+      <link>https://hackaday.com/2026/08/23/bluetooth-shock-collar-keeps-wearer-on-task/</link>
+      <description>Like a lot of us [Liam Kloppers] had a problem with doomscrolling. Unwilling to go cold-turkey because he does find some utility in social media. He tried a number of …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-557a458ee5c64b01</guid>
+      <pubDate>Sun, 23 Aug 2026 11:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>So, You Found a Foden Steam Lorry in a Field. What Next?</title>
+      <link>https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/</link>
+      <description>It’s quite likely that many readers will have harbored dreams of owning, or at least driving, a steam engine of some kind. [James Hervey-Bathurst] was lucky enough to do so …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-26c6d94273467eb4</guid>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turning Corroded, Bug-Loving WiiMotes into a Working One</title>
+      <link>https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/</link>
+      <description>A time-honored tradition in the electronics repair business is to make many into one, specifically a stack of broken devices into one that works. So too with a triplet of …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f1e7ae62b63b98aa</guid>
+      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11</title>
+      <link>https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/</link>
+      <description>First introduced in 2025, the Framework Laptop 12 upgradable and repairable laptop has just gotten a new motherboard offered with a choice of Wildcat Lake (Intel Core Series 3) processors from the Core 3 304 up to the Core 7 350. The Wildcat Lake-based convertible Laptop 12 features a 12.2-inch display with 1920 x 1200 resolution, a SO-DIMM slot supporting up to 64GB DDR5, an M.2 2230 NVMe SSD slot, and high-speed connectivity with Thunderbolt 4, WiFi 7, and more. Framework Laptop 12 (Intel Core Series 3) specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Intel Core 5 320 6-core CPU – 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ 1.4/3.4 GHz (Turbo) [...] The post Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-b72b91609fc85b77</guid>
+      <pubDate>Sun, 23 Aug 2026 03:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Perfect Cold Water  #piday #raspberrypi</title>
+      <link>https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/</link>
+      <description>ethan1110lin got tired of lukewarm water and designed a device that notifies them when their water reaches the perfect temperature. Check out the project details on instructables. So what can you do? Or, as a matter of fact, what can a Raspberry Pi do? As it turns out, quite a lot. This single-board computer — […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1c5900adbc7a1130</guid>
+      <pubDate>Sat, 22 Aug 2026 20:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Brooklyn Museum Presents Art of Manga #​ArtOfManga</title>
+      <link>https://blog.adafruit.com/2026/08/22/the-brooklyn-museum-presents-art-of-manga-artofmanga/</link>
+      <description>Coming in October, Art of Manga will bring over 600 drawings from influential manga artists to the East Coast. And Yes! cosplay is encouraged, safely. Art of Manga is the first major exhibition in the Americas to explore manga—Japanese comics and graphic novels—as an art form. Marking its East Coast debut, the Brooklyn Museum’s presentation is […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6146683580289cbe</guid>
+      <pubDate>Sat, 22 Aug 2026 18:01:38 +0000</pubDate>
+    </item>
     <item>
       <title>The Digi-Comp I, a plastic mechanical computer from 1963</title>
       <link>https://blog.adafruit.com/2026/08/22/the-digi-comp-i-a-plastic-mechanical-computer-from-1963/</link>
@@ -758,54 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-a498e68887d748cc</guid>
       <pubDate>Tue, 11 Aug 2026 10:21:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>PewCB One Desktop PCB fabrication system enables rapid prototyping at home</title>
-      <link>https://www.cnx-software.com/2026/08/11/pewcb-one-desktop-pcb-fabrication-system-enables-rapid-prototyping-at-home/</link>
-      <description>PewCB One is a desktop PCB prototyping system designed to accelerate hardware development by manufacturing PCBs at home or in the office in a few hours or less, instead of waiting days for a PCB to come back from the factory. Unlike desktop fabrication methods that rely on chemical processing, the PewCB One is more akin to a fully enclosed laser engraver housed with an integrated air filtration system. Users can perform the full process from double-sided PCB blanks to a complete PCBA at home. PewCB One highlights: Laser Wavelength – 1064 nm Average optical power – 20 W Pulse duration – ~100 ns Spot diameter – 35 μm PCB Blanks Double-sided PCB blanks with vias and plated through-holes Made of copper-clad alumina and zirconia ceramics Dimensions – 23 x 23mm to 84 x 80 mm PCB traces – As low as 0.1mm; formed using laser ablation, a process that removes [...] The post PewCB One Desktop PCB fabrication system enables rapid prototyping at home appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-3d8b64c83917b094</guid>
-      <pubDate>Tue, 11 Aug 2026 04:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICYMI Python on Microcontrollers Newsletter: MicroPython for the bao, CircuitPython Day Soon, Coldcard and More!</title>
-      <link>https://blog.adafruit.com/2026/08/10/icymi-python-on-microcontrollers-newsletter-micropython-for-the-bao-circuitpython-day-soon-coldcard-and-more/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,386 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-829a8f426392cfe3</guid>
-      <pubDate>Mon, 10 Aug 2026 21:07:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>ProvenMetal makes PCBs fast</title>
-      <link>https://blog.adafruit.com/2026/08/10/provenmetal-makes-pcbs-fast/</link>
-      <description>ProvenMetal claim is they makes printed circuit boards (PCB) fast. Speed is our middle name. You ship hardware on a clock. 4 weeks ain’t cuttin it. We do it better. Boards back in as few as five days, or slower and cheaper when the schedule allows. You pick. Fast, and we can prove it. We […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-949a385944978e26</guid>
-      <pubDate>Mon, 10 Aug 2026 20:36:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curiously minty Raspberry Pi Zero cyberdeck</title>
-      <link>https://www.raspberrypi.com/news/curiously-minty-raspberry-pi-zero-cyberdeck/</link>
-      <description>Marrying the Raspberry Pi community's enduring love for cyberdecks and building tiny projects inside Altoids tins. The post Curiously minty Raspberry Pi Zero cyberdeck appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-680aacea0e521ac5</guid>
-      <pubDate>Mon, 10 Aug 2026 12:52:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Triggering Lightning with a Rocket</title>
-      <link>https://hackaday.com/2026/08/10/triggering-lightning-with-a-rocket/</link>
-      <description>Lightning, despite being a common and readily-detected phenomenon, is nevertheless difficult to study. One reason is the difficulty of predicting when and where lightning will strike; tall structures do attract …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-8f71c1791b33efc8</guid>
-      <pubDate>Mon, 10 Aug 2026 11:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port</title>
-      <link>https://www.cnx-software.com/2026/08/10/comu-6-tiny-ch32v203-risc-v-development-board-that-fits-inside-a-usb-port/</link>
-      <description>Over the years, we have seen several tiny “omu” USB boards that share this “fits-in-a-USB-port” form factor. It started with the Tomu, based on a Silicon Labs EFM32 Cortex-M0+, followed by the Fomu with a Lattice iCE40 FPGA, Qomu with an EOS S3 Cortex-M4F MCU and FPGA, and the Somu, a tiny FIDO2 security key. Icy Electronics has now introduced Comu, another tiny development board based on the 144 MHz WCH CH32V203 RISC-V MCU. While measuring just 13 x 9.4 mm (slightly smaller than a microSD card), the board still packs two white LEDs, four capacitive touch buttons, and six GPIOs exposed through test pads. It is designed for bare-metal programming, custom USB HID projects, and USB packet experimentation. Comu specifications: MCU – WCH CH32V203V203F8 CPU – Single-core 32-bit RISC-V clocked at 144MHz Memory – 20KB SRAM Storage – 224KB Flash (64KB of 0-wait Flash and 160KB of normal Flash) [...] The post Comu is a $6 tiny CH32V203 RISC-V development board that fits inside a USB port appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-49fe4e1923f8cb6f</guid>
-      <pubDate>Mon, 10 Aug 2026 04:00:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
