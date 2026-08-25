@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>ICYMI Python on Microcontrollers Newsletter: CircuitPython Day 2026 Wraps, 400th Newsletter, Bao Chip Magic and More!</title>
+      <link>https://blog.adafruit.com/2026/08/25/icymi-python-on-microcontrollers-newsletter-circuitpython-day-2026-wraps-400th-newsletter-bao-chip-magic-and-more/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,369 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f3d3a4fb40a32ad0</guid>
+      <pubDate>Tue, 25 Aug 2026 13:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quest VR Headset Becomes Unlocked Hardware</title>
+      <link>https://hackaday.com/2026/08/25/quest-vr-headset-becomes-unlocked-hardware/</link>
+      <description>The Quest virtual reality headset gets a fully unlocked bootloader thanks to the QuestStack tool, which automates a complex process of privilege escalation to provide stable, privileged access to the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-877800d5dda73cdc</guid>
+      <pubDate>Tue, 25 Aug 2026 11:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supporting a technical AI-focused qualification for young people in England</title>
+      <link>https://www.raspberrypi.org/blog/support-for-ai-focused-qualification-young-people-england/</link>
+      <description>Young people see and use artificial intelligence (AI) systems frequently, and hear a lot about how they are applied across many areas of life. That makes them understandably eager to find out more about how AI works. For some, this interest extends to wanting to experiment with the technology to investigate their own questions and… The post Supporting a technical AI-focused qualification for young people in England appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-c3809a728dfd5b66</guid>
+      <pubDate>Tue, 25 Aug 2026 10:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU</title>
+      <link>https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/</link>
+      <description>The Arduino Ventuno Q is a single board computer pairing a Qualcomm Dragonwing IQ8 (IQ-8275) octa-core Edge AI SoC with an STM32H5F5 Arm Cortex-M33 microcontroller for real-time I/Os. First introduced at Embedded World 2026, the Ventuno Q is the second Qualcomm-based Arduino board after the Arduino UNO Q launched in October 2025. It’s quite a different beast with a larger design featuring 16GB LPDDR5, 64GB eMMC flash, an M.2 socket for NVMe storage, 2.5GbE and Wi-Fi 6 networking, a 4K-capable HDMI output, and two USB 3.2 ports, while still offloading real-time I/O to a Cortex-M33 microcontroller. Arduino Ventuno Q (ABX00181) specifications: SoC – Qualcomm Dragonwing IQ8 (IQ-8275, also known as QCS8275): CPU – Octa-core Kryo Gen 6 (Arm Cortex-A78/A55) processor GPU – Adreno A623 AI accelerator -Hexagon Tensor AI Processor (NPU) up to 40 dense TOPS ISP – Qualcomm Spectra 692/690 ISP Microcontroller (MCU) – STMicro STM32H5F5 CPU core [...] The post $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-1b740abefca0605a</guid>
+      <pubDate>Tue, 25 Aug 2026 08:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Days Of Broadcast Digital TV Could Be Numbered</title>
+      <link>https://hackaday.com/2026/08/25/the-days-of-broadcast-digital-tv-could-be-numbered/</link>
+      <description>When the analog TV signals were turned off in most places around fifteen years ago, their replacement took the form of a set of digital multiplexes. ATSC for North America, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-dfa2163adc2ff99c</guid>
+      <pubDate>Tue, 25 Aug 2026 08:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/</link>
+      <description>Computer Equipment Group has launched the Firehat, an open-source FireWire HAT that adds a native IEEE 1394 / i.LINK / DV port to SBCs with a Raspberry Pi PCIe FFC connector like the Pi 5 or the Radxa ROCK 2F. Built around a VIA VT6315N controller, the Firehat provides a modern way to capture footage from MiniDV, Digital8, DVCAM, DVCPRO, and HDV camcorders. It lets users connect compatible cameras or decks to an SBC and record the original digital DV stream directly to local storage, without legacy computers or discontinued FireWire capture cards. Firehat specifications: Compatibility – Radxa ROCK 2F, Raspberry Pi 5, and other SBCs that expose PCIe over an FPC connector (or via adapter) Controller – VIA VT6315N FireWire / IEEE 1394 controller Display – 1.3-inch monochrome OLED display onboard Camera input port – 6-pin FireWire/i.LINK/DV port Host interface PCIe 2.0 FFC connector for video 40-pin Raspberry Pi [...] The post Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7fe5326830fbf56f</guid>
+      <pubDate>Tue, 25 Aug 2026 07:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5</title>
+      <link>https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/</link>
+      <description>Advantech AOM-6741 is a SMARC 2.2 Full Size module powered by a Qualcomm Dragonwing IQ-9075 octa-core SoC with up to 100 TOPS (INT8) of AI performance, up to 36 GB LPDDR5 memory, and 128GB UFS storage. The module also features two MIPI DSI connectors, at least one MIPI CSI connector, and exposes all I/Os through a standard 314-pin MXM 3.0 edge connector, including four DisplayPort interfaces, dual 2.5GbE, two USB 3.2 Gen2, PCIe Gen3 x2 and x4 interfaces, and more. With support for up to 16 concurrent cameras, the OAM-06741 SoM mainly targets industrial-grade vision intelligence applications. Advantech AOM-6741 specifications: SoC – Qualcomm DragonWing IQ-9075 CPU Octa-core Kryo Gen 6 (Cortex-A78C-based) application cores @ up to 3.2 GHz (according to Advantech, conflicts with earlier announcements mentioning up to 2.36 GHz) Quad-core Cortex-R52 real-time cores @ up to 1.85GHz GPU – Adreno 663 GPU delivering up to 1.2 TFLOPS FP32 with secure [...] The post Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-93f3c1906d83e165</guid>
+      <pubDate>Tue, 25 Aug 2026 03:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Space Invaders for Fruit Jam New Learn Guide</title>
+      <link>https://blog.adafruit.com/2026/08/24/space-invaders-for-fruit-jam-new-learn-guide/</link>
+      <description>Turn your Fruit Jam into a Space Invaders arcade machine you can hook up to any TV. John Park’s new Learn Guide will show you how! pew pew! 👾 Play a game of pixel-accurate Space Invaders, even when you can’t remember where you put your original 1978 Taito or Midway arcade cabinet. Rather than running […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-289a5d6fd24af743</guid>
+      <pubDate>Tue, 25 Aug 2026 00:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electronic component zero orientation for CAD library construction</title>
+      <link>https://blog.adafruit.com/2026/08/24/electronic-component-zero-orientation-for-cad-library-construction/</link>
+      <description>Mentor Graphics Corporation, back in 2010, established a consistent technique for the description of electronic component orientation, and their land pattern geometries, that facilitates and encourages a common data capture and transfer methodology amongst and between global trading partners. IPC, in conjunction with the International Electrotechnical Commission (IEC), have established several standards that are in […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e2adfff02083d11f</guid>
+      <pubDate>Mon, 24 Aug 2026 21:10:52 +0000</pubDate>
+    </item>
     <item>
       <title>Hexagon LED Lights – Modular Panel with Glue or M4 Connections #3DThursday #3DPrinting</title>
       <link>https://blog.adafruit.com/2026/08/24/hexagon-led-lights-modular-panel-with-glue-or-m4-connections-3dthursday-3dprinting/</link>
@@ -734,78 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-7a14a30a845af1f0</guid>
       <pubDate>Thu, 13 Aug 2026 09:39:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to improve students’ problem-solving skills using subgoal labels</title>
-      <link>https://www.raspberrypi.org/blog/how-to-improve-students-problem-solving-skills-using-subgoal-labels/</link>
-      <description>When faced with a programming problem, computing educators often start solving it without a second thought. Before writing a single line of code, experienced programmers use a range of skills to choose their approach and make other key decisions. Thanks to repeated practice, many of these decisions feel automatic and require little conscious thought. However,… The post How to improve students’ problem-solving skills using subgoal labels appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-e7a8f7fc4736494f</guid>
-      <pubDate>Thu, 13 Aug 2026 09:22:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get started with LiteRT on Raspberry Pi</title>
-      <link>https://www.raspberrypi.com/news/get-started-with-litert-on-raspberry-pi/</link>
-      <description>Install and run high-performance on-device AI using the LiteRT CLI tool on Raspberry Pi. The post Get started with LiteRT on Raspberry Pi appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-17114609963fc56e</guid>
-      <pubDate>Thu, 13 Aug 2026 08:41:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forlinx Embedded Targets Reliable Industrial Automation with New TI AM62L32-Powered SBC</title>
-      <link>https://www.hackster.io/news/forlinx-embedded-targets-reliable-industrial-automation-with-new-ti-am62l32-powered-sbc-2fa969b0a2c3</link>
-      <description>Evaluation board includes easy access to a wide range of peripherals plus an industrial-grade temperature rating for improved reliability.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-4b8ae720c83a11de</guid>
-      <pubDate>Wed, 12 Aug 2026 11:49:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Lidar Sensor Could Check Electric Cars for Gas Leaks, Temperature, and More, Researchers Say</title>
-      <link>https://www.hackster.io/news/a-new-lidar-sensor-could-check-electric-cars-for-gas-leaks-temperature-and-more-researchers-say-3ff65bf801f9</link>
-      <description>Rather than just scanning for depth information, a new lidar developed at the Harbin Institute of Technology acts as a multi-modal sensor.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-45f7899d8885ce3d</guid>
-      <pubDate>Wed, 12 Aug 2026 11:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 KB Solitaire Fits in QR-Code, Runs in DOS</title>
-      <link>https://hackaday.com/2026/08/12/3-kb-solitaire-fits-in-qr-code-runs-in-dos/</link>
-      <description>In these days of hundred-gigabyte-and-more monster games, it can be nice to stop and remember what a human can do with assembly language and very, very little storage space. In …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-33e3c790023520c5</guid>
-      <pubDate>Wed, 12 Aug 2026 11:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules</title>
-      <link>https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/</link>
-      <description>Apollo Automation’s ESPHome Starter Kit is the first official ESPHome starter kit designed and engineered by Apollo Automation in partnership with the Open Home Foundation. It features the ESPHome C6 board with the ESP32-C6-MINI-1 wireless module and two FPC expansion connectors for four modules part of the kit for PIR motion, temperature, and humidity sensing, as well as a button, a buzzer, and ten RGB LEDs. ESPHome Starter Kit highlights and specifications: Main board – ESPHome C6 Board Wireless Module – ESP32-C6-MINI-1 with 2.4GHz Wi-Fi 6, Bluetooth LE, and Thread/Zigbee connectivity Expansion – 2x 14-pin FPC connectors Misc Reset and Boot buttons RGB LED Power Supply 5V via USB-C port Optional rechargeable LiPo battery Dimensions – TBD Modules MH-SR602 PIR motion module with 0 to 3.5 m range AHT20F temperature and humidity module with ±0.3 °C and ±2% RH accuracy 10x RGB LEDs and a piezo buzzer via ESPHome Casita [...] The post Apollo Automation launches $40 official ESPHome Starter Kit with ESP32-C6 board, four FPC modules appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-506a56e4c794dbb6</guid>
-      <pubDate>Wed, 12 Aug 2026 10:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC</title>
-      <link>https://www.cnx-software.com/2026/08/12/forlinx-am62l32-local-evm-a-low-power-industrial-sbc-ti-am62l32-cortex-a53-m4f-soc/</link>
-      <description>Forlinx Embedded AM62L32 Local EVM is a low-power industrial SBC built around the Texas Instruments AM62L32 Arm Cortex-A53/M4 hybrid SoC. It is designed for industrial control, IoT gateways, edge computing, embedded HMI, smart security, and other applications. What’s interesting about this board is that it uses a 4-layer integrated PCB design instead of a separate SoM and carrier board configuration that we found on other development platforms like the Calixto Systems AM62L STAMP SOM and iWave Systems AM62Lx SBC. Forlinx AM62L32 Local EVM specifications: SoC – Texas Instruments Sitara AM62L32 dual-core Arm Cortex-A53 processor @ 1.25GHz Memory – 512MB LPDDR4 (Industrial-grade original Winbond W66CP6RBHAGJ) Storage 8GB eMMC flash OSPI Flash (Winbond W25Q128JWSIQ) MicroSD card slot supporting the SD 3.0 protocol Unpopulated OSPI Octal Serial Peripheral footprint GPMC (General-Purpose Memory Controller) Display 4-lane MIPI-DSI up to 1080p60 18-bit RGB (RGB666) LCD interface (multiplexed with GPIO/SPI/I2C) PWM routed for LCD backlight adjustment [...] The post Forlinx AM62L32 Local EVM – A low-power industrial SBC powered by TI’s AM62L32 Cortex-A53/M4F SoC appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d8801ea86468c76e</guid>
-      <pubDate>Wed, 12 Aug 2026 09:14:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263</title>
-      <link>https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/</link>
-      <description>MINISFORUM Elite Mini M2 Air-304 is a barebone mini PC powered by an Intel Core 3 304 Wildcat Lake penta-core processor with a DDR5 SO-DIMM slot and an M.2 PCIe Gen4 x4 socket for NVMe SSD storage. There’s currently a limited number of Wildcat Lake mini PCs which you can purchase or pre-order, such as the Beelink EQi Wildcat Lake and the BOSGAME E6 Eco. These are ready to use out of the box with memory, storage, and Windows 11 pre-loaded. The MINISFORUM model is the first Wildcat Lake barebone mini PC we’ve seen, where users can bring their own memory, storage, and OS. MINISFORUM Elite Mini M2 Air-304 specifications: SoC – Intel Core 3 304 “Wildcat Lake” 5-core CPU – 1x P-core @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) Cache – 6MB L3 cache GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) [...] The post MINISFORUM Elite Mini M2 Air-304 barebone Wildcat Lake mini PC sells for $263 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-891729aa5b1b5a52</guid>
-      <pubDate>Wed, 12 Aug 2026 01:42:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week — 6pm Eastern TODAY! 8/11/26 @adafruit #adafruit #newproductpick</title>
-      <link>https://blog.adafruit.com/2026/08/11/jps-product-pick-of-the-week-6pm-eastern-today-8-11-26-adafruit-adafruit-newproductpick/</link>
-      <description>Come on by for JP’s Product Pick of The Week ! A new product pick will be revealed. The show airs at 4pm ET / 1pm PT Check out the livestream right here inside this product page you won’t want to miss it because there will be a BIG DISCOUNT during the show! Tune in […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-939801267a9295f6</guid>
-      <pubDate>Tue, 11 Aug 2026 19:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
