@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Claude Sonnet plays DOOM on an ESP32-P4</title>
+      <link>https://blog.adafruit.com/2026/08/26/claude-sonnet-plays-doom-on-an-esp32-p4/</link>
+      <description>Andrea Ricci ported DOOM to SCINTIX P4 (an ESP32-P4 + ESP32-C6 module in the Raspberry Pi CM4/CM5 form factor) and then let Claude Sonnet play it. The game runs on a 1024×600 MIPI-DSI panel, hardware-scaled to 30 FPS by the P4’s PPA. A small WebSocket “lockstep” API + an MCP server expose the running game […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1ba1701653ffff22</guid>
+      <pubDate>Wed, 26 Aug 2026 13:43:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>JP’s Product Pick of the Week 8/25/26</title>
+      <link>https://blog.adafruit.com/2026/08/26/jps-product-pick-of-the-week-8-25-26/</link>
+      <description>New time, same John Park. Be sure to tune in at noon pacific and 3 eastern to catch the livestream moving forward. And now to the main reason you’re here – this week’s pick! Learn about Adafruit APDS9999 Proximity, Lux Light &amp; Color Sensor and how to use it, catch a live demo, and more […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-bf27595ad11d5543</guid>
+      <pubDate>Wed, 26 Aug 2026 12:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy Women’s Equality Day 2026 #WomensEqualityDay #WED #WED2026</title>
+      <link>https://blog.adafruit.com/2026/08/26/happy-womens-equality-day-2026/</link>
+      <description>Women’s Equality Day honors the ratification of the 19th Amendment, continuing efforts toward equality, and the ongoing fight for the adoption of the Equal Rights Amendment. Resources, events, and additional information: National Women’s History Alliance: Women’s Equality Day 2026 New York Almanack: Women’s Equality Day Events: 250 Years of Marching Toward Equality Hudson County, New […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4f2c2c42255dc361</guid>
+      <pubDate>Wed, 26 Aug 2026 12:30:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Plays DOOM</title>
+      <link>https://hackaday.com/2026/08/26/claude-plays-doom/</link>
+      <description>Large language models (LLMs) are generally thought of as machines that accept textual prompts and spit out textual content. However, if you’re creative in the way you interface with them, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-dd427f6667a9243b</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications</title>
+      <link>https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/</link>
+      <description>Banana Pi BPI-AI2N is a system-on-module (SoM) powered by a Renesas RZ/V2N quad-core Cortex-A55 microprocessor with a 15 TOPS (sparse) DRP-AI3 accelerator for Vision AI workloads. The module features 8GB LPDDR4x, 32GB eMMC flash, 64MB SPI flash, two Gigabit Ethernet controllers, a PMIC, and exposes all I/Os through a 260-pin SO-DIMM connector. The company also provides a Jetson Nano-inspired carrier board with a MIPI DSI connector, two MIPI CSI connectors, two GbE RJ45 ports, two USB 3.0 ports, an M.2 socket for NVMe SSD storage, a 40-pin GPIO header, and more. Banana Pi BPI-AI2N-Core SoM specifications: SoC – Renesas RZ/V2N CPU Quad-core Arm Cortex-A55 @ 1.8 GHz Arm Cortex-M33 @ 200 MHz GPU – Arm Mali-G31 3D graphics engine (GE3D) with OpenGL ES 3.2 and OpenCL 2.0 FP VPU – Encode &amp; decode H.264 – Up to 1920×1080 @ 60 fps (Renesas specs, but SOMDEVICES also mentions up to 4K @ [...] The post Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-9415dd7aa4e72638</guid>
+      <pubDate>Wed, 26 Aug 2026 10:56:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Controller Makes Heavy Machinery Intuitive</title>
+      <link>https://hackaday.com/2026/08/26/new-controller-makes-heavy-machinery-intuitive/</link>
+      <description>As children, many of us looked wistfully into the cockpits of heavy machinery, wondering just how the series of knobs and levers would do something like operate a bulldozer, crane, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-cb929b427b9c7ce7</guid>
+      <pubDate>Wed, 26 Aug 2026 08:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Guy Built a Working Mazda Suitcase Car</title>
+      <link>https://www.hackster.io/news/this-guy-built-a-working-mazda-suitcase-car-34c30a0e63d5</link>
+      <description>The boys at the Bucket YouTube channel wanted something very special and had to build it themselves: the Mazda Suitcase Car.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-534895dc79a846ad</guid>
+      <pubDate>Tue, 25 Aug 2026 23:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs</title>
+      <link>https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/</link>
+      <description>Lantronix Open-M 720G and 520G are compact (43x44mm) LGA system-on-modules (SoM) powered by 6nm MediaTek Genio 720 and Genio 520 SoCs, offering an AI performance of 10 TOPS, and designed for Edge IoT applications running low-power Vision AI and GenAI tasks. The Genio 720 dual-camera module ships with 8GB LPDDR5 and the Genio 520 single-camera module with 4GB LPDDR5. Both offer 128GB UFS storage, Gigabit Ethernet, optional WiFi 6 and Bluetooth 5.3 connectivity, dual display support, audio inputs/outputs, USB 3.2/2.0 interfaces, PCIe Gen2 x1, and more. Lantronix Open-M 720G/520G specifications: SoC (one or the other) MediaTek Genio 520 (MT8371) CPU – 2x Cortex-A78 up to 2.2GHz, 6x Cortex-A55 up to 2.0 GHz GPU – Arm Mali-G57 MC2 up to 880 MHz VPU Video Decode – Up to 1920 x 1200 @ 60fps Video Encode – Up to 1920 x 1200 @ 60fps ISP – 1x ISP NPU – NPU850 AI accelerator [...] The post Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-13b305c359fa4f6f</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:44 +0000</pubDate>
+    </item>
     <item>
       <title>ICYMI Python on Microcontrollers Newsletter: CircuitPython Day 2026 Wraps, 400th Newsletter, Bao Chip Magic and More!</title>
       <link>https://blog.adafruit.com/2026/08/25/icymi-python-on-microcontrollers-newsletter-circuitpython-day-2026-wraps-400th-newsletter-bao-chip-magic-and-more/</link>
@@ -34,7 +98,7 @@
     <item>
       <title>$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU</title>
       <link>https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/</link>
-      <description>The Arduino Ventuno Q is a single board computer pairing a Qualcomm Dragonwing IQ8 (IQ-8275) octa-core Edge AI SoC with an STM32H5F5 Arm Cortex-M33 microcontroller for real-time I/Os. First introduced at Embedded World 2026, the Ventuno Q is the second Qualcomm-based Arduino board after the Arduino UNO Q launched in October 2025. It’s quite a different beast with a larger design featuring 16GB LPDDR5, 64GB eMMC flash, an M.2 socket for NVMe storage, 2.5GbE and Wi-Fi 6 networking, a 4K-capable HDMI output, and two USB 3.2 ports, while still offloading real-time I/O to a Cortex-M33 microcontroller. Arduino Ventuno Q (ABX00181) specifications: SoC – Qualcomm Dragonwing IQ8 (IQ-8275, also known as QCS8275): CPU – Octa-core Kryo Gen 6 (Arm Cortex-A78/A55) processor GPU – Adreno A623 AI accelerator -Hexagon Tensor AI Processor (NPU) up to 40 dense TOPS ISP – Qualcomm Spectra 692/690 ISP Microcontroller (MCU) – STMicro STM32H5F5 CPU core [...] The post $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU appeared first on CNX Software - Embedded Systems News.</description>
+      <description>The Arduino Ventuno Q is a single board computer pairing a Qualcomm Dragonwing IQ8 (IQ-8275) octa-core Edge AI SoC with an STM32H5F5 Arm Cortex-M33 microcontroller for real-time I/Os. First introduced at Embedded World 2026, the Ventuno Q is the second Qualcomm-based Arduino board after the Arduino UNO Q launched in October 2025. It’s quite a different beast with a larger design featuring 16GB LPDDR5, 64GB eMMC flash, an M.2 socket for NVMe storage, 2.5GbE and Wi-Fi 6 networking, a 4K-capable HDMI output, and two USB 3.2 ports, while still offloading real-time I/O to a Cortex-M33 microcontroller. Arduino Ventuno Q (ABX00181) specifications: SoC – Qualcomm Dragonwing IQ8 (IQ-8275, also known as QCS8275): CPU – Octa-core Kryo Gen 6 (Arm Cortex-A78/A55) processor GPU – Adreno A623 AI accelerator -Hexagon Tensor AI Processor (NPU) up to 40 dense TOPS ISP – Qualcomm Spectra 692/690 ISP Microcontroller (MCU) – STMicro STM32H5F5 CPU core – [...] The post $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU appeared first on CNX Software - Embedded Systems News.</description>
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-1b740abefca0605a</guid>
       <pubDate>Tue, 25 Aug 2026 08:00:50 +0000</pubDate>
@@ -742,70 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-37ed5feee49bd06c</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Articulated Skeleton Halloween Flexy – Print-in-Place with Keychain #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/13/articulated-skeleton-halloween-flexy-print-in-place-with-keychain-3dthursday-3dprinting/</link>
-      <description>Shared by Printpals on MakerWorld: A funny human skeleton — articulated and flexible for easy posing, quick to print, and simple to assemble. Print-in-place, no supports. Includes a keychain hole on top of the head. Alternative Halloween skeleton variant. Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3D […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a92d93e02cd045a3</guid>
-      <pubDate>Thu, 13 Aug 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flexi Skeleton – Fun and Spooky with GITD + Magnet + Keychain #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/13/flexi-skeleton-fun-and-spooky-with-gitd-magnet-keychain-3dthursday-3dprinting/</link>
-      <description>michelem shares: A jiggly articulated skeleton with head, arms, torso, and legs that shake when moved. Print-in-place with only 27 minutes in single color or 1 hour multicolor. Glow-in-the-dark filament recommended. Includes magnet slot (fridge companion) and keyring hole. Alternative Halloween skeleton — GITD-friendly and fastest to print of the batch. By Michele download the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ee33eb875f5d3807</guid>
-      <pubDate>Thu, 13 Aug 2026 22:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEW PRODUCT – Raspberry Pi Touch Display 2 – 10″ 1200×1920 w/ Capacitive Touch</title>
-      <link>https://blog.adafruit.com/2026/08/13/new-product-raspberry-pi-touch-display-2-10-1200x1920-w-capacitive-touch/</link>
-      <description>NEW PRODUCT – Raspberry Pi Touch Display 2 – 10″ 1200×1920 w/ Capacitive Touch __________________________________________________________________________________________________ Raspberry Pi Touch Display 2 is the sequel to the popular Raspberry Pi Official Display. Next in the lineup, is a 10′′ touchscreen display for Raspberry Pi. Unlike the original, it has a much higher quality IPS TFT screen, the same kind […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-18d002bf57677d9c</guid>
-      <pubDate>Thu, 13 Aug 2026 13:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facehugger Mask #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/13/facehugger-mask-3dthursday-3dprinting-2/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Facehugger Mask By CZDimensions makerworld.com/en/models/642035-facehugger-mask Bambu X1C PolyMaker PLA 10hr 30mins X:192 Y:192 Z:12mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 148g 230mm/s Every Thursday is #3dthursday here […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c7a375eb7236edad</guid>
-      <pubDate>Thu, 13 Aug 2026 13:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flipper Devices' Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One</title>
-      <link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698</link>
-      <description>Built as a set of tools atop a Linux base, the Flipper OS stack promises to do away with project-hopping leading to a "trash system."</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-094575f06c0e2b52</guid>
-      <pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>X-Touch ESP32-2432S028R Desk Stand – Cheap Yellow Display Companion #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/13/x-touch-esp32-2432s028r-desk-stand-cheap-yellow-display-companion-3dthursday-3dprinting/</link>
-      <description>Remixed by MichalKMR7 shares: A dedicated desk stand for the ESP32-2432S028R ‘Cheap Yellow Display’ (CYD) running X-Touch firmware. Uses 4× M3×12mm screws to secure front to back. Alternative ESP32 dashboard variant if you’d rather feature the X-Touch project than the E-Paper Dashboard at 5PM. By Michal download the files on: https://makerworld.com/en/models/746963-x-touch-esp32-2432s028r-desk-stand Every Thursday is #3dthursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c4de4296f680171b</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>WCH Electronics' CH32V407 Packs Vector Extensions for a Speed Boost — Plus Optional PSRAM</title>
-      <link>https://www.hackster.io/news/wch-electronics-ch32v407-packs-vector-extensions-for-a-speed-boost-plus-optional-psram-290b6ebe5e9e</link>
-      <description>200MHz RISC-V part includes the optional vector extensions for improved performance in ML and DSP tasks, and up to 8MB of external PSRAM.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-613db174c87426bb</guid>
-      <pubDate>Thu, 13 Aug 2026 11:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks</title>
-      <link>https://www.cnx-software.com/2026/08/13/qualcomm-snapdragon-c-arm-soc-outperforms-an-intel-n250-cpu-by-up-to-67-percent-in-unplugged-benchmarks/</link>
-      <description>Qualcomm unveiled the Snapdragon C entry-level Arm SoC for $300+ Windows laptops at Computex 2026 with a ridiculously small amount of details last May, so we had to rely on the specs of the upcoming Acer Aspire Go 15 (AG15-Q31P) laptop. Qualcomm has now released a document entitled “Snapdragon C Platform Overview” with more technical details and “unplugged” benchmarks – meaning running on batteries – comparing a Snapdragon C laptop to one based on Intel Processor N250 Twin Lake SoC. The presentation Snapdragon C specifications: CPU – Up to an octa-core Kryo processor at up to 3.0 GHz (single-core) or 2.0 GHz (quad-core) with 2 MB total cache; note: no data for eight cores GPU – Qualcomm Adreno GPU at up to 900 MHz AI accelerator – Built-in Qualcomm Hexagon NPU (still unspecified performance) System Memory – Up to 16GB LPDDR5/5x or LPDDR4 Storage – PCIe 3.0 NVMe, UFS 2.2/3.1 [...] The post Qualcomm Snapdragon C Arm SoC outperforms an Intel N250 CPU by up to 67 percent in “unplugged” benchmarks appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-7a14a30a845af1f0</guid>
-      <pubDate>Thu, 13 Aug 2026 09:39:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
