@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Mewtwo Skull Mask #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/27/mewtwo-skull-mask-3dthursday-3dprinting/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Mewtwo Skull Mask By Deadmoon makerworld.com/en/models/3082934-mewtwo-skull-mask Bambu X1C PolyMaker PLA 4hr 52mins X:164 Y:181 Z:125mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 133g 230mm/s download the files on: […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e6ea07661bf49390</guid>
+      <pubDate>Thu, 27 Aug 2026 13:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Cursed Pumpkin – Skull-Filled Halloween Pumpkin #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/27/the-cursed-pumpkin-skull-filled-halloween-pumpkin-3dthursday-3dprinting/</link>
+      <description>YahooJAPAN shares: A traditional Halloween pumpkin with a dark twist — the outer surface is a faithful carved pumpkin, but the interior reveals a cavity of skulls sculpted in relief. Tested on H2D, X1C, A1 Mini with Bambu PLA basic/matte. Three profiles: colored optimized for H2D (~17hr), colored, and single-color. Few supports, easy to remove. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-794729ec498d1cf6</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analog Optical Feedback Generates 4K Fractals With No Computer</title>
+      <link>https://hackaday.com/2026/08/27/analog-optical-feedback-generates-4k-fractals-with-no-computer/</link>
+      <description>For users of a certain age, fractal patterns and computers are nearly synonymous. Typing in BASIC programs and seeing the Mandelbrot set or other fractals slowly render on screen is …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-04e468a879272f44</guid>
+      <pubDate>Thu, 27 Aug 2026 11:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Halloween Witch’s Cauldron Basket – Legged or Legless Variants #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/08/27/halloween-witchs-cauldron-basket-legged-or-legless-variants-3dthursday-3dprinting/</link>
+      <description>AstroDex_3D shares: A witch’s cauldron basket that works as a candy dish, small-treasure organizer, or decor piece. Two versions included: with legs or without. Multi-color 3MF and split-parts STL provided. Alternative to the 4AM Witch’s Cauldron House if you want a simpler candy-basket variant. By AstroDex download the files on: https://makerworld.com/en/models/1809693-halloween-witch-s-cauldron-basket Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e06f8cde23442dd9</guid>
+      <pubDate>Thu, 27 Aug 2026 11:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>eeink Provides eInk, ESP32 Powered Text Adventures</title>
+      <link>https://hackaday.com/2026/08/27/eeink-provides-eink-esp32-powered-text-adventures/</link>
+      <description>There’s a niche genre of text adventure that’s halfway between a traditional novel and a videogame. Think Zork if it had an extra few novels worth of words of well-crafted …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-c82b99f08e2134b1</guid>
+      <pubDate>Thu, 27 Aug 2026 08:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>LesionIQ skin cancer diagnostic</title>
+      <link>https://www.raspberrypi.com/news/lesioniq-skin-cancer-diagnostic/</link>
+      <description>LesionIQ uses machine learning to analyse images of skin lesions and identify patterns that the human eye cannot. The post LesionIQ skin cancer diagnostic appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-13ccee1d3c308bd2</guid>
+      <pubDate>Thu, 27 Aug 2026 07:18:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software</title>
+      <link>https://www.cnx-software.com/2026/08/27/lunyee-3020-nova-review-a-desktop-cnc-router-with-710w-spindle-tested-with-ugs-and-easel-software/</link>
+      <description>We’ve gotten a sample of the LUNYEE 3020 Nova desktop CNC router for review. The machine features a 710W trim router spindle suitable for carving wood, acrylic, and aluminum. The drive system relies on dual HG15 linear guides and 1204 ball screws for enhanced rigidity and motion accuracy, and the machine integrates NEMA 17 stepper motors with 0.89 N·m torque. It supports Windows, Linux, and Mac systems and works with GRBL-compatible CNC software such as UGS, Fusion 360, VCarve, Easel, and LightBurn. LUNYEE sent us the CNC router with a dust shoe and a CNC vise worktable for review. We will cover the specifications, go through an unboxing, and show how to assemble and set up the machine before testing it with UGS and Easel programs using wood and acrylic as test materials suitable for the bits provided by the company. LUNYEE 3020 Nova desktop CNC router specifications Control Board [...] The post LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-9d4360dbe79145c5</guid>
+      <pubDate>Thu, 27 Aug 2026 05:04:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-IDF User Guide for ESP32-P4, SDK stable (v6.1)</title>
+      <link>https://www.espressif.com/en/node/11171</link>
+      <description>Language English ESP32-P4The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v6.1Thursday, August 27, 2026https://docs.espressif.com/projects/esp-idf/en/v6.1/esp32p4/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-beb1a4a221863967</guid>
+      <pubDate>Thu, 27 Aug 2026 02:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>If You Missed the High Boy Kickstarter, You Can Now Pledge on Indiegogo</title>
+      <link>https://www.hackster.io/news/if-you-missed-the-high-boy-kickstarter-you-can-now-pledge-on-indiegogo-6a7baeae93be</link>
+      <description>The High Boy (a Flipper Zero alternative) is now back and available through Indiegogo.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-1cfd2776e4cbd98f</guid>
+      <pubDate>Thu, 27 Aug 2026 00:27:43 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Sonnet plays DOOM on an ESP32-P4</title>
       <link>https://blog.adafruit.com/2026/08/26/claude-sonnet-plays-doom-on-an-esp32-p4/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-9f607b96c5cf6fd6</guid>
       <pubDate>Fri, 14 Aug 2026 15:28:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>These 3D-Printed "Microflier" Drones Are Powered, And Controlled, By Sound Alone</title>
-      <link>https://www.hackster.io/news/these-3d-printed-microflier-drones-are-powered-and-controlled-by-sound-alone-a39a6f57fa8a</link>
-      <description>Researchers harness resonance to build rocket- and helicopter-like flying drones, and small boats, driven solely by sound.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-060f1cc9888ba897</guid>
-      <pubDate>Fri, 14 Aug 2026 13:01:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redesigning Fiber Optics From the Inside Out</title>
-      <link>https://www.hackster.io/news/redesigning-fiber-optics-from-the-inside-out-dd95173bf319</link>
-      <description>Researchers created a ribbon-like flat optical fiber that detects pressure with up to 1,000x the sensitivity of round fibers.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-dc8fa5b9e6555760</guid>
-      <pubDate>Fri, 14 Aug 2026 12:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ShieldFont: Bludgeoning AI Scrapers that Disrespect Robots.txt</title>
-      <link>https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/</link>
-      <description>In the more innocent days of the World Wide Web you could simply put a robots.txt file in the root of your website that search engine indexing bots and similar …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-98ca71ba01a09f20</guid>
-      <pubDate>Fri, 14 Aug 2026 11:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition</title>
-      <link>https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/</link>
-      <description>Researchers from Northwestern University have introduced EITWatch, an open-source ESP32-S3-based EIT (Electrical Impedance Tomography) gesture-sensing system that fits within a standard smartwatch footprint. It relies on a Seeed Studio XIAO ESP32-S3 board and eight electrodes arranged on the back of the case to detect hand gestures via impedance changes caused by muscle and tendon movement beneath the skin. Unlike other wrist-EIT systems that use circumferential electrode bands, EITWatch places all eight electrodes on the back of the smartwatch case. The sensing area consists of a 31 mm electrode ring that fits within a standard 40 mm watch case, while a 20 mm PCB extension carries the discrete analog front end (AFE). EITWatch hardware specifications: Wireless board – XIAO ESP32-S3 SoC – Espressif ESP32-S3R8 CPU – Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory – 512KB SRAM, 8MB PSRAM Wireless – Wi-Fi 4 and [...] The post EITWatch open-source ESP32-S3 smartwatch implements planar EIT hand gesture recognition appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-aa3f72e6b5b93642</guid>
-      <pubDate>Fri, 14 Aug 2026 11:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor</title>
-      <link>https://www.cnx-software.com/2026/08/14/giada-dk320-digital-signage-player-and-edge-ai-embedded-pc-supports-up-to-the-intel-core-5-315-wildcat-lake-processor/</link>
-      <description>Giada DK320 is an ultra-compact Wildcat Lake mini PC powered by up to an Intel Core 5 315 hexa-core processor and designed for digital signage, edge computing, and embedded applications requiring real-time analytics, intelligent monitoring, and automated decision-making. The system supports up to 48GB DDR5 RAM and M.2 2240/2280 NVMe storage, and offers dual 4K-capable HDMI video output, 2.5GbE networking, an optional WiFi 5/6/7 and Bluetooth module, an RS232 COM port, and four USB 3.2 ports. Giada DK320 specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Intel Core 5 315 6-core CPU – 2x P-cores @ 1.5/4.4 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 2-core Intel Xe3 Graphics @ 2.3 GHz [...] The post Giada DK320 digital signage player and Edge AI embedded PC supports up to the Intel Core 5 315 Wildcat Lake processor appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-02eea2172e24eba0</guid>
-      <pubDate>Fri, 14 Aug 2026 09:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just released: Raspberry Pi Book of Making 2027</title>
-      <link>https://www.raspberrypi.com/news/just-released-raspberry-pi-book-of-making-2027/</link>
-      <description>We’ve once again rounded up a few of our favourite projects previously published in Raspberry Pi Official Magazine. The post Just released: Raspberry Pi Book of Making 2027 appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-d0b0271fb906f82f</guid>
-      <pubDate>Fri, 14 Aug 2026 09:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime</title>
-      <link>https://www.cnx-software.com/2026/08/14/gemma-translator-multilingual-interpreter-runs-locally-on-raspberry-pi-5-with-the-litert-runtime/</link>
-      <description>Gemma Translator is an open-source project for the Raspberry Pi 5 that acts as a multilingual interpreter running locally without access to the cloud using Google Gemma 4 and LiteRT runtime. It’s a project built by three Google engineers with the help of Google Antigravity. It includes code to run an on-device, fully offline voice translator/interpreter using Gemma 4 E2B (2.3B effective / ~5.1B total parameters with per-layer embeddings) and the LiteRT runtime. The hardware is comprised of a few components: A Raspberry Pi 5 with 8GB of RAM Display – HDMI monitor or touchscreen display such as a 480×320 kiosk display Audio Microphone or USB audio capture interface Speaker or headphone output device Keyboard – The project demonstrated below appears to use a custom PCB (AX-4LABS-NEW) with a rotary encoder and four mechanical keys (of which only two are used) Optional 3D printed parts for the enclosure Software highlights: [...] The post Gemma Translator multilingual interpreter runs locally on Raspberry Pi 5 with the LiteRT runtime appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-054805cc2b6e9b99</guid>
-      <pubDate>Fri, 14 Aug 2026 07:01:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32-S31-Korvo-1 Reference Design</title>
-      <link>https://www.espressif.com/en/node/11101</link>
-      <description>Language English ESP32-S31-Korvo-1_Reference_Design_EN.zipESP32-S31ESP32-S31-Korvo-1 reference design resources include schematics, PCB layout files, Gerber files, PCB fabrication specifications, bills of materials (BOMs), and placement files.v1.1Friday, August 14, 2026Send add/update notification to subscribers: Document Type: ReferenceDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-698bea1846f89c0a</guid>
-      <pubDate>Fri, 14 Aug 2026 06:47:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi Pico Case with Sensor Cage – Snap-Fit + Wall Mount #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/13/raspberry-pi-pico-case-with-sensor-cage-snap-fit-wall-mount-3dthursday-3dprinting/</link>
-      <description>i.boxit shares: A snap-fit Pi Pico case with an integrated sensor cage that lets you keep temp/humidity or other sensors mounted outside the electronics enclosure. Fits Pico, Pico W, and Pico 2. Includes wall mount, Bootsel button access, user LED light tube, cooling grille, and a built-in opener. 0.4mm nozzle at 0.2mm layer height. By […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-37ed5feee49bd06c</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
