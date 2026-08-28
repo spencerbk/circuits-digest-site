@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/08/28/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-28-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2d1a0fe546b21af3</guid>
+      <pubDate>Fri, 28 Aug 2026 13:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Track Weather Anywhere with WeatherXM’s New Solar-Powered LoRa Station</title>
+      <link>https://www.hackster.io/news/track-weather-anywhere-with-weatherxm-s-new-solar-powered-lora-station-484fccb8053a</link>
+      <description>WeatherXM’s new solar-powered D2 Mesh station tracks weather off-grid using LoRa mesh networks.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-670f0eb939b492e9</guid>
+      <pubDate>Fri, 28 Aug 2026 13:05:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Nose Milk Freshness Checker #BackToSchool</title>
+      <link>https://blog.adafruit.com/2026/08/28/digital-nose-milk-freshness-checker-backtoschool/</link>
+      <description>Make sure your milk is fresh before pouring your cereal and/or coffee this school year with the Digital Nose Milk Freshness Checker! The classic method for testing for milk freshness is to give it a quick sniff check. If it smells “bad”, then it probably is. This is great, as long as your sense of […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9caa10940ae6039d</guid>
+      <pubDate>Fri, 28 Aug 2026 12:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory</title>
+      <link>https://www.cnx-software.com/2026/08/28/fanless-amd-ryzen-embedded-8840u-8640u-edge-ai-computer-supports-up-to-256gb-ddr5-so-dimm-memory/</link>
+      <description>IBASE AA400-N is an “ultra-compact” fanless edge AI computer powered by an AMD Ryzen Embedded 8840U/8640U processor with up to 8 cores, 16 threads, and a combined 39 TOPS of AI performance for machine and robotic vision, autonomous inspection, smart retail, industrial automation, and other data-intensive, space-constrained applications. The most intriguing part of the specs and announcement is the claim of up to 256GB DDR5 capacity through two SO-DIMM modules, implying availability of 128GB DDR5 SO-DIMM memory modules. The system also comes with a 256GB M.2 NVMe SSD, features 8K-capable HDMI and DisplayPort video interfaces, two 2.5GbE jacks, M.2 sockets for optional WiFi, Bluetooth and 4G/5G cellular connectivity, a few USB ports and a COM port. IBASE AA400-N specifications: AMD Ryzen Embedded 8000 Series processors AA400-NM – AMD Ryzen Embedded 8840U CPU – 8-core/16-thread Zen4 “Hawk Point” processor up to 3.3 GHz / 5.1 GHz (Turbo) GPU – AMD [...] The post Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-334a04072bb20385</guid>
+      <pubDate>Fri, 28 Aug 2026 11:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAM and eMMC Prices Are So High, Pine64 Has Stopped Linux Device Production</title>
+      <link>https://hackaday.com/2026/08/28/ram-and-emmc-prices-are-so-high-pine64-has-stopped-linux-device-production/</link>
+      <description>We all know that the price of RAM and storage has shot up due to demand from the AI industry and other factors. In most cases that means we grumble …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-fa39f2ac34c0b28f</guid>
+      <pubDate>Fri, 28 Aug 2026 11:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>A better model for silicon: quantifying chip carbon with Columbia and Cornell</title>
+      <link>https://www.raspberrypi.com/news/a-better-model-for-silicon-quantifying-chip-carbon-with-columbia-and-cornell/</link>
+      <description>MicroGreen and ACT were built to enable engineers to quantify the embodied carbon of their hardware. The post A better model for silicon: quantifying chip carbon with Columbia and Cornell appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-ee7ec929a333987c</guid>
+      <pubDate>Fri, 28 Aug 2026 09:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/</link>
+      <description>Spark Solder is a compact, USB-C-powered one-handed soldering iron with a built-in motorized solder feeder for convenient one-handed operation. It supports standard TS100 tips, delivers up to 45W of heating power, and features a 1-inch LCD for adjusting the temperature and solder feed speed. While smart, portable soldering irons are very common these days, using one can still be tricky when you have to handle the iron, solder wire, and components at the same time. Spark Solder solves this by adding a replaceable solder capsule and a two-axis motorized feeding system to the handle, leaving one hand free for easier assembly, prototyping, and repairs. Spark Solder specifications: Display – 1-inch TFT display for adjusting temperature, solder extrusion speed, and tip profiles Soldering Power output – Up to 45W Temperature Range – 200°C to 450°C Heat-Up Time – Reaches 300°C in 6 seconds Temperature Stability – ±2°C (via PID control) Tip [...] The post Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-c39cfb70d3ee12a7</guid>
+      <pubDate>Fri, 28 Aug 2026 09:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1768 – Mailbag</title>
+      <link>https://www.eevblog.com/2026/08/28/eevblog-1768-mailbag/</link>
+      <description>More Mailbag! 00:00 – Dave &amp; Dylan open random Mailbag 03:49 – DIY bodged laser engraver 04:14 – MPPT Solar charge controller 04:56 – Mixed bags 06:01 – DLP Projector Mirror Arrays 08:05 – TDA2030A Power Amp 08:39 – Analog/Digital combo watch 12:23 – Solar Panels 13:52 – Engineering Spelling + 34401A VFD Replacement https://hubequip.net/products/hp-agilent-34401a-vfd-to-led-display-replacement-led-conversion …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-910cc2a48e048888</guid>
+      <pubDate>Fri, 28 Aug 2026 09:06:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panoramic Photography with a Linear Scanner</title>
+      <link>https://hackaday.com/2026/08/28/panoramic-photography-with-a-linear-scanner/</link>
+      <description>Although digital photography took a big bite of the film industry’s lunch, it wasn’t able to completely eliminate the need — or desire — for photographers to use film in …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-74c926d48b2d29f6</guid>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microduck – A duck-like biped robot designed for physical AI experimentation and fun</title>
+      <link>https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/</link>
+      <description>Pollen Robotics and Hugging Face have unveiled the Microduck, a 25 cm tall biped robot with 15 motors, a camera, a depth sensor, two motion sensors, and an articulated beak that can pick up objects. This follows the launch of the Reachy Mini desktop robot earlier this year that featured a Raspberry Pi CM4 module or could interface to a computer instead. In some ways, we may think of the Microduck as a Reachy Mini with legs, but the company says both are different products. The Reachy Mini targets human-robot interaction, while the Microduck focuses on motion/action, although it also features a microphone and a speaker for audio interaction. Microduck specifications: SoC – Rockchip RK3566 CPU – Quad-core Cortex-A55 processor @ up to 1.8 GHz GPU – Arm Mali-G52 NPU – 0.8 TOPS AI accelerator VPU 4Kp60 H.265/H.264/VP9 video decoder 1080p60 H.264/H.265 video encoder System Memory – 1GB RAM Storage [...] The post Microduck – A duck-like biped robot designed for physical AI experimentation and fun appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-945fb62fa6b99aef</guid>
+      <pubDate>Fri, 28 Aug 2026 07:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>CircuitPython 10.3.0-rc.0 Released!</title>
+      <link>https://blog.adafruit.com/2026/08/27/circuitpython-10-3-0-rc-0-released/</link>
+      <description>From the GitHub release page: This is CircuitPython 10.3.0-rc.0, a release candidate for CircuitPython 10.3.0 final. CircuitPython 10.3.0 will be the latest minor revision of CircuitPython, and will be a new stable release. Notable additions, changes, and fixes in 10.3.0 from 10.2.1 Gaming and Display picogame game engine module, a performant game-oriented alternative to displayio. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6169dded2b55206d</guid>
+      <pubDate>Fri, 28 Aug 2026 00:20:31 +0000</pubDate>
+    </item>
     <item>
       <title>Mewtwo Skull Mask #3DThursday #3DPrinting</title>
       <link>https://blog.adafruit.com/2026/08/27/mewtwo-skull-mask-3dthursday-3dprinting/</link>
@@ -718,94 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-b74afe076ded3941</guid>
       <pubDate>Sun, 16 Aug 2026 12:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>r-Selecting Tiny Probes to Shotgun Into Saturn’s Rings</title>
-      <link>https://hackaday.com/2026/08/16/r-selecting-tiny-probes-to-shotgun-into-saturns-rings/</link>
-      <description>In ecology, there used to be a concept — now largely unfashionable — that species could be described as r- or K-selected, depending on how they treat their offspring. An …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-0de0d8ff06348997</guid>
-      <pubDate>Sun, 16 Aug 2026 11:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers Hack an Airline Analog</title>
-      <link>https://hackaday.com/2026/08/16/how-to-hack-an-airliner/</link>
-      <description>Modern airliners are rather complicated feats of engineering. Innumerable safety-critical components are connected with tens of miles of wiring, complex digital buses, and dozens (perhaps hundreds) of computers. But, as …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-955a46600a2b97ce</guid>
-      <pubDate>Sun, 16 Aug 2026 08:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04</title>
-      <link>https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/</link>
-      <description>When we used the NVIDIA GeForce RTX 5060 Ti 16GB-based Khadas Mind Graphics 2 dock with a mini PC running Ubuntu 26.04 last week, the USB4-connected eGPU was detected and enabled automatically, but we encountered two issues: very poor performance and the mini PC failed to boot when the dock was removed. The solution is partially documented as part of a long GEEKOM IT13 Max Ubuntu 26.04 review, but I thought it might be useful to document everything in a shorter article for people who own the Khadas Mind Graphics 2 or another NVIDIA Blackwell eGPU connected over USB4/Thunderbolt. Fixing Khadas Mind Graphics 2 performance issues on Ubuntu The Khadas Mind Graphics 2 and NVIDIA graphics card were automatically detected when I connected the dock to an Ubuntu 26.04 mini PC The post Using the Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) on Ubuntu 26.04 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-20eae10361b5d0ae</guid>
-      <pubDate>Sun, 16 Aug 2026 07:29:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Machine Learning COFFIES “Hears” Sunspots Before We Can See Them</title>
-      <link>https://hackaday.com/2026/08/15/machine-learning-coffies-hears-sunspots-before-we-can-see-them/</link>
-      <description>In this age of neural net “AI”, even the most skeptical of Butlerians have to agree that these machine learning models can be very, very good at pattern recognition if …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-79c677e357e29817</guid>
-      <pubDate>Sun, 16 Aug 2026 05:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 Music Sequencer is Clearly Nailing the Y2K Aesthetic</title>
-      <link>https://hackaday.com/2026/08/15/esp32-music-sequencer-is-clearly-nailing-the-y2k-aesthetic/</link>
-      <description>Do you remember back when electronics came in clear cases? Back around the turn of the millennium, when translucency was chic. [3DSage] sure does, which is why he went to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-1e333714a92fa242</guid>
-      <pubDate>Sat, 15 Aug 2026 11:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer</title>
-      <link>https://www.cnx-software.com/2026/08/15/geekom-it13-max-review-part-3-ubuntu-26-04-on-an-intel-core-ultra-9-185h-mini-computer/</link>
-      <description>We’ve already checked out the hardware with an unboxing and a teardown of the GEEKOM IT13 Max in the first part of the review, before testing the Intel Core Ultra 9 185H mini PC with Windows 11, so it’s now time to test Linux on the mini computer using Ubuntu 26.04. In this review, we will report our experience running Ubuntu 26.04 on the GEEKOM IT13 Max, after going through feature testing, running system benchmarks and AI benchmarks on the CPU, GPU, and NPU, checking out storage and USB performance, testing 2.5GbE and WiFi 6/7, stress testing the mini PC, and measuring the Meteor Lake mini PC’s fan noise and power consumption. Installing Ubuntu 26.04 We installed Ubuntu 26.04 alongside Windows 11 in dual boot configuration. We first shrank the Windows partition (C:) size by approximately half, before inserting a USB flash drive with Ubuntu 26.04 to start the installation [...] The post GEEKOM IT13 Max Review – Part 3: Ubuntu 26.04 on an Intel Core Ultra 9 185H mini computer appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-7b0216d83dd968aa</guid>
-      <pubDate>Sat, 15 Aug 2026 09:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Tape Deck Gets a Service</title>
-      <link>https://hackaday.com/2026/08/15/a-tape-deck-gets-a-service/</link>
-      <description>If there’s an engineer’s equivalent to those YouTube ASMR videos, then perhaps it comes in a good repair or servicing journey filmed without edits at the bench. Relaxing to watch, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-faf141bf575b23c6</guid>
-      <pubDate>Sat, 15 Aug 2026 08:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemma Translator – Live Translating Offline on a Raspberry Pi 5   #piday #raspberrypi</title>
-      <link>https://blog.adafruit.com/2026/08/14/gemma-translator-live-translating-offline-on-a-raspberry-pi-5-piday-raspberrypi/</link>
-      <description>This open source translator was built by a team at google. It is an experiment to build a fully offline translator. All the parts are off the shelf and easy to find: a Raspberry Pi 5, portable battery pack, tiny touchscreen display, mini speaker, and micro keyboard with a knob to select languages. It’s all […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6b3aac6c5c5203dd</guid>
-      <pubDate>Fri, 14 Aug 2026 22:48:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</title>
-      <link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</link>
-      <description>These are my thoughts about the InfiMaker K1 five-axis desktop CNC mill after attending the launch event.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-0b2bdf79c6676729</guid>
-      <pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s CircuitPython Parsec: Fruit Jam Library – NeoPixels</title>
-      <link>https://blog.adafruit.com/2026/08/14/john-parks-circuitpython-parsec-fruit-jam-library-neopixels/</link>
-      <description>#circuitpythonparsec Use the Fruit Jam Library peripherals module to light on-board NeoPixels. Try out the code example To learn about CircuitPython: https://circuitpython.org</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-470b53eb7965f7c9</guid>
-      <pubDate>Fri, 14 Aug 2026 17:23:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Low-Tech Buzzing Operation Game #BackToSchool #BackToSchool2026</title>
-      <link>https://blog.adafruit.com/2026/08/14/low-tech-buzzing-operation-game-backtoschool-backtoschool2026/</link>
-      <description>Low-Tech Buzzing Operation Game Build a buzzing gameboard that teaches simple circuits — great for kids and classes! This version uses mainly everyday household and recycled materials, and it’s easy for kids to build themselves. There’s no programming involved — just a simple paper circuit, basic components, and 3V coin battery for power. August is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9f607b96c5cf6fd6</guid>
-      <pubDate>Fri, 14 Aug 2026 15:28:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
