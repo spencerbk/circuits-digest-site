@@ -5,8 +5,48 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 13:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/08/29/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-29-3/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-06cce54542211e13</guid>
+      <pubDate>Sat, 29 Aug 2026 13:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Kodak DC50 camera is now usable on the Apple II</title>
+      <link>https://blog.adafruit.com/2026/08/29/the-kodak-dc50-camera-is-now-usable-on-the-apple-ii/</link>
+      <description>Colin Leroy-Mira has just released a new Quicktake for Apple II version, and it is a quite large upgrade. The program now supports a new camera, the Kodak DC50 Zoom, released in 1996, thirteen years after the Apple IIe. The camera’s custom cable is rather easy to make (and my serial hardware allows to skip […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3dcb2ebc37a44fbc</guid>
+      <pubDate>Sat, 29 Aug 2026 13:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wear Your Way Out Of AI Surveilance</title>
+      <link>https://hackaday.com/2026/08/29/wear-your-way-out-of-ai-surveilance/</link>
+      <description>For decades now many of us have lived in surveillance societies where it’s difficult not to be within the view of a camera. When being noticed depended on the attention …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-64db38ba41b6a332</guid>
+      <pubDate>Sat, 29 Aug 2026 11:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D Printed Piano Action Faithful to the Original</title>
+      <link>https://hackaday.com/2026/08/29/3d-printed-piano-action-faithful-to-the-original/</link>
+      <description>A piano’s internal mechanism for translating a key press into sound is surprisingly complicated. It has to do a lot of things simultaneously and quickly: provide precise control over velocity, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ce804d65cc893074</guid>
+      <pubDate>Sat, 29 Aug 2026 08:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maker Faire North Of 60: Making In The Yukon</title>
+      <link>https://makezine.com/article/maker-news/maker-faire-north-of-60-making-in-the-yukon/</link>
+      <description>INSTAGRAM I FACEBOOK I LINKED IN I YOU TUBE I WEBSITE Whitehorse, the capital of the Yukon Territory and traditional home to Kwanlin Dün First Nation and the Ta’an Kwäch’än Council, gained notoriety (and its European name) in the infamous Klondike Gold Rush. Fast forward one hundred years and the city has grown and diversified, […] The post Maker Faire North Of 60: Making In The Yukon appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-27024b28e3c9be84</guid>
+      <pubDate>Sat, 29 Aug 2026 00:55:50 +0000</pubDate>
+    </item>
     <item>
       <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
       <link>https://blog.adafruit.com/2026/08/28/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-28-2/</link>
@@ -158,6 +198,22 @@
       <category>espressif</category>
       <guid isPermaLink="false">circuits-beb1a4a221863967</guid>
       <pubDate>Thu, 27 Aug 2026 02:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-IDF User Guide for ESP32-H2, SDK stable (v6.1)</title>
+      <link>https://www.espressif.com/en/node/11167</link>
+      <description>Language English ESP32-H2The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v6.1Thursday, August 27, 2026https://docs.espressif.com/projects/esp-idf/en/v6.1/esp32h2/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-e737f228b814fb1b</guid>
+      <pubDate>Thu, 27 Aug 2026 02:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-IDF User Guide for ESP32-C61, SDK stable (v6.1)</title>
+      <link>https://www.espressif.com/en/node/11163</link>
+      <description>Language English ESP32-C61The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v6.1Thursday, August 27, 2026https://docs.espressif.com/projects/esp-idf/en/v6.1/esp32c61/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-57523aa03e1f96f0</guid>
+      <pubDate>Thu, 27 Aug 2026 02:29:14 +0000</pubDate>
     </item>
     <item>
       <title>If You Missed the High Boy Kickstarter, You Can Now Pledge on Indiegogo</title>
@@ -750,62 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-90fe37145d6f23e2</guid>
       <pubDate>Mon, 17 Aug 2026 12:53:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iris colour detection with Raspberry Pi</title>
-      <link>https://www.raspberrypi.com/news/iris-colour-detection-with-raspberry-pi/</link>
-      <description>This computer vision project helps explain the genetic mechanisms underlying the inheritance of eye colour. The post Iris colour detection with Raspberry Pi appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-673733089035d79d</guid>
-      <pubDate>Mon, 17 Aug 2026 11:27:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Printing FDM Filaments that are just Plain Weird</title>
-      <link>https://hackaday.com/2026/08/17/printing-fdm-filaments-that-are-just-plain-weird/</link>
-      <description>The fun thing about thermopolymers like PLA is that you can blend in additives, some of which are necessary to make it at all usable, while so many other additives …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-e3c255e2f5724cc1</guid>
-      <pubDate>Mon, 17 Aug 2026 11:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge</title>
-      <link>https://www.cnx-software.com/2026/08/17/pi-ener-lite-a-compact-18650-ups-board-for-raspberry-pi-zero-with-rtc-and-fuel-gauge/</link>
-      <description>Designed by ACE Design Studio in China, the Pi-Ener-lite is a dedicated UPS board made specifically for the Raspberry Pi Zero series. It features a standard flat-top 18650 lithium-ion battery holder and switches to battery power when external power is lost, while supporting simultaneous charging and discharging. The Pi-Ener-lite connects to the bottom of the Raspberry Pi Zero via seven spring-loaded pogo pins that handle both power delivery and I2C data communication, leaving the top GPIO header free for other HATs or expansions. Pi-Ener-lite specifications: Compatibility – Raspberry Pi Zero series SBCs USB – 1x USB Type-C port for charging Misc Power switch DS1307 real-time clock (RTC) chip with a CR1220 coin cell battery holder 7x spring pogo pins for power delivery and I2C data Power Management Battery Support – Standard flat-top 18650 lithium-ion cell; supports simultaneous charging and discharging Charging current – 1A @ 5V Output current – 2.5A [...] The post Pi-Ener-lite – A compact 18650 UPS board for Raspberry Pi Zero with RTC and fuel gauge appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-4429fb8a502fe8cd</guid>
-      <pubDate>Mon, 17 Aug 2026 09:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays</title>
-      <link>https://www.cnx-software.com/2026/08/17/luckfox-lyra-plc-a-linux-based-rockchip-rk3506b-industrial-controller-with-rs232-rs422-rs485-can-bus-and-relays/</link>
-      <description>Luckfox Lyra PLC is a Linux-based programmable logic controller powered by a Rockchip RK3506B tri-core Arm Cortex-A7 SoC, equipped with dual Ethernet, WiFi 6 and Bluetooth 5.2 wireless connectivity, a 1.9-inch touchscreen LCD, and a range of I/Os. The I/Os are mostly exposed through two 11-pole terminal blocks with one RS232, one shared RS422/RS485, one CAN Bus, and two relays, as well as smaller connectors for I2C, GPIO, and debugging. The system can be powered via USB-C (5V only), terminal block pins supporting 7V-24V DC input, or an optional PoE module. Luckfox Lyra PLC specifications: SoC – Rockchip RK3506B CPU 3x Arm Cortex-A7 cores up to 1.2 GHz Arm Cortex-M0 real-time core GPU – 2D GPU only No VPU, no NPU System Memory – 512MB DDR3L Storage – 8GB eMMC flash Display – 1.9-inch touchscreen LCD with 320 x 170 resolution Networking 2x 10/100 Mbps Ethernet RJ45 ports 2.4 GHz [...] The post Luckfox Lyra PLC – A Linux-based Rockchip RK3506B industrial controller with RS232, RS422, RS485, CAN bus, and relays appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-2e6d6395fe8d6a7b</guid>
-      <pubDate>Mon, 17 Aug 2026 05:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5</title>
-      <link>https://www.cnx-software.com/2026/08/17/google-chrome-is-now-available-for-arm-linux-we-tested-it-on-a-raspberry-pi-5/</link>
-      <description>Google Chrome web browser is now available for 64-bit Arm Linux, and we quickly tested it with Raspberry Pi OS on a Raspberry Pi 5 2GB SBC. The open-source Google Chromium web browser has been available for Arm Linux for years, but it lacks some features such as account sync, out-of-the-box DRM support, and automatic updates. Google wrote about working on a port last March, but hasn’t officially released it. However, users on Interfacing Linux have noticed that it can easily be installed by changing amd64 to arm64 in the download link. So we did that on a Raspberry Pi 5: [crayon-6a830f3fae1e5761796087/] Google Chrome now appears alongside Chromium and Firefox in the list of Internet applications. The screenshot below shows that some GPU features like WebGL and video acceleration are enabled. The latter is not especially useful on a Raspberry Pi 5 since the Broadcom BCM2712 only supports H.265 hardware [...] The post Google Chrome is now available for Arm Linux. We tested it on a Raspberry Pi 5 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-24f4d84219d3a121</guid>
-      <pubDate>Mon, 17 Aug 2026 03:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round Up: Back to School, LED Devil Horns, and more!</title>
-      <link>https://blog.adafruit.com/2026/08/16/adafruit-weekly-editorial-round-up-back-to-school-led-devil-horns-and-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG Back to School LEARN […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-23c19cbb68cf9474</guid>
-      <pubDate>Sun, 16 Aug 2026 19:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s National Roller Coaster Day #NationalRollerCoasterDay #coasterday</title>
-      <link>https://blog.adafruit.com/2026/08/16/its-national-roller-coaster-day-nationalrollercoasterday-coasterday/</link>
-      <description>Cyclone Roller Coaster, Coney Island, New York via Wikipedia Did you know every August 16 is National Roller Coaster Day? Ride out the summer, with all of the ups and downs, on a coaster of your choosing. If you can stomach them, coasters are marvels of engineering and have been teaching young engineers lessons […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b74afe076ded3941</guid>
-      <pubDate>Sun, 16 Aug 2026 12:57:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
