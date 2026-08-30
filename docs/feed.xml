@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:45:03 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Giving the NES an Optical Data Storage Add-On</title>
+      <link>https://hackaday.com/2026/08/30/giving-the-nes-an-optical-data-storage-add-on/</link>
+      <description>The introduction of optical media in the form of CDs meant a revolution in the world of gaming consoles, escaping the restrictions of a few dozen MB of storage and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-6f3475e69f77dc98</guid>
+      <pubDate>Sun, 30 Aug 2026 11:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Woodstove Assistant Keeps the Heat on Safely</title>
+      <link>https://hackaday.com/2026/08/30/woodstove-assistant-keeps-the-heat-on-safely/</link>
+      <description>Those who have never lived in a cold climate might romanticize winters around a fire, keeping warm under blankets while snow gently falls outside. While it certainly can be a …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d1b364274a4f6a89</guid>
+      <pubDate>Sun, 30 Aug 2026 08:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Weekly Editorial Round Up: Adafruit WipperSnapper Firmware 1.0.0 beta 132 now on GitHub, Attachécade, &amp; more!</title>
+      <link>https://blog.adafruit.com/2026/08/29/adafruit-weekly-editorial-round-up-adafruit-wippersnapper-firmware-1-0-0-beta-132-now-on-github-attachecade-more/</link>
+      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. New component added SCD43👃Adafruit IO […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-be0993d405f57c13</guid>
+      <pubDate>Sun, 30 Aug 2026 01:14:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Products 8/29/2026</title>
+      <link>https://blog.adafruit.com/2026/08/29/new-products-8-29-2026/</link>
+      <description>We’ve got the New nEw NEW for you right here This week we debut 3 New Products. Adafruit GP8403 Breakout Board I2C DAC with 12V Booster + NVM – STEMMA QT / qwiic Adafruit Stereo I2S 3W Amplifier Breakout – Dual MAX98357A Adafruit TMF8801 Time of Flight Distance Sensor – STEMMA QT / Qwiic Visit […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-101a0e0f0ae0e609</guid>
+      <pubDate>Sat, 29 Aug 2026 23:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prepare for NASA’s Roman Launch</title>
+      <link>https://blog.adafruit.com/2026/08/29/prepare-for-nasas-roman-launch/</link>
+      <description>Teams inside the Payload Hazardous Servicing Facility at NASA’s Kennedy Space Center in Florida encapsulate the agency’s Nancy Grace Roman Space Telescope within the payload fairing on Friday, Aug. 21, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Encapsulation shields the spacecraft during rollout, ascent, and the early phases of flight. Roman will […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b90ea5a7792bb274</guid>
+      <pubDate>Sat, 29 Aug 2026 20:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>This “Flip-Squisk” Display Is Nothing Like a Flip-Disc Display</title>
+      <link>https://www.hackster.io/news/this-flip-squisk-display-is-nothing-like-a-flip-disc-display-864537b23f5f</link>
+      <description>Zimm’s P.A.R. (Pixel Art Robot) “flip-squisk” display operates in a way that is unlike every other flip-disc display.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-1f9af1a9079fdefe</guid>
+      <pubDate>Sat, 29 Aug 2026 18:34:04 +0000</pubDate>
+    </item>
     <item>
       <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
       <link>https://blog.adafruit.com/2026/08/29/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-29-3/</link>
@@ -38,6 +86,14 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-ce804d65cc893074</guid>
       <pubDate>Sat, 29 Aug 2026 08:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ACEMAGIC Kron Mini K5 (Core 3 304) review – Part 1: Specifications, unboxing, teardown, and first boot</title>
+      <link>https://www.cnx-software.com/2026/08/29/acemagic-kron-mini-k5-core-3-304-review-part-1-specifications-unboxing-teardown-and-first-boot/</link>
+      <description>ACEMAGIC sent us a sample of the Kron Mini K5 Wildcat Lake mini PC for review. The computer is offered with either an Intel Core 3 304 or Core 5 320 CPU, and features triple display output, 2.5GbE and WiFi 6 networking, and several USB ports, but, interestingly, no Thunderbolt/USB4 ports. The company provided us with the entry-level variant pairing an Intel Core 3 304 penta-core processor with 12GB of RAM and 512GB of storage. In this first part of the review, we’ll list the mini PC’s specifications, go through an unboxing and a teardown, before booting it into Windows 11. In the next parts, we’ll review it using Windows 11 and Ubuntu 26.04 in depth with feature testing and benchmarks. ACEMAGIC Kron Mini K5 (Intel Core 3 304) specifications The company hasn’t put up a product page for this exact model just yet, so we gathered specifications from our [...] The post ACEMAGIC Kron Mini K5 (Core 3 304) review – Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-1da5478aeb6c2e32</guid>
+      <pubDate>Sat, 29 Aug 2026 04:30:37 +0000</pubDate>
     </item>
     <item>
       <title>Maker Faire North Of 60: Making In The Yukon</title>
@@ -750,62 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-6e962480b1d90c11</guid>
       <pubDate>Tue, 18 Aug 2026 20:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICYMI: Python on Microcontrollers Newsletter: openbricks your ESP32 robot, CircuitPython Day, Python Guitar Pedal and More!</title>
-      <link>https://blog.adafruit.com/2026/08/18/icymi-python-on-microcontrollers-newsletter-openbricks-your-esp32-robot-circuitpython-day-python-guitar-pedal-and-more/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,382 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-1d405497e82c9f85</guid>
-      <pubDate>Tue, 18 Aug 2026 13:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch Soldering Up Close and From Any Angle, in VR</title>
-      <link>https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/</link>
-      <description>A manual skill like soldering is so much easier to learn and grasp when one can watch it in action, and there’s a brand new way to do that using …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-4912d57101fdc331</guid>
-      <pubDate>Tue, 18 Aug 2026 11:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Thing Solves Communication for Married Introverts</title>
-      <link>https://www.hackster.io/news/this-thing-solves-communication-for-married-introverts-c6088c56e4db</link>
-      <description>Thumblegudget helped his wife accommodate his introversion by designing this clever device inspired by old-fashioned ship telegraph systems.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-ace02d4db22f2132</guid>
-      <pubDate>Tue, 18 Aug 2026 00:37:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/08/17/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-17/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9a0b2bab58fe5645</guid>
-      <pubDate>Mon, 17 Aug 2026 21:09:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miss Twisted’s Mermaid Ballgown Fin Prop</title>
-      <link>https://blog.adafruit.com/2026/08/17/mermaid-ballgown-fin-prop/</link>
-      <description>Miss Twisted made this incredible fin prop for their mermaid ballgown. If you’re working on your own mermaid costume and looking to add more props, check out these guides from Erin St. Blaine in the Adafruit Learn System. Glowing Scale Armor Light-Up Costumes in Harsh Environments Ursula’s Seashell Necklace</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4ac509009ea4ab98</guid>
-      <pubDate>Mon, 17 Aug 2026 20:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senior Design Verification Engineer</title>
-      <link>https://www.espressif.com/en/company/job-opportunities/job-search/senior-design-verification-engineer</link>
-      <description>Language English Description: We are looking for a Senior Design Verification Engineer to work on Espressif's next-generation wireless and AI-capable SoCs. You will work closely with RTL designers and chip architects, and provide technical leadership within a small verification sub-team.Job Responsibilities1. Define verification plans and test cases based on design specifications, and own the verification environment end-to-end2. Collaborate with design engineers to identify and resolve design defects, and continuously drive verification coverage improvement3. Maintain simulation/verification environments using industry-standard EDA tools4. Write scripts to automate testing workflows in Python, Perl, TCL, or Shell5. Track and report code/functional coverage metrics; identify and close gaps before tapeout6. Debug failures and root-cause issues, working closely with designers to resolve issues7. Leverage AI tools to optimize verification flows and improve team-wide efficiency8. Mentor junior verification engineers and provide technical guidance across the teamJob Requirements1. Bachelor's degree or above in Electronic Engineering, Computer Engineering, Computer Science, or a related field2. Preferably 3+ years of ASIC/SoC/IP design verification experience3. Proficiency in Verilog, SystemVerilog, UVM, and C4. Proficiency in scripting languages such as Python, Perl, Shell, or TCL5. Strong interest in exploring and adopting AI tools to improve day-to-day engineering productivity and verification efficiencyJob Location Select: SingaporeJob Status: HideResume Inbox: recruit.sgpr@espressif.comJob Sort: 0Job Classification: ExperiencedJob Function: IC DesignPortfolio Required: No</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-219a35413acf79ca</guid>
-      <pubDate>Mon, 17 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Runar Tenfjord Releases an Open Dev Board for the STMicro STM32C5 — With Oberon-2 Support</title>
-      <link>https://www.hackster.io/news/runar-tenfjord-releases-an-open-dev-board-for-the-stmicro-stm32c5-with-oberon-2-support-92a0475c07a1</link>
-      <description>ESCOberon, an embedded variant of Oberon-2, is available for this MIT-licensed dev board as an alternative to C/C++ programming.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-90fe37145d6f23e2</guid>
-      <pubDate>Mon, 17 Aug 2026 12:53:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
