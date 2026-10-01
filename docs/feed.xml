@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 23:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:45:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>This Remote Control Is Nuts</title>
+      <link>https://www.hackster.io/news/this-remote-control-is-nuts-d485188083a8</link>
+      <description>JSK-koubou turned an ordinary walnut into a smart Wi-Fi and infrared remote control powered by an ESP32-C3.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d24b70d0fc8ed491</guid>
+      <pubDate>Thu, 01 Oct 2026 12:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solder Fume Extractor – Magnetic Cover Rechargeable #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/01/solder-fume-extractor-magnetic-cover-rechargeable-3dthursday-3dprinting/</link>
+      <description>Vinark shares: A rechargeable, modular solder fume extractor designed for makers with less-advanced electronics skills. Slim 80×15mm PC fan (ARCTIC P8 Slim PWM PST), 18650 rechargeable battery cell, TP4056 charging/protection module, MT3608 step-up converter, on/off switch. Screwless design using 16× 6×3mm round magnets — easily swappable front grille and replaceable filter sponge. Includes 3 print […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ce0963f1e1b80d82</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft, Positioning Windows as "the Best Place" to Run Linux Workloads, Launches WSL Containers</title>
+      <link>https://www.hackster.io/news/microsoft-positioning-windows-as-the-best-place-to-run-linux-workloads-launches-wsl-containers-c2dea28650e1</link>
+      <description>New feature for the Windows Subsystem for Linux lets you, and Windows apps, easily build, run, and deploy Linux containers.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-dc9698f435291e36</guid>
+      <pubDate>Thu, 01 Oct 2026 11:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛸Stand By As We Beam Into Another #ElectronicHalloween!</title>
+      <link>https://blog.adafruit.com/2026/10/01/%f0%9f%9b%b8stand-by-as-we-beam-into-another-electronichalloween/</link>
+      <description>The truth is right here and, something is watching… with Otherworldly Eyes. So be prepared when they land: try misdirecting mirrors or even ray gun blasters, because candy may not satiate the Xenomorph buckets. And remember, #ElectronicHalloween only visits once a year! All October we’ll doing the Monster Mask because it’s time for another […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a41c99ef82a16360</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>LED Halloween Horror Clown Candy Bowl #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/01/led-halloween-horror-clown-candy-bowl-3dthursday-3dprinting/</link>
+      <description>DIYWizard shares: A skull of a horror clown that can be used as a small candy bowl. Works great with a lamp under it for glowing effect, or painted for full detail. Hollow with relatively thin walls (tree supports needed). Designer notes: inner supports can be left in without affecting function. Painted white PLA. NOTE: […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-664c34c48c05df33</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Whole Computer Is Vim</title>
+      <link>https://hackaday.com/2026/10/01/the-whole-computer-is-vim/</link>
+      <description>Love it or hate it, Vim, the vi-compatible minimalist editor, is a common denominator between a huge array of operating systems. If you need to edit a file, it’s usually …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d8649ae010642518</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Price increases for 2GB Raspberry Pi 4 and Raspberry Pi 5</title>
+      <link>https://www.raspberrypi.com/news/price-increases-for-2gb-raspberry-pi-4-and-raspberry-pi-5/</link>
+      <description>Make sure the Raspberry Pi products you buy are a good match for your requirements. The post Price increases for 2GB Raspberry Pi 4 and Raspberry Pi 5 appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-49515e0ded48c215</guid>
+      <pubDate>Thu, 01 Oct 2026 09:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner</title>
+      <link>https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/</link>
+      <description>LakeShark is open-source firmware by Samuel Reynolds (SAMS0N1TE) that turns the ESP32-P4-based LilyGO T-Display P4 into a handheld SDR scanner. Paired with an RTL-SDR Blog V3 or V4 dongle, it supports P25 Phase I trunking, analog FM/AM, POCSAG pager decoding, and 1090 MHz ADS-B reception directly on the ESP32-P4, without a PC, Raspberry Pi, or smartphone. It also includes an onboard SX1262 that supports LoRa and MeshCore applications. SDR devices like LimeSDR Micro, xSDR, UUGear’s VU GPSDR, and many others usually rely on a PC, Raspberry Pi, or smartphone for processing, but LakeShark shows that a powerful microcontroller can also handle many SDR tasks. We previously covered the LilyGO T-Display P4 in March 2026, and LakeShark makes good use of its built-in hardware, including the SX1262 for LoRa and MeshCore applications, L76K GPS receiver for location tracking and offline maps, and ESP32-C6 for Wi-Fi and Bluetooth connectivity. LakeShark hardware requirements: Primary [...] The post LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-0f682a3f6204b499</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks</title>
+      <link>https://www.cnx-software.com/2026/10/01/30-raspberry-pi-smart-display-module-for-cm5-targets-digital-signage-displays-and-kiosks/</link>
+      <description>Raspberry Pi Smart Display Module is a CM5 carrier board compatible with the Intel Smart Display Module (SDM) specification, more specifically the SDM-L form factor (as opposed to the smaller SDM-S option). The Intel SDM standard has been around for years, and we first wrote it in 2018, covering the Axiomtek SDM300s (SDM-S) module. These cards are designed to be plugged into compatible digital signage displays, kiosks, point-of-sale systems, and so on. They feature a standard 98-pin PCIe edge connector with USB 3.0, HDMI 1.4/2.0, I2C/UART/SPI signalling, as well as Ethernet, HDMI, USB ports, and an M.2 expansion socket. Raspberry Pi Smart Display Module specifications: Compatible with Raspberry Pi Compute Module 5 Video Output – Full-size HDMI 2.0 port Camera – 22-way MIPI DSI/CSI-2 connector (internal) Networking Gigabit Ethernet RJ45 port WiFi 5 and Bluetooth 5.2 (on CM5) with U.FL antenna USB USB 3.0 Type-A port USB 2.0 Type-C port for programming [...] The post $30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-08862b999488a964</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:53 +0000</pubDate>
+    </item>
     <item>
       <title>Pogo-Bot Goes All Terrain With Compliant Foot</title>
       <link>https://hackaday.com/2026/09/30/pogo-bot-goes-all-terrain-with-compliant-foot/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-c8330c3289a6cd1d</guid>
       <pubDate>Thu, 20 Aug 2026 23:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Momo Creepy smile mask #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/20/momo-creepy-smile-mask-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Momo smile mask By cforms makerworld.com/en/models/1839027-creepy-smile-horror-mask-2-wearable Bambu X1C PolyMaker PLA 5hr 16mins X:176 Y:173 Z:67mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 102g 230mm/s Every Thursday is #3dthursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6545730119a36213</guid>
-      <pubDate>Thu, 20 Aug 2026 13:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>A star racing at 15,000 miles per second tests Einstein theory of relativity</title>
-      <link>https://blog.adafruit.com/2026/08/20/a-star-racing-at-15000-miles-per-second-tests-einstein-theory-of-relativity/</link>
-      <description>The Milky Way galaxy is anchored by a supermassive black hole named Sagittarius A*, that has a mass over four million times greater than the sun. While Sagittarius A* exerts an influence on everything inside its cosmic neighborhood, astronomers have detected one particular cosmic thrall that may offer a glimpse into some of the universe’s […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4be0a8ca22e08a15</guid>
-      <pubDate>Thu, 20 Aug 2026 12:25:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>UPDATED GUIDE: Adafruit SCD-4x – True CO2 Temperature and Humidity Sensors #AdafruitLearningSystem @Adafruit</title>
-      <link>https://blog.adafruit.com/2026/08/20/updated-guide-adafruit-scd-4x-true-co2-temperature-and-humidity-sensors-adafruitlearningsystem-adafruit/</link>
-      <description>The Adafruit SCD-4x guide has been updated with information on how to interface with the new SCD-43 sensor breakout. The same Arduino and CircuitPython drivers and examples can be used with this board for all of your CO2, temperature and humidity sensing needs. Read more at Adafruit SCD-4x – True CO2 Temperature and Humidity Sensors</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d9da530a27e98c4f</guid>
-      <pubDate>Thu, 20 Aug 2026 12:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Takamori Robot's HIRO Is a Second-Generation Raspberry Pi Pico 2-Powered DIY Robot Kit</title>
-      <link>https://www.hackster.io/news/takamori-robot-s-hiro-is-a-second-generation-raspberry-pi-pico-2-powered-diy-robot-kit-da06d5211e8d</link>
-      <description>Lessons learned from the original HIRO campaign have led to a new and improved version of the educational robot kit.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-96ac238dc2d7a5f8</guid>
-      <pubDate>Thu, 20 Aug 2026 11:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teardown Shows Low-Fi Microphone is Surprisingly Sophisticated</title>
-      <link>https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/</link>
-      <description>The Ting FX EP-2350 by Teenage Engineering is a standalone microphone with a few extras, including samples and built-in effect presets that can be modified by the user. It also …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a4cc6058eea066dd</guid>
-      <pubDate>Thu, 20 Aug 2026 11:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keep coding when your internet drops: Offline support in the Code Editor</title>
-      <link>https://www.raspberrypi.org/blog/offline-support-in-the-code-editor/</link>
-      <description>Our free, browser-based Code Editor now keeps working when your internet connection doesn’t. If your connection breaks in the middle of a lesson or a project, you can carry on writing and running your code without disruption, even if the page is reloaded. Why we built this An unstable internet connection is a minor annoyance… The post Keep coding when your internet drops: Offline support in the Code Editor appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-182f4ac8e772c870</guid>
-      <pubDate>Thu, 20 Aug 2026 10:31:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards?</title>
-      <link>https://www.cnx-software.com/2026/08/20/why-are-people-suddenly-adding-apple-lightning-cables-to-raspberry-pi-pico-2-boards/</link>
-      <description>Yesterday I received an email with the subject “Rp2350 pi pico 2 modified one”. I found the request funny because it features an illustration with a Raspberry Pi Pico 2 board and an Apple Lightning cable, and I had no idea why somebody would do that at the time. Coming to my physical address (today!) was also humorous considering where I live… Nevertheless, I decided to share the screenshot above on X, and quickly found out the reasons: jailbreaking/bypassing iDevices with Apple A12/A13 CPUs using the usbliter8 boot ROM exploit by Paradigm Shift. One X user (stacksmashing) even replied: “I literally have this on my desk right now”. The original blog post on Paradigm Shift and the code on GitHub have been taken down due to a U.S. federal court order in a trade-secrets lawsuit filed by Magnet Forensics. But since the cat is out of the bag, forks of [...] The post Why are people suddenly adding Apple Lightning cables to Raspberry Pi Pico 2 boards? appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-bc377f568604e494</guid>
-      <pubDate>Thu, 20 Aug 2026 09:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1767 – Harogic PXN-90 9GHz Spectrum Analyser TEARDOWN</title>
-      <link>https://www.eevblog.com/2026/08/20/eevblog-1767-harogic-pxn-90-9ghz-spectrum-analyser-teardown/</link>
-      <description>Teardown and detailed analysis of the Harogic PXN-90 9GHz Spectrum Analyser. https://www.harogic.com/product/harogic-px-series-standard-spectrum-analyzer-receiver/ Forum: https://www.eevblog.com/forum/blog/eevblog-1767-harogic-pxn-90-9ghz-spectrum-analyser-teardown/</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-b3a188107158cf72</guid>
-      <pubDate>Thu, 20 Aug 2026 05:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>eevBLAB 143 – HUGE Youtube Change on View Count</title>
-      <link>https://www.eevblog.com/2026/08/20/eevblab-143-huge-youtube-change-on-view-count/</link>
-      <description>Youtube have just completely changed what constitutes a “view” ! And they have doubled the limit on monestisation thresholds. https://support.google.com/youtube/thread/433409976</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-0aaee390756786c9</guid>
-      <pubDate>Thu, 20 Aug 2026 05:07:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
