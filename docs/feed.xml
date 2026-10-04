@@ -5,8 +5,48 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 13:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:45:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>AI on Your Gaming PC</title>
+      <link>https://hackaday.com/2026/10/04/ai-on-your-gaming-pc/</link>
+      <description>If you want to experiment with LLMs, you typically have a choice of sending your requests to someone else’s computer or fielding a very large GPU and CPU setup to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4c558241a850bb94</guid>
+      <pubDate>Sun, 04 Oct 2026 11:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Big Moon Plot</title>
+      <link>https://hackaday.com/2026/10/04/bringing-the-moon-home-with-plotting/</link>
+      <description>When you look into the night sky, you can’t help but wish to bring the outer worlds to your doorstep. One of the best ways to do that is to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-82a8bccfa65cae47</guid>
+      <pubDate>Sun, 04 Oct 2026 08:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)</title>
+      <link>https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr/</link>
+      <description>We have seen ESP32s used for everything from simple IoT devices to AI, audio, and vision projects. But while looking for a new project, I found out about ESP-SDR firmware, which turns the ESP32 into a native Software-Defined Radio (SDR) without additional hardware. This open-source firmware bypasses the ESP32’s fixed-function Wi-Fi and Bluetooth modems and taps directly into the internal ADC signal chain to capture raw I/Q baseband samples. It then sends these samples to a computer over USB or UART, where they can be processed and viewed as a radio spectrum or waterfall display, turning supported ESP32 chips into low-cost software-defined radio receivers without requiring additional SDR hardware. Key features and supported hardware: Supported chips – ESP32, ESP32-C3, ESP32-C5 (dual-band 2.4/5 GHz), ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3, and the preview ESP32-S31 Tuning range – Nominally 2.4 GHz ISM (2.2–2.7 GHz on some chips) and 5 GHz (4.8–6.0 GHz on ESP32-C5); The [...] The post ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-c6f50b2a34ea0374</guid>
+      <pubDate>Sun, 04 Oct 2026 03:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrate a NASA Halloween</title>
+      <link>https://blog.adafruit.com/2026/10/03/celebrate-a-nasa-halloween/</link>
+      <description>Hubble has photographed the “Ghost Nebula,” which has eerie, semitransparent flowing veils of gas and dust. The nebula is being blasted by a torrent of radiation from a nearby, blue-giant star. This animation flips between two views from Hubble. The more colorful image is taken in visible light where the glow of hydrogen gas looks […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e7bdade3da7c4fe0</guid>
+      <pubDate>Sat, 03 Oct 2026 20:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests</title>
+      <link>https://blog.adafruit.com/2026/10/03/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/</link>
+      <description>Image via NASA NASA is using special paint that glows under ultraviolet light to test airflow and pressure. The paint responds to pressure by glowing brighter. This is first test using the “unsteady Pressure Sensitive Paint” that has been in development for a few years. Via NASA: Unsteady pressure sensitive paint is a specialized […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-69c67df977c4048d</guid>
+      <pubDate>Sat, 03 Oct 2026 16:53:28 +0000</pubDate>
+    </item>
     <item>
       <title>Own The OSD Chip In Your Cheap Composite Monitor</title>
       <link>https://hackaday.com/2026/10/03/own-the-osd-chip-in-your-cheap-composite-monitor/</link>
@@ -766,46 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-557a458ee5c64b01</guid>
       <pubDate>Sun, 23 Aug 2026 11:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>So, You Found a Foden Steam Lorry in a Field. What Next?</title>
-      <link>https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/</link>
-      <description>It’s quite likely that many readers will have harbored dreams of owning, or at least driving, a steam engine of some kind. [James Hervey-Bathurst] was lucky enough to do so …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-26c6d94273467eb4</guid>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turning Corroded, Bug-Loving WiiMotes into a Working One</title>
-      <link>https://hackaday.com/2026/08/22/turning-corroded-bug-loving-wiimotes-into-a-working-one/</link>
-      <description>A time-honored tradition in the electronics repair business is to make many into one, specifically a stack of broken devices into one that works. So too with a triplet of …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f1e7ae62b63b98aa</guid>
-      <pubDate>Sun, 23 Aug 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11</title>
-      <link>https://www.cnx-software.com/2026/08/23/framework-laptop-12-repairable-convertible-laptop-gets-wildcat-lake-motherboard-ships-with-fedora-44-or-windows-11/</link>
-      <description>First introduced in 2025, the Framework Laptop 12 upgradable and repairable laptop has just gotten a new motherboard offered with a choice of Wildcat Lake (Intel Core Series 3) processors from the Core 3 304 up to the Core 7 350. The Wildcat Lake-based convertible Laptop 12 features a 12.2-inch display with 1920 x 1200 resolution, a SO-DIMM slot supporting up to 64GB DDR5, an M.2 2230 NVMe SSD slot, and high-speed connectivity with Thunderbolt 4, WiFi 7, and more. Framework Laptop 12 (Intel Core Series 3) specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Intel Core 5 320 6-core CPU – 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ 1.4/3.4 GHz (Turbo) [...] The post Framework Laptop 12 repairable, convertible laptop gets Wildcat Lake motherboard, ships with Fedora 44 or Windows 11 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-b72b91609fc85b77</guid>
-      <pubDate>Sun, 23 Aug 2026 03:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Perfect Cold Water  #piday #raspberrypi</title>
-      <link>https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/</link>
-      <description>ethan1110lin got tired of lukewarm water and designed a device that notifies them when their water reaches the perfect temperature. Check out the project details on instructables. So what can you do? Or, as a matter of fact, what can a Raspberry Pi do? As it turns out, quite a lot. This single-board computer — […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-1c5900adbc7a1130</guid>
-      <pubDate>Sat, 22 Aug 2026 20:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Brooklyn Museum Presents Art of Manga #​ArtOfManga</title>
-      <link>https://blog.adafruit.com/2026/08/22/the-brooklyn-museum-presents-art-of-manga-artofmanga/</link>
-      <description>Coming in October, Art of Manga will bring over 600 drawings from influential manga artists to the East Coast. And Yes! cosplay is encouraged, safely. Art of Manga is the first major exhibition in the Americas to explore manga—Japanese comics and graphic novels—as an art form. Marking its East Coast debut, the Brooklyn Museum’s presentation is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6146683580289cbe</guid>
-      <pubDate>Sat, 22 Aug 2026 18:01:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
