@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:45:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Seeing, understanding, and responding: low-power CNN, VLM and SLM workloads on Raspberry Pi 5</title>
+      <link>https://www.raspberrypi.com/news/seeing-understanding-and-responding-low-power-cnn-vlm-and-slm-workloads-on-raspberry-pi-5/</link>
+      <description>A 3W NPU from Sixfab and DEEPX expands the possibilities for vision and compact language AI at the edge. The post Seeing, understanding, and responding: low-power CNN, VLM and SLM workloads on Raspberry Pi 5 appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-70ad46037e2bdecd</guid>
+      <pubDate>Mon, 05 Oct 2026 11:59:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Porting Video Games to VHS</title>
+      <link>https://hackaday.com/2026/10/05/porting-video-games-to-vhs/</link>
+      <description>Although VHS-based games have existed for about as long as VHS players have sat in millions of living rooms, they always tended to be rather sparse gaming experiences. For example, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7e3a8406d137e675</guid>
+      <pubDate>Mon, 05 Oct 2026 11:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paul Loisil's TNY-360 Is an Open-Hardware Espressif ESP32-S3-Powered Robot Dog for Everyone</title>
+      <link>https://www.hackster.io/news/paul-loisil-s-tny-360-is-an-open-hardware-espressif-esp32-s3-powered-robot-dog-for-everyone-6ed2be2a08f6</link>
+      <description>Modular PCBs, easy wiring, and accessible software make this Creative Commons-licensed quadruped a STEM superhero.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-9e5fdfa5edd6d279</guid>
+      <pubDate>Mon, 05 Oct 2026 10:49:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banana Pi Preps a New Compute Module Based Around the Low-Cost Allwinner H618 System-on-Chip</title>
+      <link>https://www.hackster.io/news/banana-pi-preps-a-new-compute-module-based-around-the-low-cost-allwinner-h618-system-on-chip-1b610b6e5f1c</link>
+      <description>The upcoming BPI-CM7 is designed for the budget-conscious maker looking for alternatives to Raspberry Pi's popular Compute Module range.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-8d4991bc4c81ec38</guid>
+      <pubDate>Mon, 05 Oct 2026 10:27:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support</title>
+      <link>https://www.cnx-software.com/2026/10/05/debix-m8391-01-industrial-sbc-features-mediatek-genio-720-soc-with-9-tops-npu-dual-display-support/</link>
+      <description>The DEBIX M8391-01 is a compact industrial SBC built around the MediaTek MT8391 (Genio 720) processor, designed for edge AI, computer vision, robotics, and intelligent IoT applications. The SoC’s 9-TOPS NPU enables local AI inference without relying on cloud processing. The board features up to 16GB LPDDR4 memory and up to 64GB eMMC storage, with M.2 PCIe 2.0 NVMe SSD and MicroSD card expansion. It also offers a 4-lane MIPI CSI camera input, MIPI DSI up to 2.5K and eDP 1.4 display interfaces, Gigabit Ethernet with PoE, Wi-Fi 6, Bluetooth 5.4, five USB ports, and a 40-pin expansion header. With an industrial operating temperature range (-40°C to 85°C), this credit card-sized, Raspberry Pi-inspired SBC can be used for edge AI vision, robotics, industrial IoT, and other embedded systems. DEBIX M8391-01 specifications: MediaTeck Genio 720 (MT8391) CPU Commercial-grade (default) – 2x Arm Cortex-A78 cores @ up to 2.6 GHz, 6x Arm [...] The post DEBIX M8391-01 industrial SBC features MediaTek Genio 720 SoC with 9 TOPS NPU, dual-display support appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-2f5eb67faff8d56b</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geekworm UPS Scap 5V5A – A supercapacitor UPS HAT for Raspberry Pi 5</title>
+      <link>https://www.cnx-software.com/2026/10/05/geekworm-ups-scap-5v5a-a-supercapacitor-ups-hat-for-raspberry-pi-5/</link>
+      <description>Geekworm, in collaboration with Mcuzone, has launched the UPS Scap 5V5A, a new supercapacitor UPS HAT for the Raspberry Pi 5 designed to keep the Raspberry Pi running long enough (a few seconds to a few minutes) to save data and shut down safely, rather than provide hours of backup power. Available in 100F, 60F, and 22F versions, the HAT has a built-in PD chip that negotiates a true 5V/5A output. This gives the Raspberry Pi 5 enough power to run properly without triggering the low-voltage warnings that can happen with some power supplies. The module connects to the Raspberry Pi 5 through pogo pins to detect power loss and supports I2C for checking voltage and current in real time. It also features dual independent power inputs, so you can power it with either a wide-voltage DC barrel jack or a standard USB-C PD charger. Geekworm UPS Scap 5V5A supercapacitor [...] The post Geekworm UPS Scap 5V5A – A supercapacitor UPS HAT for Raspberry Pi 5 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-e8f077b043742d11</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:22 +0000</pubDate>
+    </item>
     <item>
       <title>AI on Your Gaming PC</title>
       <link>https://hackaday.com/2026/10/04/ai-on-your-gaming-pc/</link>
@@ -758,54 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-817c535eefdb56f0</guid>
       <pubDate>Mon, 24 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/08/24/mnt-station-fanless-modular-open-hardware-computer-supports-a-choice-of-10-arm-cpu-or-fpga-modules/</link>
-      <description>MNT Research, the Berlin-based team behind the MNT Reform, MNT Pocket Reform, Reform 2, and MNT Reform Next, has launched the MNT Station, a fanless, open-hardware modular computer designed for use as a desktop PC, home server, NAS, router, edge device, or low-power media center. The MNT Station is built around the MNT Reform mainboard ecosystem and designed for those who want to reuse an existing MNT Reform mainboard (versions 2.0, 2.5, or 3.0) as a stationary computer, as well as those building a modular Arm (or FPGA-based) desktop from scratch using the new MNT Reform Mainboard 3.0. Like other MNT systems, it’s fully open-source hardware, and the 200-pin processor module connector supports different processor modules, including the Rockchip RK3588, NXP Layerscape LS1028A, and Raspberry Pi CM4, among others. MNT Station specifications: SoC/Processor and Memory options (via 200-pin module) Rockchip RK3588 (MNT RCORE V2) — 4× Cortex-A76 + 4× Cortex-A55 [...] The post MNT Station fanless, modular open-hardware computer supports a choice of 10+ Arm CPU or FPGA modules (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-9624c18049a4eb8e</guid>
-      <pubDate>Mon, 24 Aug 2026 09:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Casio F-91W As A Contactless Payment Device.</title>
-      <link>https://hackaday.com/2026/08/24/the-casio-f-91w-as-a-contactless-payment-device/</link>
-      <description>The Casio F-91W digital watch is perhaps one of the most successful pieces of consumer electronics ever made, having quietly supplied the essential function of an inexpensive and accurate LCD …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-536d3d7331ec0b1c</guid>
-      <pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications</title>
-      <link>https://www.cnx-software.com/2026/08/24/rockchip-rv1126b-based-forlinx-fcu3101-fanless-edge-ai-system-targets-iiot-and-smart-security-applications/</link>
-      <description>Forlinx has just introduced the FCU3101, a fanless Edge AI system based on the Rockchip RV1126B/RV1126BJ SoC and designed for Industrial IoT (IIoT) and smart security applications, such as video surveillance, license plate recognition, intrusion detection, industrial inspection, and material counting. It ships with up to 4GB of DDR4, up to 64GB of eMMC storage, and includes dual Ethernet, Wi-Fi 4, Bluetooth 4.2, optional 4G LTE, RS485, RS232, digital I/O, relay outputs, HDMI, and USB ports. It supports up to 9–36V DC input and operates in the -40°C to +85°C temperature range in its industrial configuration. Forlinx FCU3101 specifications: SoC – Rockchip RV1126B or RV1126BJ (industrial-grade version) CPU – Quad-core Arm Cortex-A53 up to 1.6 GHz with 32KB L1 I-Cache and 32KB L1 D-Cache, unified 512KB L2 Cache GPU – 2D Graphics Engine VPU Video Decoder – H.265/H.264 up to 3840×2160 @ 30fps Video Encoder – H.265, H.264, JPEG up to [...] The post Rockchip RV1126B-based Forlinx FCU3101 fanless edge AI system targets IIoT and smart security applications appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-1ca323455c66b33a</guid>
-      <pubDate>Sun, 23 Aug 2026 23:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pixel Quest</title>
-      <link>https://blog.adafruit.com/2026/08/23/pixel-quest/</link>
-      <description>martina. shares how they created this handheld game console that doubles as a photo-editing control surface. Check out the project details on hackster.io **PIXEL QUEST** is a handheld game console you can hold in both hands — three original mini-games, a 2-inch screen, eight knobs and a joystick. But hold the blue button while powering […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c24df40c575b7058</guid>
-      <pubDate>Sun, 23 Aug 2026 20:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Source Firmware Frees the Litter-Robot 4 From the Cloud</title>
-      <link>https://www.hackster.io/news/open-source-firmware-frees-the-litter-robot-4-from-the-cloud-3078cb43eddf</link>
-      <description>Take back control of your Litter-Robot 4 with this custom ESPHome firmware that frees your cat's smart box from the cloud.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-92c99a190317f5d3</guid>
-      <pubDate>Sun, 23 Aug 2026 17:59:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bluetooth Shock Collar Keeps Wearer On Task</title>
-      <link>https://hackaday.com/2026/08/23/bluetooth-shock-collar-keeps-wearer-on-task/</link>
-      <description>Like a lot of us [Liam Kloppers] had a problem with doomscrolling. Unwilling to go cold-turkey because he does find some utility in social media. He tried a number of …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-557a458ee5c64b01</guid>
-      <pubDate>Sun, 23 Aug 2026 11:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
