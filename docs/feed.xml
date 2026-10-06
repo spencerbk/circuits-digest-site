@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 13:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Raspberry Pi Desktop now available for PC and Mac</title>
+      <link>https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/</link>
+      <description>The long-awaited PC and Mac version of Raspberry Pi Desktop is updated and available now! The post Raspberry Pi Desktop now available for PC and Mac appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-8cb85427ea0d6a82</guid>
+      <pubDate>Tue, 06 Oct 2026 13:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>LED Jellyfish Costume</title>
+      <link>https://blog.adafruit.com/2026/10/06/led-jellyfish-costume/</link>
+      <description>image via Instructables, deadinsect Instructables user deadinsect made this glowing jellyfish costume with a helmet, bowl and LED rope lights! Check out their write up on Instructables. This project is giving us major Jellyfish Umbrella vibes! HAPPY HALLOWEEN! All month on the Adafruit Blog we’ll be bringing you ideas and projects for an […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2bdfed4a4b0d8ec8</guid>
+      <pubDate>Tue, 06 Oct 2026 12:45:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Game On: VENTUNO Q Turned Into a Gaming Rig</title>
+      <link>https://www.hackster.io/news/game-on-ventuno-q-turned-into-a-gaming-rig-e248bc6feba8</link>
+      <description>Jim Bruges turned the Arm-based Arduino VENTUNO Q into a gaming rig capable of running Half-Life 2 and Skyrim.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-e18a95e7f61bbefa</guid>
+      <pubDate>Tue, 06 Oct 2026 12:44:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Queens Public Library’s Hispanic Heritage Month Booklists</title>
+      <link>https://blog.adafruit.com/2026/10/06/queens-public-librarys-hispanic-heritage-month-booklists/</link>
+      <description>The folks at Queens Public Library have put together 6 fantastic book lists to celebrate Hispanic Heritage Month: For Adults For Teens For Children Libros Para Adultos Libros Para Adolescentes Libros Para Niños</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6ce64362273fa6ba</guid>
+      <pubDate>Tue, 06 Oct 2026 12:30:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>USB-C PD Tamed with this Analyzer</title>
+      <link>https://hackaday.com/2026/10/06/usb-c-pd-tamed-with-this-analyzer/</link>
+      <description>USB-C Power Delivery (PD) has been a boon to anyone working with low-voltage DC power, because at a stroke it replaces a vast array of wall warts, power supplies, and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-586b3aa6fde134c0</guid>
+      <pubDate>Tue, 06 Oct 2026 11:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omnivision Has Its Eye on Industrial Automation, Smart Vehicles, and Robotics with New Image Sensors</title>
+      <link>https://www.hackster.io/news/omnivision-has-its-eye-on-industrial-automation-smart-vehicles-and-robotics-with-new-image-sensors-4b5814a515e1</link>
+      <description>Two new global-shutter sensors, for fast-moving objects and vibration-prone mounts, will begin shipping later this year.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-011cc16befb0b189</guid>
+      <pubDate>Tue, 06 Oct 2026 10:47:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556</title>
+      <link>https://www.cnx-software.com/2026/10/06/ximea-mu003tg-sy-uc-a-miniature-modular-0-3mp-usb-3-0-tof-sensor-based-on-sony-imx556/</link>
+      <description>The XIMEA MU003TG-SY-UC is a miniature industrial Time-of-Flight (ToF) camera with a 0.3MP Sony IMX556 CMOS sensor, global shutter, 640 × 480 resolution, and a 60 FPS frame rate. Its compact 26.4 × 26.4 × 28.67 mm enclosure and 31-gram weight make it suitable for space-limited embedded vision systems, robotics, UAVs, kiosks, 3D scanning, face recognition, and other machine-vision applications. The module uses a USB 3.2 Gen 1 interface through a 14-pin I-PEX Cabline SS connector for data, power, and control. A separate 10-pin Cabline V connector provides synchronization with external VCSEL illumination. The camera does not include an illumination source or optical band-pass filter, so these components must be provided separately for depth sensing. XIMEA MU003TG-SY-UC specifications: Sensor – Sony IMX556 CMOS Time-of-Flight sensor, global shutter, no on-sensor filter Resolution – 0.3 megapixels (640 × 480); active area 6.4 × 4.8 mm Pixel Size – 10 µm x 10 [...] The post XIMEA MU003TG-SY-UC – A miniature, modular 0.3MP USB 3.0 ToF Sensor based on Sony IMX556 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5fe436e1b92d830e</guid>
+      <pubDate>Tue, 06 Oct 2026 09:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>How classroom challenges can change how students see computing</title>
+      <link>https://www.raspberrypi.org/blog/how-classroom-challenges-can-change-how-students-see-computing/</link>
+      <description>Computing education in England is in a stronger position than it was a decade ago. Increased access to technology, free learning resources for young people, and improved training for computing teachers has put us on a path to success. But the subject is also at an important inflection point. Young people are growing up in… The post How classroom challenges can change how students see computing appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-8c92fafd59e5d7ad</guid>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Save $70 on GEEKOM A5 Pro 2026 Edition mini PC during Prime Day Sale (Sponsored)</title>
+      <link>https://www.cnx-software.com/2026/10/06/save-70-on-geekom-a5-pro-2026-edition-mini-pc-for-prime-day-sale/</link>
+      <description>The GEEKOM A5 Pro 2026 Edition is a pocket-sized 0.47L mini PC available at a $70 discount for the company’s Prime Day Sale until October 7. Powered by the 6-core Ryzen 5 7530U (up to 4.5GHz), it handles browsing, documents, video calls, and AI-agent tasks such as drafting, summarizing, and planning with ease. Dual HDMI 2.0 and dual USB-C ports support up to four displays (or one 8K display), enabling efficient multi-window workflows. Meanwhile, dual SO-DIMM slots (up to 64GB) and dual M.2 slots (up to 5TB total) provide plenty of room for future upgrades. With 2.5GbE, Wi-Fi 6E, six USB ports, an SD card reader, and VESA mounting support, along with an aluminum body that has passed 339 reliability tests, the A5 Pro is a quiet, clutter-free desktop companion for offices and home workspaces running Windows 11 Pro or Linux. Backed by GEEKOM’s 3-year warranty, the A5 Pro is [...] The post Save $70 on GEEKOM A5 Pro 2026 Edition mini PC during Prime Day Sale (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-f11d2acfb0730fca</guid>
+      <pubDate>Tue, 06 Oct 2026 01:00:26 +0000</pubDate>
+    </item>
     <item>
       <title>Seeing, understanding, and responding: low-power CNN, VLM and SLM workloads on Raspberry Pi 5</title>
       <link>https://www.raspberrypi.com/news/seeing-understanding-and-responding-low-power-cnn-vlm-and-slm-workloads-on-raspberry-pi-5/</link>
@@ -734,78 +806,6 @@
       <category>raspberry-pi-foundation</category>
       <guid isPermaLink="false">circuits-c3809a728dfd5b66</guid>
       <pubDate>Tue, 25 Aug 2026 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>$299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU</title>
-      <link>https://www.cnx-software.com/2026/08/25/299-arduino-ventuno-q-sbc-combines-qualcomm-dragonwing-iq8-soc-and-stm32h5-mcu/</link>
-      <description>The Arduino Ventuno Q is a single board computer pairing a Qualcomm Dragonwing IQ8 (IQ-8275) octa-core Edge AI SoC with an STM32H5F5 Arm Cortex-M33 microcontroller for real-time I/Os. First introduced at Embedded World 2026, the Ventuno Q is the second Qualcomm-based Arduino board after the Arduino UNO Q launched in October 2025. It’s quite a different beast with a larger design featuring 16GB LPDDR5, 64GB eMMC flash, an M.2 socket for NVMe storage, 2.5GbE and Wi-Fi 6 networking, a 4K-capable HDMI output, and two USB 3.2 ports, while still offloading real-time I/O to a Cortex-M33 microcontroller. Arduino Ventuno Q (ABX00181) specifications: SoC – Qualcomm Dragonwing IQ8 (IQ-8275, also known as QCS8275): CPU – Octa-core Kryo Gen 6 (Arm Cortex-A78/A55) processor GPU – Adreno A623 AI accelerator -Hexagon Tensor AI Processor (NPU) up to 40 dense TOPS ISP – Qualcomm Spectra 692/690 ISP Microcontroller (MCU) – STMicro STM32H5F5 CPU core – [...] The post $299 Arduino Ventuno Q SBC combines Qualcomm Dragonwing IQ8 SoC and STM32H5 MCU appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-1b740abefca0605a</guid>
-      <pubDate>Tue, 25 Aug 2026 08:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Days Of Broadcast Digital TV Could Be Numbered</title>
-      <link>https://hackaday.com/2026/08/25/the-days-of-broadcast-digital-tv-could-be-numbered/</link>
-      <description>When the analog TV signals were turned off in most places around fifteen years ago, their replacement took the form of a set of digital multiplexes. ATSC for North America, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-dfa2163adc2ff99c</guid>
-      <pubDate>Tue, 25 Aug 2026 08:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/08/25/firehat-open-source-firewire-dv-capture-hat-pcie-sbc-raspberry-pi-5-radxa-rock-2f/</link>
-      <description>Computer Equipment Group has launched the Firehat, an open-source FireWire HAT that adds a native IEEE 1394 / i.LINK / DV port to SBCs with a Raspberry Pi PCIe FFC connector like the Pi 5 or the Radxa ROCK 2F. Built around a VIA VT6315N controller, the Firehat provides a modern way to capture footage from MiniDV, Digital8, DVCAM, DVCPRO, and HDV camcorders. It lets users connect compatible cameras or decks to an SBC and record the original digital DV stream directly to local storage, without legacy computers or discontinued FireWire capture cards. Firehat specifications: Compatibility – Radxa ROCK 2F, Raspberry Pi 5, and other SBCs that expose PCIe over an FPC connector (or via adapter) Controller – VIA VT6315N FireWire / IEEE 1394 controller Display – 1.3-inch monochrome OLED display onboard Camera input port – 6-pin FireWire/i.LINK/DV port Host interface PCIe 2.0 FFC connector for video 40-pin Raspberry Pi [...] The post Firehat is an open-source FireWire DV capture HAT for SBCs with Raspberry Pi PCIe FFC connector (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-7fe5326830fbf56f</guid>
-      <pubDate>Tue, 25 Aug 2026 07:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5</title>
-      <link>https://www.cnx-software.com/2026/08/25/advantech-aom-6741-qualcomm-iq-9075-smarc-module/</link>
-      <description>Advantech AOM-6741 is a SMARC 2.2 Full Size module powered by a Qualcomm Dragonwing IQ-9075 octa-core SoC with up to 100 TOPS (INT8) of AI performance, up to 36 GB LPDDR5 memory, and 128GB UFS storage. The module also features two MIPI DSI connectors, at least one MIPI CSI connector, and exposes all I/Os through a standard 314-pin MXM 3.0 edge connector, including four DisplayPort interfaces, dual 2.5GbE, two USB 3.2 Gen2, PCIe Gen3 x2 and x4 interfaces, and more. With support for up to 16 concurrent cameras, the OAM-06741 SoM mainly targets industrial-grade vision intelligence applications. Advantech AOM-6741 specifications: SoC – Qualcomm DragonWing IQ-9075 CPU Octa-core Kryo Gen 6 (Cortex-A78C-based) application cores @ up to 3.2 GHz (according to Advantech, conflicts with earlier announcements mentioning up to 2.36 GHz) Quad-core Cortex-R52 real-time cores @ up to 1.85GHz GPU – Adreno 663 GPU delivering up to 1.2 TFLOPS FP32 with secure [...] The post Advantech AOM-6741 AI Vision SMARC module features 100 TOPS Qualcomm IQ-9075 SoC, up to 36 GB LPDDR5 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-93f3c1906d83e165</guid>
-      <pubDate>Tue, 25 Aug 2026 03:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Space Invaders for Fruit Jam New Learn Guide</title>
-      <link>https://blog.adafruit.com/2026/08/24/space-invaders-for-fruit-jam-new-learn-guide/</link>
-      <description>Turn your Fruit Jam into a Space Invaders arcade machine you can hook up to any TV. John Park’s new Learn Guide will show you how! pew pew! 👾 Play a game of pixel-accurate Space Invaders, even when you can’t remember where you put your original 1978 Taito or Midway arcade cabinet. Rather than running […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-289a5d6fd24af743</guid>
-      <pubDate>Tue, 25 Aug 2026 00:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electronic component zero orientation for CAD library construction</title>
-      <link>https://blog.adafruit.com/2026/08/24/electronic-component-zero-orientation-for-cad-library-construction/</link>
-      <description>Mentor Graphics Corporation, back in 2010, established a consistent technique for the description of electronic component orientation, and their land pattern geometries, that facilitates and encourages a common data capture and transfer methodology amongst and between global trading partners. IPC, in conjunction with the International Electrotechnical Commission (IEC), have established several standards that are in […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e2adfff02083d11f</guid>
-      <pubDate>Mon, 24 Aug 2026 21:10:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hexagon LED Lights – Modular Panel with Glue or M4 Connections #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/24/hexagon-led-lights-modular-panel-with-glue-or-m4-connections-3dthursday-3dprinting/</link>
-      <description>Vlasta_Ajm shares: A modular hexagonal LED lighting installation you can build to your exact preferences. Fully 3D-printable, connected by gluing or with M4 screws. Print the lid in transparent material for diffused light (community feedback: white filament actually scatters light better in some cases). Alternative approach to the modular LED cluster this week download the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7f0a2331bf04b222</guid>
-      <pubDate>Mon, 24 Aug 2026 13:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Create your own cyberdeck</title>
-      <link>https://www.raspberrypi.com/news/create-your-own-cyberdeck/</link>
-      <description>A hacker’s rite of passage is creating their own cyberdeck. This guide will help you build one from parts. The post Create your own cyberdeck appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-7dc2529b0cbed22b</guid>
-      <pubDate>Mon, 24 Aug 2026 12:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making Better Rubies At Home</title>
-      <link>https://hackaday.com/2026/08/24/making-better-rubies-at-home/</link>
-      <description>Sapphires and rubies aren’t just pretty, they also got a range of practical uses. This makes it even more useful to be able to make them at home for obviously …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-817c535eefdb56f0</guid>
-      <pubDate>Mon, 24 Aug 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
