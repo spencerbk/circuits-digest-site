@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Two Years After Discontinuing the Classic Zilog Z80, Littelfuse Kills Off Its Remaining MCUs</title>
+      <link>https://www.hackster.io/news/two-years-after-discontinuing-the-classic-zilog-z80-littelfuse-kills-off-its-remaining-mcus-0491ad475ca8</link>
+      <description>Company exits the microcontroller market altogether with an end-of-life notification covering "all remaining active MCU product families."</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-870c4259e712f6e8</guid>
+      <pubDate>Wed, 07 Oct 2026 12:51:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t Try this At Home, Transcranial Magnetic Stimulation Edition</title>
+      <link>https://hackaday.com/2026/10/07/dont-try-this-at-home-transcranial-magnetic-stimulation-edition/</link>
+      <description>Transcranial magnetic stimulation is one of those things that seems too wacky to be true. Depression not responding to treatment? Let’s smack you upside the head with strong magnetic fields! …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-0a2335f9102aa8b9</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stefan Bond's ATX Conversion Kit Brings Apple's Classic "Cheesegrater" Mac Pro Bang Up to Date</title>
+      <link>https://www.hackster.io/news/stefan-bond-s-atx-conversion-kit-brings-apple-s-classic-cheesegrater-mac-pro-bang-up-to-date-60b62372744a</link>
+      <description>Pricey conversion kit promises no irreversible modification to your 2019 Mac Pro chassis, while retaining those iconic front cooling fans.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-8fc948dc2b1901bf</guid>
+      <pubDate>Wed, 07 Oct 2026 10:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine</title>
+      <link>https://www.cnx-software.com/2026/10/07/dspi-firmware-turns-raspberry-pi-rp2040-rp2350-into-a-usb-sound-card-with-an-onboard-dsp-engine/</link>
+      <description>DSPi is a full-featured audio DSP firmware for the Raspberry Pi Pico, Pico 2, and other Raspberry Pi RP2040/RP2350 boards, which turns them into a USB sound card with an integrated DSP. It allows users to make use of essential tools like room correction, active crossovers, parametric EQ, time alignment, and more, and essentially works as a regular sound card on your computer. DSPi firmware’s capabilities: Dual-Core DSP – EQ processing is split across both cores on both RP2040 and RP2350. USB Audio Interface – Supports 16-bit and 24-bit PCM input at 44.1, 48, and 96 kHz, working on macOS, Windows, Linux, and iOS. S/PDIF Input – 24-bit PCM stereo audio at 44.1 or 48kHz. 24-bit S/PDIF or I2S Outputs – Up to 4x independent stereo output slots (8x channels on RP2350, 4x channels on RP2040). Subwoofer Output – Dedicated mono PDM output channel with a high-performance 2nd-order delta-sigma modulator, [...] The post DSPi firmware turns Raspberry Pi RP2040/RP2350 into a USB sound card with an onboard DSP engine appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-48f724007235bcd8</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU</title>
+      <link>https://www.cnx-software.com/2026/10/07/numaker-iot-ma35d0-a2-chili-pro-ultra-compact-evaluation-board-features-ma35d0k-cortex-a35-m4-mpu/</link>
+      <description>Nuvoton has added MA35D05KH67C, MA35D05KI67C, and MA35D05KJ67C, three new LQFP128 MPUs, to the NuMicro MA35D0 series, along with the NuMaker-IoT-MA35D0-A2 (Chili Pro) evaluation board. Designed for industrial AI, smart gateways, and renewable energy systems, this heterogeneous MPU has two 64-bit Arm Cortex-A35 cores at up to 650 MHz, plus a dedicated 180 MHz Arm Cortex-M4 for real-time work. Nuvoton’s press release calls Chili Pro the “industry’s smallest Linux platform,” but the board is 45 × 45 mm, which is bigger than other boards we wrote about previously, like the VoCore2 (25.4 × 25.4 × 2.8 mm), the Milk-V Duo 256M (51 × 21 mm), NanoPi NEO (40 × 40 mm), and even the Raspberry Pi Zero 2 W (65 × 30 mm). Still, considering that it fits full-sized RJ45 and USB ports along with the other interfaces, it is a pretty compact and capable board. Nuvoton NuMaker-IoT-MA35D0-A2 evaluation board specifications: [...] The post NuMaker-IoT-MA35D0-A2 (Chili Pro) ultra-compact evaluation board features MA35D0K Cortex-A35/M4 MPU appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d8d3fb3a564e0096</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>New nEw NEWS From Adafruit Round-Up: July, August &amp; September 2026</title>
+      <link>https://blog.adafruit.com/2026/10/06/new-new-news-from-adafruit-round-up-july-august-september-2026/</link>
+      <description>New nEw NEWs is Adafruit’s weekly newsletter that features new products, special offers and more. Sign up at Adafruit.com/Newsletter to receive New nEw NEWs! Vol. #471: Summer Nights Gift Guide! Vol. #472: Build with the VEML7700 Lux Sensor – I2C Light Sensor Vol. #473: NeoPixel Stick – 8 x 5050 WWA White LEDs with Integrated […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b128e15db162fc6f</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>IceCube Detection of Neutrinos Lands Researcher Nobel Prize</title>
+      <link>https://blog.adafruit.com/2026/10/06/icecube-detection-of-neutrinos-lands-researcher-nobel-prize/</link>
+      <description>IceCube Neutrino Observatory in 2023 by Christopher Michel, image vial Wikipedia Today, the Royal Swedish Academy of Sciences awarded Francis Halzen the Nobel Prize in Physics. Halzen, a physicist at the University of Wisconsin, pioneered research on one of physics’ most elusive particles, the neutrino. The IceCube Neutrino Observatory was established in the South […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5857961efe921101</guid>
+      <pubDate>Tue, 06 Oct 2026 18:37:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>JP’s Product Pick of the Week —  3pm Eastern TODAY 9/29/26 @adafruit #adafruit #newproductpick</title>
+      <link>https://blog.adafruit.com/2026/10/06/jps-product-pick-of-the-week-3pm-eastern-today-9-29-26-adafruit-adafruit-newproductpick-2/</link>
+      <description>Come on by for JP’s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won’t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-204302cb7f8a8527</guid>
+      <pubDate>Tue, 06 Oct 2026 18:26:32 +0000</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi Desktop now available for PC and Mac</title>
       <link>https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/</link>
@@ -742,70 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-4f2c2c42255dc361</guid>
       <pubDate>Wed, 26 Aug 2026 12:30:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Plays DOOM</title>
-      <link>https://hackaday.com/2026/08/26/claude-plays-doom/</link>
-      <description>Large language models (LLMs) are generally thought of as machines that accept textual prompts and spit out textual content. However, if you’re creative in the way you interface with them, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-dd427f6667a9243b</guid>
-      <pubDate>Wed, 26 Aug 2026 11:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications</title>
-      <link>https://www.cnx-software.com/2026/08/26/banana-pi-bpi-ai2n-a-renesas-rz-v2n-based-som-and-carrier-board-for-vision-ai-applications/</link>
-      <description>Banana Pi BPI-AI2N is a system-on-module (SoM) powered by a Renesas RZ/V2N quad-core Cortex-A55 microprocessor with a 15 TOPS (sparse) DRP-AI3 accelerator for Vision AI workloads. The module features 8GB LPDDR4x, 32GB eMMC flash, 64MB SPI flash, two Gigabit Ethernet controllers, a PMIC, and exposes all I/Os through a 260-pin SO-DIMM connector. The company also provides a Jetson Nano-inspired carrier board with a MIPI DSI connector, two MIPI CSI connectors, two GbE RJ45 ports, two USB 3.0 ports, an M.2 socket for NVMe SSD storage, a 40-pin GPIO header, and more. Banana Pi BPI-AI2N-Core SoM specifications: SoC – Renesas RZ/V2N CPU Quad-core Arm Cortex-A55 @ 1.8 GHz Arm Cortex-M33 @ 200 MHz GPU – Arm Mali-G31 3D graphics engine (GE3D) with OpenGL ES 3.2 and OpenCL 2.0 FP VPU – Encode &amp; decode H.264 – Up to 1920×1080 @ 60 fps (Renesas specs, but SOMDEVICES also mentions up to 4K @ [...] The post Banana Pi BPI-AI2N – A Renesas RZ/V2N-based SoM and carrier board for Vision AI applications appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-9415dd7aa4e72638</guid>
-      <pubDate>Wed, 26 Aug 2026 10:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Controller Makes Heavy Machinery Intuitive</title>
-      <link>https://hackaday.com/2026/08/26/new-controller-makes-heavy-machinery-intuitive/</link>
-      <description>As children, many of us looked wistfully into the cockpits of heavy machinery, wondering just how the series of knobs and levers would do something like operate a bulldozer, crane, …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-cb929b427b9c7ce7</guid>
-      <pubDate>Wed, 26 Aug 2026 08:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Guy Built a Working Mazda Suitcase Car</title>
-      <link>https://www.hackster.io/news/this-guy-built-a-working-mazda-suitcase-car-34c30a0e63d5</link>
-      <description>The boys at the Bucket YouTube channel wanted something very special and had to build it themselves: the Mazda Suitcase Car.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-534895dc79a846ad</guid>
-      <pubDate>Tue, 25 Aug 2026 23:49:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs</title>
-      <link>https://www.cnx-software.com/2026/08/26/lantronix-open-m-720g-520g-ultra-compact-lga-system-on-module-based-on-mediatek-genio-720-and-genio-520-socs/</link>
-      <description>Lantronix Open-M 720G and 520G are compact (43x44mm) LGA system-on-modules (SoM) powered by 6nm MediaTek Genio 720 and Genio 520 SoCs, offering an AI performance of 10 TOPS, and designed for Edge IoT applications running low-power Vision AI and GenAI tasks. The Genio 720 dual-camera module ships with 8GB LPDDR5 and the Genio 520 single-camera module with 4GB LPDDR5. Both offer 128GB UFS storage, Gigabit Ethernet, optional WiFi 6 and Bluetooth 5.3 connectivity, dual display support, audio inputs/outputs, USB 3.2/2.0 interfaces, PCIe Gen2 x1, and more. Lantronix Open-M 720G/520G specifications: SoC (one or the other) MediaTek Genio 520 (MT8371) CPU – 2x Cortex-A78 up to 2.2GHz, 6x Cortex-A55 up to 2.0 GHz GPU – Arm Mali-G57 MC2 up to 880 MHz VPU Video Decode – Up to 1920 x 1200 @ 60fps Video Encode – Up to 1920 x 1200 @ 60fps ISP – 1x ISP NPU – NPU850 AI accelerator [...] The post Lantronix Open-M 720G/520G – Ultra-compact LGA system-on-modules based on MediaTek Genio 720 and Genio 520 SoCs appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-13b305c359fa4f6f</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICYMI Python on Microcontrollers Newsletter: CircuitPython Day 2026 Wraps, 400th Newsletter, Bao Chip Magic and More!</title>
-      <link>https://blog.adafruit.com/2026/08/25/icymi-python-on-microcontrollers-newsletter-circuitpython-day-2026-wraps-400th-newsletter-bao-chip-magic-and-more/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,369 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f3d3a4fb40a32ad0</guid>
-      <pubDate>Tue, 25 Aug 2026 13:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quest VR Headset Becomes Unlocked Hardware</title>
-      <link>https://hackaday.com/2026/08/25/quest-vr-headset-becomes-unlocked-hardware/</link>
-      <description>The Quest virtual reality headset gets a fully unlocked bootloader thanks to the QuestStack tool, which automates a complex process of privilege escalation to provide stable, privileged access to the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-877800d5dda73cdc</guid>
-      <pubDate>Tue, 25 Aug 2026 11:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supporting a technical AI-focused qualification for young people in England</title>
-      <link>https://www.raspberrypi.org/blog/support-for-ai-focused-qualification-young-people-england/</link>
-      <description>Young people see and use artificial intelligence (AI) systems frequently, and hear a lot about how they are applied across many areas of life. That makes them understandably eager to find out more about how AI works. For some, this interest extends to wanting to experiment with the technology to investigate their own questions and… The post Supporting a technical AI-focused qualification for young people in England appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-c3809a728dfd5b66</guid>
-      <pubDate>Tue, 25 Aug 2026 10:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
