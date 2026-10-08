@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Fixers are warming up for Repair Day across the globe</title>
+      <link>https://blog.adafruit.com/2026/10/08/fixers-are-warming-up-for-repair-day-across-the-globe/</link>
+      <description>James Pickstone, writing on openrepair.org, previews what communities have planned for International Repair Day on October 17. This is the 10th edition, and the global event map is still filling up. Vienna’s re:pair Festival runs 17 days, with textile workshops, furniture restoration demos, musical instrument repair clinics and a repair cafe. Vivita Philippines is running […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-0e5f9ceb6b9a8422</guid>
+      <pubDate>Thu, 08 Oct 2026 13:22:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Floating Ghost Dog #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/08/floating-ghost-dog-3dthursday-3dprinting/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Floating Ghost Dog By O3D makerworld.com/en/models/3323936-floating-ghost-dog-halloween-tealight-holder Bambu X1C PolyMaker PLA 2hr 18mins X:110 Y:94 Z:74mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 36g 230mm/s Every Thursday is #3dthursday […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-927570db47fa6df6</guid>
+      <pubDate>Thu, 08 Oct 2026 13:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Say Hello to Q8botOne: The Wire-Free Quadruped Robot</title>
+      <link>https://www.hackster.io/news/say-hello-to-q8botone-the-wire-free-quadruped-robot-e703a077ddc3</link>
+      <description>ZeroWire Robotics' open source Q8botOne is a palm-sized, wire-free quadruped built for easy assembly, hacking, and agile movement.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-5745f5600887f0a8</guid>
+      <pubDate>Thu, 08 Oct 2026 12:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Net zero at Pi Towers: how we’re doing it</title>
+      <link>https://www.raspberrypi.com/news/net-zero-at-pi-towers-how-were-doing-it/</link>
+      <description>At Raspberry Pi Ltd, we're seeking to be pioneers in transforming our property portfolio to reach net zero. The post Net zero at Pi Towers: how we’re doing it appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-61b29260f9b38b4e</guid>
+      <pubDate>Thu, 08 Oct 2026 11:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The World’s Smallest TV Console Plays DOOM</title>
+      <link>https://hackaday.com/2026/10/08/the-worlds-smallest-tv-console-plays-doom/</link>
+      <description>We’ve seen plenty of game console projects here, many of them that seek to produce a miniature game console. But this one from [RayTriangle] may break a new barrier entirely …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-94d234fddf2310a3</guid>
+      <pubDate>Thu, 08 Oct 2026 11:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon's Ring Unveils Its First Smart Lock — With a Hand-Crank Generator for When the Battery's Dead</title>
+      <link>https://www.hackster.io/news/amazon-s-ring-unveils-its-first-smart-lock-with-a-hand-crank-generator-for-when-the-battery-s-dead-22af7ef1dd30</link>
+      <description>"A few turns" of the lock's dial juices the battery long enough to get you in the door, Ring promises.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-29a4b6e3b4c5f653</guid>
+      <pubDate>Thu, 08 Oct 2026 10:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/10/08/q8botone-a-palm-sized-open-source-quadruped-robot-with-esp32-c3-dynamixel-smart-actuators/</link>
+      <description>ZeroWire Robotics Q8botOne is an open-source, palm-sized quadruped robot built around an ESP32-C3 MCU and ROBOTIS DYNAMIXEL smart actuators. Designed with a unique wire-free architecture, the robot integrates all components onto a central printed circuit board also used as the structural chassis. The robot is roughly the size of a smartphone and can jog, jump, and carry up to twice its 250-gram weight. The main PCB uses a dedicated 6V/16A step-down converter for motor power and includes a battery management system for two 14500 Li-ion cells. For control, the kit includes a separate ESP32-C3 controller PCB with an Adafruit Mini I2C Gamepad. Q8botOne specifications: Wireless module – Espressif Systems ESP32-C3-MINI-1-N4 module with: ESP32-C3 (ESP32-C3FN4) SoC CPU – 32-bit RISC-V single-core processor up to 160 MHz Memory – 400 KB SRAM (16 KB for cache), 8 KB SRAM in RTC Storage – 4 MB embedded flash, 384 KB ROM Connectivity – [...] The post Q8botOne – A palm-sized open-source quadruped robot with ESP32-C3, DYNAMIXEL smart actuators (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-1043ab325029ffcc</guid>
+      <pubDate>Thu, 08 Oct 2026 09:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efinix Sapphire RV64 SoC – Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs</title>
+      <link>https://www.cnx-software.com/2026/10/08/efinix-sapphire-rv64-soc-configurable-risc-v-soft-cores-with-ddr3-lpddr4x-and-hyperram-for-efinix-fpgas/</link>
+      <description>Efinix has introduced the Sapphire RV64 SoC, a configurable 64-bit RISC-V soft-core processor designed for its Titanium and Trion FPGAs. It is based on the VexiiRiscv core and can be configured with one to four RISC-V cores running at up to 400 MHz. The Sapphire RV64 has a seven-stage pipeline, configurable L1 caches, optional 64–512 KB L2 cache, and 4–512 KB of on-chip RAM. It supports DDR3, LPDDR4x, and HyperRAM with up to 512-bit AXI interfaces and external memory from 4 MB to 8 GB. Other features include an optional FPU, branch predictor, prefetchers, SV39 MMU, up to 32 GPIOs, five I²C, three SPI, three UARTs, timers, watchdog, and up to eight user interrupts. Efinix Sapphire RV64 SoC specifications: CPU 1 to 4x VexiiRiscv 64-bit cores with a 7-stage pipeline (fetch, align-decompress, decode, issue, execute, memory, and writeback) Configurable system clock frequency from 20 MHz to 400 MHz Supports RV64IMACFD_Zba_Zbc_Zbs extensions [...] The post Efinix Sapphire RV64 SoC – Configurable RISC-V soft-cores with DDR3, LPDDR4x, and HyperRAM for Efinix FPGAs appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-752aed9421242a80</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:32 +0000</pubDate>
+    </item>
     <item>
       <title>Two Years After Discontinuing the Classic Zilog Z80, Littelfuse Kills Off Its Remaining MCUs</title>
       <link>https://www.hackster.io/news/two-years-after-discontinuing-the-classic-zilog-z80-littelfuse-kills-off-its-remaining-mcus-0491ad475ca8</link>
@@ -742,70 +806,6 @@
       <category>raspberry-pi</category>
       <guid isPermaLink="false">circuits-13ccee1d3c308bd2</guid>
       <pubDate>Thu, 27 Aug 2026 07:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software</title>
-      <link>https://www.cnx-software.com/2026/08/27/lunyee-3020-nova-review-a-desktop-cnc-router-with-710w-spindle-tested-with-ugs-and-easel-software/</link>
-      <description>We’ve gotten a sample of the LUNYEE 3020 Nova desktop CNC router for review. The machine features a 710W trim router spindle suitable for carving wood, acrylic, and aluminum. The drive system relies on dual HG15 linear guides and 1204 ball screws for enhanced rigidity and motion accuracy, and the machine integrates NEMA 17 stepper motors with 0.89 N·m torque. It supports Windows, Linux, and Mac systems and works with GRBL-compatible CNC software such as UGS, Fusion 360, VCarve, Easel, and LightBurn. LUNYEE sent us the CNC router with a dust shoe and a CNC vise worktable for review. We will cover the specifications, go through an unboxing, and show how to assemble and set up the machine before testing it with UGS and Easel programs using wood and acrylic as test materials suitable for the bits provided by the company. LUNYEE 3020 Nova desktop CNC router specifications Control Board [...] The post LUNYEE 3020 Nova review – A desktop CNC router with 710W spindle tested with UGS and Easel software appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-9d4360dbe79145c5</guid>
-      <pubDate>Thu, 27 Aug 2026 05:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-IDF User Guide for ESP32-P4, SDK stable (v6.1)</title>
-      <link>https://www.espressif.com/en/node/11171</link>
-      <description>Language English ESP32-P4The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v6.1Thursday, August 27, 2026https://docs.espressif.com/projects/esp-idf/en/v6.1/esp32p4/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-beb1a4a221863967</guid>
-      <pubDate>Thu, 27 Aug 2026 02:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-IDF User Guide for ESP32-H2, SDK stable (v6.1)</title>
-      <link>https://www.espressif.com/en/node/11167</link>
-      <description>Language English ESP32-H2The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v6.1Thursday, August 27, 2026https://docs.espressif.com/projects/esp-idf/en/v6.1/esp32h2/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-e737f228b814fb1b</guid>
-      <pubDate>Thu, 27 Aug 2026 02:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-IDF User Guide for ESP32-C61, SDK stable (v6.1)</title>
-      <link>https://www.espressif.com/en/node/11163</link>
-      <description>Language English ESP32-C61The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v6.1Thursday, August 27, 2026https://docs.espressif.com/projects/esp-idf/en/v6.1/esp32c61/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-57523aa03e1f96f0</guid>
-      <pubDate>Thu, 27 Aug 2026 02:29:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>If You Missed the High Boy Kickstarter, You Can Now Pledge on Indiegogo</title>
-      <link>https://www.hackster.io/news/if-you-missed-the-high-boy-kickstarter-you-can-now-pledge-on-indiegogo-6a7baeae93be</link>
-      <description>The High Boy (a Flipper Zero alternative) is now back and available through Indiegogo.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-1cfd2776e4cbd98f</guid>
-      <pubDate>Thu, 27 Aug 2026 00:27:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Sonnet plays DOOM on an ESP32-P4</title>
-      <link>https://blog.adafruit.com/2026/08/26/claude-sonnet-plays-doom-on-an-esp32-p4/</link>
-      <description>Andrea Ricci ported DOOM to SCINTIX P4 (an ESP32-P4 + ESP32-C6 module in the Raspberry Pi CM4/CM5 form factor) and then let Claude Sonnet play it. The game runs on a 1024×600 MIPI-DSI panel, hardware-scaled to 30 FPS by the P4’s PPA. A small WebSocket “lockstep” API + an MCP server expose the running game […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-1ba1701653ffff22</guid>
-      <pubDate>Wed, 26 Aug 2026 13:43:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 8/25/26</title>
-      <link>https://blog.adafruit.com/2026/08/26/jps-product-pick-of-the-week-8-25-26/</link>
-      <description>New time, same John Park. Be sure to tune in at noon pacific and 3 eastern to catch the livestream moving forward. And now to the main reason you’re here – this week’s pick! Learn about Adafruit APDS9999 Proximity, Lux Light &amp; Color Sensor and how to use it, catch a live demo, and more […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-bf27595ad11d5543</guid>
-      <pubDate>Wed, 26 Aug 2026 12:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Happy Women’s Equality Day 2026 #WomensEqualityDay #WED #WED2026</title>
-      <link>https://blog.adafruit.com/2026/08/26/happy-womens-equality-day-2026/</link>
-      <description>Women’s Equality Day honors the ratification of the 19th Amendment, continuing efforts toward equality, and the ongoing fight for the adoption of the Equal Rights Amendment. Resources, events, and additional information: National Women’s History Alliance: Women’s Equality Day 2026 New York Almanack: Women’s Equality Day Events: 250 Years of Marching Toward Equality Hudson County, New […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4f2c2c42255dc361</guid>
-      <pubDate>Wed, 26 Aug 2026 12:30:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
