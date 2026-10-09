@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Fog Machine with Motion Sensor and Adafruit IO #ElectronicHalloween</title>
+      <link>https://blog.adafruit.com/2026/10/09/fog-machine-with-motion-sensor-and-adafruit-io-electronichalloween/</link>
+      <description>Step up your decor game this year with a motion-sensitive fog machine. This guide will show you how to hack a standard-issue Halloween-store fog machine to add lights and reactivity, and also how to use Adafruit IO to control your lights and fog from your smart phone — from anywhere in the world! Make your […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f8db19c7ae871bd2</guid>
+      <pubDate>Fri, 09 Oct 2026 12:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roughened Optical Fibers Turn Soft Sheets of Silicone Into Three-Dimensional Shape Sensors</title>
+      <link>https://www.hackster.io/news/roughened-optical-fibers-turn-soft-sheets-of-silicone-into-three-dimensional-shape-sensors-0279e9419b86</link>
+      <description>Waveguides made of rubber embedded in a sheet of silicone could deliver better healthcare monitoring and even robot control.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d2f26c5f0607875d</guid>
+      <pubDate>Fri, 09 Oct 2026 11:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Margret Hamilton, Pioneering Software Engineer, Dies Aged 90</title>
+      <link>https://hackaday.com/2026/10/09/margret-hamilton-pioneering-software-engineer-dies-aged-90/</link>
+      <description>As Director of the Software Engineering Division at the MIT Instrumentation Laboratory, Margret Hamilton was responsible for the software for the Apollo program. The code she was responsible for ran …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a38e6cacca3c9a9c</guid>
+      <pubDate>Fri, 09 Oct 2026 11:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Dogfoods Its Boards, Connected to Home Assistant, As It Plans a Path to "Net Zero"</title>
+      <link>https://www.hackster.io/news/raspberry-pi-dogfoods-its-boards-connected-to-home-assistant-as-it-plans-a-path-to-net-zero-4158820bc6c1</link>
+      <description>Energy efficiency at the single-board computer maker's headquarters is getting a big boost from its own SBCs, linked to Home Assistant.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-bdb6401724454090</guid>
+      <pubDate>Fri, 09 Oct 2026 10:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deluxe Gothic Skull USB LED Lamp – Bambu LED Kit MH001 #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/08/deluxe-gothic-skull-usb-led-lamp-bambu-led-kit-mh001-3dthursday-3dprinting/</link>
+      <description>BattCave shares: A detailed LED skull lamp producing even, bright illumination. Threaded base for straightforward assembly with the Bambu LED Lamp Kit MH001. Print profile: 0.2mm layer, 3 walls, 10% infill. Estimated print time: 17.6 hours on one plate. Recommended material: PLA (example shown in Sunlu Matte White). Optional colored gel films customize the skull’s […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-8ba4a1638cf79127</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/</link>
+      <description>Sipeed has just launched what they claim is the world’s first 10 Gbps USB 3.2 logic analyzer. The SLogic32U3 is the successor to the SLogic16U3 3.2 Gbps logic analyzer launched in 2025. The SLogic32U3 USB-C logic analyzer supports up to 32 channels via four mini HDMI connectors, 350 MHz signal bandwidth, up to 1400 MS/s per channel with four channels, or 200 MS/s per channel with 32 channels, and is offered with an optional ADC module. SLogic32U3 specifications: FPGA – Not mentioned (potentially from GOWIN) Input channels – 32 digital channels via 4x mini HDMI ports, each with 8 channels Sample rates 1400MS/s @ 4 channels 800MS/s @ 8 channels 400MS/s @ 16 channels 200MS/s @ 32 channels Digital signal bandwidth – 350 MHz Stream FIFO buffer – 2 Gbit DDR3 Capture mode – Stream (real-time readback); depth limited by PC memory/disk Signal input voltage – 0–10 V Adjustable threshold [...] The post Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d3003774b526f1aa</guid>
+      <pubDate>Thu, 08 Oct 2026 17:01:38 +0000</pubDate>
+    </item>
     <item>
       <title>Fixers are warming up for Repair Day across the globe</title>
       <link>https://blog.adafruit.com/2026/10/08/fixers-are-warming-up-for-repair-day-across-the-globe/</link>
@@ -758,54 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-6169dded2b55206d</guid>
       <pubDate>Fri, 28 Aug 2026 00:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mewtwo Skull Mask #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/27/mewtwo-skull-mask-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Mewtwo Skull Mask By Deadmoon makerworld.com/en/models/3082934-mewtwo-skull-mask Bambu X1C PolyMaker PLA 4hr 52mins X:164 Y:181 Z:125mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 133g 230mm/s download the files on: […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e6ea07661bf49390</guid>
-      <pubDate>Thu, 27 Aug 2026 13:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Cursed Pumpkin – Skull-Filled Halloween Pumpkin #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/27/the-cursed-pumpkin-skull-filled-halloween-pumpkin-3dthursday-3dprinting/</link>
-      <description>YahooJAPAN shares: A traditional Halloween pumpkin with a dark twist — the outer surface is a faithful carved pumpkin, but the interior reveals a cavity of skulls sculpted in relief. Tested on H2D, X1C, A1 Mini with Bambu PLA basic/matte. Three profiles: colored optimized for H2D (~17hr), colored, and single-color. Few supports, easy to remove. […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-794729ec498d1cf6</guid>
-      <pubDate>Thu, 27 Aug 2026 12:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analog Optical Feedback Generates 4K Fractals With No Computer</title>
-      <link>https://hackaday.com/2026/08/27/analog-optical-feedback-generates-4k-fractals-with-no-computer/</link>
-      <description>For users of a certain age, fractal patterns and computers are nearly synonymous. Typing in BASIC programs and seeing the Mandelbrot set or other fractals slowly render on screen is …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-04e468a879272f44</guid>
-      <pubDate>Thu, 27 Aug 2026 11:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Halloween Witch’s Cauldron Basket – Legged or Legless Variants #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/08/27/halloween-witchs-cauldron-basket-legged-or-legless-variants-3dthursday-3dprinting/</link>
-      <description>AstroDex_3D shares: A witch’s cauldron basket that works as a candy dish, small-treasure organizer, or decor piece. Two versions included: with legs or without. Multi-color 3MF and split-parts STL provided. Alternative to the 4AM Witch’s Cauldron House if you want a simpler candy-basket variant. By AstroDex download the files on: https://makerworld.com/en/models/1809693-halloween-witch-s-cauldron-basket Every Thursday is #3dthursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e06f8cde23442dd9</guid>
-      <pubDate>Thu, 27 Aug 2026 11:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>eeink Provides eInk, ESP32 Powered Text Adventures</title>
-      <link>https://hackaday.com/2026/08/27/eeink-provides-eink-esp32-powered-text-adventures/</link>
-      <description>There’s a niche genre of text adventure that’s halfway between a traditional novel and a videogame. Think Zork if it had an extra few novels worth of words of well-crafted …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-c82b99f08e2134b1</guid>
-      <pubDate>Thu, 27 Aug 2026 08:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>LesionIQ skin cancer diagnostic</title>
-      <link>https://www.raspberrypi.com/news/lesioniq-skin-cancer-diagnostic/</link>
-      <description>LesionIQ uses machine learning to analyse images of skin lesions and identify patterns that the human eye cannot. The post LesionIQ skin cancer diagnostic appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-13ccee1d3c308bd2</guid>
-      <pubDate>Thu, 27 Aug 2026 07:18:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
