@@ -5,8 +5,48 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It</title>
+      <link>https://hackaday.com/2026/10/10/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it/</link>
+      <description>[Hyperfixed] has a podcast episode that does a deep dive into exactly why bags of microwave popcorn advise against using your microwave’s popcorn setting (in North America, anyway.) The answer …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-206c5bbf666e5b31</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another IKEA Product Yields an LED Matrix</title>
+      <link>https://hackaday.com/2026/10/10/another-ikea-product-yields-an-led-matrix/</link>
+      <description>The IKEA Kortlinje is a digital clock that costs around 20 dollars, featuring a hygrometer and thermometer. It’s another cheap appliance, you might think, were it not that the display …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-3113db1845f4582f</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could You Operate This Ultra-Weird Calculator?</title>
+      <link>https://www.hackster.io/news/could-you-operate-this-ultra-weird-calculator-e77fb7277e69</link>
+      <description>Magmabow wanted to simplify things and ended up building one of the weirdest calculators ever devised.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-98471d1a0f4481d9</guid>
+      <pubDate>Fri, 09 Oct 2026 20:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW GUIDE: Fruit Jam Motion Tracking Eyeballs #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/10/09/new-guide-fruit-jam-motion-tracking-eyeballs-adafruitlearningsystem-adafruit/</link>
+      <description>Do you ever feel like someone or something is watching you? In the case of this project, it is! You can use a Fruit Jam running CircuitPython with a USB webcam to display monster eyes that gaze in the direction of motion captured by the webcam. The CircuitPython code utilizes Turbo helper modules to speed […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f545c75e57814dad</guid>
+      <pubDate>Fri, 09 Oct 2026 19:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>LED Bubble Hair Extensions with Motion Controlled Effects #Sensors #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/10/09/led-bubble-hair-extensions-with-motion-controlled-effects-sensors-adafruitlearningsystem-adafruit/</link>
+      <description>Turn your hair into a motion-reactive light show with these colorful LED Bubble Hair Extensions from Erin St Blaine. This wearable project combines lightweight LED seed pixels with bright bubble-braid hair extensions to create glowing cyberpunk-style hair that reacts when you move. An LIS3DH accelerometer senses a shake of your head and kicks the animations […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-af70580f7b507235</guid>
+      <pubDate>Fri, 09 Oct 2026 18:57:08 +0000</pubDate>
+    </item>
     <item>
       <title>Fog Machine with Motion Sensor and Adafruit IO #ElectronicHalloween</title>
       <link>https://blog.adafruit.com/2026/10/09/fog-machine-with-motion-sensor-and-adafruit-io-electronichalloween/</link>
@@ -14,6 +54,14 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-f8db19c7ae871bd2</guid>
       <pubDate>Fri, 09 Oct 2026 12:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>esp-iot-solution GitHub Repo</title>
+      <link>https://www.espressif.com/en/node/11461</link>
+      <description>Language English ESP32ESP32-C3ESP32-C6ESP32-H2ESP32-S2ESP32-S3ESP32-C5ESP32-P4ESP32-C2Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.latestWednesday, September 30, 2026https://github.com/espressif/esp-iot-solutionSend add/update notification to subscribers: Document Type: Application NoteDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-66892cdd5397af69</guid>
+      <pubDate>Fri, 09 Oct 2026 11:17:02 +0000</pubDate>
     </item>
     <item>
       <title>Roughened Optical Fibers Turn Soft Sheets of Silicone Into Three-Dimensional Shape Sensors</title>
@@ -758,54 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-fa39f2ac34c0b28f</guid>
       <pubDate>Fri, 28 Aug 2026 11:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>A better model for silicon: quantifying chip carbon with Columbia and Cornell</title>
-      <link>https://www.raspberrypi.com/news/a-better-model-for-silicon-quantifying-chip-carbon-with-columbia-and-cornell/</link>
-      <description>MicroGreen and ACT were built to enable engineers to quantify the embodied carbon of their hardware. The post A better model for silicon: quantifying chip carbon with Columbia and Cornell appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-ee7ec929a333987c</guid>
-      <pubDate>Fri, 28 Aug 2026 09:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/08/28/spark-solder-one-handed-usb-c-soldering-iron-ts100-tips-automated-solder-feeder/</link>
-      <description>Spark Solder is a compact, USB-C-powered one-handed soldering iron with a built-in motorized solder feeder for convenient one-handed operation. It supports standard TS100 tips, delivers up to 45W of heating power, and features a 1-inch LCD for adjusting the temperature and solder feed speed. While smart, portable soldering irons are very common these days, using one can still be tricky when you have to handle the iron, solder wire, and components at the same time. Spark Solder solves this by adding a replaceable solder capsule and a two-axis motorized feeding system to the handle, leaving one hand free for easier assembly, prototyping, and repairs. Spark Solder specifications: Display – 1-inch TFT display for adjusting temperature, solder extrusion speed, and tip profiles Soldering Power output – Up to 45W Temperature Range – 200°C to 450°C Heat-Up Time – Reaches 300°C in 6 seconds Temperature Stability – ±2°C (via PID control) Tip [...] The post Spark Solder one-handed USB-C soldering iron supports TS100 tips, integrates solder feeder (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c39cfb70d3ee12a7</guid>
-      <pubDate>Fri, 28 Aug 2026 09:14:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1768 – Mailbag</title>
-      <link>https://www.eevblog.com/2026/08/28/eevblog-1768-mailbag/</link>
-      <description>More Mailbag! 00:00 – Dave &amp; Dylan open random Mailbag 03:49 – DIY bodged laser engraver 04:14 – MPPT Solar charge controller 04:56 – Mixed bags 06:01 – DLP Projector Mirror Arrays 08:05 – TDA2030A Power Amp 08:39 – Analog/Digital combo watch 12:23 – Solar Panels 13:52 – Engineering Spelling + 34401A VFD Replacement https://hubequip.net/products/hp-agilent-34401a-vfd-to-led-display-replacement-led-conversion …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-910cc2a48e048888</guid>
-      <pubDate>Fri, 28 Aug 2026 09:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panoramic Photography with a Linear Scanner</title>
-      <link>https://hackaday.com/2026/08/28/panoramic-photography-with-a-linear-scanner/</link>
-      <description>Although digital photography took a big bite of the film industry’s lunch, it wasn’t able to completely eliminate the need — or desire — for photographers to use film in …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-74c926d48b2d29f6</guid>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microduck – A duck-like biped robot designed for physical AI experimentation and fun</title>
-      <link>https://www.cnx-software.com/2026/08/28/microduck-a-duck-like-biped-robot-designed-for-physical-ai-experimentation-and-fun/</link>
-      <description>Pollen Robotics and Hugging Face have unveiled the Microduck, a 25 cm tall biped robot with 15 motors, a camera, a depth sensor, two motion sensors, and an articulated beak that can pick up objects. This follows the launch of the Reachy Mini desktop robot earlier this year that featured a Raspberry Pi CM4 module or could interface to a computer instead. In some ways, we may think of the Microduck as a Reachy Mini with legs, but the company says both are different products. The Reachy Mini targets human-robot interaction, while the Microduck focuses on motion/action, although it also features a microphone and a speaker for audio interaction. Microduck specifications: SoC – Rockchip RK3566 CPU – Quad-core Cortex-A55 processor @ up to 1.8 GHz GPU – Arm Mali-G52 NPU – 0.8 TOPS AI accelerator VPU 4Kp60 H.265/H.264/VP9 video decoder 1080p60 H.264/H.265 video encoder System Memory – 1GB RAM Storage [...] The post Microduck – A duck-like biped robot designed for physical AI experimentation and fun appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-945fb62fa6b99aef</guid>
-      <pubDate>Fri, 28 Aug 2026 07:33:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>CircuitPython 10.3.0-rc.0 Released!</title>
-      <link>https://blog.adafruit.com/2026/08/27/circuitpython-10-3-0-rc-0-released/</link>
-      <description>From the GitHub release page: This is CircuitPython 10.3.0-rc.0, a release candidate for CircuitPython 10.3.0 final. CircuitPython 10.3.0 will be the latest minor revision of CircuitPython, and will be a new stable release. Notable additions, changes, and fixes in 10.3.0 from 10.2.1 Gaming and Display picogame game engine module, a performant game-oriented alternative to displayio. […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6169dded2b55206d</guid>
-      <pubDate>Fri, 28 Aug 2026 00:20:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
