@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:45:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Wireless-Tag WT32P4C5-43S – A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit</title>
+      <link>https://www.cnx-software.com/2026/10/11/wireless-tag-wt32p4c5-43s-a-fully-integrated-4-3-inch-esp32-p4-and-esp32-c5-touch-display-devkit/</link>
+      <description>Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) is a fully integrated 4.3-inch touch display development board that combines an ESP32-P4 MCU with an ESP32-C5 wireless module supporting dual-band WiFi 6 (2.4/5 GHz), Bluetooth LE, and 802.15.4 connectivity. Unlike previous ESP32-P4 + ESP32-C5 solutions, this one comes with a built-in touchscreen, so you don’t need to connect a separate display. Designed for industrial automation, smart control panels, and edge AI vision terminals, the board also integrates a 15-pin MIPI CSI camera interface, a microSD card slot, two USB Type-C ports (USB 2.0 High-Speed and Debug/JTAG), and a 14-pin GPIO expansion header. Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) specifications: Core module – Wireless Tag WT0132P4-A1-N16R32 SoC – Espressif Systems ESP32-P4 CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP [...] The post Wireless-Tag WT32P4C5-43S – A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-384e628c093a41b3</guid>
+      <pubDate>Sun, 11 Oct 2026 11:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving an Autorouter with a Hexagonal Grid</title>
+      <link>https://hackaday.com/2026/10/11/improving-an-autorouter-with-a-hexagonal-grid/</link>
+      <description>Despite the recent leaps forward in other forms of computer-driven design, the reliability of PCB autorouters remains questionable; on the positive side, though, the lack of massive training data makes …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-54c8c0c9f0d4bee2</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mars Pathfinder: What Really Happened?</title>
+      <link>https://hackaday.com/2026/10/11/mars-pathfinder-what-really-happened/</link>
+      <description>You’ve probably heard of Mars Pathfinder, the NASA lander and its Sojourner rover that took up residence on Mars in 1997. At first, all was well, but after a few …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-fefccb14675917a4</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit New Products: NeoPixel Rings with Integrated Drivers</title>
+      <link>https://blog.adafruit.com/2026/10/10/adafruit-new-products-neopixel-rings-with-integrated-drivers/</link>
+      <description>We’ve got the New nEw NEW for you right here This week we debuted 2 New Products. NeoPixel Ring – 16 x 5050 WWA LED with Integrated Drivers NeoPixel Ring – 12 x 5050 WWA with Integrated Drivers Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2b66fa5413e642e0</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>A mountain of AI math, a few precious bytes</title>
+      <link>https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/</link>
+      <description>Co-authored by Phillip Torrone and Mikey Sklar. Making CircuitPython fit is a recurring job. Firmware grows, a board gets close to its flash limit or goes over, and maintainers find room through compression, code sharing and other tricks. One Trinket M0 build was eight bytes over. That’s one example of a cycle the team has […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-67328068fb9b01cf</guid>
+      <pubDate>Sat, 10 Oct 2026 21:52:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The $40 Gaming PC Built From a Broken Smartphone</title>
+      <link>https://www.hackster.io/news/the-40-gaming-pc-built-from-a-broken-smartphone-89d74a1f3fa1</link>
+      <description>A capable gaming PC doesn't have to cost a fortune. LastComputer built one around an old flagship smartphone purchased for just $40.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-cb3aee967e9c11e9</guid>
+      <pubDate>Sat, 10 Oct 2026 20:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>TinkerNews Free Electronics Tools</title>
+      <link>https://blog.adafruit.com/2026/10/10/tinkernews-free-electronics-tools/</link>
+      <description>TinkerNews has quite a few Free Electronics Tools available on their website including an IoT Battery Life Calculator, Resistor Color Code Calculator and more! Pinouts, resistor codes and calculators for the bench. No signup, no ads, and every result is a link you can share. Learn more!</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-eb754fd75306b910</guid>
+      <pubDate>Sat, 10 Oct 2026 16:00:43 +0000</pubDate>
+    </item>
     <item>
       <title>Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It</title>
       <link>https://hackaday.com/2026/10/10/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it/</link>
@@ -750,62 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-ce804d65cc893074</guid>
       <pubDate>Sat, 29 Aug 2026 08:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACEMAGIC Kron Mini K5 (Core 3 304) review – Part 1: Specifications, unboxing, teardown, and first boot</title>
-      <link>https://www.cnx-software.com/2026/08/29/acemagic-kron-mini-k5-core-3-304-review-part-1-specifications-unboxing-teardown-and-first-boot/</link>
-      <description>ACEMAGIC sent us a sample of the Kron Mini K5 Wildcat Lake mini PC for review. The computer is offered with either an Intel Core 3 304 or Core 5 320 CPU, and features triple display output, 2.5GbE and WiFi 6 networking, and several USB ports, but, interestingly, no Thunderbolt/USB4 ports. The company provided us with the entry-level variant pairing an Intel Core 3 304 penta-core processor with 12GB of RAM and 512GB of storage. In this first part of the review, we’ll list the mini PC’s specifications, go through an unboxing and a teardown, before booting it into Windows 11. In the next parts, we’ll review it using Windows 11 and Ubuntu 26.04 in depth with feature testing and benchmarks. ACEMAGIC Kron Mini K5 (Intel Core 3 304) specifications The company hasn’t put up a product page for this exact model just yet, so we gathered specifications from our [...] The post ACEMAGIC Kron Mini K5 (Core 3 304) review – Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-1da5478aeb6c2e32</guid>
-      <pubDate>Sat, 29 Aug 2026 04:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maker Faire North Of 60: Making In The Yukon</title>
-      <link>https://makezine.com/article/maker-news/maker-faire-north-of-60-making-in-the-yukon/</link>
-      <description>INSTAGRAM I FACEBOOK I LINKED IN I YOU TUBE I WEBSITE Whitehorse, the capital of the Yukon Territory and traditional home to Kwanlin Dün First Nation and the Ta’an Kwäch’än Council, gained notoriety (and its European name) in the infamous Klondike Gold Rush. Fast forward one hundred years and the city has grown and diversified, […] The post Maker Faire North Of 60: Making In The Yukon appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-27024b28e3c9be84</guid>
-      <pubDate>Sat, 29 Aug 2026 00:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/08/28/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-28-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2d1a0fe546b21af3</guid>
-      <pubDate>Fri, 28 Aug 2026 13:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Track Weather Anywhere with WeatherXM’s New Solar-Powered LoRa Station</title>
-      <link>https://www.hackster.io/news/track-weather-anywhere-with-weatherxm-s-new-solar-powered-lora-station-484fccb8053a</link>
-      <description>WeatherXM’s new solar-powered D2 Mesh station tracks weather off-grid using LoRa mesh networks.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-670f0eb939b492e9</guid>
-      <pubDate>Fri, 28 Aug 2026 13:05:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital Nose Milk Freshness Checker #BackToSchool</title>
-      <link>https://blog.adafruit.com/2026/08/28/digital-nose-milk-freshness-checker-backtoschool/</link>
-      <description>Make sure your milk is fresh before pouring your cereal and/or coffee this school year with the Digital Nose Milk Freshness Checker! The classic method for testing for milk freshness is to give it a quick sniff check. If it smells “bad”, then it probably is. This is great, as long as your sense of […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9caa10940ae6039d</guid>
-      <pubDate>Fri, 28 Aug 2026 12:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory</title>
-      <link>https://www.cnx-software.com/2026/08/28/fanless-amd-ryzen-embedded-8840u-8640u-edge-ai-computer-supports-up-to-256gb-ddr5-so-dimm-memory/</link>
-      <description>IBASE AA400-N is an “ultra-compact” fanless edge AI computer powered by an AMD Ryzen Embedded 8840U/8640U processor with up to 8 cores, 16 threads, and a combined 39 TOPS of AI performance for machine and robotic vision, autonomous inspection, smart retail, industrial automation, and other data-intensive, space-constrained applications. The most intriguing part of the specs and announcement is the claim of up to 256GB DDR5 capacity through two SO-DIMM modules, implying availability of 128GB DDR5 SO-DIMM memory modules. The system also comes with a 256GB M.2 NVMe SSD, features 8K-capable HDMI and DisplayPort video interfaces, two 2.5GbE jacks, M.2 sockets for optional WiFi, Bluetooth and 4G/5G cellular connectivity, a few USB ports and a COM port. IBASE AA400-N specifications: AMD Ryzen Embedded 8000 Series processors AA400-NM – AMD Ryzen Embedded 8840U CPU – 8-core/16-thread Zen4 “Hawk Point” processor up to 3.3 GHz / 5.1 GHz (Turbo) GPU – AMD [...] The post Fanless AMD Ryzen Embedded 8840U/8640U Edge AI Computer supports up to 256GB DDR5 SO-DIMM memory appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-334a04072bb20385</guid>
-      <pubDate>Fri, 28 Aug 2026 11:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAM and eMMC Prices Are So High, Pine64 Has Stopped Linux Device Production</title>
-      <link>https://hackaday.com/2026/08/28/ram-and-emmc-prices-are-so-high-pine64-has-stopped-linux-device-production/</link>
-      <description>We all know that the price of RAM and storage has shot up due to demand from the AI industry and other factors. In most cases that means we grumble …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-fa39f2ac34c0b28f</guid>
-      <pubDate>Fri, 28 Aug 2026 11:00:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
