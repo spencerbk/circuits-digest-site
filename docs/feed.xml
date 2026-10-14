@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Reverse engineering a Ledger Nano X hardware implant</title>
+      <link>https://blog.adafruit.com/2026/10/14/reverse-engineering-a-ledger-nano-x-hardware-implant/</link>
+      <description>Writing on core-jmp.org, oxfemale walks through Joe Grand’s HARDWEAR.IO 2026 talk in Santa Clara, where Grand tore down a real hardware implant found inside a counterfeit Ledger Nano X. The unit came from a Lazada seller in Thailand and surfaced in an August 2025 Reddit post. The implant doesn’t touch the Secure Element. It sits […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5769b5de7cb9714e</guid>
+      <pubDate>Wed, 14 Oct 2026 13:29:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>From garage tinkerer to professional Maker in Chief, now as a game</title>
+      <link>https://www.raspberrypi.com/news/from-garage-tinkerer-to-professional-maker-in-chief-now-as-a-game/</link>
+      <description>This free game lets you slowly upgrade a scruffy tinkering garage into a professional maker lab. The post From garage tinkerer to professional Maker in Chief, now as a game appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-e99a930177567c65</guid>
+      <pubDate>Wed, 14 Oct 2026 13:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Proves the Rumours True, Launches a New HomeView, HomePod mini, Cameras, Thermostats, and More</title>
+      <link>https://www.hackster.io/news/apple-proves-the-rumours-true-launches-a-new-homeview-homepod-mini-cameras-thermostats-and-more-44acf4a834fc</link>
+      <description>The company's biggest HomeKit refresh ever sees it partnering with LG Electronics and Schneider Electric on cameras, locks, and more.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-a9126bb3db915f9f</guid>
+      <pubDate>Wed, 14 Oct 2026 12:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Run AI Faster on Almost Any GPU with ML Drift</title>
+      <link>https://www.hackster.io/news/run-ai-faster-on-almost-any-gpu-with-ml-drift-92a6ad07821b</link>
+      <description>Google's open source ML Drift engine accelerates AI on everything from smartphones to desktops while simplifying support for different GPUs.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-ecc70abe02edb40b</guid>
+      <pubDate>Wed, 14 Oct 2026 12:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing Oneself for AI Slop</title>
+      <link>https://hackaday.com/2026/10/14/testing-oneself-for-ai-slop/</link>
+      <description>The feed of a Hackaday writer brings many surprises, some rubbish, and the occasional diamond which of course we bring to you. Sometimes a page catches the eye that’s not …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-69f66abdb78feab8</guid>
+      <pubDate>Wed, 14 Oct 2026 11:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/10/14/romu-tiny-raspberry-pi-rp2354a-usb-board/</link>
+      <description>Bitmerse Romu is a tiny (15.5 x 12 mm), almost minimal Raspberry Pi RP2354A USB board with a USB 2.0 interface on one side of the PCB, and the dual Cortex-M33/RISC-V MCU on the other side, connected to a few debugging/programming pads, buttons, and an RGB LED. It doesn’t come with any GPIO, and it’s mostly designed for USB applications such as a security key for passwordless login, a USB MIDI controller, a macro pad, or a custom HID device. You can plug it directly into a spare USB Type-A port of your computer/host without any cables, breadboard, or adapters required. Romu specifications: SoC – Raspberry Pi RP2354A CPU Dual-core Arm Cortex-M33 @ 150 MHz with Arm Trustzone, Secure boot Dual-core 32-bit RISC-V Hazard3 @ 150 MHz (3-stage in-order pipeline; RV32IMAC with Zba, Zbb, Zbs, Zbkb, Zcb, Zcmp, and Zicsr extensions) Up to two cores can be used at a time, either 2x [...] The post Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-304d1b1398456202</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carlia S. Westcott #ALD26 @findingada</title>
+      <link>https://blog.adafruit.com/2026/10/13/carlia-s-westcott-ald26-findingada/</link>
+      <description>Carlia S. Westcott was an American engineer and the first woman to receive a first-of-a-kind license in Marine Engineering in the United States in December 1921. Check out her life and story in Transportation History. A pivotal episode in Westcott’s decision to become a marine engineer had taken place a year earlier, when she joined […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-bb1f9f57b8dcc867</guid>
+      <pubDate>Wed, 14 Oct 2026 00:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>VIEWE launches 4.3-inch ESP32-S31 display development board</title>
+      <link>https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/</link>
+      <description>VIEWE has introduced the PLCM-UES31S043H800V480C-U, a 4.3-inch smart display module that appears to be the first third-party development board powered by the new ESP32-S31 MCU. The board includes a 4.3-inch display with 2.4 GHz Wi-Fi 6, Bluetooth 5.4 LE and Classic, and IEEE 802.15.4 for Zigbee and Thread. It also features USB-C and USB-A ports, a microSD card slot, RS485 and CAN interfaces, and a 20-pin GPIO expansion header with UART and I2C. The board also includes an ES8389 audio codec, two NS4150B amplifiers, two onboard microphones, four ADC buttons, a WS2812B RGB LED, and BOOT/RESET buttons. It operates on a 5V power supply and supports an operating temperature range of -20°C to +70°C. VIEWE PLCM-UES31S043H800V480C-U Specifications: Wireless module – ESP32-S31-WROOM-3-N16R16V SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, [...] The post VIEWE launches 4.3-inch ESP32-S31 display development board appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-a58e83f08829c6bb</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bonnie J. Dunbar #ALD26 @findingada</title>
+      <link>https://blog.adafruit.com/2026/10/13/bonnie-j-dunbar-ald26-findingada/</link>
+      <description>Bonnie Jeanne Dunbar is an American engineer and retired NASA astronaut who flew on five Space Shuttle missions between 1985 and 1998. University of Washington Magazine shared her story. It was only fitting that Dunbar flew on the space shuttle. As an undergraduate at the UW, she helped Ceramic Engineering Professor James I. Mueller develop […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-53a6fb8622a5a1b1</guid>
+      <pubDate>Tue, 13 Oct 2026 20:15:15 +0000</pubDate>
+    </item>
     <item>
       <title>What happened to Ashton-Tate and dBase</title>
       <link>https://blog.adafruit.com/2026/10/13/what-happened-to-ashton-tate-and-dbase/</link>
@@ -734,78 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-dc9698f435291e36</guid>
       <pubDate>Thu, 01 Oct 2026 11:09:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛸Stand By As We Beam Into Another #ElectronicHalloween!</title>
-      <link>https://blog.adafruit.com/2026/10/01/%f0%9f%9b%b8stand-by-as-we-beam-into-another-electronichalloween/</link>
-      <description>The truth is right here and, something is watching… with Otherworldly Eyes. So be prepared when they land: try misdirecting mirrors or even ray gun blasters, because candy may not satiate the Xenomorph buckets. And remember, #ElectronicHalloween only visits once a year! All October we’ll doing the Monster Mask because it’s time for another […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a41c99ef82a16360</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>LED Halloween Horror Clown Candy Bowl #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/01/led-halloween-horror-clown-candy-bowl-3dthursday-3dprinting/</link>
-      <description>DIYWizard shares: A skull of a horror clown that can be used as a small candy bowl. Works great with a lamp under it for glowing effect, or painted for full detail. Hollow with relatively thin walls (tree supports needed). Designer notes: inner supports can be left in without affecting function. Painted white PLA. NOTE: […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-664c34c48c05df33</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Whole Computer Is Vim</title>
-      <link>https://hackaday.com/2026/10/01/the-whole-computer-is-vim/</link>
-      <description>Love it or hate it, Vim, the vi-compatible minimalist editor, is a common denominator between a huge array of operating systems. If you need to edit a file, it’s usually …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-d8649ae010642518</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Price increases for 2GB Raspberry Pi 4 and Raspberry Pi 5</title>
-      <link>https://www.raspberrypi.com/news/price-increases-for-2gb-raspberry-pi-4-and-raspberry-pi-5/</link>
-      <description>Make sure the Raspberry Pi products you buy are a good match for your requirements. The post Price increases for 2GB Raspberry Pi 4 and Raspberry Pi 5 appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-49515e0ded48c215</guid>
-      <pubDate>Thu, 01 Oct 2026 09:06:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner</title>
-      <link>https://www.cnx-software.com/2026/10/01/lakeshark-firmware-turns-lilygo-t-display-p4-into-a-handheld-esp32-p4-sdr-scanner/</link>
-      <description>LakeShark is open-source firmware by Samuel Reynolds (SAMS0N1TE) that turns the ESP32-P4-based LilyGO T-Display P4 into a handheld SDR scanner. Paired with an RTL-SDR Blog V3 or V4 dongle, it supports P25 Phase I trunking, analog FM/AM, POCSAG pager decoding, and 1090 MHz ADS-B reception directly on the ESP32-P4, without a PC, Raspberry Pi, or smartphone. It also includes an onboard SX1262 that supports LoRa and MeshCore applications. SDR devices like LimeSDR Micro, xSDR, UUGear’s VU GPSDR, and many others usually rely on a PC, Raspberry Pi, or smartphone for processing, but LakeShark shows that a powerful microcontroller can also handle many SDR tasks. We previously covered the LilyGO T-Display P4 in March 2026, and LakeShark makes good use of its built-in hardware, including the SX1262 for LoRa and MeshCore applications, L76K GPS receiver for location tracking and offline maps, and ESP32-C6 for Wi-Fi and Bluetooth connectivity. LakeShark hardware requirements: Primary [...] The post LakeShark firmware turns LilyGO T-Display P4 into a handheld ESP32-P4 SDR scanner appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-0f682a3f6204b499</guid>
-      <pubDate>Thu, 01 Oct 2026 09:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>$30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks</title>
-      <link>https://www.cnx-software.com/2026/10/01/30-raspberry-pi-smart-display-module-for-cm5-targets-digital-signage-displays-and-kiosks/</link>
-      <description>Raspberry Pi Smart Display Module is a CM5 carrier board compatible with the Intel Smart Display Module (SDM) specification, more specifically the SDM-L form factor (as opposed to the smaller SDM-S option). The Intel SDM standard has been around for years, and we first wrote it in 2018, covering the Axiomtek SDM300s (SDM-S) module. These cards are designed to be plugged into compatible digital signage displays, kiosks, point-of-sale systems, and so on. They feature a standard 98-pin PCIe edge connector with USB 3.0, HDMI 1.4/2.0, I2C/UART/SPI signalling, as well as Ethernet, HDMI, USB ports, and an M.2 expansion socket. Raspberry Pi Smart Display Module specifications: Compatible with Raspberry Pi Compute Module 5 Video Output – Full-size HDMI 2.0 port Camera – 22-way MIPI DSI/CSI-2 connector (internal) Networking Gigabit Ethernet RJ45 port WiFi 5 and Bluetooth 5.2 (on CM5) with U.FL antenna USB USB 3.0 Type-A port USB 2.0 Type-C port for programming [...] The post $30 Raspberry Pi Smart Display Module for CM5 targets digital signage displays and kiosks appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-08862b999488a964</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pogo-Bot Goes All Terrain With Compliant Foot</title>
-      <link>https://hackaday.com/2026/09/30/pogo-bot-goes-all-terrain-with-compliant-foot/</link>
-      <description>What do you get when you combine a pogo stick, a quadcopter, and engineering students from the University of Toronto? This thing, apparently– a “monopedal hopping robot” that uses a …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7d024b60152ceda7</guid>
-      <pubDate>Wed, 30 Sep 2026 23:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-SDR uses undocumented raw I/Q capture of ESP32 to make software defined radios</title>
-      <link>https://blog.adafruit.com/2026/09/30/esp-sdr-uses-undocumented-raw-i-q-capture-of-esp32-to-make-software-defined-radios/</link>
-      <description>ESPARGOS’ Florian Euchner has published ESP-SDR on GitHub, firmware that turns the ESP32’s built-in 2.4 GHz Wi-Fi radio into a software defined radio (SDR). It captures raw I/Q samples from the receiver, so the spectrum can be viewed and signals studied beyond ordinary WiFi packets. No separate SDR hardware is required. The ESP32-C5 can also […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8b062a549a776ba9</guid>
-      <pubDate>Wed, 30 Sep 2026 20:52:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>DIY AI voice assistant with ESP32 and animated OLED eyes</title>
-      <link>https://blog.adafruit.com/2026/09/30/diy-ai-voice-assistant-with-esp32-and-animated-oled-eyes/</link>
-      <description>oeadmin at Open Electronics covers a voice assistant project by jayesh_nawani that runs entirely on an ESP32. An I2S microphone picks up speech, the clip is packaged as a WAV file and sent to the OpenAI Whisper API for transcription. GPT writes a reply and the TTS audio streams back out through a MAX98357A amplifier […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9c2999e205ad8601</guid>
-      <pubDate>Wed, 30 Sep 2026 20:37:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
