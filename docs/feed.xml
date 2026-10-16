@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/10/16/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-15-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-16169132592702ee</guid>
+      <pubDate>Fri, 16 Oct 2026 13:24:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Inkolor Frame Puts a New Spin on Full-Color ePaper Smart Displays</title>
+      <link>https://www.hackster.io/news/the-inkolor-frame-puts-a-new-spin-on-full-color-epaper-smart-displays-9abdf7215484</link>
+      <description>Built with artwork in mind, the Inkolor comes with a rotating wall mount, a new rendering engine, and an offline-first approach.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-c91587d5c1466e48</guid>
+      <pubDate>Fri, 16 Oct 2026 13:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered Halloween Decorations with Raspberry Pi #ElectronicHalloween #piday #raspberrypi</title>
+      <link>https://blog.adafruit.com/2026/10/16/ai-powered-halloween-decorations-with-raspberry-pi-electronichalloween-piday-raspberrypi/</link>
+      <description>Eugene Tkachenko built this Halloween set up that transmorphs the existential fear of AI into actual jump scares. It relies on a Raspberry Pi with the SONY IMX500 AI camera to send a message to an off-the-shelf Halloween prop hacked with an ESP32. In this video, I use the Raspberry Pi with the SONY IMX500 […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f504e774e4fd7fa7</guid>
+      <pubDate>Fri, 16 Oct 2026 12:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disposing of PLA and Why Composting is Not an Option</title>
+      <link>https://hackaday.com/2026/10/16/disposing-of-pla-and-why-composting-is-not-an-option/</link>
+      <description>The ‘biofriendly’ nature of poly(lactic acid) (PLA) filament often gets touted as one of its main advantages over alternatives like PETG, but even a modicum of research ought to inform …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-dd2e906b709118db</guid>
+      <pubDate>Fri, 16 Oct 2026 11:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/</link>
+      <description>After a successful campaign for Xerxes Pi back in 2025, Rapid Analysis has returned with a Xerxes Home Lab ecosystem that includes the Xerxes Pi 2026 and Xerxes Nano carrier board. The upgrade includes M.2 NVMe storage support on the bottom of the board, an I2S Qwiic connector for digital audio, and added debug and boot jumper pins for easier headless deployment. Designed for home labs, edge AI developers, and small businesses, the Xerxes Pi 2026 supports Raspberry Pi CM4/CM5 and other CM modules, Gigabit Ethernet, optional PoE+, and CSI/HDMI expansion. The larger Xerxes Nano supports NVIDIA Jetson Orin Nano and Turing RK1 modules, adding M.2 PCIe, OCuLink, and SPI/UART connectivity. Both boards support active cooling and compact 1U rack installations. Xerxes Pi 2026 Xerxes Pi 2026 specifications: Supported SoMs – Raspberry Pi CM4, CM5, and compatible alternatives via 2x 100-pin high-density mezzanine connectors Storage M.2 M-key PCIe Gen 2 [...] The post Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-85dd957a2b2fb1ad</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building the next generation of hardware founders</title>
+      <link>https://www.raspberrypi.com/news/building-the-next-generation-of-hardware-founders/</link>
+      <description>Take a look around the unique Founders, Inc. campus incubating what hope to be future-defining technology companies. The post Building the next generation of hardware founders appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-abded9fc812efea3</guid>
+      <pubDate>Fri, 16 Oct 2026 06:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>WLED WIFI RGB Matrix Panel Clock – ESP32-C3 + WS2812 8×32 with Scrolling Text #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/15/wled-wifi-rgb-matrix-panel-clock-esp32-c3-ws2812-8x32-with-scrolling-text-3dthursday-3dprinting/</link>
+      <description>DrejkCZ shares: A WLED-powered RGB matrix panel that shows a clock, scrolling text, or runs built-in effects — all adjustable over Wi-Fi from a PC or phone. Controller: ESP32-C3 Super Mini (WiFi + Bluetooth). Matrix: four 8×8 WS2812 (5050) RGB LED modules forming an 8×32 display (256 LEDs on GPIO 8, GRB color order, 1000mA […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-d78e129180ed9a7a</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver</title>
+      <link>https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/</link>
+      <description>Just a few days ago, we wrote about the ESP-SDR project, which turned an ESP32 into an SDR receiver (and now SDR transmitter), but the data was streamed over UART, which couldn’t keep up with the sample rate. Now, developer h0m3us3r has released w1700k-sdr, also an open-source project that turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The project uses the router’s built-in MediaTek MT7996 radio to capture raw 14-bit I/Q samples at up to 320 MSps across the 2.4 GHz, 5 GHz, and 6 GHz bands. The captured data is then streamed over a 10 GbE connection using the router’s Airoha AN7581 SoC to a Linux computer, where you can view the live spectrum and waterfall in a browser. To make this work, the project replaces the router’s stock firmware with a custom Linux system and radio firmware, allowing it to capture raw I/Q data [...] The post W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-e8357bddff494891</guid>
+      <pubDate>Thu, 15 Oct 2026 17:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>From musical fruit to walking robots: Coolest Projects India returns to Hyderabad</title>
+      <link>https://www.raspberrypi.org/blog/from-musical-fruit-to-walking-robots-coolest-projects-india-returns-to-hyderabad/</link>
+      <description>Coolest Projects returned for its second year in India on Saturday 19 September, taking place in Telangana’s state capital Hyderabad once more. This year’s India event brought together 326 young technology creators who showcased 132 projects: India’s young tech creator community is clearly growing stronger. From AI to hardware to the web, young people’s projects… The post From musical fruit to walking robots: Coolest Projects India returns to Hyderabad appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-394873158d21f5e4</guid>
+      <pubDate>Thu, 15 Oct 2026 14:47:31 +0000</pubDate>
+    </item>
     <item>
       <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
       <link>https://blog.adafruit.com/2026/10/15/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-15-2/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-2405c341962a83cb</guid>
       <pubDate>Sat, 03 Oct 2026 08:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>UUNA TEK iAuto review – A professional handwriting and drawing machine</title>
-      <link>https://www.cnx-software.com/2026/10/03/uuna-tek-iauto-review-a-professional-handwriting-and-drawing-machine/</link>
-      <description>Hello, today I am going to review the UUNA TEK iAuto, an automatic handwriting machine designed to reproduce physical handwriting using a real pen on real paper. It also supports wireless connectivity, spreadsheet-based mail merge, custom fonts, and font variation features that can make the writing look more natural. The machine can handle paper sizes up to A3 and supports pens with a diameter of up to 18 mm. The UUNA TEK iAuto works with the manufacturer’s free iAuto software, which is available for Windows on both x64 and Arm-based systems, as well as for macOS on Apple M1, M2, M3, and Intel-based Macs. Most of the following review focuses on the machine’s writing capabilities, including tests with text, SVG graphics, different writing speeds, various pens, and different paper types. Unboxing The parcel was shipped from China by land transportation and took around six days to arrive at my office [...] The post UUNA TEK iAuto review – A professional handwriting and drawing machine appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-092acb7cb49dfc52</guid>
-      <pubDate>Sat, 03 Oct 2026 03:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>An AI Toy That Doesn’t Need the Cloud</title>
-      <link>https://www.hackster.io/news/an-ai-toy-that-doesn-t-need-the-cloud-4673762c2f8c</link>
-      <description>CantaStorie is a screen-free cyclops toy that generates personalized AI stories locally, keeping kids’ data completely off the cloud.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-6908d328f32eb898</guid>
-      <pubDate>Fri, 02 Oct 2026 22:39:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>HalloWing M4 Tombstone</title>
-      <link>https://blog.adafruit.com/2026/10/02/hallowing-m4-tombstone-2/</link>
-      <description>Build a 3D printed light up tombstone with an animated eye! Use the HalloWing M4 and NeoPixels to make a backlit sign with a custom message or spooky face! Check out the guide from the Ruiz Brothers and build your own this #ElectronicHalloween!</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7b67e91672ede409</guid>
-      <pubDate>Fri, 02 Oct 2026 20:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEW GUIDE: CircuitPython Turbo Sushi Conveyor Belt #AdafruitLearningSystem @Adafruit</title>
-      <link>https://blog.adafruit.com/2026/10/02/new-guide-circuitpython-turbo-sushi-conveyor-belt-adafruitlearningsystem-adafruit/</link>
-      <description>Back when the Qualia S3 was first released I wanted to run the sushi conveyor belt animation on one of the long bar displays. I tried the project in CircuitPython, but it was way too slow so I had to use Arduino with PlatformIO. Much like Jiro, I never stopped dreaming of sushi and hoped […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2f8b481be3c94aed</guid>
-      <pubDate>Fri, 02 Oct 2026 17:15:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>FltCast: LED Matrix Flight Tracker with RTL-SDR and Antenna #piday #raspberrypi</title>
-      <link>https://blog.adafruit.com/2026/10/02/fltcast-led-matrix-flight-tracker-with-rtl-sdr-and-antenna-piday-raspberrypi/</link>
-      <description>A lot of the Raspberry Pi flight trackers we see rely on an API like OpenSky, but this tracker from bytecadia gets the data directly from passing aircraft. They use an RTL-SDR and Antenna and house it all in a 3D Printed case, the flights are then displayed on a 64×32 LED matrix. More […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4cb0c756a9c669f0</guid>
-      <pubDate>Fri, 02 Oct 2026 16:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>This VR Headset Was Built From Scratch</title>
-      <link>https://www.hackster.io/news/this-vr-headset-was-built-from-scratch-86cf8d574ca4</link>
-      <description>Andromeda is an open source VR headset prototype with custom optics, 6-DoF tracking, and SteamVR support.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-4cdb4b2d47b681cb</guid>
-      <pubDate>Fri, 02 Oct 2026 13:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cybernetic Animated Eyeball #ElectronicHalloween</title>
-      <link>https://blog.adafruit.com/2026/10/02/cybernetic-animated-eyeball-electronichalloween/</link>
-      <description>The Cyberdyne Systems T-800 Series Model 101 Terminator is one of the all time classic cyborg characters from science fiction. You can get a terrific Halloween mask of the T-800 and even display it as a piece of artwork, but it’s just missing a little something. I know, a terrifying cyborg eyeball to look around, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-40bd671df5a3d6e6</guid>
-      <pubDate>Fri, 02 Oct 2026 12:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrate National Hispanic Heritage Month with The Miami-Dade Public Library System #HispanicHeritageMonth</title>
-      <link>https://blog.adafruit.com/2026/10/02/celebrate-national-hispanic-heritage-month-with-the-miami-dade-public-library-system-hispanicheritagemonth/</link>
-      <description>The Miami-Dade Public Library System is celebrating National Hispanic Heritage Month with a variety of events, recommended reads for kids, and resources.</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-354edf138f165e54</guid>
-      <pubDate>Fri, 02 Oct 2026 12:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manufacturing Day 2026 @mfgday #MFGDay26</title>
-      <link>https://blog.adafruit.com/2026/10/02/manufacturing-day-2026-mfgday-mfgday26/</link>
-      <description>Today is Manufacturing Day, celebrated the 1st Friday of October. As an American manufacturer in the heart of Brooklyn, NY, Adafruit is proud to share our work. Peak into our manufacturing processes with our past series Advanced Manufacturing: Made in NYC. Spend some time today to learn more about manufacturing. There are webinars, gamified […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d73e2bc608c49a32</guid>
-      <pubDate>Fri, 02 Oct 2026 12:20:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
