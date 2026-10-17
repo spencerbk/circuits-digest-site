@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>SolidCraft is Parametric, Automation-friendly CAD for Desktop and Browser</title>
+      <link>https://hackaday.com/2026/10/17/solidcraft-is-parametric-automation-friendly-cad-for-desktop-and-browser/</link>
+      <description>If you’re looking to try a new, open source 3D modeling CAD suite, especially one with automation-friendly interfaces, take a look at SolidCraft. It’s under development but there’s support for …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ef6847a1a2b5bc1a</guid>
+      <pubDate>Sat, 17 Oct 2026 11:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making One Fender From Another</title>
+      <link>https://hackaday.com/2026/10/17/making-one-fender-from-another/</link>
+      <description>There’s a tendency among cherished brands to licence their name and logo onto all sorts of novelty items in order to make a quick buck. Joining this trend is the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-4cf7d55fc913beda</guid>
+      <pubDate>Sat, 17 Oct 2026 08:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>15% off our Halloween Gift Guide</title>
+      <link>https://blog.adafruit.com/2026/10/17/15-off-our-halloween-gift-guide/</link>
+      <description>The time crunch starts now! Squeeze in a last minute build and add the code BeGood15 to your cart for 15% off items featured in our Halloween gift guide from Saturday, October 17th – Sunday, October 25th at 11:59 PM EDT. Some restrictions apply. This code is only applicable to items featured in our Halloween […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5c29a4b762635bc3</guid>
+      <pubDate>Sat, 17 Oct 2026 04:01:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options</title>
+      <link>https://www.cnx-software.com/2026/10/17/seeed-studio-xiao-ips-display-series-features-esp32-s3-or-nrf52840-soc-with-0-96-inch-to-1-47-inch-lcd-options/</link>
+      <description>Seeed Studio has introduced the XIAO IPS touch display series, a family of six compact development boards built around the XIAO ESP32-S3 Plus or XIAO nRF52840 Plus MCU, with 0.96-inch, 1.14-inch, and 1.47-inch IPS color displays. All six boards include a 6-axis IMU, a PDM digital microphone, user buttons, and LiPo battery support. The larger 1.47-inch version adds capacitive touch and a microSD card slot, whereas the 1.14-inch model includes a Grove I2C connector for connecting external sensors. The ESP32-S3 versions support Wi-Fi and Bluetooth LE connectivity, while the nRF52840 models focus on lower-power Bluetooth LE applications. The boards are designed for portable dashboards, smart home controllers, wearable devices, sensor monitoring, and other small IoT projects. XIAO IPS Display Series specifications: Wireless board (one or the other) XIAO nRF52840 Plus Wireless MCU – Nordic nRF52840 Arm Cortex-M4F microcontroller @ up to 64 MHz with 1 MB flash, 256 KB SRAM, Bluetooth 5.0, [...] The post Seeed Studio XIAO IPS display series features ESP32-S3 or nRF52840 SoC with 0.96-inch to 1.47-inch LCD options appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-4c90a5e9d7f47f11</guid>
+      <pubDate>Sat, 17 Oct 2026 03:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maker Faire Brno: A Growing “Village” Of Makers</title>
+      <link>https://makezine.com/article/maker-news/maker-faire-brno-a-growing-village-of-makers/</link>
+      <description>Brno is hitting its stride—and makers are leading the charge. Prague’s smaller cousin likes to joke that it’s just a village, but with a big population and some 80,000 students, there’s nothing small about its creative energy. Young people, big ideas, and a healthy appetite for tech, craft, and hands-on experimentation make it fertile ground […] The post Maker Faire Brno: A Growing “Village” Of Makers appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-b24cc3e6908932fa</guid>
+      <pubDate>Fri, 16 Oct 2026 21:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>STM32F407 RT-Spark Music Player Using FreeRTOS</title>
+      <link>https://blog.adafruit.com/2026/10/16/stm32f407-rt-spark-music-player-using-freertos/</link>
+      <description>John Paul Maluya, Karl Vincent Remo, and Amer Patrick Lauma built an eight-song music player built on the STM32F407 RT-Spark board. Check out the details of their project on hackster.io This project was developed for BCA182 Embedded Systems Programming Laboratory 2 using the RT-Thread RT-Spark development board with an STM32F407 microcontroller. The objective was to […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6ffce7c31587b988</guid>
+      <pubDate>Fri, 16 Oct 2026 20:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s CircuitPython Parsec: STEMMA QT Port GPIO Pins</title>
+      <link>https://blog.adafruit.com/2026/10/16/john-parks-circuitpython-parsec-stemma-qt-port-gpio-pins/</link>
+      <description>#circuitpythonparsec Use the STEMMA QT port on your board as a plug-and-play set of GPIO pins plus power and ground! Also, bonus code to ask the board for pin name aliases. Try out the code example To learn about CircuitPython: https://circuitpython.org</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9baf9ca9c44d566a</guid>
+      <pubDate>Fri, 16 Oct 2026 18:03:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
       <link>https://blog.adafruit.com/2026/10/16/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-15-2/</link>
@@ -750,62 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-e8f077b043742d11</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI on Your Gaming PC</title>
-      <link>https://hackaday.com/2026/10/04/ai-on-your-gaming-pc/</link>
-      <description>If you want to experiment with LLMs, you typically have a choice of sending your requests to someone else’s computer or fielding a very large GPU and CPU setup to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-4c558241a850bb94</guid>
-      <pubDate>Sun, 04 Oct 2026 11:00:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Big Moon Plot</title>
-      <link>https://hackaday.com/2026/10/04/bringing-the-moon-home-with-plotting/</link>
-      <description>When you look into the night sky, you can’t help but wish to bring the outer worlds to your doorstep. One of the best ways to do that is to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-82a8bccfa65cae47</guid>
-      <pubDate>Sun, 04 Oct 2026 08:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR)</title>
-      <link>https://www.cnx-software.com/2026/10/04/esp-sdr-firmware-turns-esp32-into-a-2-4-5-ghz-software-defined-radio-sdr/</link>
-      <description>We have seen ESP32s used for everything from simple IoT devices to AI, audio, and vision projects. But while looking for a new project, I found out about ESP-SDR firmware, which turns the ESP32 into a native Software-Defined Radio (SDR) without additional hardware. This open-source firmware bypasses the ESP32’s fixed-function Wi-Fi and Bluetooth modems and taps directly into the internal ADC signal chain to capture raw I/Q baseband samples. It then sends these samples to a computer over USB or UART, where they can be processed and viewed as a radio spectrum or waterfall display, turning supported ESP32 chips into low-cost software-defined radio receivers without requiring additional SDR hardware. Key features and supported hardware: Supported chips – ESP32, ESP32-C3, ESP32-C5 (dual-band 2.4/5 GHz), ESP32-C6, ESP32-C61, ESP32-S2, ESP32-S3, and the preview ESP32-S31 Tuning range – Nominally 2.4 GHz ISM (2.2–2.7 GHz on some chips) and 5 GHz (4.8–6.0 GHz on ESP32-C5); The [...] The post ESP-SDR firmware turns ESP32 into a 2.4/5 GHz Software-Defined Radio (SDR) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c6f50b2a34ea0374</guid>
-      <pubDate>Sun, 04 Oct 2026 03:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrate a NASA Halloween</title>
-      <link>https://blog.adafruit.com/2026/10/03/celebrate-a-nasa-halloween/</link>
-      <description>Hubble has photographed the “Ghost Nebula,” which has eerie, semitransparent flowing veils of gas and dust. The nebula is being blasted by a torrent of radiation from a nearby, blue-giant star. This animation flips between two views from Hubble. The more colorful image is taken in visible light where the glow of hydrogen gas looks […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e7bdade3da7c4fe0</guid>
-      <pubDate>Sat, 03 Oct 2026 20:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests</title>
-      <link>https://blog.adafruit.com/2026/10/03/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/</link>
-      <description>Image via NASA NASA is using special paint that glows under ultraviolet light to test airflow and pressure. The paint responds to pressure by glowing brighter. This is first test using the “unsteady Pressure Sensitive Paint” that has been in development for a few years. Via NASA: Unsteady pressure sensitive paint is a specialized […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-69c67df977c4048d</guid>
-      <pubDate>Sat, 03 Oct 2026 16:53:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Own The OSD Chip In Your Cheap Composite Monitor</title>
-      <link>https://hackaday.com/2026/10/03/own-the-osd-chip-in-your-cheap-composite-monitor/</link>
-      <description>[Ogrinz Labs] has built a Robbie the Robot suit, which is super-cool, but has a huge flaw. When inside the suit, he’s too tall to do what the original Robbie …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-05880638080ffd88</guid>
-      <pubDate>Sat, 03 Oct 2026 11:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>That’s No Moon… That’s an Exoplanet!</title>
-      <link>https://hackaday.com/2026/10/03/thats-no-moon-thats-an-exoplanet/</link>
-      <description>It wasn’t that long ago that a science teacher would have told students that there was no evidence of planets around other star systems. Even more recently, they might have …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2405c341962a83cb</guid>
-      <pubDate>Sat, 03 Oct 2026 08:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
