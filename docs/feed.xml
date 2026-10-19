@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>“The Legend of Sleepy Hollow” (1985) – From Tall Tales &amp; Legends</title>
+      <link>https://blog.adafruit.com/2026/10/19/the-legend-of-sleepy-hollow-1985-from-tall-tales-legends/</link>
+      <description>One of my favorite parts of the Halloween season is resurfacing media I haven’t watched or listened to since childhood – the more obscure the better! I vaguely remember renting various episodes of Tall Tales &amp; Legends from our local video rental place (Video Update I think it was called?). The “The Legend of Sleepy […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5effe4aa71e204cb</guid>
+      <pubDate>Mon, 19 Oct 2026 13:31:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/10/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-19/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-584f7db64d959e6b</guid>
+      <pubDate>Mon, 19 Oct 2026 13:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mini Monster Box #ElectronicHalloween</title>
+      <link>https://blog.adafruit.com/2026/10/19/mini-monster-box-electronichalloween/</link>
+      <description>Øyvind Nydal Dahl shared this project at build-electronic-circuits.com Knock on the box, and a grumpy little monster pops out to see who’s there. I built this Halloween project for my daughter was she was only two and didn’t like scary things. So I wanted to build something cute and fun instead. A microphone hears the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-94efcd9cb8822bae</guid>
+      <pubDate>Mon, 19 Oct 2026 12:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Olimex Launches Two New Open-Hardware Bidirectional Level Shifters, for Breadboards and UEXT</title>
+      <link>https://www.hackster.io/news/olimex-launches-two-new-open-hardware-bidirectional-level-shifters-for-breadboards-and-uext-1610f4cdf15c</link>
+      <description>New automatic level shifters provided under the CERN Open Hardware License Version 2, as is the company's habit.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-f69da77d56e36dbd</guid>
+      <pubDate>Mon, 19 Oct 2026 11:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>An LCR Meter with Compromises</title>
+      <link>https://hackaday.com/2026/10/19/an-lcr-meter-with-compromises/</link>
+      <description>YouTube, like the Internet, has its plusses and minuses. On the plus side, you can find information on just about anything. On the minus side, you don’t always know if …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-35fda3f15d8492ed</guid>
+      <pubDate>Mon, 19 Oct 2026 11:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>M5Stack's New Espressif ESP32-S3-Powered PaperDIY Kits Put a Low-Power Smart Display in Your Palm</title>
+      <link>https://www.hackster.io/news/m5stack-s-new-espressif-esp32-s3-powered-paperdiy-kits-put-a-low-power-smart-display-in-your-palm-1b934d3dd53d</link>
+      <description>Compact kits include everything you need to get started, including an optional 3D-printed pre-assembled housing.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-2cbe0ba8a7277bf7</guid>
+      <pubDate>Mon, 19 Oct 2026 10:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIOSTAR BIWCL-PAT – A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support</title>
+      <link>https://www.cnx-software.com/2026/10/19/biostar-biwcl-pat-a-3-5-inch-industrial-wildcat-lake-sbc-with-dual-2-5gbe-triple-display-support/</link>
+      <description>BIOSTAR BIWCL-PAT is a 3.5-inch industrial SBC built around the Intel Core Series 3 “Wildcat Lake” SoC family, ranging from the Core 3 304 to the Core 7 360. The board supports up to 64GB DDR5-6400 memory, three independent displays, and dual 2.5GbE networking. It also features three M.2 slots for NVMe storage, Wi-Fi/Bluetooth, and 4G/5G cellular connectivity, along with USB 3.2 ports, four serial interfaces, and an 8-bit digital I/O header. The compact 148 x 102mm form factor makes it suitable for industrial automation, edge computing, AIoT, human-machine interfaces (HMI), and POS/kiosk applications. BIOSTAR BIWCL-PAT specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 penta-core CPU with 1x P core @ 1.5 GHz / 4.3 GHz (Turbo) and 4x LPE cores, 1-core Intel Xe3 Graphics @ 2.3 GHz; TDP: 15W Intel Core 3 305 hexa-core CPU with 2x P cores @ 1.5 GHz / 4.3 GHz [...] The post BIOSTAR BIWCL-PAT – A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5c4f3f5b6d27b1e1</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost</title>
+      <link>https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/</link>
+      <description>Axera AX8860P is a new 16-core Cortex-A55 SoC with up to 128 TOPS/256 TOPS (FP4) NPU, 256-bit LPDDR5/5X memory, and PCIe 5.0 connectivity, aiming to power desktop AI solutions competing with NVIDIA DGX Spark at a fraction of the cost. Dr. Qiu Xiaoxin, founder and CEO of Axera, unveiled the new AX8860/AX8860P processor a few days ago at the China International Industrial Fair, along with upcoming products from Sipeed and Radxa. Axera AX8860P key features and specifications: CPU – 16x Arm Cortex-A55 processor AI – Up to 256 TOPS VPU – 64-channel decode, 16-channel encode Memory – Up to 128GB 256-bit LPDDR5x with 273GB/s bandwidth Interconnect – PCIe 5.0 + AXLink (C2C) cascading with 80% efficiency for multi-chip cards and systems Power Consumption – About 40 Watts under load Package – 78 × 78 mm module Process – 6nm The AX8860P SoC is said to support vLLM, SGLang, PyTorch, ONNX, [...] The post Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-77560e78b3995f26</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>Evolving RC circuits</title>
       <link>https://hackaday.com/2026/10/18/evolving-rc-circuits/</link>
@@ -742,70 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-b128e15db162fc6f</guid>
       <pubDate>Tue, 06 Oct 2026 22:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>IceCube Detection of Neutrinos Lands Researcher Nobel Prize</title>
-      <link>https://blog.adafruit.com/2026/10/06/icecube-detection-of-neutrinos-lands-researcher-nobel-prize/</link>
-      <description>IceCube Neutrino Observatory in 2023 by Christopher Michel, image vial Wikipedia Today, the Royal Swedish Academy of Sciences awarded Francis Halzen the Nobel Prize in Physics. Halzen, a physicist at the University of Wisconsin, pioneered research on one of physics’ most elusive particles, the neutrino. The IceCube Neutrino Observatory was established in the South […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5857961efe921101</guid>
-      <pubDate>Tue, 06 Oct 2026 18:37:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week —  3pm Eastern TODAY 9/29/26 @adafruit #adafruit #newproductpick</title>
-      <link>https://blog.adafruit.com/2026/10/06/jps-product-pick-of-the-week-3pm-eastern-today-9-29-26-adafruit-adafruit-newproductpick-2/</link>
-      <description>Come on by for JP’s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won’t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-204302cb7f8a8527</guid>
-      <pubDate>Tue, 06 Oct 2026 18:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi Desktop now available for PC and Mac</title>
-      <link>https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/</link>
-      <description>The long-awaited PC and Mac version of Raspberry Pi Desktop is updated and available now! The post Raspberry Pi Desktop now available for PC and Mac appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-8cb85427ea0d6a82</guid>
-      <pubDate>Tue, 06 Oct 2026 13:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>LED Jellyfish Costume</title>
-      <link>https://blog.adafruit.com/2026/10/06/led-jellyfish-costume/</link>
-      <description>image via Instructables, deadinsect Instructables user deadinsect made this glowing jellyfish costume with a helmet, bowl and LED rope lights! Check out their write up on Instructables. This project is giving us major Jellyfish Umbrella vibes! HAPPY HALLOWEEN! All month on the Adafruit Blog we’ll be bringing you ideas and projects for an […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2bdfed4a4b0d8ec8</guid>
-      <pubDate>Tue, 06 Oct 2026 12:45:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Game On: VENTUNO Q Turned Into a Gaming Rig</title>
-      <link>https://www.hackster.io/news/game-on-ventuno-q-turned-into-a-gaming-rig-e248bc6feba8</link>
-      <description>Jim Bruges turned the Arm-based Arduino VENTUNO Q into a gaming rig capable of running Half-Life 2 and Skyrim.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-e18a95e7f61bbefa</guid>
-      <pubDate>Tue, 06 Oct 2026 12:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Queens Public Library’s Hispanic Heritage Month Booklists</title>
-      <link>https://blog.adafruit.com/2026/10/06/queens-public-librarys-hispanic-heritage-month-booklists/</link>
-      <description>The folks at Queens Public Library have put together 6 fantastic book lists to celebrate Hispanic Heritage Month: For Adults For Teens For Children Libros Para Adultos Libros Para Adolescentes Libros Para Niños</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6ce64362273fa6ba</guid>
-      <pubDate>Tue, 06 Oct 2026 12:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>USB-C PD Tamed with this Analyzer</title>
-      <link>https://hackaday.com/2026/10/06/usb-c-pd-tamed-with-this-analyzer/</link>
-      <description>USB-C Power Delivery (PD) has been a boon to anyone working with low-voltage DC power, because at a stroke it replaces a vast array of wall warts, power supplies, and …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-586b3aa6fde134c0</guid>
-      <pubDate>Tue, 06 Oct 2026 11:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omnivision Has Its Eye on Industrial Automation, Smart Vehicles, and Robotics with New Image Sensors</title>
-      <link>https://www.hackster.io/news/omnivision-has-its-eye-on-industrial-automation-smart-vehicles-and-robotics-with-new-image-sensors-4b5814a515e1</link>
-      <description>Two new global-shutter sensors, for fast-moving objects and vibration-prone mounts, will begin shipping later this year.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-011cc16befb0b189</guid>
-      <pubDate>Tue, 06 Oct 2026 10:47:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
