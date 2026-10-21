@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Clotty The Custom Period Tracker Can, Of Course, Run DOOM</title>
+      <link>https://hackaday.com/2026/10/21/clotty-the-custom-period-tracker-can-of-course-run-doom/</link>
+      <description>[kati]’s Clotty might run DOOM and game-ify the menstrual tracking process with a playful Tamagotchi-like aspect, but don’t let that distract you. It is, at its heart, a personal menstrual …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b41a348b9dd5279e</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preparing young people for frontier technologies: Our new partnership with the UK government</title>
+      <link>https://www.raspberrypi.org/blog/preparing-young-people-for-frontier-technologies-our-new-partnership-with-the-uk-government/</link>
+      <description>Around the world, governments are grappling with the same question: how do you prepare young people for careers shaped by emerging technologies? In the UK, part of the answer is TechFirst, and we’re proud to be playing a central role in it. Through the new TechFirst partnership with the Department for Digital, Culture, Media and… The post Preparing young people for frontier technologies: Our new partnership with the UK government appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-d08a006f19767cc4</guid>
+      <pubDate>Wed, 21 Oct 2026 09:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Stereo Vision Board For Hardware Hackers</title>
+      <link>https://hackaday.com/2026/10/21/a-stereo-vision-board-for-hardware-hackers/</link>
+      <description>It’s plenty easy to do lots of vision tasks with a single camera, but using two cameras gives you lots of magical abilities, like depth perception! If you’d like to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-91b57b7317fb4c6c</guid>
+      <pubDate>Wed, 21 Oct 2026 08:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation</title>
+      <link>https://www.cnx-software.com/2026/10/21/esp-mosaico-an-esp32-s31-based-modular-development-platform-for-ai-assisted-hardware-creation/</link>
+      <description>Espressif Systems ESP-Mosaico is an ESP32-S31 development platform with a 480 × 480 OLED touchscreen, haptic feedback, a built-in battery, USB Type-C connectivity, and expansion I/O. It’s specifically designed for AI &lt;-&gt; hardware integration and targets magnetic expansion toys, motion sensing, square touch display HMI, and edge voice/multimedia applications. ESP-Mosaico specifications: CoreBoard SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 1 Gbit (128 MB) SPI NAND flash for asset storage. 16 MB (128 Mbit) SPI NOR flash (GD25Q128EWIGR) for program and data storage. Display – 2.16-inch QSPI touch display with 480 x 480 resolution; CO5300 driver + CST9220 [...] The post ESP-Mosaico – An ESP32-S31-based modular development platform for AI-assisted hardware creation appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-c84f316db59b35e9</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raytron SE5 1280: 1280×1024 Uncooled Thermal Imaging Module for OEM Applications (Sponsored)</title>
+      <link>https://www.cnx-software.com/2026/10/21/raytron-se5-1280-1280x1024-uncooled-thermal-imaging-module-for-oem-applications/</link>
+      <description>The Raytron SE5 1280 is a high-resolution uncooled infrared module designed for integration into OEM thermal imaging systems. Based on a 1280 × 1024 uncooled VOx infrared detector with a 12 μm pixel pitch, the module delivers more than 1.3 million infrared pixels in a compact form factor measuring no more than 29 × 29 × 15.7 mm and weighing less than 26 g. 1280 × 1024 VOx Detector for High-Resolution Thermal Imaging At the core of the SE5 1280 is a 1280 × 1024 uncooled VOx infrared detector with a 12 μm pixel pitch, operating in the 8–14 μm long-wave infrared (LWIR) band. With more than 1.3 million infrared pixels, the detector provides a substantially higher spatial resolution than conventional 640 × 512 thermal imaging configurations. This can help thermal imaging systems capture finer temperature patterns and spatial details, particularly when identifying relatively small thermal targets or distinguishing objects [...] The post Raytron SE5 1280: 1280×1024 Uncooled Thermal Imaging Module for OEM Applications (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ab454fbe3724f98a</guid>
+      <pubDate>Wed, 21 Oct 2026 02:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>You Can Safely Break the Hardware of a Commodore 64 or ZX Spectrum in this Simulator</title>
+      <link>https://www.hackster.io/news/you-can-safely-break-the-hardware-of-a-commodore-64-or-zx-spectrum-in-this-simulator-18d5cbc84f52</link>
+      <description>Commodore 64 and ZX Spectrum enthusiasts can use this simulator to break their hardware safely.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-9a10aa36a999a1b1</guid>
+      <pubDate>Tue, 20 Oct 2026 22:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>P. S. Art 2026 Celebrates NYC Through The Lens of City Kids</title>
+      <link>https://blog.adafruit.com/2026/10/20/p-s-art-2026-celebrates-nyc-through-the-lens-of-city-kids/</link>
+      <description>Nia Obrien (Grade 8), The Speed of Life (detail), 2026. Digital photograph. Lower Manhattan Community Middle School, Manhattan. Teacher: Jessica Sinclair via The Metropolitan Museum of Art Artists from prekindergarten through grade 12 created collages, drawings, mixed-media pieces, paintings, photographs, prints, sculptures and more for this year’s P. S. Art. The selected pieces are on […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c2d03905ed502d05</guid>
+      <pubDate>Tue, 20 Oct 2026 20:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>JP’s Product Pick of the Week —  3pm Eastern TODAY 10/20/26 @adafruit #adafruit #newproductpick</title>
+      <link>https://blog.adafruit.com/2026/10/20/jps-product-pick-of-the-week-3pm-eastern-today-10-20-26-adafruit-adafruit-newproductpick/</link>
+      <description>Come on by for JP’s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won’t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f83901e805b20ab6</guid>
+      <pubDate>Tue, 20 Oct 2026 18:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trick-or-Streets is Back for 2026!</title>
+      <link>https://blog.adafruit.com/2026/10/20/trick-or-streets-is-back-for-2026/</link>
+      <description>Explore the interactive map to find events big and small close to you This is the fifth year the NYC DOT compiled the Trick-or-Streets list. These are streets, plazas, and other corridors that are shutting out cars and creating pedestrian friendly Halloween activities. Checkout the map and links to plot your macabre merrymaking. From now […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c82a37680408fb2e</guid>
+      <pubDate>Tue, 20 Oct 2026 17:29:18 +0000</pubDate>
+    </item>
     <item>
       <title>The next Chair of the Board of Trustees, Blythe Masters</title>
       <link>https://www.raspberrypi.org/blog/the-next-chair-of-the-board-of-trustees-blythe-masters/</link>
@@ -46,6 +118,14 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-35aecc78dd65c7c4</guid>
       <pubDate>Tue, 20 Oct 2026 11:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif Launches ESP-Mosaico, Bringing AI Coding Beyond the Boundaries of Hardware</title>
+      <link>https://www.espressif.com/en/news/ESP_Mosaico_Release</link>
+      <description>Shanghai, China Espressif Systems (688018.SH) today announced ESP-Mosaico, a modular development platform designed for AI-assisted hardware creation. ESP-Mosaico allows creators to combine functional modules and multiple devices while enabling Coding Agents to understand the current hardware configuration and participate directly in application development. ESP-Mosaico supports two complementary development approaches. Chat Coding lets creators start from a natural-language request and quickly build working hardware prototypes without setting up a local development environment. Vibe Coding brings AI Agents deeper into the engineering workflow, including implementation, deployment, testing on physical hardware, and continuous iteration. Software can now be generated and modified rapidly with AI, but hardware is still often constrained by fixed boards, interfaces, and product forms. ESP-Mosaico is designed to make hardware equally extensible: capabilities can be added as ideas evolve, without requiring creators to define the final form of a device from the outset. The name Mosaico, meaning “mosaic,” reflects this concept—individual hardware building blocks can be combined to create something larger and continuously evolving. Modular Hardware That Grows with the Application At the center of ESP-Mosaico is a compact standalone host featuring a 480 × 480 OLED touchscreen, haptic feedback, a built-in battery, USB Type-C connectivity, and expansion I/O. The host is powered by Espressif’s ESP32-S31, a RISC-V SoC running at up to 320 MHz, with 512 KB SRAM and support for up to 32 MB of high-speed DDR PSRAM. ESP32-S31 also integrates Wi-Fi 6, dual-mode Bluetooth 5.4, and 802.15.4, and supports interfaces including 1 Gbps Ethernet, USB 2.0 High-Speed OTG, hardware JPEG encoding and decoding, and DVP camera input. ESP-Mosaico extends these capabilities through modular hardware for functions such as cameras, sensors, buttons, lighting, and motors. Supported modules can be automatically identified and integrated by the system, reducing the need to repeatedly handle wiring and low-level driver adaptation. Composability also extends across devices. Multiple ESP-Mosaico hosts can recognize their relative position and orientation and synchronize application state wirelessly, allowing devices to be joined, separated, or rearranged as part of the application itself. This enables experiences ranging from cross-screen games to modular information displays and other multi-screen applications. Bringing AI Agents into Real-World Development Chat Coding: From an Idea to a Working Prototype For creators new to programming or AI-assisted development, ESP-Mosaico provides Chat Coding through ESP-Claw, the Coding Agent built into the platform. Creators simply describe what they want to build. ESP-Claw uses the capabilities of the connected ESP-Mosaico hardware to generate, build, and deploy the application. Development does not require a locally configured toolchain, while application interfaces, logic, and peripheral control that do not depend on online services run locally on the device after deployment. Creators can then continue refining the application conversationally—for example, adding functionality, changing behavior, or improving the user interface—turning an initial idea into an interactive hardware prototype through successive iterations. ESP-Mosaico also connects to Skills Lab, where device applications can be packaged as reusable Skills containing Lua scripts, assets, and peripheral dependencies. Creators can install existing Skills, customize supported applications, or publish their own Skills for others to use. Vibe Coding: Iterating Directly on Real Hardware ESP-Mosaico is supported on ESP ZeroCode AI platform including its complete board and peripheral simulation. You can find various ESP-Mosaico community projects here. For more advanced development, ESP-Mosaico is designed to bring other coding agents into the complete build-test-debug loop. The platform provides: Specification-driven UI development, giving Agents defined design rules, components, resources, and constraints. ESP-GSP, an AI-oriented UI framework, where interfaces can be represented using structured JSON, validated during build, simulated on a PC, and then deployed to ESP32 hardware. Closed-loop device debugging, exposing flashing, device control, inputs, UI state, performance data, and fault information through unified interfaces so Agents can analyze results and iterate. Agent-ready development resources, including BSPs, SDKs, schematics, reference projects, documentation, and Agent References. Together, these capabilities allow an Agent to repeatedly modify code, build and deploy, test on real hardware, analyze feedback, and refine the application, while developers define the goals, constraints, and acceptance criteria. Built on the Open ESP Development Ecosystem AI-generated code still depends on a strong engineering foundation to run reliably on physical hardware. ESP-Mosaico builds on Espressif’s established development ecosystem, including ESP-IDF, drivers and components, technical documentation, development and debugging tools, ESP Component Registry, and community projects. More than 200,000 projects related to ESP32 and ESP8266 are available on GitHub, along with more than 300 books published in over 10 languages. These resources can provide Coding Agents with engineering context, reference implementations, and proven development practices. By connecting these open engineering resources with direct feedback from physical devices, ESP-Mosaico provides a foundation for AI-assisted hardware development that Agents can not only reference, but also build against and validate on real hardware. Bring Ideas Beyond the Screen Whether starting with Chat Coding or using Vibe Coding for deeper product development, ESP-Mosaico enables creators to move from an idea to a working physical device—and continue evolving it through software, hardware, and AI-assisted iteration. Developers can visit the ESP-Mosaico website to learn more about the product and access development resources, or share applications with other users through Skills Lab. The ESP-Mosaico development kit is now available for purchase. For additional product information, please contact the Espressif customer support team. From natural-language creation to Agent-driven development, and from modular hardware to multi-device applications, ESP-Mosaico brings AI coding beyond the screen and into the physical world. Tuesday, October 20, 2026 - 15:00New Type: Press ReleaseSticky-on-top: trueNews Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-bb89a98b107c7f07</guid>
+      <pubDate>Tue, 20 Oct 2026 07:03:26 +0000</pubDate>
     </item>
     <item>
       <title>Semtech LR2021 LoRa chip gets the SDR treatment, supports 100 MHz to 2.74 GHz</title>
@@ -726,86 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-f545c75e57814dad</guid>
       <pubDate>Fri, 09 Oct 2026 19:30:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>LED Bubble Hair Extensions with Motion Controlled Effects #Sensors #AdafruitLearningSystem @Adafruit</title>
-      <link>https://blog.adafruit.com/2026/10/09/led-bubble-hair-extensions-with-motion-controlled-effects-sensors-adafruitlearningsystem-adafruit/</link>
-      <description>Turn your hair into a motion-reactive light show with these colorful LED Bubble Hair Extensions from Erin St Blaine. This wearable project combines lightweight LED seed pixels with bright bubble-braid hair extensions to create glowing cyberpunk-style hair that reacts when you move. An LIS3DH accelerometer senses a shake of your head and kicks the animations […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-af70580f7b507235</guid>
-      <pubDate>Fri, 09 Oct 2026 18:57:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fog Machine with Motion Sensor and Adafruit IO #ElectronicHalloween</title>
-      <link>https://blog.adafruit.com/2026/10/09/fog-machine-with-motion-sensor-and-adafruit-io-electronichalloween/</link>
-      <description>Step up your decor game this year with a motion-sensitive fog machine. This guide will show you how to hack a standard-issue Halloween-store fog machine to add lights and reactivity, and also how to use Adafruit IO to control your lights and fog from your smart phone — from anywhere in the world! Make your […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f8db19c7ae871bd2</guid>
-      <pubDate>Fri, 09 Oct 2026 12:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>esp-iot-solution GitHub Repo</title>
-      <link>https://www.espressif.com/en/node/11461</link>
-      <description>Language English ESP32ESP32-C3ESP32-C6ESP32-H2ESP32-S2ESP32-S3ESP32-C5ESP32-P4ESP32-C2Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.latestWednesday, September 30, 2026https://github.com/espressif/esp-iot-solutionSend add/update notification to subscribers: Document Type: Application NoteDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-66892cdd5397af69</guid>
-      <pubDate>Fri, 09 Oct 2026 11:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roughened Optical Fibers Turn Soft Sheets of Silicone Into Three-Dimensional Shape Sensors</title>
-      <link>https://www.hackster.io/news/roughened-optical-fibers-turn-soft-sheets-of-silicone-into-three-dimensional-shape-sensors-0279e9419b86</link>
-      <description>Waveguides made of rubber embedded in a sheet of silicone could deliver better healthcare monitoring and even robot control.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d2f26c5f0607875d</guid>
-      <pubDate>Fri, 09 Oct 2026 11:01:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Margret Hamilton, Pioneering Software Engineer, Dies Aged 90</title>
-      <link>https://hackaday.com/2026/10/09/margret-hamilton-pioneering-software-engineer-dies-aged-90/</link>
-      <description>As Director of the Software Engineering Division at the MIT Instrumentation Laboratory, Margret Hamilton was responsible for the software for the Apollo program. The code she was responsible for ran …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a38e6cacca3c9a9c</guid>
-      <pubDate>Fri, 09 Oct 2026 11:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi Dogfoods Its Boards, Connected to Home Assistant, As It Plans a Path to "Net Zero"</title>
-      <link>https://www.hackster.io/news/raspberry-pi-dogfoods-its-boards-connected-to-home-assistant-as-it-plans-a-path-to-net-zero-4158820bc6c1</link>
-      <description>Energy efficiency at the single-board computer maker's headquarters is getting a big boost from its own SBCs, linked to Home Assistant.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-bdb6401724454090</guid>
-      <pubDate>Fri, 09 Oct 2026 10:44:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deluxe Gothic Skull USB LED Lamp – Bambu LED Kit MH001 #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/08/deluxe-gothic-skull-usb-led-lamp-bambu-led-kit-mh001-3dthursday-3dprinting/</link>
-      <description>BattCave shares: A detailed LED skull lamp producing even, bright illumination. Threaded base for straightforward assembly with the Bambu LED Lamp Kit MH001. Print profile: 0.2mm layer, 3 walls, 10% infill. Estimated print time: 17.6 hours on one plate. Recommended material: PLA (example shown in Sunlu Matte White). Optional colored gel films customize the skull’s […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8ba4a1638cf79127</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/10/09/sipeed-slogic32u3-high-speed-10-gbps-usb-3-2-logic-analyzer/</link>
-      <description>Sipeed has just launched what they claim is the world’s first 10 Gbps USB 3.2 logic analyzer. The SLogic32U3 is the successor to the SLogic16U3 3.2 Gbps logic analyzer launched in 2025. The SLogic32U3 USB-C logic analyzer supports up to 32 channels via four mini HDMI connectors, 350 MHz signal bandwidth, up to 1400 MS/s per channel with four channels, or 200 MS/s per channel with 32 channels, and is offered with an optional ADC module. SLogic32U3 specifications: FPGA – Not mentioned (potentially from GOWIN) Input channels – 32 digital channels via 4x mini HDMI ports, each with 8 channels Sample rates 1400MS/s @ 4 channels 800MS/s @ 8 channels 400MS/s @ 16 channels 200MS/s @ 32 channels Digital signal bandwidth – 350 MHz Stream FIFO buffer – 2 Gbit DDR3 Capture mode – Stream (real-time readback); depth limited by PC memory/disk Signal input voltage – 0–10 V Adjustable threshold [...] The post Sipeed SLogic32U3 – A high-speed 10 Gbps USB 3.2 logic analyzer (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d3003774b526f1aa</guid>
-      <pubDate>Thu, 08 Oct 2026 17:01:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fixers are warming up for Repair Day across the globe</title>
-      <link>https://blog.adafruit.com/2026/10/08/fixers-are-warming-up-for-repair-day-across-the-globe/</link>
-      <description>James Pickstone, writing on openrepair.org, previews what communities have planned for International Repair Day on October 17. This is the 10th edition, and the global event map is still filling up. Vienna’s re:pair Festival runs 17 days, with textile workshops, furniture restoration demos, musical instrument repair clinics and a repair cafe. Vivita Philippines is running […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-0e5f9ceb6b9a8422</guid>
-      <pubDate>Thu, 08 Oct 2026 13:22:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Floating Ghost Dog #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/08/floating-ghost-dog-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Floating Ghost Dog By O3D makerworld.com/en/models/3323936-floating-ghost-dog-halloween-tealight-holder Bambu X1C PolyMaker PLA 2hr 18mins X:110 Y:94 Z:74mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 36g 230mm/s Every Thursday is #3dthursday […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-927570db47fa6df6</guid>
-      <pubDate>Thu, 08 Oct 2026 13:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
