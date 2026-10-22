@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Watch DAY//GLOW Episode 14: Spooky Scary Wearables Live today at 3pm EDT</title>
+      <link>https://blog.adafruit.com/2026/10/22/watch-day-glow-episode-14-spooky-scary-wearables-live-today-at-3pm-edt/</link>
+      <description>Tune in today at 3pm EDT for a Halloween-themed Episode of DAY//GLOW that features lots of Adafruit gear, via ishotjrdotcom on YouTube: A live build session, using electronic platforms to create Halloween-flavored hacks! Cohosts David Groom and Alex Glow dig into our mailbags, share some event updates, and then settle in to work on our […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3aaeaa8c59b4bb4f</guid>
+      <pubDate>Thu, 22 Oct 2026 13:24:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coraline flexi keychain #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/22/coraline-flexi-keychain-3dthursday-3dprinting/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Coraline flexi keychain By Goomol DIY makerworld.com/en/models/3287084-coraline-flexi-keychain Bambu X1C PolyMaker PLA 5hr 26mins X:51 Y:54 Z:15mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 82g 230mm/s Every Thursday is […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-8a2dcf94037a4f11</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Halloween Trick-or-Treat Spider Candy Box – Pop-Up Spider Mechanism #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/22/halloween-trick-or-treat-spider-candy-box-pop-up-spider-mechanism-3dthursday-3dprinting/</link>
+      <description>superGeometry shares: A Halloween candy box with a spider that pops out when the lid slides. Attach a candy to the spider with double-sided tape — opening the box delivers a scare AND a treat. Mechanism: gear + arm assembly inside the box holds the spider; sliding the lid moves it out; a knob on […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-29fa917ef6b780d5</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simone Carriero's PolarPlot Is a 3D-Printable SCARA Plotter — or Laser Engraver — For Your Desk</title>
+      <link>https://www.hackster.io/news/simone-carriero-s-polarplot-is-a-3d-printable-scara-plotter-or-laser-engraver-for-your-desk-c5be325b851d</link>
+      <description>The successor to the Makerplot, PolarPlot drops the XY gantry design for a SCARA approach.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-711b8bf71e62668d</guid>
+      <pubDate>Thu, 22 Oct 2026 11:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garmin Reopens Its Connect Developer Program for Fitness Wearable Data — With New Business Tiers</title>
+      <link>https://www.hackster.io/news/garmin-reopens-its-connect-developer-program-for-fitness-wearable-data-with-new-business-tiers-8d657d04723b</link>
+      <description>The free-for-all is over: anyone building a service with more than 1,000 users will be asked to start paying a per-user fee.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-ca0587d294ed2227</guid>
+      <pubDate>Thu, 22 Oct 2026 11:37:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Floating-Point Addition and Subtraction on Intel’s 8087</title>
+      <link>https://hackaday.com/2026/10/22/floating-point-addition-and-subtraction-on-intels-8087/</link>
+      <description>Although you can do basic floating point format operations like addition and subtraction just fine on any CPU, having specialized hardware for it can provide a significant speed boost. Here …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a71017e805656bc6</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recreate the Apollo Guidance Computer</title>
+      <link>https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/</link>
+      <description>Commercial aircraft avionics engineer Michael Newton built an accurate Apollo DSKY replica. The post Recreate the Apollo Guidance Computer appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-b7592bd8e38264b4</guid>
+      <pubDate>Thu, 22 Oct 2026 09:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC</title>
+      <link>https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/</link>
+      <description>Following our coverage of a 4.3-inch ESP32-S31 display development board, a Facebook reader pointed out the GUITION JC3636F118C-I-YR1 rotary encoder with a built-in 1.8-inch touchscreen display. It appears to be an update to an earlier ESP32-S3 model, now equipped with an ESP32-S31NRV16 WiFi 6, Bluetooth 5.4, and 802.15.4 SoC with 16MB of PSRAM. The rotary knob also includes 16MB SPI flash, a speaker, a microphone, and an optional rechargeable battery. GUITION JC3636F118C-I-YR1 specifications: SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash MicroSD card slot (for WiFi configuration, music or MJPEG video playback, etc.) Display 1.8-inch [...] The post Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d8bd6f2daea552f8</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:24 +0000</pubDate>
+    </item>
     <item>
       <title>Clotty The Custom Period Tracker Can, Of Course, Run DOOM</title>
       <link>https://hackaday.com/2026/10/21/clotty-the-custom-period-tracker-can-of-course-run-doom/</link>
@@ -742,70 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-fefccb14675917a4</guid>
       <pubDate>Sun, 11 Oct 2026 08:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products: NeoPixel Rings with Integrated Drivers</title>
-      <link>https://blog.adafruit.com/2026/10/10/adafruit-new-products-neopixel-rings-with-integrated-drivers/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debuted 2 New Products. NeoPixel Ring – 16 x 5050 WWA LED with Integrated Drivers NeoPixel Ring – 12 x 5050 WWA with Integrated Drivers Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2b66fa5413e642e0</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>A mountain of AI math, a few precious bytes</title>
-      <link>https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/</link>
-      <description>Co-authored by Phillip Torrone and Mikey Sklar. Making CircuitPython fit is a recurring job. Firmware grows, a board gets close to its flash limit or goes over, and maintainers find room through compression, code sharing and other tricks. One Trinket M0 build was eight bytes over. That’s one example of a cycle the team has […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-67328068fb9b01cf</guid>
-      <pubDate>Sat, 10 Oct 2026 21:52:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The $40 Gaming PC Built From a Broken Smartphone</title>
-      <link>https://www.hackster.io/news/the-40-gaming-pc-built-from-a-broken-smartphone-89d74a1f3fa1</link>
-      <description>A capable gaming PC doesn't have to cost a fortune. LastComputer built one around an old flagship smartphone purchased for just $40.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-cb3aee967e9c11e9</guid>
-      <pubDate>Sat, 10 Oct 2026 20:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>TinkerNews Free Electronics Tools</title>
-      <link>https://blog.adafruit.com/2026/10/10/tinkernews-free-electronics-tools/</link>
-      <description>TinkerNews has quite a few Free Electronics Tools available on their website including an IoT Battery Life Calculator, Resistor Color Code Calculator and more! Pinouts, resistor codes and calculators for the bench. No signup, no ads, and every result is a link you can share. Learn more!</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-eb754fd75306b910</guid>
-      <pubDate>Sat, 10 Oct 2026 16:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It</title>
-      <link>https://hackaday.com/2026/10/10/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it/</link>
-      <description>[Hyperfixed] has a podcast episode that does a deep dive into exactly why bags of microwave popcorn advise against using your microwave’s popcorn setting (in North America, anyway.) The answer …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-206c5bbf666e5b31</guid>
-      <pubDate>Sat, 10 Oct 2026 11:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another IKEA Product Yields an LED Matrix</title>
-      <link>https://hackaday.com/2026/10/10/another-ikea-product-yields-an-led-matrix/</link>
-      <description>The IKEA Kortlinje is a digital clock that costs around 20 dollars, featuring a hygrometer and thermometer. It’s another cheap appliance, you might think, were it not that the display …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-3113db1845f4582f</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Could You Operate This Ultra-Weird Calculator?</title>
-      <link>https://www.hackster.io/news/could-you-operate-this-ultra-weird-calculator-e77fb7277e69</link>
-      <description>Magmabow wanted to simplify things and ended up building one of the weirdest calculators ever devised.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-98471d1a0f4481d9</guid>
-      <pubDate>Fri, 09 Oct 2026 20:18:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEW GUIDE: Fruit Jam Motion Tracking Eyeballs #AdafruitLearningSystem @Adafruit</title>
-      <link>https://blog.adafruit.com/2026/10/09/new-guide-fruit-jam-motion-tracking-eyeballs-adafruitlearningsystem-adafruit/</link>
-      <description>Do you ever feel like someone or something is watching you? In the case of this project, it is! You can use a Fruit Jam running CircuitPython with a USB webcam to display monster eyes that gaze in the direction of motion captured by the webcam. The CircuitPython code utilizes Turbo helper modules to speed […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f545c75e57814dad</guid>
-      <pubDate>Fri, 09 Oct 2026 19:30:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
