@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>ESP32 Jump Scares with The Haunted Box #ElectronicHalloween</title>
+      <link>https://blog.adafruit.com/2026/10/23/esp32-jump-scares-with-the-haunted-box-electronichalloween/</link>
+      <description>Cytron Technologies posted up this guide for a haunted box using the Maker ESP32 board. A PIR sensor detects when someone passes by and the LEDs and servo motor (literally) jump into action. Music from a nearby laptop adds extra chills. The Haunted Box is a motion-activated Halloween project developed using the Maker ESP32. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e8574ce57d27d70a</guid>
+      <pubDate>Fri, 23 Oct 2026 12:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>UniFormation Promises Fully-Automated Resin Printing, Washing, Drying From Its S10 16k 3D Printer</title>
+      <link>https://www.hackster.io/news/uniformation-promises-fully-automated-resin-printing-washing-drying-from-its-s10-16k-3d-printer-7dc718a199f1</link>
+      <description>Keep your hands as clean as your printers, UniFormation says, by combining printing, washing, and drying in an automated process.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-5e09377cc3eafe1f</guid>
+      <pubDate>Fri, 23 Oct 2026 11:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>When You Can’t Pick Between Electric and Jet Power, This Buggy Has You Covered</title>
+      <link>https://hackaday.com/2026/10/23/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered/</link>
+      <description>Technically, what [Macona] built with a surplus Solar T-62 turbine is not a dune buggy, but a sand rail, but it does have the delightfully rare combination of electric and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-33ae21ccf18cd9f9</guid>
+      <pubDate>Fri, 23 Oct 2026 11:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-Hinges Creates "Self-Sensing" 3D-Printed Objects — From Gloves to Game-Controlling Sharks</title>
+      <link>https://www.hackster.io/news/x-hinges-creates-self-sensing-3d-printed-objects-from-gloves-to-game-controlling-sharks-aa6d4592cf7c</link>
+      <description>A combination of three different filaments turn FFF-printed objects smart, research shows.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-9bcce86712e1a200</guid>
+      <pubDate>Fri, 23 Oct 2026 10:35:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy Mole Day 2026! NMDF Molar Cup #MoleDay @nationalmoleday</title>
+      <link>https://blog.adafruit.com/2026/10/23/happy-mole-day-2026-nmdf-molar-cup-moleday-nationalmoleday/</link>
+      <description>We love the chance to celebrate significant numbers. This punny holiday celebrates the mighty mole – One mole contains exactly 6.02214076×1023 elementary entities (approximately 602 sextillion or 602 billion times a trillion)[*], hence the celebration today! (starting at 6:02 am 10/23) More from Mole.org: Celebrated annually on October 23 from 6:02 a.m. to […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b6b05cc779c82d21</guid>
+      <pubDate>Fri, 23 Oct 2026 10:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 5 Case – Pimoroni NVMe Base + Noctua 40×10mm Fan #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/22/raspberry-pi-5-case-pimoroni-nvme-base-noctua-40x10mm-fan-3dthursday-3dprinting/</link>
+      <description>user_258400175 shares: A Pi 5 case for the Pimoroni NVMe Base (M.2 SSD) + a Noctua 40×10mm 5Vdc fan. Two versions share the same lid: one with M3 threaded inserts (Ruthex RX-M3×5.7 brass), one that uses M3 screws directly without inserts. Both use M3 countersunk screws. Includes a PDF guide (Raspberry Pi5 Case.pdf) linked on […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e703e9b4f154c729</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>RoboParty RP1 (ROBOTO 01) – A full-stack open-source humanoid robot with up to 30 degrees of freedom</title>
+      <link>https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/</link>
+      <description>Shanghai-based RoboParty has introduced the RP1 (ROBOTO 01), an open-source humanoid robot designed for robotics research, embodied AI development, and motion-control experiments. The robot is available in two configurations: the standard RP1 with 24 active degrees of freedom (DoF) and the RP1 Pro with 30 DoF. The robot stands 1.35 meters (~4.43 feet) tall and is built around a Rockchip RK3588 processor, with the Pro model adding an Allwinner A733 processor and an NVIDIA Jetson Orin NX development computing module. Other features include in-house ROMOMO joint actuators with up to 160 N·m peak torque, interchangeable head modules, optional dexterous hands, and a 10Ah battery rated for up to three hours of operation. A separate 480MHz MCU handles real-time motion control, while a dual-voltage battery system supports hot-swapping without shutting down the robot. RoboParty RP1 specifications: Computing RP1 – Rockchip RK3588 processor with a 6 TOPS NPU, 8GB LPDDR4x RAM, and [...] The post RoboParty RP1 (ROBOTO 01) – A full-stack open-source humanoid robot with up to 30 degrees of freedom appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-b87f4a041886de4b</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:41 +0000</pubDate>
+    </item>
     <item>
       <title>Watch DAY//GLOW Episode 14: Spooky Scary Wearables Live today at 3pm EDT</title>
       <link>https://blog.adafruit.com/2026/10/22/watch-day-glow-episode-14-spooky-scary-wearables-live-today-at-3pm-edt/</link>
@@ -750,62 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-4ce904e5109ec195</guid>
       <pubDate>Mon, 12 Oct 2026 11:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Valve Releases Hardware Files, Including a KiCad Example, for Steam Frame Hardware and Accessories</title>
-      <link>https://www.hackster.io/news/valve-releases-hardware-files-including-a-kicad-example-for-steam-frame-hardware-and-accessories-9611b2f2c244</link>
-      <description>If you're looking to get an early start in Valve's Steam Frame ecosystem, you can download CAD files and a USB Hub reference design now.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-cde61a3d09bf818a</guid>
-      <pubDate>Mon, 12 Oct 2026 10:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facebook releases Muse Gadgets SDK for ESP32 and Raspberry Pi/Linux-based devices</title>
-      <link>https://www.cnx-software.com/2026/10/12/facebook-releases-muse-gadgets-sdk-for-esp32-and-raspberry-pi-linux-based-devices/</link>
-      <description>Meta, Facebook’s parent company, has released the open-source Muse Gadgets SDK, designed to work with ESP32 boards or Linux-based SBCs like a Raspberry Pi. This requires some explanation… I’ve been on holiday for a while, so I’m not up to date on everything, but apparently Meta released Muse on September 6, yet another personal AI agent… Earlier this month, Nat Friedman, head of product at Meta Superintelligence Labs, shared an X post about the Muse Gadgets “side project” that aims to make ESP32 and Linux devices work with Muse, basically enabling hardware AI monitors and Physical AI with Muse. The Muse Gadgets SDK has been released on GitHub under an Apache 2.0 license (for most of the code) with two main directories: ESP32 Device SDK – It can show images, supports audio input and output, and can interface with sensors, actuators, buttons, etc… Linux Device SDK – Works with Raspberry [...] The post Facebook releases Muse Gadgets SDK for ESP32 and Raspberry Pi/Linux-based devices appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-a31009cfd864dedf</guid>
-      <pubDate>Mon, 12 Oct 2026 02:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>arduino-esp32 GitHub Repo</title>
-      <link>https://www.espressif.com/en/node/11479</link>
-      <description>Language English ESP32This is the GitHub repo of Arduino core for the ESP32 family of SoCs.latestFriday, October 9, 2026https://github.com/espressif/arduino-esp32Send add/update notification to subscribers: Document Type: Application NoteDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-41b4d466c598cf51</guid>
-      <pubDate>Mon, 12 Oct 2026 02:31:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>60 Hz “hello” on Metro RP2350</title>
-      <link>https://blog.adafruit.com/2026/10/11/60-hz-hello-on-metro-rp2350/</link>
-      <description>A wiring diagram and recorded output together, with a Metro RP2350 writing “hello” through CircuitPython, precomputed animation, and a tiny native C helper.</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2db42a06bcaf4fea</guid>
-      <pubDate>Mon, 12 Oct 2026 00:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wireless-Tag WT32P4C5-43S – A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit</title>
-      <link>https://www.cnx-software.com/2026/10/11/wireless-tag-wt32p4c5-43s-a-fully-integrated-4-3-inch-esp32-p4-and-esp32-c5-touch-display-devkit/</link>
-      <description>Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) is a fully integrated 4.3-inch touch display development board that combines an ESP32-P4 MCU with an ESP32-C5 wireless module supporting dual-band WiFi 6 (2.4/5 GHz), Bluetooth LE, and 802.15.4 connectivity. Unlike previous ESP32-P4 + ESP32-C5 solutions, this one comes with a built-in touchscreen, so you don’t need to connect a separate display. Designed for industrial automation, smart control panels, and edge AI vision terminals, the board also integrates a 15-pin MIPI CSI camera interface, a microSD card slot, two USB Type-C ports (USB 2.0 High-Speed and Debug/JTAG), and a 14-pin GPIO expansion header. Wireless-Tag WT32P4C5-43S (ZX4D30CE405-V1.3) specifications: Core module – Wireless Tag WT0132P4-A1-N16R32 SoC – Espressif Systems ESP32-P4 CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP [...] The post Wireless-Tag WT32P4C5-43S – A fully integrated 4.3-inch ESP32-P4 and ESP32-C5 touch display devkit appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-384e628c093a41b3</guid>
-      <pubDate>Sun, 11 Oct 2026 11:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving an Autorouter with a Hexagonal Grid</title>
-      <link>https://hackaday.com/2026/10/11/improving-an-autorouter-with-a-hexagonal-grid/</link>
-      <description>Despite the recent leaps forward in other forms of computer-driven design, the reliability of PCB autorouters remains questionable; on the positive side, though, the lack of massive training data makes …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-54c8c0c9f0d4bee2</guid>
-      <pubDate>Sun, 11 Oct 2026 11:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mars Pathfinder: What Really Happened?</title>
-      <link>https://hackaday.com/2026/10/11/mars-pathfinder-what-really-happened/</link>
-      <description>You’ve probably heard of Mars Pathfinder, the NASA lander and its Sojourner rover that took up residence on Mars in 1997. At first, all was well, but after a few …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-fefccb14675917a4</guid>
-      <pubDate>Sun, 11 Oct 2026 08:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
