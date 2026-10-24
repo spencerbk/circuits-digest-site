@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Watch VCF Southwest in Retrotastic SGI-Edited Footage</title>
+      <link>https://hackaday.com/2026/10/24/watch-vcf-southwest-in-retrotastic-sgi-edited-footage/</link>
+      <description>There’s just something about backing way, way off the cutting edge to rediscover the simpler joys of yesteryear. We’ve got a contest about to wrap up along those lines, and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a08d45f0b8cd2866</guid>
+      <pubDate>Sat, 24 Oct 2026 11:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/10/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-24-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-042dcdb27d1d0c8c</guid>
+      <pubDate>Sat, 24 Oct 2026 08:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Walkie Talkie Interface For Claude</title>
+      <link>https://hackaday.com/2026/10/24/a-walkie-talkie-interface-for-claude/</link>
+      <description>[Bookmari] had a problem — working as a delivery driver, they wanted to work on various projects with Claude Code while out and about. Unfortunately, it simply wasn’t practical to …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d1a6d6a295fe4a4c</guid>
+      <pubDate>Sat, 24 Oct 2026 08:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC</title>
+      <link>https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc/</link>
+      <description>ZOTAC ZBOX PRO CM5-PICO is a compact fanless industrial mini PC built around the Raspberry Pi Compute Module 5 (CM5) with up to 16 GB LPDDR4x memory, optional WiFi 5 and Bluetooth 5.0 wireless connectivity. The mini PC measures 114.8 x 76 x 31.3 mm and features two 4K HDMI outputs, Gigabit Ethernet, and M.2 expansion for NVMe storage or AI accelerators, along with an internal 40-pin GPIO header, camera interfaces, and a wide 5V to 20V DC input for industrial automation, digital signage, and IoT gateway applications. All I/O ports are placed on a single side to simplify cable management and stacking. ZOTAC ZBOX PRO CM5-PICO specifications: SoM – Raspberry Pi Compute Module 5 (CM5) SoC – Broadcom BCM2712 CPU – Quad-core Arm Cortex-A76 @ 2.4 GHz GPU – VideoCore VII @ 800 MHz with H.265 hardware video decoding Memory – 2GB, 4GB, 8GB, or 16GB LPDDR4x RAM Storage [...] The post ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-4a58b49d4d5997cd</guid>
+      <pubDate>Sat, 24 Oct 2026 03:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>This DIY Glowing Purple 5-Segment Display Is Absolutely Stunning</title>
+      <link>https://www.hackster.io/news/this-diy-glowing-purple-5-segment-display-is-absolutely-stunning-90629b2a323d</link>
+      <description>Witchcraft and Alchemy developed a beautiful new display inspired by Nixie tubes.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-9d49b355c77d0a89</guid>
+      <pubDate>Sat, 24 Oct 2026 01:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit New Products this Week</title>
+      <link>https://blog.adafruit.com/2026/10/23/adafruit-new-products-this-week-4/</link>
+      <description>We’ve got the New nEw NEW for you right here This week we debut 2 New Products. Visit www.adafruit.com/new for more info. Adafruit RV-8803 High Accuracy Real Time Clock Breakout Board – STEMMA QT / Qwiic Adafruit Metro ESP32-P4 Hydra – with 16 MB PSRAM – v1 Chipset</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-dd0aa69a8a56fbfd</guid>
+      <pubDate>Sat, 24 Oct 2026 00:59:12 +0000</pubDate>
+    </item>
     <item>
       <title>ESP32 Jump Scares with The Haunted Box #ElectronicHalloween</title>
       <link>https://blog.adafruit.com/2026/10/23/esp32-jump-scares-with-the-haunted-box-electronichalloween/</link>
@@ -758,54 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-043952a853b56499</guid>
       <pubDate>Tue, 13 Oct 2026 10:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>A look inside the Sensirion SEN66 sensor module</title>
-      <link>https://blog.adafruit.com/2026/10/12/a-look-inside-the-sensirion-sen66-sensor-module/</link>
-      <description>Mike (@mikerankin) posted on X about the Sensirion SEN66, an all-in-one air quality module, asking what is actually inside the package. The SEN66 combines particulate matter, VOC, NOx, CO2, humidity and temperature sensing in a single unit, so the question of which discrete parts Sensirion put in there is a fair one. A reply to […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-3e26ca2c1d49e407</guid>
-      <pubDate>Mon, 12 Oct 2026 13:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/10/12/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-12-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5cd8d7965ce711e2</guid>
-      <pubDate>Mon, 12 Oct 2026 13:30:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support</title>
-      <link>https://www.cnx-software.com/2026/10/12/plugmate-and-plugclaw-review-thumb-sized-android-based-private-computers-with-optional-ubuntu-openclaw-support/</link>
-      <description>We received two unusual little devices for review this month: the PlugMate and the PlugClaw, both built by TrustKernel, a security company better known for the trusted-execution tech inside other people’s phones than for consumer gadgets. Each is a complete, self-contained computer the size of a USB stick (its own processor, memory, and encrypted storage) that runs a private, hardened Android system called PlugOS. You plug one into your phone, tablet, or computer, and that host lends it a screen, a keyboard, and a network connection. Nothing of yours crosses over. The easiest way to picture it: it’s a little computer (or more accurately, the hardware of a small phone) that borrows your screen, mouse, keyboard, and other peripherals to interact with you. IT folks will be tempted to compare it to a virtual machine, and the analogy isn’t bad, except that nothing here is virtual. It’s real, separate silicon; [...] The post PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-c77fde17e0001d04</guid>
-      <pubDate>Mon, 12 Oct 2026 12:43:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bringing computing to rural schools in Argentina</title>
-      <link>https://www.raspberrypi.com/news/bringing-computing-to-rural-schools-in-argentina/</link>
-      <description>Meet the teacher running Raspberry Jams so kids can access computers and programming in rural Argentina. The post Bringing computing to rural schools in Argentina appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-7f0ae54b64c27f4e</guid>
-      <pubDate>Mon, 12 Oct 2026 12:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rob Newport's Xerxes Home Lab Blade-ifies Raspberry Pi CM5, NVIDIA Jetson COMs for Neat Clusters</title>
-      <link>https://www.hackster.io/news/rob-newport-s-xerxes-home-lab-blade-ifies-raspberry-pi-cm5-nvidia-jetson-coms-for-neat-clusters-5b7ac6f20edc</link>
-      <description>3D-printable racks let you set up six- or 12-node home labs with ease, Newport promises.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f47354ae41f7986b</guid>
-      <pubDate>Mon, 12 Oct 2026 11:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backup Tapes Come Back to the Homelab</title>
-      <link>https://hackaday.com/2026/10/12/backup-tapes-come-back-to-the-homelab/</link>
-      <description>It’s one of the great mysteries of computing, how somehow in the Year Of OLlama 2026, tape remains the god of cheap storage. A while back [Ben Pettis] recounted his …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-4ce904e5109ec195</guid>
-      <pubDate>Mon, 12 Oct 2026 11:00:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
