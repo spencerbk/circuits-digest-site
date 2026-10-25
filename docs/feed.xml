@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:45:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Eye of Sauron: long-range hidden spy camera detection and positioning with inbuilt memory EM radiation</title>
+      <link>https://blog.adafruit.com/2026/10/25/eye-of-sauron-long-range-hidden-spy-camera-detection-and-positioning-with-inbuilt-memory-em-radiation/</link>
+      <description>Researchers from Hunan University, UC San Diego, and Michigan State University presented ESauron at USENIX Security ’24, a system that finds hidden spy cameras by listening for the electromagnetic radiation their memory gives off. The idea rests on something every camera has to do. Raw images get encoded and compressed before they are sent anywhere […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-bc6d59b245535fad</guid>
+      <pubDate>Sun, 25 Oct 2026 13:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Analog TV Station For Anyone</title>
+      <link>https://hackaday.com/2026/10/25/an-analog-tv-station-for-anyone/</link>
+      <description>If you’re a collector of older TVs, you’re probably facing the problem in some form of having no transmissions to tune in to. With many sets you can use a …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b54b110ac5ed77bf</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine</title>
+      <link>https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/</link>
+      <description>Deki Engine is an open-source modular C++ engine with a Unity-style visual editor for embedded devices, currently optimized for ESP32 platforms such as LilyGO T-Deck Plus, T-Display S3 AMOLED, and soon Elecrow CrowPanel Advanced 7″ ESP32-P4. The editor is available for Windows and Linux with a compiler for the 2D graphics engine, and everything is released under an Apache 2.0 license on GitHub. The project also works on desktop through SDL3, which may be convenient during development. Some of the highlights of the Deki Engine project: Workflow Build scenes visually (sprites, text, particles, tilemaps, state machines, tweens) Pick a board in the editor’s Build panel Flash it. The project also runs on desktop through SDL3, or headless with no renderer Performance – 60 FPS on ESP32-S3 (See demo video below) Package-based solution Hardware packages LilyGO T-Deck Plus with support for display, touch, keyboard, trackball, SD card, GPS and LoRa (SX1262) [...] The post Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-28da5c1b89bbde19</guid>
+      <pubDate>Sun, 25 Oct 2026 03:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observe El Niño with NASA</title>
+      <link>https://blog.adafruit.com/2026/10/24/observe-el-nino-with-nasa/</link>
+      <description>This visualization compares three ocean data products, sea surface temperature anomaly, apparent visible wavelength, and sea surface height anomaly, over the same months in 2025 and 2026. Signals of El Niño in each map are highlighted with pop-up labels. Credits: NASA’s Scientific Visualization Studio via NASA Keep tabs on El Niño with NASA’s satellites. A […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b60914529071d817</guid>
+      <pubDate>Sat, 24 Oct 2026 20:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32-Powered Talking Smoke Pumpkin #ElectronicHalloween</title>
+      <link>https://blog.adafruit.com/2026/10/24/esp32-powered-talking-smoke-pumpkin-electronichalloween/</link>
+      <description>This is a paper papier-mâché jack-o-lantern that emanates smoke and lights up with the help of an ESP32. Once trick-or-treaters are near an ultra sonic sensor triggers a terrifying sequence including a very creepy voice recording. Shared by DBMaking on Instructables. The protagonist is this creepy talking pumpkin that spits fog and speaks with a […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-67bea440134c8f2e</guid>
+      <pubDate>Sat, 24 Oct 2026 17:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Internet of Smells Is Here</title>
+      <link>https://www.hackster.io/news/the-internet-of-smells-is-here-658396fb4243</link>
+      <description>Scentronic uses AI to identify smells, then transmits them over the internet to recreate them remotely. The Internet of Smells is here!</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-d626cd78bcc2872e</guid>
+      <pubDate>Sat, 24 Oct 2026 13:34:54 +0000</pubDate>
+    </item>
     <item>
       <title>Watch VCF Southwest in Retrotastic SGI-Edited Footage</title>
       <link>https://hackaday.com/2026/10/24/watch-vcf-southwest-in-retrotastic-sgi-edited-footage/</link>
@@ -758,54 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-e7830cf5614f6f32</guid>
       <pubDate>Tue, 13 Oct 2026 13:41:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agnes Clerke #ALD26 @findingada</title>
-      <link>https://blog.adafruit.com/2026/10/13/agnes-clerke-ald26-findingada/</link>
-      <description>In honor of Ada Lovelace day, we’re celebrating Irish-born astronomer Agnes Clerke, who was born in Cork 1842. Clerke did not receive any formal education but studied intensely herself and with her siblings, especially her sister Ellen, as the family traveled through the UK and Italy during her youth. Agnes went on to publish prolifically […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ed3f524dd417ac2b</guid>
-      <pubDate>Tue, 13 Oct 2026 13:33:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fatemah Alharbi  #ALD26 @findingada</title>
-      <link>https://blog.adafruit.com/2026/10/13/fatemah-alharbi-ald26-findingada/</link>
-      <description>Fatemah Alharbi is an Associate Professor of Computer Science at Taibah University, Saudi Arabia, specializing in cybersecurity, the Internet of Things (IoT) and more. Via FindingAda Dr Fatemah Alharbi, فاطمة الحربي, is an award-winning cybersecurity consultant, researcher and computer scientist who works to detect and analyse weak spots in security networks. In 2019, she made […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-13aad57bc552c99c</guid>
-      <pubDate>Tue, 13 Oct 2026 13:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Reverses Course, Launches the New Fitbit Edge Wearable with Full-Color AMOLED Display</title>
-      <link>https://www.hackster.io/news/google-reverses-course-launches-the-new-fitbit-edge-wearable-with-full-color-amoled-display-5cd42c5bc586</link>
-      <description>A shift towards screenless wearables has been reversed, as the company blurs the line between fitness tracker and smartwatch.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-fe52f69062ab14ed</guid>
-      <pubDate>Tue, 13 Oct 2026 12:51:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Soldered Electronics Aims to Deliver a Quick-Start Platform for OpenBMC Projects with the OmniMC</title>
-      <link>https://www.hackster.io/news/soldered-electronics-aims-to-deliver-a-quick-start-platform-for-openbmc-projects-with-the-omnimc-b43a56b177da</link>
-      <description>New "Sensor Board" add-on for the Altera Agilex 3 and Agilex 5 FPGA boards targets data center-grade telemetry work.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d79485cac10d6cd6</guid>
-      <pubDate>Tue, 13 Oct 2026 11:40:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Modern Browser for the PlayStation Portable</title>
-      <link>https://hackaday.com/2026/10/13/a-modern-browser-for-the-playstation-portable/</link>
-      <description>The Sony PlayStation Portable, better known as the PSP, is now over two decades old. In its day it was an impressive handheld gaming machine, not least because of the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-fa7164c9dadae24e</guid>
-      <pubDate>Tue, 13 Oct 2026 11:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing</title>
-      <link>https://www.cnx-software.com/2026/10/13/microchip-mtch3380p-and-mtch3240p-capacitive-touch-controllers-support-up-to-64-buttons-with-parallel-sensing/</link>
-      <description>Microchip Technology has introduced the MTCH3380P and MTCH3240P, two new capacitive touch controllers that handle touch detection internally, making it easier to build display-free HMI devices with touch-sensitive buttons, sliders, and wheels. The main difference between the two controllers is the number of supported touch sensors. The MTCH3380P supports up to 38 self-capacitance or 64 mutual-capacitance keys, while the smaller MTCH3240P supports up to 24 self-capacitance or 32 mutual-capacitance keys. Both controllers use parallel sensing with 12 on-chip ADCs to improve touch response times and noise immunity. They also support touch detection through thick cover materials and when users are wearing gloves, making them suitable for home appliances, industrial control panels, EV chargers, and outdoor kiosks. Both also support IEC/UL 60730 Class B functional safety requirements. Microchip MTCH3380P and MTCH3240P specifications: Controller engine – Microchip patented charge-transfer acquisition engine with pipelined analog sensing and digital processing. Touch sensing Mutual capacitance [...] The post Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-043952a853b56499</guid>
-      <pubDate>Tue, 13 Oct 2026 10:33:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
