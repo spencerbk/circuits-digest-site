@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 13:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:45:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/10/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-26/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c377163ada0afa52</guid>
+      <pubDate>Mon, 26 Oct 2026 13:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>RF Watchkeeper Keeps an Eye on the Airwaves</title>
+      <link>https://www.hackster.io/news/rf-watchkeeper-keeps-an-eye-on-the-airwaves-d50e74993a43</link>
+      <description>RF Watchkeeper uses inexpensive SDR hardware and edge computing to monitor aircraft, ships, wireless sensors, and weather satellites.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-9f617558ab834655</guid>
+      <pubDate>Mon, 26 Oct 2026 13:10:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emulate Apple II on Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/emulate-apple-ii-on-raspberry-pi/</link>
+      <description>Recreate the classic 8-bit computer on Raspberry Pi. The post Emulate Apple II on Raspberry Pi appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-6e55f92f0aa29aa1</guid>
+      <pubDate>Mon, 26 Oct 2026 11:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hiding Virtualization From Other Software</title>
+      <link>https://hackaday.com/2026/10/26/hiding-virtualization-from-other-software/</link>
+      <description>The Kernel-based Virtual Machine (KVM) allows Linux systems to function as hypervisors without needing any extra software, but VMs created with it don’t behave exactly like real hardware does. Sometimes …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-79cb31f3e75c4d3d</guid>
+      <pubDate>Mon, 26 Oct 2026 11:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces</title>
+      <link>https://www.cnx-software.com/2026/10/26/adafruit-metro-esp32-p4-hydra-an-arduino-uno-shaped-esp32-p4-esp32-c6-board-with-wifi-6-mipi-interfaces/</link>
+      <description>Adafruit has launched the Metro ESP32-P4 Hydra, an Arduino UNO-shaped development board with ESP32-P4, 16MB PSRAM, and 16MB NOR flash, and an ESP32-C6 for WiFi 6, Bluetooth 5.3 LE, Thread, and Zigbee connectivity. Other features include Raspberry Pi-compatible MIPI DSI and CSI interfaces, a USB 2.0 High-Speed host port, a microSD card slot, and Arduino UNO expansion headers. The board also includes a STEMMA QT connector, LiPo battery charging, and multiple power input options, making it suitable for HMI, camera, and IoT applications. Adafruit Metro ESP32-P4 Hydra specifications: Microcontroller – Espressif Systems ESP32-P4 (v1 chipset) CPU Dual-core 32-bit RISC-V HP (High-performance) CPU @ up to 360 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz with 8KB of zero-wait TCM RAM Memory 768 KB HP L2MEM (for dual-core CPU), 32 KB LP SRAM, 8 KB TCM (for LP MCU core) 16MB PSRAM GPU [...] The post Adafruit Metro ESP32-P4 Hydra – An Arduino UNO-shaped ESP32-P4 + ESP32-C6 board with WiFi 6, MIPI interfaces appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-26c307f3276b41eb</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP Chatbot Feedback</title>
+      <link>https://www.espressif.com/en/hidden/webforms/chatbot-feedback</link>
+      <description>Language Undefined Where is the chatbot Detailed Description How do you rate our Chatbot * Attachments Files must be less than 5 MB.Allowed file types: jpg jpeg png eps txt pdf doc docx rar tar 7z. Name Email</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-2e81215c541916e7</guid>
+      <pubDate>Mon, 26 Oct 2026 08:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hairy Armor For Combat Robot? It’s Not Terrible!</title>
+      <link>https://hackaday.com/2026/10/26/hairy-armor-for-combat-robot-its-not-terrible/</link>
+      <description>[Angus] of Maker’s Muse enjoys combat robotics, in which contenders zip about in an arena, attempting to disable one another with weapons that lift, spin, and smash. He got a …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-0b82c50fa93d12a7</guid>
+      <pubDate>Mon, 26 Oct 2026 08:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espressif Systems Q3 2026 Report</title>
+      <link>https://www.espressif.com/en/content/espressif-systems-q3-2026-report</link>
+      <description>Language English Report: 688018_乐鑫科技_2026-10-24_乐鑫科技：EspressifSystemsQ32026Report.pdfRelease Date: Monday, October 26, 2026Responsibility Report: falseReport Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-aab58bb65bbc39e1</guid>
+      <pubDate>Mon, 26 Oct 2026 02:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Local Wikipedia</title>
+      <link>https://blog.adafruit.com/2026/10/25/local-wikipedia/</link>
+      <description>A Mr. Rogers might sing.. 🎶these are the places in your neighborhood..🎵 Get better acquainted with your neighborhood with Local Wikipedia, enter your location and Local Wiki will highlight wiki entries within a half hour walk. Local Wikipedia is Wikipedia, but only for things a half hour walk from you. Local content is direct from Wikipedia […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-471a5ed8d7ca2031</guid>
+      <pubDate>Sun, 25 Oct 2026 17:37:38 +0000</pubDate>
+    </item>
     <item>
       <title>Eye of Sauron: long-range hidden spy camera detection and positioning with inbuilt memory EM radiation</title>
       <link>https://blog.adafruit.com/2026/10/25/eye-of-sauron-long-range-hidden-spy-camera-detection-and-positioning-with-inbuilt-memory-em-radiation/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-5769b5de7cb9714e</guid>
       <pubDate>Wed, 14 Oct 2026 13:29:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>From garage tinkerer to professional Maker in Chief, now as a game</title>
-      <link>https://www.raspberrypi.com/news/from-garage-tinkerer-to-professional-maker-in-chief-now-as-a-game/</link>
-      <description>This free game lets you slowly upgrade a scruffy tinkering garage into a professional maker lab. The post From garage tinkerer to professional Maker in Chief, now as a game appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-e99a930177567c65</guid>
-      <pubDate>Wed, 14 Oct 2026 13:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Proves the Rumours True, Launches a New HomeView, HomePod mini, Cameras, Thermostats, and More</title>
-      <link>https://www.hackster.io/news/apple-proves-the-rumours-true-launches-a-new-homeview-homepod-mini-cameras-thermostats-and-more-44acf4a834fc</link>
-      <description>The company's biggest HomeKit refresh ever sees it partnering with LG Electronics and Schneider Electric on cameras, locks, and more.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-a9126bb3db915f9f</guid>
-      <pubDate>Wed, 14 Oct 2026 12:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Run AI Faster on Almost Any GPU with ML Drift</title>
-      <link>https://www.hackster.io/news/run-ai-faster-on-almost-any-gpu-with-ml-drift-92a6ad07821b</link>
-      <description>Google's open source ML Drift engine accelerates AI on everything from smartphones to desktops while simplifying support for different GPUs.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-ecc70abe02edb40b</guid>
-      <pubDate>Wed, 14 Oct 2026 12:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Testing Oneself for AI Slop</title>
-      <link>https://hackaday.com/2026/10/14/testing-oneself-for-ai-slop/</link>
-      <description>The feed of a Hackaday writer brings many surprises, some rubbish, and the occasional diamond which of course we bring to you. Sometimes a page catches the eye that’s not …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-69f66abdb78feab8</guid>
-      <pubDate>Wed, 14 Oct 2026 11:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/10/14/romu-tiny-raspberry-pi-rp2354a-usb-board/</link>
-      <description>Bitmerse Romu is a tiny (15.5 x 12 mm), almost minimal Raspberry Pi RP2354A USB board with a USB 2.0 interface on one side of the PCB, and the dual Cortex-M33/RISC-V MCU on the other side, connected to a few debugging/programming pads, buttons, and an RGB LED. It doesn’t come with any GPIO, and it’s mostly designed for USB applications such as a security key for passwordless login, a USB MIDI controller, a macro pad, or a custom HID device. You can plug it directly into a spare USB Type-A port of your computer/host without any cables, breadboard, or adapters required. Romu specifications: SoC – Raspberry Pi RP2354A CPU Dual-core Arm Cortex-M33 @ 150 MHz with Arm Trustzone, Secure boot Dual-core 32-bit RISC-V Hazard3 @ 150 MHz (3-stage in-order pipeline; RV32IMAC with Zba, Zbb, Zbs, Zbkb, Zcb, Zcmp, and Zicsr extensions) Up to two cores can be used at a time, either 2x [...] The post Romu – A Tiny Raspberry Pi RP2354A board for USB application development (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-304d1b1398456202</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carlia S. Westcott #ALD26 @findingada</title>
-      <link>https://blog.adafruit.com/2026/10/13/carlia-s-westcott-ald26-findingada/</link>
-      <description>Carlia S. Westcott was an American engineer and the first woman to receive a first-of-a-kind license in Marine Engineering in the United States in December 1921. Check out her life and story in Transportation History. A pivotal episode in Westcott’s decision to become a marine engineer had taken place a year earlier, when she joined […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-bb1f9f57b8dcc867</guid>
-      <pubDate>Wed, 14 Oct 2026 00:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>VIEWE launches 4.3-inch ESP32-S31 display development board</title>
-      <link>https://www.cnx-software.com/2026/10/14/viewe-4-3-inch-esp32-s31-display-development-board/</link>
-      <description>VIEWE has introduced the PLCM-UES31S043H800V480C-U, a 4.3-inch smart display module that appears to be the first third-party development board powered by the new ESP32-S31 MCU. The board includes a 4.3-inch display with 2.4 GHz Wi-Fi 6, Bluetooth 5.4 LE and Classic, and IEEE 802.15.4 for Zigbee and Thread. It also features USB-C and USB-A ports, a microSD card slot, RS485 and CAN interfaces, and a 20-pin GPIO expansion header with UART and I2C. The board also includes an ES8389 audio codec, two NS4150B amplifiers, two onboard microphones, four ADC buttons, a WS2812B RGB LED, and BOOT/RESET buttons. It operates on a 5V power supply and supports an operating temperature range of -20°C to +70°C. VIEWE PLCM-UES31S043H800V480C-U Specifications: Wireless module – ESP32-S31-WROOM-3-N16R16V SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, [...] The post VIEWE launches 4.3-inch ESP32-S31 display development board appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-a58e83f08829c6bb</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bonnie J. Dunbar #ALD26 @findingada</title>
-      <link>https://blog.adafruit.com/2026/10/13/bonnie-j-dunbar-ald26-findingada/</link>
-      <description>Bonnie Jeanne Dunbar is an American engineer and retired NASA astronaut who flew on five Space Shuttle missions between 1985 and 1998. University of Washington Magazine shared her story. It was only fitting that Dunbar flew on the space shuttle. As an undergraduate at the UW, she helped Ceramic Engineering Professor James I. Mueller develop […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-53a6fb8622a5a1b1</guid>
-      <pubDate>Tue, 13 Oct 2026 20:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>What happened to Ashton-Tate and dBase</title>
-      <link>https://blog.adafruit.com/2026/10/13/what-happened-to-ashton-tate-and-dbase/</link>
-      <description>Dave Farquhar traces the fall of Ashton-Tate and dBase at The Silicon Underground. dBase II dominated CP/M machines, then did the same on the IBM PC, and dBase III made the format the de facto standard for microcomputer databases. Borland bought Ashton-Tate on October 12, 1991 for $439 million. The purchase was already damaged. dBase […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e7830cf5614f6f32</guid>
-      <pubDate>Tue, 13 Oct 2026 13:41:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
