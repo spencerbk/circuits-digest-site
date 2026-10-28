@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Inside the Intel 8087 chip: floating-point addition and subtraction</title>
+      <link>https://blog.adafruit.com/2026/10/28/inside-the-intel-8087-chip-floating-point-addition-and-subtraction/</link>
+      <description>Ken Shirriff has published a look at how the Intel 8087 math coprocessor performs floating-point addition and subtraction. The 1980 chip sped up floating point in the IBM PC and other systems, with addition running roughly 100 times faster than emulation on the 8086. Shirriff opened a chip with a chisel and photographed the die […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-860cd700af79982c</guid>
+      <pubDate>Wed, 28 Oct 2026 13:35:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Logic Tutor, a kit for learning about logic gates</title>
+      <link>https://blog.adafruit.com/2026/10/28/logic-tutor-a-kit-for-learning-about-logic-gates/</link>
+      <description>MonkMakes has posted a product page for the Logic Tutor, a kit for learning about logic gates. The kit comes with the Logic Tutor board, connecting wires and a printed instruction manual. It runs on a single AAA battery, which is not included. The SKU is 00120. The product page links a datasheet PDF, an […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c1c6234dec1b2004</guid>
+      <pubDate>Wed, 28 Oct 2026 13:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>That’s a wrap! Coolest Projects 2026</title>
+      <link>https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/</link>
+      <description>There are a few Coolest Projects events still to come in the Coolest Projects 2026 cycle, but we are already getting ready to kick off Coolest Projects 2027. Before we do, we’re taking a look back at some of the incredible things the young tech creators in the global Coolest Projects community have achieved this… The post That’s a wrap! Coolest Projects 2026 appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-144a09a4a9544b96</guid>
+      <pubDate>Wed, 28 Oct 2026 12:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emulate the 486 in Your Browser</title>
+      <link>https://hackaday.com/2026/10/28/emulate-the-486-in-your-browser/</link>
+      <description>You might fondly remember the days of the Intel 486, but you probably don’t have one on your desk anymore. If you’d like to emulate that classic hardware, you can …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-3e54f849668486b4</guid>
+      <pubDate>Wed, 28 Oct 2026 11:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity</title>
+      <link>https://www.cnx-software.com/2026/10/28/lilygo-t-display-k230-risc-v-ai-dev-kit-features-amoled-lora-and-an-optional-keyboard/</link>
+      <description>LILYGO T-Display K230 is a handheld dev kit based on Canaan’s Kendryte K230 dual-core 64-bit RISC-V processor. The kit features a 4.1-inch AMOLED touchscreen and supports an optional detachable keyboard with battery and optional nRF9151 cellular and GNSS connectivity. The device also comes with 1GB LPDDR4 RAM, a 2MP camera, HDMI output, Ethernet, WiFi 4, and either an SX1262 or LR2021 LoRa transceiver. These features make this kit suitable for remote monitoring, wireless communication, and other embedded applications. LILYGO T-Display K230 Kit specifications: SoC – Kendryte K230 CPU 64-bit RISC-V processor @ 1.6GHz with RISC-V Vector Extension 1.0, FPU 64-bit RISC-V processor @ 800MHz with support for RV64GCB instruction set; AI accelerator KPU with support for INT8 and INT16 Compatible with TVM, TensorFlow, PyTorch, ONNX Typical network performance: Resnet 50 ≥ 85fps @ INT8; Mobilenet_v2 ≥ 670fps @ INT8; YoloV5S ≥ 38fps @INT8; GPU – 2.5D graphics engine DPU – [...] The post LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-fe5f62eef26fe276</guid>
+      <pubDate>Wed, 28 Oct 2026 09:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>SLAM Navigation For an Arduino Powered Car</title>
+      <link>https://hackaday.com/2026/10/28/slam-navigation-for-an-arduino-powered-car/</link>
+      <description>There are plenty of “robot” projects out there that are really just a small remote control platform of some sort. We often like to think of robots of having some …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-34f1f895282e1e93</guid>
+      <pubDate>Wed, 28 Oct 2026 08:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building an Articulated 8-Foot Satellite Ground Station</title>
+      <link>https://www.hackster.io/news/building-an-articulated-8-foot-satellite-ground-station-eec15c7745fb</link>
+      <description>When Cranktown City bought a massive satellite dish, he decided to see what signals he could acquire by building a ground station.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-438f76b7c9e9003c</guid>
+      <pubDate>Wed, 28 Oct 2026 03:22:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/</link>
+      <description>Picotronix is a modular oscilloscope, logic analyzer, and frequency meter from Sydney-based Thort Werx Pty Ltd, based on two Raspberry Pi Pico 2 units, more exactly a Pico 2 used as a signal processor and a Pico 2 W used to drive the display and for wireless connectivity. The solution is comprised of the Picotronix Main Module with an integrated LCD and three expansion ports, used to connect picoPods plug-in expansion modules to add high-speed ADCs, mixed-logic family logic state analysis, a waveform generator, analog conditioning, and more. Picotronix key features and specifications: Main Module Two-channel digital storage oscilloscope 8-channel logic analyzer, expandable up to 14 channels with a picoPod; up to 150 MHz sample rate Frequency meter Display – 320 × 240 color LCD from Pimoroni Three expansion ports, two 10-pin analog ports, and one 26-pin multifunction port Analog channel Accepts 3 Vpp or 16.6 Vpp at 1 MΩ, [...] The post Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-49641e5e6a307fcd</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>The roadmap to becoming a computer vision engineer in 2026</title>
+      <link>https://blog.adafruit.com/2026/10/27/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026/</link>
+      <description>Vinod Chugani has published a four-stage study plan for computer vision engineers at KDnuggets. Each stage builds on the one before it, and each ends with a portfolio exercise. Stage one is the math: matrix transformations, coordinate frames, projective geometry, and multi-view geometry, plus PyTorch tensor work and augmentation with Albumentations. Stage two covers Vision […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-3881d688ab51b60f</guid>
+      <pubDate>Tue, 27 Oct 2026 19:43:04 +0000</pubDate>
+    </item>
     <item>
       <title>SIMD-accelerated Machine Vision on an ESP32-S3</title>
       <link>https://hackaday.com/2026/10/27/simd-accelerated-machine-vision-on-an-esp32-s3/</link>
@@ -32,9 +104,9 @@
       <pubDate>Tue, 27 Oct 2026 09:39:10 +0000</pubDate>
     </item>
     <item>
-      <title>Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/O</title>
+      <title>Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os</title>
       <link>https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o/</link>
-      <description>Synergy Logic SLM-RP4 industrial PLC is built around a Raspberry Pi 4 SBC and designed for industrial automation, machine control, data acquisition, and Industrial IoT (IIoT) applications. The DIN-rail mountable controller supports 24V DC input and an SPI-based backplane that connects up to eight Synergy Logic I/O modules, providing up to 128 I/O points. It also features Gigabit Ethernet, WiFi 5, Bluetooth 5.0, USB ports, two micro-HDMI outputs, and a fanless aluminum enclosure. The system runs Raspberry Pi OS with OpenPLC pre-installed for standard IEC 61131-3 logic programming. Synergy Logic SLM-RP4 specifications: SBC – Raspberry Pi 4 Model B (2GB RAM) Storage – 16GB microSD card Video – 2x micro-HDMI ports Audio – 3.5mm audio jack Networking Gigabit Ethernet port Dual-band WiFi 5 (802.11ac) Bluetooth 5.0/BLE USB 2x USB 3.0 Type-A ports 2x USB 2.0 Type-A ports 1x USB-C port for auxiliary power I/O Expansion – SPI-based backplane supporting up [...] The post Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/O appeared first on CNX Software - Embedded Systems News.</description>
+      <description>Synergy Logic SLM-RP4 industrial PLC is built around a Raspberry Pi 4 SBC and designed for industrial automation, machine control, data acquisition, and Industrial IoT (IIoT) applications. The DIN-rail mountable controller supports 24V DC input and an SPI-based backplane that connects up to eight Synergy Logic I/O modules, providing up to 128 I/O points. It also features Gigabit Ethernet, WiFi 5, Bluetooth 5.0, USB ports, two micro-HDMI outputs, and a fanless aluminum enclosure. The system runs Raspberry Pi OS with OpenPLC pre-installed for standard IEC 61131-3 logic programming. Synergy Logic SLM-RP4 specifications: SBC – Raspberry Pi 4 Model B (2GB RAM) Storage – 16GB microSD card Video – 2x micro-HDMI ports Audio – 3.5mm audio jack Networking Gigabit Ethernet port Dual-band WiFi 5 (802.11ac) Bluetooth 5.0/BLE USB 2x USB 3.0 Type-A ports 2x USB 2.0 Type-A ports 1x USB-C port for auxiliary power I/O Expansion – SPI-based backplane supporting up [...] The post Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os appeared first on CNX Software - Embedded Systems News.</description>
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-13058f8f3aa1b72b</guid>
       <pubDate>Tue, 27 Oct 2026 09:00:19 +0000</pubDate>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-6ffce7c31587b988</guid>
       <pubDate>Fri, 16 Oct 2026 20:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Park’s CircuitPython Parsec: STEMMA QT Port GPIO Pins</title>
-      <link>https://blog.adafruit.com/2026/10/16/john-parks-circuitpython-parsec-stemma-qt-port-gpio-pins/</link>
-      <description>#circuitpythonparsec Use the STEMMA QT port on your board as a plug-and-play set of GPIO pins plus power and ground! Also, bonus code to ask the board for pin name aliases. Try out the code example To learn about CircuitPython: https://circuitpython.org</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9baf9ca9c44d566a</guid>
-      <pubDate>Fri, 16 Oct 2026 18:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/10/16/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-15-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-16169132592702ee</guid>
-      <pubDate>Fri, 16 Oct 2026 13:24:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Inkolor Frame Puts a New Spin on Full-Color ePaper Smart Displays</title>
-      <link>https://www.hackster.io/news/the-inkolor-frame-puts-a-new-spin-on-full-color-epaper-smart-displays-9abdf7215484</link>
-      <description>Built with artwork in mind, the Inkolor comes with a rotating wall mount, a new rendering engine, and an offline-first approach.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-c91587d5c1466e48</guid>
-      <pubDate>Fri, 16 Oct 2026 13:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-Powered Halloween Decorations with Raspberry Pi #ElectronicHalloween #piday #raspberrypi</title>
-      <link>https://blog.adafruit.com/2026/10/16/ai-powered-halloween-decorations-with-raspberry-pi-electronichalloween-piday-raspberrypi/</link>
-      <description>Eugene Tkachenko built this Halloween set up that transmorphs the existential fear of AI into actual jump scares. It relies on a Raspberry Pi with the SONY IMX500 AI camera to send a message to an off-the-shelf Halloween prop hacked with an ESP32. In this video, I use the Raspberry Pi with the SONY IMX500 […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-f504e774e4fd7fa7</guid>
-      <pubDate>Fri, 16 Oct 2026 12:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disposing of PLA and Why Composting is Not an Option</title>
-      <link>https://hackaday.com/2026/10/16/disposing-of-pla-and-why-composting-is-not-an-option/</link>
-      <description>The ‘biofriendly’ nature of poly(lactic acid) (PLA) filament often gets touted as one of its main advantages over alternatives like PETG, but even a modicum of research ought to inform …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-dd2e906b709118db</guid>
-      <pubDate>Fri, 16 Oct 2026 11:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/10/16/xerxes-pi-2026-and-xerxes-nano-carrier-boards-offer-nvme-poe-and-oculink-for-raspberry-pi-and-jetson-modules/</link>
-      <description>After a successful campaign for Xerxes Pi back in 2025, Rapid Analysis has returned with a Xerxes Home Lab ecosystem that includes the Xerxes Pi 2026 and Xerxes Nano carrier board. The upgrade includes M.2 NVMe storage support on the bottom of the board, an I2S Qwiic connector for digital audio, and added debug and boot jumper pins for easier headless deployment. Designed for home labs, edge AI developers, and small businesses, the Xerxes Pi 2026 supports Raspberry Pi CM4/CM5 and other CM modules, Gigabit Ethernet, optional PoE+, and CSI/HDMI expansion. The larger Xerxes Nano supports NVIDIA Jetson Orin Nano and Turing RK1 modules, adding M.2 PCIe, OCuLink, and SPI/UART connectivity. Both boards support active cooling and compact 1U rack installations. Xerxes Pi 2026 Xerxes Pi 2026 specifications: Supported SoMs – Raspberry Pi CM4, CM5, and compatible alternatives via 2x 100-pin high-density mezzanine connectors Storage M.2 M-key PCIe Gen 2 [...] The post Xerxes Pi 2026 and Xerxes Nano carrier boards offer NVMe, PoE, and OCuLink for Raspberry Pi and Jetson modules (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-85dd957a2b2fb1ad</guid>
-      <pubDate>Fri, 16 Oct 2026 09:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building the next generation of hardware founders</title>
-      <link>https://www.raspberrypi.com/news/building-the-next-generation-of-hardware-founders/</link>
-      <description>Take a look around the unique Founders, Inc. campus incubating what hope to be future-defining technology companies. The post Building the next generation of hardware founders appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-abded9fc812efea3</guid>
-      <pubDate>Fri, 16 Oct 2026 06:35:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>WLED WIFI RGB Matrix Panel Clock – ESP32-C3 + WS2812 8×32 with Scrolling Text #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/15/wled-wifi-rgb-matrix-panel-clock-esp32-c3-ws2812-8x32-with-scrolling-text-3dthursday-3dprinting/</link>
-      <description>DrejkCZ shares: A WLED-powered RGB matrix panel that shows a clock, scrolling text, or runs built-in effects — all adjustable over Wi-Fi from a PC or phone. Controller: ESP32-C3 Super Mini (WiFi + Bluetooth). Matrix: four 8×8 WS2812 (5050) RGB LED modules forming an 8×32 display (256 LEDs on GPIO 8, GRB color order, 1000mA […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-d78e129180ed9a7a</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver</title>
-      <link>https://www.cnx-software.com/2026/10/16/w1700k-sdr-turns-a-wi-fi-7-router-into-a-320-msps-software-defined-radio-receiver/</link>
-      <description>Just a few days ago, we wrote about the ESP-SDR project, which turned an ESP32 into an SDR receiver (and now SDR transmitter), but the data was streamed over UART, which couldn’t keep up with the sample rate. Now, developer h0m3us3r has released w1700k-sdr, also an open-source project that turns a Gemtek W1700K Wi-Fi 7 router into a wideband SDR receiver. The project uses the router’s built-in MediaTek MT7996 radio to capture raw 14-bit I/Q samples at up to 320 MSps across the 2.4 GHz, 5 GHz, and 6 GHz bands. The captured data is then streamed over a 10 GbE connection using the router’s Airoha AN7581 SoC to a Linux computer, where you can view the live spectrum and waterfall in a browser. To make this work, the project replaces the router’s stock firmware with a custom Linux system and radio firmware, allowing it to capture raw I/Q data [...] The post W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-e8357bddff494891</guid>
-      <pubDate>Thu, 15 Oct 2026 17:01:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
