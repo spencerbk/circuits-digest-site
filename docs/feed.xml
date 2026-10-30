@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Emulate Apple II on Raspberry Pi</title>
+      <link>https://blog.adafruit.com/2026/10/30/emulate-apple-ii-on-raspberry-pi/</link>
+      <description>Brian Jepson, writing on raspberrypi.com, walks through running an Apple II emulator on a Raspberry Pi. The tutorial comes from The Raspberry Pi Guide to Retro Gaming book and uses LinApple, a fork of the AppleWin emulator originally created by Mike O’Brien and ported to Linux by David Baucum and other contributors. The post also […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-89c3f10f71a681c6</guid>
+      <pubDate>Fri, 30 Oct 2026 13:24:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Conference Badge Powered by a Piece of Computing History</title>
+      <link>https://www.hackster.io/news/a-conference-badge-powered-by-a-piece-of-computing-history-66b6f9a0d2f2</link>
+      <description>Intel's 1976 8048 microcontroller gets a second life as a retro conference badge with a custom development board and scrolling LED display.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-eb600b3dd03a22a8</guid>
+      <pubDate>Fri, 30 Oct 2026 12:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A soft robot could help doctors diagnose and treat disorders of the small intestine</title>
+      <link>https://blog.adafruit.com/2026/10/30/a-soft-robot-could-help-doctors-diagnose-and-treat-disorders-of-the-small-intestine/</link>
+      <description>Anne Trafton at MIT News reports on a robotic enteroscope built by MIT engineers to travel through the small intestine. The organ runs more than 20 feet and is about an inch across, which makes it hard to reach. The current option is double balloon enteroscopy, where a worker inflates and deflates two balloons to […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-797486245e409890</guid>
+      <pubDate>Fri, 30 Oct 2026 11:18:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Sounds of the World, One Random Album at a Time</title>
+      <link>https://hackaday.com/2026/10/30/the-sounds-of-the-world-one-random-album-at-a-time/</link>
+      <description>In the streaming era it’s easy to forget that there’s still a lot of stuff being broadcast over the radio for anyone who cares enough to dial in their receiver. …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-2223908639d0ba72</guid>
+      <pubDate>Fri, 30 Oct 2026 11:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>OuijaCNC</title>
+      <link>https://www.raspberrypi.com/news/ouijacnc/</link>
+      <description>Spooky season is officially upon us. Check out this self-playing Ouija board built by one of our colleagues. The post OuijaCNC appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-e0ccdf4efc19af94</guid>
+      <pubDate>Fri, 30 Oct 2026 09:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azume One – A 2.8mm sensor that turns any regular wristwatch into a health tracker (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/10/30/azume-one-a-2-8mm-sensor-that-turns-any-regular-wristwatch-into-a-health-tracker/</link>
+      <description>Azume, a Munich-based startup, has designed the Azume One, a compact health tracker that attaches to the back of a regular wristwatch to track heart rate, sleep, stress, and daily activity without needing an additional smartwatch. The device measures 30mm in diameter, is 2.8mm thick, and weighs 5 grams. It features an optical PPG sensor and a motion sensor to track health and activity data, which it sends to an Android or iOS smartphone over Bluetooth 5.4. Other highlights include up to 48 hours of battery life, a removable nano-suction mounting system, and an included wristband for sleep tracking without wearing a watch. Azume One specifications: MCU / SoC – Not specified (Potentially Nordic Semi nRF52-based) Sensors Optical PPG sensor for heart rate and blood oxygen monitoring Motion sensor for activity and workout tracking Skin temperature monitoring Connectivity – Bluetooth 5.4 Misc No display, vibrations, or notifications No subscription required [...] The post Azume One – A 2.8mm sensor that turns any regular wristwatch into a health tracker (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-6affb16fa38f8f0c</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snake On a Seven-Segment Display is Gloriously Bad</title>
+      <link>https://hackaday.com/2026/10/30/snake-on-a-seven-segment-display-is-gloriously-bad/</link>
+      <description>You’ve no doubt heard the saying, “If something is worth doing, it’s worth doing well.” But there’s actually a counter-perspective to this particular philosophy that says it’s also worth doing …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-956202f737e328ce</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP Friends</title>
+      <link>https://www.espressif.com/en/node/11555</link>
+      <description>Language English ESP32ESP32-C3ESP32-C6ESP32-DevKitS(-R)ESP32-H2ESP32-S2ESP32-S3ESP8266ESP8684ESP32 (*)ESP32-C6-MINI-1ESP32-H2-MINI-1/1UESP32-S2-MINI-1/1UESP32-S3-MINI-1/1UESP8266 LegacyESP8266-DevKitSESP8684-MINI-1/1UESP8685ESP-WROOM-02D/02UESP32-C3-MINI-1/1UESP32-C6-WROOM-1ESP32-D0WDQ6ESP32-S2-MINI-1UESP32-S3-WROOM-1/1UESP32-WROOM-V1ESP8684-WROOM-02C/02UCESP-WROOM-02UESP-WROOM-V1ESP32-C3-WROOM-02/02UESP32-C6-DevKitC-1ESP32-D2WDESP32-S2-MINI-2/2UESP32-S3-WROOM-2/2UESP8684-WROOM-03ESP-WROOM-02ESP32-C6-DevKitM-1ESP32-S0WDESP32-S2-SOLO (-U)ESP32-S3-DevKitC-1ESP32-WROVER-V1ESP8684-WROOM-05ESP8685-WROOM-01ESP-ProgESP-WROOM-S2ESP32-PICO-V3ESP32-S2-SOLO-2/2UESP32-S3-DevKitM-1ESP8684-WROOM-07ESP8685-WROOM-03ESP-BAT32ESP32-PICO-V3-02ESP32-S2-WROOM (-I)ESP32-S3-EYEESP8266-DevKitCESP8684-DevKitM-1ESP8685-WROOM-04ESP-BAT8ESP-LauncherESP32-PICO-D4ESP32-S2-WROOM-IESP32-S3-Korvo-1ESP8685-WROOM-05ESP-FactoryTB1ESP-WROOM-5V2LESP32-S2-WROVER (-I)ESP32-S3-Korvo-2ESP32-WROOM-32E/32UEESP8685-WROOM-06ESP-SKAINETESP32-S2-WROVER-IESP32-WROOM-DAESP8685-WROOM-07ESP HomeKit SDKESP32-C3-DevKitM-1ESP32-S2-SOLO-UESP32-WROOM-32SEESP32-C3-DevKitC-02ESP32-S2-Saola-1ESP32-WROVER-E/IEProduction Testing EquipmentESP32-C3-LyraESP32-MINI-1/1UESP32-S2-DevKitM-1ESP32-PICO-V3-ZERO (*ACK)ESP32-S2-DevKitC-1ESP32-PICO-MINI-02/02UESP32-S2-Kaluga-1ESP32-S2-HMI-DevKit-1ESP32-SOLO-1ESP32-SOLO-1CESP32-DU1906 (-U)ESP32-WROOM-32D/32UESP32-WROOM-32UESP32-WROOM-32ESP32-WROVER-B/IBESP32-WROVER-IBESP32-WROVER (-I)ESP32-WROVER-IESP32-DevKitCESP32-DevKitM-1ESP-WROVER-KITESP-WROVER-KIT-VBESP32-PICO-KITESP32-PICO-KIT-1ESP32-PICO-DevKitM-2ESP-EYEESP32-LyraTESP32-LyraT-MiniESP32-LyraTD-MSCESP32-LyraTD-SYNAESP32-LyraTD-DSPGESP32-Vaquita-DSPGESP32-KorvoESP32-Ethernet-KitESP32-Azure IoT KitESP32-MeshKitESP32-MeshKit-SenseESP32-MeshKit-LightESP32-Sense KitESP32-DevKitC-GoogleCloud IoTESP32-PICO-ZEROESP-Module-ProgESP32-H2-WROOM-02CESP32-H2-DevKitM-1ESP32-S3-BOXESP32-S3-USB-BridgeESP32-S3-LCD-EV-BoardESP32-S3-USB-OTGESP8684-WROOM-06CESP8684-WROOM-01CESP8684-WROOM-04CESP32-S3-PICO-1ESP8684-DevKitC-02ESP32-H2-WROOM-07ESP32-H2-WROOM-03ESP32-C3-LCDkitESP32-C5ESP32-P4ESP32-C2ESP32-C61ESP32-LCDKitESP32-H21 (not public)ESP32-H4 (not public)ESP32-P4-EYEESP32-P4-Function-EV-BoardESP32-C5-WROOM-1/1UESP32-C5-DevKitC-1ESP Thread BR/Zigbee GWESP-Prog-2ESP32-C61-WROOM-1/1UESP32-C61-DevKitC-1ESP-VoCatESP32-C61-MINI-1/1UESP32-S31ESP32-P4X-C5-Function-EV-BoardESP Friends documents can help developers quickly get started with Espressif’s development, such as guidance on how to select ESP hardware, build an environment, get started with software, etc.latestTuesday, October 13, 2026https://docs.espressif.com/projects/esp-techpedia/en/latest/esp-friends/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-cfb28822951c959a</guid>
+      <pubDate>Fri, 30 Oct 2026 07:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modular Desk Organizer #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/10/29/modular-desk-organizer-3dthursday-3dprinting/</link>
+      <description>ms520 shares: A desk-side modular system built around a universal clamp (0-40mm range, 33mm depth, 4mm-pitch threads, anti-slip grooves). Core parts: headphone hanger (50mm shaft), phone holder, cup holder (80mm ID), 5mm Skadis section, cable organizer (3 cables), pen holder (50×50×80mm), two-stage hook, tray (62×67mm). ‘New Parts’ add-ons: Skadis adapter, storage box, trash bin, solder […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-10c4ffd2ca07014e</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:29 +0000</pubDate>
+    </item>
     <item>
       <title>Emacs turns 50</title>
       <link>https://blog.adafruit.com/2026/10/29/emacs-turns-50/</link>
@@ -734,78 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-2cbe0ba8a7277bf7</guid>
       <pubDate>Mon, 19 Oct 2026 10:54:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>BIOSTAR BIWCL-PAT – A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support</title>
-      <link>https://www.cnx-software.com/2026/10/19/biostar-biwcl-pat-a-3-5-inch-industrial-wildcat-lake-sbc-with-dual-2-5gbe-triple-display-support/</link>
-      <description>BIOSTAR BIWCL-PAT is a 3.5-inch industrial SBC built around the Intel Core Series 3 “Wildcat Lake” SoC family, ranging from the Core 3 304 to the Core 7 360. The board supports up to 64GB DDR5-6400 memory, three independent displays, and dual 2.5GbE networking. It also features three M.2 slots for NVMe storage, Wi-Fi/Bluetooth, and 4G/5G cellular connectivity, along with USB 3.2 ports, four serial interfaces, and an 8-bit digital I/O header. The compact 148 x 102mm form factor makes it suitable for industrial automation, edge computing, AIoT, human-machine interfaces (HMI), and POS/kiosk applications. BIOSTAR BIWCL-PAT specifications: Wildcat Lake SoC (one or the other) Intel Core 3 304 penta-core CPU with 1x P core @ 1.5 GHz / 4.3 GHz (Turbo) and 4x LPE cores, 1-core Intel Xe3 Graphics @ 2.3 GHz; TDP: 15W Intel Core 3 305 hexa-core CPU with 2x P cores @ 1.5 GHz / 4.3 GHz [...] The post BIOSTAR BIWCL-PAT – A 3.5-inch industrial Wildcat Lake SBC with dual 2.5GbE, triple display support appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-5c4f3f5b6d27b1e1</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-IDF User Guide for ESP32-P4, SDK v5.5.6</title>
-      <link>https://www.espressif.com/en/node/11529</link>
-      <description>Language English ESP32-P4The ESP-IDF Programming Guide provides an extensive overview of official development framework by Espressif for its SoCs, enabling the creation of robust and efficient embedded applications. It covers everything from setting up the development environment to advanced features like network protocols, security, and peripheral drivers, offering developers the tools they need for seamless integration and development.v5.5.6Monday, October 19, 2026https://docs.espressif.com/projects/esp-idf/en/v5.5.6/esp32p4/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-3672d5d58ffd2b7a</guid>
-      <pubDate>Mon, 19 Oct 2026 04:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost</title>
-      <link>https://www.cnx-software.com/2026/10/19/axera-ax8860p-16-core-cortex-a55-soc-takes-on-nvidia-dgx-spark-at-fraction-of-the-cost/</link>
-      <description>Axera AX8860P is a new 16-core Cortex-A55 SoC with up to 128 TOPS/256 TOPS (FP4) NPU, 256-bit LPDDR5/5X memory, and PCIe 5.0 connectivity, aiming to power desktop AI solutions competing with NVIDIA DGX Spark at a fraction of the cost. Dr. Qiu Xiaoxin, founder and CEO of Axera, unveiled the new AX8860/AX8860P processor a few days ago at the China International Industrial Fair, along with upcoming products from Sipeed and Radxa. Axera AX8860P key features and specifications: CPU – 16x Arm Cortex-A55 processor AI – Up to 256 TOPS VPU – 64-channel decode, 16-channel encode Memory – Up to 128GB 256-bit LPDDR5x with 273GB/s bandwidth Interconnect – PCIe 5.0 + AXLink (C2C) cascading with 80% efficiency for multi-chip cards and systems Power Consumption – About 40 Watts under load Package – 78 × 78 mm module Process – 6nm The AX8860P SoC is said to support vLLM, SGLang, PyTorch, ONNX, [...] The post Axera AX8860P 16-core Cortex-A55 SoC takes on NVIDIA DGX Spark at fraction of the cost appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-77560e78b3995f26</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evolving RC circuits</title>
-      <link>https://hackaday.com/2026/10/18/evolving-rc-circuits/</link>
-      <description>We are surrounded by evolving algorithms and AI models, and it feels like we have to evolve to them as well. Of course, the world itself is always evolving, and …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a4b1a635f078c95b</guid>
-      <pubDate>Sun, 18 Oct 2026 11:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turning a Wi-Fi Adapter into an SDR</title>
-      <link>https://hackaday.com/2026/10/18/turning-a-wi-fi-adapter-into-an-sdr/</link>
-      <description>Since the discovery of an undocumented I/Q sampling feature in ESP32 chips about two weeks ago, there’s been a flood of similar features being found in other wireless chips, including …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-34aeade003284c34</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display</title>
-      <link>https://www.cnx-software.com/2026/10/18/m5stack-paperdiy-kits-pair-an-esp32-s3-mcu-with-a-4-7-inch-e-paper-display/</link>
-      <description>M5Stack has released the PaperDIY series, an updated version of its 2020 M5Paper ESP32 development kit, featuring an ESP32-S3 MCU and a 4.7-inch e-paper display with 16 levels of gray. It comes in two versions: the PaperDIY Complete Kit, which ships factory-assembled in a 3D-printed enclosure, and the PaperDIY Assembly Kit, which is designed to be integrated into custom projects. Both boards also include a microSD card slot for extended storage, a built-in 140mAh battery, and a custom M5PM1 low-power management chip. M5Stack PaperDIY specifications: Core module – Espressif Systems ESP32-S3-WROOM-1-N16R8 SoC – ESP32-S3 CPU – Dual-core LX7 processor with up to 240MHz Memory – 512KB SRAM, 8MB Octal PSRAM Storage – 384KB ROM Wireless – WiFi 4 802.11b/g/n and Bluetooth 5.0 LE Storage – 16MB flash PCB antenna Storage – MicroSD card slot Display – 4.7-inch (960 × 540) ED047TC1 e-paper display with 16-level grayscale and an 8-bit parallel interface for direct display control, [...] The post M5Stack PaperDIY Kits pair an ESP32-S3 MCU with a 4.7-inch e-Paper display appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d7f9a4c72432c54b</guid>
-      <pubDate>Sun, 18 Oct 2026 03:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1780 – Ledger Hardware Supply Chain Attack Examined</title>
-      <link>https://www.eevblog.com/2026/10/18/eevblog-1780-ledger-hardware-supply-chain-attack-examined/</link>
-      <description>Looking at the Ledger Nano X hardware supply chain attack 00:00 – Ledger Nano X hardware wallet supply chain attack 06:16 – This is not a new thing 09:00 – DaveCAD explaining how the Ledger Nano X works 11:40 – Common Criteria EAL5+ security verification 12:34 – How the hack works 14:21 – Viewing the …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-e750f6de8503f0e6</guid>
-      <pubDate>Sun, 18 Oct 2026 00:56:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1779 – Amazing LCD Physics! (µTimer Part 4)</title>
-      <link>https://www.eevblog.com/2026/10/18/eevblog-1779-amazing-lcd-physics-%c2%b5timer-part-4/</link>
-      <description>You can erase LCD pixels with light! Semiconductor and photonics physics in action on the µTimer LCD! Part 4 in the µTimer design series. 00:00 – Reflective vs Transflective LCD 03:39 – Erasing LCD pixels using light! 05:02 – How the physics works 06:30 – We have a problem in outdoors light in ultra low …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-005b18be52e3aef3</guid>
-      <pubDate>Sat, 17 Oct 2026 23:54:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plenty of Fish in the AI Sea</title>
-      <link>https://www.hackster.io/news/plenty-of-fish-in-the-ai-sea-6690924a727c</link>
-      <description>Tired of waiting for new species to be discovered? Create your own with this AI-powered E Ink frame that continually invents imaginary fish.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-0bc1fbd48efd494f</guid>
-      <pubDate>Sat, 17 Oct 2026 20:06:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
