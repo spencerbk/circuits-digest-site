@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Monopoly Deluxe, the 1992 DOS game: “Dear Human”</title>
+      <link>https://blog.adafruit.com/2026/10/31/monopoly-deluxe-the-1992-dos-game-dear-human/</link>
+      <description>Marcin Wichary, writing on his blog Unsung, tells the story of a bug he ran into as a kid playing Monopoly Deluxe, the 1992 DOS game. The game did not run on Windows, but it copied the Windows interface closely: pull-down menus, keyboard shortcuts, a history log with multiple font sizes, bezels and shadows. Computer […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a13b7a86c43aa1f3</guid>
+      <pubDate>Sat, 31 Oct 2026 12:45:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn to Edit STL Files in Just a Few Minutes</title>
+      <link>https://hackaday.com/2026/10/31/learn-to-edit-stl-files-in-just-a-few-minutes/</link>
+      <description>Sometimes an STL file needs a bit of editing, but if one doesn’t already know how to use a mesh editor it’s unlikely that one has the time to sit …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-094d6ffebd840e73</guid>
+      <pubDate>Sat, 31 Oct 2026 11:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D Printed Einstein-Szilard Refrigerator Cools with Fire</title>
+      <link>https://hackaday.com/2026/10/31/3d-printed-einstein-szilard-refrigerator-cools-with-fire/</link>
+      <description>They may not deliver the highest efficiency, but absorption refrigerators have earned a persistent place in camper vans and industrial plants thanks to a few distinct advantages: they can operate …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-cef0c60d9208bf92</guid>
+      <pubDate>Sat, 31 Oct 2026 08:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1783 – Can AI Reverse Engineer the 121GW Multimeter Firmware?</title>
+      <link>https://www.eevblog.com/2026/10/31/eevblog-1783-can-ai-reverse-engineer-the-121gw-multimeter-firmware/</link>
+      <description>Can AI Reverse Engineer the 121GW Multimeter Firmware? Using Cursor with Reverse Engineer Anything and Claude to reverse engineer the 121GW firmware from the binary and the schematic. 00:00 – Using Cursor with the Reverse Engineer Anything MCP 00:47 – Reverse engineered Rigol Oscilloscope operating systewm 03:40 – First shot at using Cursor 06:57 – …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-e2e95e7e35e1f937</guid>
+      <pubDate>Sat, 31 Oct 2026 03:28:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1782 – Trezor Safe 3 Hardware Wallet Teardown Inspection</title>
+      <link>https://www.eevblog.com/2026/10/31/eevblog-1782-trezor-safe-3-hardware-wallet-teardown-inspection/</link>
+      <description>Trezor Safe 3 Hardware Wallet Teardown Inspection for supply chain attack possibility. Buy the Safe 3 directly from Trezor: https://affil.trezor.io/SH17H Or on Amazon: https://link.amazon/A0emFddvQ Forum: https://www.eevblog.com/forum/blog/eevblog-1782-trezor-safe-3-hardware-wallet-teardown-inspection/ 00:00 – Trezor Safe 3 packaging security features and unboxing 04:30 – Beware of supply chain hacks using the seed phrase 06:13 – The security tamper seal 08:25 – …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-4b7e627736a5bdaf</guid>
+      <pubDate>Sat, 31 Oct 2026 03:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arduino UNO Q gets a 10.1-inch touch display with integrated speakers, audio jacks, camera connectors</title>
+      <link>https://www.cnx-software.com/2026/10/31/arduino-uno-q-gets-a-10-1-inch-touch-display-with-integrated-speakers-audio-jacks-camera-connectors/</link>
+      <description>Waveshare UNO-Q-DSI-TOUCH-10.1A is a 10.1-inch touchscreen display designed for the Arduino UNO Q single board computer. The Arduino UNO Q exposes its MIPI DSI interface through the 60-pin JMEDIA and JMISC headers, and for all practical purposes, you normally need a board like the Arduino UNO Media Carrier to make use of it. The UNO-Q-DSI-TOUCH-10.1A display solves that by integrating the headers so users can simply insert the Arduino UNO Q into it without an additional adapter board or special wiring. Waveshare UNO-Q-DSI-TOUCH-10.1A specifications: Screen Size – 10.1-inch Panel type – IPS panel Native Resolution – 1280 x 800 Refresh Rate – 60 Hz Colors – 16.7 millions Viewing Angle – 178° Brightness – 300 cd/m² Contrast Ratio – 800:1 Response Time – 35 ms Multi-touch support Capacitive multi-touch (we’re told the actual number of touch points somehow depends on the software system) Interface I2C Tempered glass, optical bonding Camera [...] The post Arduino UNO Q gets a 10.1-inch touch display with integrated speakers, audio jacks, camera connectors appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-af0538ade8d49c29</guid>
+      <pubDate>Sat, 31 Oct 2026 03:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sir Isaac Newton Would Love This Portable DIY Vis Spectrometer</title>
+      <link>https://www.hackster.io/news/sir-isaac-newton-would-love-this-portable-diy-vis-spectrometer-572c4477d8e9</link>
+      <description>Be amazed by this portable DIY vis spectrometer built by Curious Scientist.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6273871fcc867f65</guid>
+      <pubDate>Sat, 31 Oct 2026 00:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Halloween Wise Cracking skull</title>
+      <link>https://blog.adafruit.com/2026/10/30/raspberry-pi-halloween-wise-cracking-skull/</link>
+      <description>Raspberry Pi Halloween Costume Detector Build a wise cracking skull to MC your Halloween costume party. This project uses a Raspberry Pi 5 paired with a NoIR PiCamera and speaker bonnet. The Pi runs a Python script with OpenCV person detection. When a person crosses paths with the skull, a picture is sent […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-8df4130178bda26f</guid>
+      <pubDate>Fri, 30 Oct 2026 20:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW GUIDE: FLAC and Ogg Playback with CircuitPython #AdafruitLearningSystem #CircuitPython</title>
+      <link>https://blog.adafruit.com/2026/10/30/new-guide-flac-and-ogg-playback-with-circuitpython-adafruitlearningsystem-circuitpython/</link>
+      <description>A new guide in the Adafruit Learning System: FLAC and Ogg Playback with CircuitPython by Anne Barela with programming by Mikey Sklar. With CircuitPython Turbo on ESP32-S3, RP2350 (and similarly fast boards likely to follow), music playing capabilities have expanded. FLAC and Ogg Vorbis are popular open source audio formats that some prefer over MP3 […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-91b89969f8cc6c0c</guid>
+      <pubDate>Fri, 30 Oct 2026 17:56:05 +0000</pubDate>
+    </item>
     <item>
       <title>Emulate Apple II on Raspberry Pi</title>
       <link>https://blog.adafruit.com/2026/10/30/emulate-apple-ii-on-raspberry-pi/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-62ac928acbd0db81</guid>
       <pubDate>Mon, 19 Oct 2026 21:27:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>A flicker-free DMA driver for SM16380 S-PWM HUB75 LED panels on the ESP32-S3</title>
-      <link>https://blog.adafruit.com/2026/10/19/flicker-free-dma-driver-for-sm16380-s-pwm-hub75-led-panels-on-the-esp32-s3/</link>
-      <description>StubbyDevs has published a driver on GitHub for HUB75 LED panels that use SM16380 S-PWM column drivers, running on the ESP32-S3. The row scan runs in hardware with no CPU time, and a new frame is spliced in at the end of a scan pass, so updates do not tear or blink. A 128×64 panel […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-79b5c58dd58ae138</guid>
-      <pubDate>Mon, 19 Oct 2026 21:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures</title>
-      <link>https://www.cnx-software.com/2026/10/20/linux-7-3-release-main-changes-arm-risc-v-and-mips-architectures/</link>
-      <description>Linus Torvalds announced the release of Linux 7.3 on LKML last Sunday: It’s Sunday afternoon, and this week I somehow kept my wits together long enough to keep track of the day of the week, so the release isn’t randomly delayed. Will wonders never cease? Anyway, nothing very special seems to have happened this last week, so as expected the final 7.3 is out, and thus tomorrow the merge window for 7.4 opens. Except I’m on my annual family vacation, so instead of merging anything first thing in the morning, I’ll spend most of the day on a boat and under water. I’ll get back to merging in the afternoon, but I expect my schedule to be a bit unusual for a while. I hope I can still complete the merge window in the usual two weeks, but it may be that I’ll end up with an extra week of merging [...] The post Linux 7.3 release – Main Changes, Arm, RISC-V, and MIPS architectures appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-143c3bf241ef9507</guid>
-      <pubDate>Mon, 19 Oct 2026 17:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Raspberry Pi Pico Halloween</title>
-      <link>https://www.raspberrypi.com/news/a-raspberry-pi-pico-halloween/</link>
-      <description>Petrifying Raspberry Pi Pico projects that are sure to fright and delight. The post A Raspberry Pi Pico Halloween appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-0ef2c6361db2311e</guid>
-      <pubDate>Mon, 19 Oct 2026 14:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>“The Legend of Sleepy Hollow” (1985) – From Tall Tales &amp; Legends</title>
-      <link>https://blog.adafruit.com/2026/10/19/the-legend-of-sleepy-hollow-1985-from-tall-tales-legends/</link>
-      <description>One of my favorite parts of the Halloween season is resurfacing media I haven’t watched or listened to since childhood – the more obscure the better! I vaguely remember renting various episodes of Tall Tales &amp; Legends from our local video rental place (Video Update I think it was called?). The “The Legend of Sleepy […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5effe4aa71e204cb</guid>
-      <pubDate>Mon, 19 Oct 2026 13:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/10/19/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-19/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-584f7db64d959e6b</guid>
-      <pubDate>Mon, 19 Oct 2026 13:19:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mini Monster Box #ElectronicHalloween</title>
-      <link>https://blog.adafruit.com/2026/10/19/mini-monster-box-electronichalloween/</link>
-      <description>Øyvind Nydal Dahl shared this project at build-electronic-circuits.com Knock on the box, and a grumpy little monster pops out to see who’s there. I built this Halloween project for my daughter was she was only two and didn’t like scary things. So I wanted to build something cute and fun instead. A microphone hears the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-94efcd9cb8822bae</guid>
-      <pubDate>Mon, 19 Oct 2026 12:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Olimex Launches Two New Open-Hardware Bidirectional Level Shifters, for Breadboards and UEXT</title>
-      <link>https://www.hackster.io/news/olimex-launches-two-new-open-hardware-bidirectional-level-shifters-for-breadboards-and-uext-1610f4cdf15c</link>
-      <description>New automatic level shifters provided under the CERN Open Hardware License Version 2, as is the company's habit.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f69da77d56e36dbd</guid>
-      <pubDate>Mon, 19 Oct 2026 11:10:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>An LCR Meter with Compromises</title>
-      <link>https://hackaday.com/2026/10/19/an-lcr-meter-with-compromises/</link>
-      <description>YouTube, like the Internet, has its plusses and minuses. On the plus side, you can find information on just about anything. On the minus side, you don’t always know if …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-35fda3f15d8492ed</guid>
-      <pubDate>Mon, 19 Oct 2026 11:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>M5Stack's New Espressif ESP32-S3-Powered PaperDIY Kits Put a Low-Power Smart Display in Your Palm</title>
-      <link>https://www.hackster.io/news/m5stack-s-new-espressif-esp32-s3-powered-paperdiy-kits-put-a-low-power-smart-display-in-your-palm-1b934d3dd53d</link>
-      <description>Compact kits include everything you need to get started, including an optional 3D-printed pre-assembled housing.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-2cbe0ba8a7277bf7</guid>
-      <pubDate>Mon, 19 Oct 2026 10:54:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
