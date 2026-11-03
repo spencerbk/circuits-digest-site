@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:45:10 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>ICYMI Python on Microcontrollers Newsletter: Adafruit Metro P4 Hydra, Possible New Raspberry Pi Boards, JIT Gone and More!</title>
+      <link>https://blog.adafruit.com/2026/11/03/the-python-on-microcontrollers-newsletter-adafruit-metro-p4-hydra-possible-new-raspberry-pi-boards-jit-gone-and-more/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,313 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-26fde346f73f80e5</guid>
+      <pubDate>Tue, 03 Nov 2026 14:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ten of the most bizarre films and their posters</title>
+      <link>https://blog.adafruit.com/2026/11/03/ten-of-the-most-bizarre-films-and-their-posters/</link>
+      <description>Jason Kottke, writing at kottke.org, points to a list from Eternal Family: ten of the most bizarre films, picked along with their posters. Kottke had linked to Eternal Family recently. He calls this list a good guide to the weirdest things in their catalog. See more at kottke.org.</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a9445d1fe9172727</guid>
+      <pubDate>Tue, 03 Nov 2026 14:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sweary plots, DOOM maps, postcards and more #ArtTuesday</title>
+      <link>https://blog.adafruit.com/2026/11/03/sweary-plots-doom-maps-postcards-and-more-arttuesday/</link>
+      <description>Daniel Catt writes in his newsletter about a new generative system for plotted handwriting art, one that moves away from the rigid magazine style grids he has used before and toward something more organic. The system runs in five stages. “Foundation” splits the page into 3 to 24 rows and draws horizontal lines that attract […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ceffc0e9ae1504cc</guid>
+      <pubDate>Tue, 03 Nov 2026 14:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banana Pi Launches the Raspberry Pi 5-Like Allwinner 733-Powered BPI-M8, Starting at $69</title>
+      <link>https://www.hackster.io/news/banana-pi-launches-the-raspberry-pi-5-like-allwinner-733-powered-bpi-m8-starting-at-69-fafd27721e3d</link>
+      <description>Six-core processor, backed by 4GB of LPDDR5 memory, delivers a cut-price alternative to the big-name brand.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-e51932666d0ea449</guid>
+      <pubDate>Tue, 03 Nov 2026 11:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jay Doscher's Recovery Kit 3 Scales Things Up — And Gains Dual Batteries for Field Use</title>
+      <link>https://www.hackster.io/news/jay-doscher-s-recovery-kit-3-scales-things-up-and-gains-dual-batteries-for-field-use-ccecec7bdbf4</link>
+      <description>Powered by a Raspberry Pi 4 Model B, this luggable cyberdeck boasts a 13.3" AMOLED display.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-e2e8e389337a8b8b</guid>
+      <pubDate>Tue, 03 Nov 2026 11:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Components for Life May Not Have Arrived By Comet</title>
+      <link>https://hackaday.com/2026/11/03/the-components-for-life-may-not-have-arrived-by-comet/</link>
+      <description>When it comes to abiogenesis, i.e. the formation of the first biological cells on Earth, there are many theories on how this got kickstarted. One of the more popular theories …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a6db62b0fb03fe28</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware</title>
+      <link>https://www.cnx-software.com/2026/11/03/seeed-studio-4-26-mono-and-7-3-color-e-paper-kits-opendisplay-firmware/</link>
+      <description>Seeed Studio has launched two Nordic nRF52840-based Bluetooth LE e-paper kits preloaded with the OpenDisplay open-source firmware for e-paper displays and supporting Home Assistant integration. The OpenDisplay 4.26″ Mono features a 4.26-inch monochrome/grayscale display with 800×480 resolution and partial refresh support, while the OpenDisplay 7.3″ Color Kit is equipped with a 7.3-inch Spectra 6 color e-paper with the same resolution. Both are powered by a 2,000 mAh battery and feature a few buttons for control and reset. Seeed Studio OpenDisplay kits specifications: MCU – Nordic Semi nRF52840 CPU – Arm Cortex-M4F microcontroller @ up to 64 MHz Memory – 256 KB SRAM Storage – 1 MB flash Wireless – Bluetooth LE 5.0, NFC, 802.15.4 connectivity Display OpenDisplay 4.26″ Mono Kit 4.26-inch monochrome ePaper Black and white (default); optional 4-gray mode Partial Refresh – Supported in black-and-white mode only Resolution – 800 × 480 Controller – Seeed XIAO EN05 driver board [...] The post Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-36b4b5f2dda8f45a</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385</title>
+      <link>https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/</link>
+      <description>Raspberry Pi has announced yet another price increase, this time for most models with 16GB of RAM. The Raspberry Pi 5 16GB now sells for $385, an $80 increase compared to the last price hike in April, and the Raspberry Pi CM5 system-on-module gets a $40 increase, starting at $375 for the Lite model without wireless. The “good news” is that the Raspberry Pi 500+ mechanical keyboard PC stays at the same price, starting at $410. I suppose they can afford it on that model, because it’s already richly priced and the demand must be lower than for single board computers and compute modules. Here’s the updated price list for the Compute Module 5 16GB variants. Interestingly, the price is the same whether we get 32GB or 64GB eMMC flash. I still remember people complaining about the $120 launch price of the Raspberry Pi 5 16GB. That was less than [...] The post When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-4de8d5accebb49f7</guid>
+      <pubDate>Tue, 03 Nov 2026 04:17:55 +0000</pubDate>
+    </item>
     <item>
       <title>Native American Heritage Month 2026</title>
       <link>https://blog.adafruit.com/2026/11/02/native-american-heritage-month-2026/</link>
@@ -742,70 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-29fa917ef6b780d5</guid>
       <pubDate>Thu, 22 Oct 2026 12:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simone Carriero's PolarPlot Is a 3D-Printable SCARA Plotter — or Laser Engraver — For Your Desk</title>
-      <link>https://www.hackster.io/news/simone-carriero-s-polarplot-is-a-3d-printable-scara-plotter-or-laser-engraver-for-your-desk-c5be325b851d</link>
-      <description>The successor to the Makerplot, PolarPlot drops the XY gantry design for a SCARA approach.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-711b8bf71e62668d</guid>
-      <pubDate>Thu, 22 Oct 2026 11:59:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garmin Reopens Its Connect Developer Program for Fitness Wearable Data — With New Business Tiers</title>
-      <link>https://www.hackster.io/news/garmin-reopens-its-connect-developer-program-for-fitness-wearable-data-with-new-business-tiers-8d657d04723b</link>
-      <description>The free-for-all is over: anyone building a service with more than 1,000 users will be asked to start paying a per-user fee.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-ca0587d294ed2227</guid>
-      <pubDate>Thu, 22 Oct 2026 11:37:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Floating-Point Addition and Subtraction on Intel’s 8087</title>
-      <link>https://hackaday.com/2026/10/22/floating-point-addition-and-subtraction-on-intels-8087/</link>
-      <description>Although you can do basic floating point format operations like addition and subtraction just fine on any CPU, having specialized hardware for it can provide a significant speed boost. Here …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a71017e805656bc6</guid>
-      <pubDate>Thu, 22 Oct 2026 11:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recreate the Apollo Guidance Computer</title>
-      <link>https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/</link>
-      <description>Commercial aircraft avionics engineer Michael Newton built an accurate Apollo DSKY replica. The post Recreate the Apollo Guidance Computer appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-b7592bd8e38264b4</guid>
-      <pubDate>Thu, 22 Oct 2026 09:55:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC</title>
-      <link>https://www.cnx-software.com/2026/10/22/rotary-encoder-with-1-8-inch-touch-display-gets-upgrade-to-esp32-s31-soc/</link>
-      <description>Following our coverage of a 4.3-inch ESP32-S31 display development board, a Facebook reader pointed out the GUITION JC3636F118C-I-YR1 rotary encoder with a built-in 1.8-inch touchscreen display. It appears to be an update to an earlier ESP32-S3 model, now equipped with an ESP32-S31NRV16 WiFi 6, Bluetooth 5.4, and 802.15.4 SoC with 16MB of PSRAM. The rotary knob also includes 16MB SPI flash, a speaker, a microphone, and an optional rechargeable battery. GUITION JC3636F118C-I-YR1 specifications: SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage 16 MB flash MicroSD card slot (for WiFi configuration, music or MJPEG video playback, etc.) Display 1.8-inch [...] The post Rotary encoder with 1.8-inch touch display gets upgrade to ESP32-S31 SoC appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d8bd6f2daea552f8</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clotty The Custom Period Tracker Can, Of Course, Run DOOM</title>
-      <link>https://hackaday.com/2026/10/21/clotty-the-custom-period-tracker-can-of-course-run-doom/</link>
-      <description>[kati]’s Clotty might run DOOM and game-ify the menstrual tracking process with a playful Tamagotchi-like aspect, but don’t let that distract you. It is, at its heart, a personal menstrual …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b41a348b9dd5279e</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preparing young people for frontier technologies: Our new partnership with the UK government</title>
-      <link>https://www.raspberrypi.org/blog/preparing-young-people-for-frontier-technologies-our-new-partnership-with-the-uk-government/</link>
-      <description>Around the world, governments are grappling with the same question: how do you prepare young people for careers shaped by emerging technologies? In the UK, part of the answer is TechFirst, and we’re proud to be playing a central role in it. Through the new TechFirst partnership with the Department for Digital, Culture, Media and… The post Preparing young people for frontier technologies: Our new partnership with the UK government appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-d08a006f19767cc4</guid>
-      <pubDate>Wed, 21 Oct 2026 09:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Stereo Vision Board For Hardware Hackers</title>
-      <link>https://hackaday.com/2026/10/21/a-stereo-vision-board-for-hardware-hackers/</link>
-      <description>It’s plenty easy to do lots of vision tasks with a single camera, but using two cameras gives you lots of magical abilities, like depth perception! If you’d like to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-91b57b7317fb4c6c</guid>
-      <pubDate>Wed, 21 Oct 2026 08:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
