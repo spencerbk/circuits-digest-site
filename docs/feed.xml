@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:45:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>JP’s Product Pick of the Week 11/3/26</title>
+      <link>https://blog.adafruit.com/2026/11/04/jps-product-pick-of-the-week-11-3-26/</link>
+      <description>This week’s product picks were the NeoPixel Ring – 12 x 5050 WWA with Integrated Drivers and the NeoPixel Ring – 16 x 5050 WWA LED with Integrated Drivers! Want more JP’s Product Pick of the Week?! Tune in every Tuesday on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. LIVE TEXT CHAT IS HERE in […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c8416ae9d0897e1b</guid>
+      <pubDate>Wed, 04 Nov 2026 14:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>What's in a Name? Home Assistant 2026.11 Brings a Big Overhaul to Entity and Device Naming</title>
+      <link>https://www.hackster.io/news/what-s-in-a-name-home-assistant-2026-11-brings-a-big-overhaul-to-entity-and-device-naming-ef1ff4d6bdbf</link>
+      <description>"Our goal," says Home Assistant's Artur Pragacz, "is for you to no longer need a naming scheme to keep things tidy."</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-76bcb9d8993e593c</guid>
+      <pubDate>Wed, 04 Nov 2026 13:33:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>STMicroelectronics Announces New "Strategic Evolution" to Focus on Arm Cortex-M STM32 MCUs</title>
+      <link>https://www.hackster.io/news/stmicroelectronics-announces-new-strategic-evolution-to-focus-on-arm-cortex-m-stm32-mcus-2c69cb85ad5a</link>
+      <description>Company aims to "make STM32 the reference MCU platform across industries" including automotive and robotics, says Remi El-Ouzzane.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-198905621a0868ff</guid>
+      <pubDate>Wed, 04 Nov 2026 13:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>LattePanda Mu Ultra Review – An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04</title>
+      <link>https://www.cnx-software.com/2026/11/04/lattepanda-mu-ultra-review-an-intel-core-ultra-7-256v-ai-compute-module-tested-on-ubuntu-26-04/</link>
+      <description>Today, I’m going to review the LattePanda Mu Ultra, a compact x86 compute module designed for on-device AI applications. It comes in two versions, powered by either an Intel Core Ultra 5 226V or a Core Ultra 7 256V processor. Both models feature 16 GB of high-speed LPDDR5X memory running at 8533 MT/s, with the higher-end model delivering up to 115 TOPS of combined AI computing power. In this review, I installed Ubuntu 26.04 and benchmarked the LattePanda Mu Ultra using various tools, including sbc-bench, Geekbench 7, and Geekbench AI. I also tested its CPU, GPU, and NPU performance with llama.cpp and YOLO26 to evaluate its capabilities for AI applications. Finally, I created a fun demo combining YOLO26, MediaPipe, and OpenCV to test real-time computer vision performance, including hand gesture-based image adjustments, using a USB webcam. LattePanda Mu Ultra unboxing The package was shipped from China and arrived in just [...] The post LattePanda Mu Ultra Review – An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-545171e8ff0000ef</guid>
+      <pubDate>Wed, 04 Nov 2026 12:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Ridiculous Journey to Set the Clock in a 2014 Renault</title>
+      <link>https://hackaday.com/2026/11/04/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault/</link>
+      <description>As difficult as it may be to believe, it’s not possible to adjust the time on a 2014 Renault Latitude’s in-dash navigation system unless you have an original SD card …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-199c90b67e840253</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>$21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more</title>
+      <link>https://www.cnx-software.com/2026/11/04/21-esp32-p4x-and-esp32-c61-full-featured-board-offers-ethernet-wifi-6-rs485-can-bus-mipi-csi-dsi-and-more/</link>
+      <description>Wireless Tag WT99P461-S1 is an ESP32-P4X and ESP32-C61 board based on the same WT01P461-S1 module as found on the ESP32P4C61-TINY board introduced last June. The main differences are that the WT99P461-S1 is a full-featured development board, adding features such as Fast Ethernet, RS-485, CAN bus, an on-board microphone, and a speaker connector. It still comes with a microSD card slot, MIPI DSI/CSI connectors, and other features, making it suitable for industrial HMIs, gateways, and control applications. WT99P461-S1 specifications: Wireless Module – Wireless-Tag WT01P461-S1 (25 x 25mm) Microcontroller – ESP32-P4X (ESP32-P4 v3.2) MCU Dual-core RISC-V microcontroller @ 360/400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz GPU – 2D Pixel Processing Accelerator (PPA) VPU – H.264 and JPEG codec support Memory – 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB TCM, 32MB PSRAM Storage – 128 KB HP ROM, 16 [...] The post $21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ee814a6aaef4136d</guid>
+      <pubDate>Wed, 04 Nov 2026 10:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrating the UK’s National Engineering Day 2026</title>
+      <link>https://www.raspberrypi.org/blog/celebrating-the-uks-national-engineering-day-2026/</link>
+      <description>We’re celebrating National Engineering Day in the UK with our friends at the Royal Academy of Engineering. National Engineering Day aims to make the UK’s engineers and engineering more visible, and celebrate how they improve everyday lives and shape the world around us. Now hiring: The engineers of 2076 This year, the Royal Academy of… The post Celebrating the UK’s National Engineering Day 2026 appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-ea0fab7f545931da</guid>
+      <pubDate>Wed, 04 Nov 2026 09:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Product compliance, demystified: how Raspberry Pi helps you get to market</title>
+      <link>https://www.raspberrypi.com/news/product-compliance-demystified-how-raspberry-pi-helps-you-get-to-market/</link>
+      <description>How Raspberry Pi helps industrial customers bring fully compliant products to market faster. The post Product compliance, demystified: how Raspberry Pi helps you get to market appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-48d75fd9e6f007c0</guid>
+      <pubDate>Wed, 04 Nov 2026 08:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4</title>
+      <link>https://www.cnx-software.com/2026/11/04/zotac-zbox-ci471-nano-fanless-mini-pc-features-intel-core-7-350-wifi-7-and-dual-thunderbolt-4/</link>
+      <description>ZOTAC has introduced the ZBOX CI471 nano, a fanless mini PC powered by an Intel Core 7 350 hexa-core Wildcat Lake processor with integrated Xe3 graphics and a 17 TOPS NPU. The company has also introduced two lower-end models, the ZBOX CI451 nano with a Core 5 320 processor and the ZBOX CI431 nano with a Core 3 304 processor. All three mini PCs use passive cooling and share the same 204 × 129 × 68 mm enclosure. They support up to 64GB DDR5 memory, M.2 NVMe SSD storage, and three 4K displays. Other features include dual Thunderbolt 4, 2.5GbE networking, and WiFi 7 and Bluetooth 5.4 wireless connectivity. The systems are offered as barebones, meaning users must install their own memory and storage. ZOTAC ZBOX CI471/CI451/CI431 nano specifications: SoC – Intel Core Series 3 “Wildcat Lake” processors ZBOX CI471 nano – Intel Core 7 350 CPU – 6-core (2x [...] The post ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3b49d060ee35eda1</guid>
+      <pubDate>Wed, 04 Nov 2026 04:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude’s new rules against game cloning won’t stop the AI copying boom</title>
+      <link>https://blog.adafruit.com/2026/11/03/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/</link>
+      <description>Kyle Orland, writing at Ars Technica, reports that Anthropic has added a rule to Claude Code’s system prompt to keep the model from re-creating specific existing video games. The rule, spotted in a json file named “tengu_heron_brook” around October 27, tells Claude to build original games, genre games and games from a user’s own designs […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9be6379a2841f6bd</guid>
+      <pubDate>Tue, 03 Nov 2026 22:29:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-Employed? Solopreneur? NIST has a cybersecurity guide just for you</title>
+      <link>https://blog.adafruit.com/2026/11/03/self-employed-solopreneur-nist-has-a-cybersecurity-guide-just-for-you/</link>
+      <description>NIST has released Small Business Cybersecurity: Non-Employer Firms, also known as NIST Cybersecurity White Paper 50. It’s written for the “solopreneur,” anyone who is the only paid employee of their business. More than 28 million small businesses in the U.S. fit that description. The guide assumes the reader doesn’t know anything about cybersecurity or the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-db72d47cc17e8494</guid>
+      <pubDate>Tue, 03 Nov 2026 22:27:27 +0000</pubDate>
+    </item>
     <item>
       <title>ICYMI Python on Microcontrollers Newsletter: Adafruit Metro P4 Hydra, Possible New Raspberry Pi Boards, JIT Gone and More!</title>
       <link>https://blog.adafruit.com/2026/11/03/the-python-on-microcontrollers-newsletter-adafruit-metro-p4-hydra-possible-new-raspberry-pi-boards-jit-gone-and-more/</link>
@@ -718,94 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-9d49b355c77d0a89</guid>
       <pubDate>Sat, 24 Oct 2026 01:32:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products this Week</title>
-      <link>https://blog.adafruit.com/2026/10/23/adafruit-new-products-this-week-4/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debut 2 New Products. Visit www.adafruit.com/new for more info. Adafruit RV-8803 High Accuracy Real Time Clock Breakout Board – STEMMA QT / Qwiic Adafruit Metro ESP32-P4 Hydra – with 16 MB PSRAM – v1 Chipset</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-dd0aa69a8a56fbfd</guid>
-      <pubDate>Sat, 24 Oct 2026 00:59:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 Jump Scares with The Haunted Box #ElectronicHalloween</title>
-      <link>https://blog.adafruit.com/2026/10/23/esp32-jump-scares-with-the-haunted-box-electronichalloween/</link>
-      <description>Cytron Technologies posted up this guide for a haunted box using the Maker ESP32 board. A PIR sensor detects when someone passes by and the LEDs and servo motor (literally) jump into action. Music from a nearby laptop adds extra chills. The Haunted Box is a motion-activated Halloween project developed using the Maker ESP32. […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e8574ce57d27d70a</guid>
-      <pubDate>Fri, 23 Oct 2026 12:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>UniFormation Promises Fully-Automated Resin Printing, Washing, Drying From Its S10 16k 3D Printer</title>
-      <link>https://www.hackster.io/news/uniformation-promises-fully-automated-resin-printing-washing-drying-from-its-s10-16k-3d-printer-7dc718a199f1</link>
-      <description>Keep your hands as clean as your printers, UniFormation says, by combining printing, washing, and drying in an automated process.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-5e09377cc3eafe1f</guid>
-      <pubDate>Fri, 23 Oct 2026 11:55:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>When You Can’t Pick Between Electric and Jet Power, This Buggy Has You Covered</title>
-      <link>https://hackaday.com/2026/10/23/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered/</link>
-      <description>Technically, what [Macona] built with a surplus Solar T-62 turbine is not a dune buggy, but a sand rail, but it does have the delightfully rare combination of electric and …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-33ae21ccf18cd9f9</guid>
-      <pubDate>Fri, 23 Oct 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>X-Hinges Creates "Self-Sensing" 3D-Printed Objects — From Gloves to Game-Controlling Sharks</title>
-      <link>https://www.hackster.io/news/x-hinges-creates-self-sensing-3d-printed-objects-from-gloves-to-game-controlling-sharks-aa6d4592cf7c</link>
-      <description>A combination of three different filaments turn FFF-printed objects smart, research shows.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-9bcce86712e1a200</guid>
-      <pubDate>Fri, 23 Oct 2026 10:35:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Happy Mole Day 2026! NMDF Molar Cup #MoleDay @nationalmoleday</title>
-      <link>https://blog.adafruit.com/2026/10/23/happy-mole-day-2026-nmdf-molar-cup-moleday-nationalmoleday/</link>
-      <description>We love the chance to celebrate significant numbers. This punny holiday celebrates the mighty mole – One mole contains exactly 6.02214076×1023 elementary entities (approximately 602 sextillion or 602 billion times a trillion)[*], hence the celebration today! (starting at 6:02 am 10/23) More from Mole.org: Celebrated annually on October 23 from 6:02 a.m. to […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b6b05cc779c82d21</guid>
-      <pubDate>Fri, 23 Oct 2026 10:02:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 5 Case – Pimoroni NVMe Base + Noctua 40×10mm Fan #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/22/raspberry-pi-5-case-pimoroni-nvme-base-noctua-40x10mm-fan-3dthursday-3dprinting/</link>
-      <description>user_258400175 shares: A Pi 5 case for the Pimoroni NVMe Base (M.2 SSD) + a Noctua 40×10mm 5Vdc fan. Two versions share the same lid: one with M3 threaded inserts (Ruthex RX-M3×5.7 brass), one that uses M3 screws directly without inserts. Both use M3 countersunk screws. Includes a PDF guide (Raspberry Pi5 Case.pdf) linked on […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e703e9b4f154c729</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>RoboParty RP1 (ROBOTO 01) – A full-stack open-source humanoid robot with up to 30 degrees of freedom</title>
-      <link>https://www.cnx-software.com/2026/10/23/roboparty-rp1-roboto-01-a-full-stack-open-source-humanoid-robot-with-up-to-30-degrees-of-freedom/</link>
-      <description>Shanghai-based RoboParty has introduced the RP1 (ROBOTO 01), an open-source humanoid robot designed for robotics research, embodied AI development, and motion-control experiments. The robot is available in two configurations: the standard RP1 with 24 active degrees of freedom (DoF) and the RP1 Pro with 30 DoF. The robot stands 1.35 meters (~4.43 feet) tall and is built around a Rockchip RK3588 processor, with the Pro model adding an Allwinner A733 processor and an NVIDIA Jetson Orin NX development computing module. Other features include in-house ROMOMO joint actuators with up to 160 N·m peak torque, interchangeable head modules, optional dexterous hands, and a 10Ah battery rated for up to three hours of operation. A separate 480MHz MCU handles real-time motion control, while a dual-voltage battery system supports hot-swapping without shutting down the robot. RoboParty RP1 specifications: Computing RP1 – Rockchip RK3588 processor with a 6 TOPS NPU, 8GB LPDDR4x RAM, and [...] The post RoboParty RP1 (ROBOTO 01) – A full-stack open-source humanoid robot with up to 30 degrees of freedom appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-b87f4a041886de4b</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch DAY//GLOW Episode 14: Spooky Scary Wearables Live today at 3pm EDT</title>
-      <link>https://blog.adafruit.com/2026/10/22/watch-day-glow-episode-14-spooky-scary-wearables-live-today-at-3pm-edt/</link>
-      <description>Tune in today at 3pm EDT for a Halloween-themed Episode of DAY//GLOW that features lots of Adafruit gear, via ishotjrdotcom on YouTube: A live build session, using electronic platforms to create Halloween-flavored hacks! Cohosts David Groom and Alex Glow dig into our mailbags, share some event updates, and then settle in to work on our […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-3aaeaa8c59b4bb4f</guid>
-      <pubDate>Thu, 22 Oct 2026 13:24:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coraline flexi keychain #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/22/coraline-flexi-keychain-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Coraline flexi keychain By Goomol DIY makerworld.com/en/models/3287084-coraline-flexi-keychain Bambu X1C PolyMaker PLA 5hr 26mins X:51 Y:54 Z:15mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 82g 230mm/s Every Thursday is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8a2dcf94037a4f11</guid>
-      <pubDate>Thu, 22 Oct 2026 13:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Halloween Trick-or-Treat Spider Candy Box – Pop-Up Spider Mechanism #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/22/halloween-trick-or-treat-spider-candy-box-pop-up-spider-mechanism-3dthursday-3dprinting/</link>
-      <description>superGeometry shares: A Halloween candy box with a spider that pops out when the lid slides. Attach a candy to the spider with double-sided tape — opening the box delivers a scare AND a treat. Mechanism: gear + arm assembly inside the box holds the spider; sliding the lid moves it out; a knob on […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-29fa917ef6b780d5</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
