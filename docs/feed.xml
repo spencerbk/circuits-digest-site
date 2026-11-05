@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Seeed Studio Breaks New Ground with Its First XIAO Development Board to Feature an STMicro STM32</title>
+      <link>https://www.hackster.io/news/seeed-studio-breaks-new-ground-with-its-first-xiao-development-board-to-feature-an-stmicro-stm32-2ca76ae40a44</link>
+      <description>The STM32C5 includes a 144MHz STM32C5A3CG, 16MB of external flash, twin CAN FD buses, and a heatable IMU.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-34b627dbc6917717</guid>
+      <pubDate>Thu, 05 Nov 2026 14:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>MariaDB enhances agent development for its next-gen database platform</title>
+      <link>https://blog.adafruit.com/2026/11/05/mariadb-enhances-agent-development-for-its-next-gen-database-platform/</link>
+      <description>MariaDB has added four AI agent features to Enterprise Platform 2027, as reported by InfoWorld. They are AI Retrieval, AI Plugins, Agent Memory, and Semantic Cache. AI Retrieval lets agents pull from enterprise documents and live operational data through one managed service, and turns plain-language questions into read-only SQL queries. AI Plugins teach coding agents […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6ba5b23942bddc05</guid>
+      <pubDate>Thu, 05 Nov 2026 14:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pine Cone LED Lantern</title>
+      <link>https://blog.adafruit.com/2026/11/05/pine-cone-led-lantern/</link>
+      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pine Cone LED Lantern By Animaag makerworld.com/en/models/3496033-kabi-the-pine-cone-led-lantern Bambu X1C PolyMaker PLA 6hr 9mins X:173 Y:119 Z:105mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 129g 230mm/s Every Thursday is […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6e09609ca7a0f6a9</guid>
+      <pubDate>Thu, 05 Nov 2026 14:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flexi Penguin – Articulated Christmas Edition with Santa Hat #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/11/05/flexi-penguin-articulated-christmas-edition-with-santa-hat-3dthursday-3dprinting/</link>
+      <description>michelem shares: A holiday-themed flexi penguin with a wiggle motion and a Santa hat. Fidget toy, tree ornament, keychain, or fridge magnet. Print-in-place, no supports. Christmas hat version included. Rear slot fits 3×1mm magnets. Suited to multi-color printing. Two files: AMS Multicolor (~4.9h, 1 plate) and No-AMS Single-Color (~25 min, 1 plate). Christmas + flexi […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b7a6ef07465e4006</guid>
+      <pubDate>Thu, 05 Nov 2026 13:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finger Joint Cutter Uses a Jigsaw Blade, But Not As We Know It</title>
+      <link>https://hackaday.com/2026/11/05/finger-joint-cutter-uses-a-jigsaw-blade-but-not-as-we-know-it/</link>
+      <description>Around these parts, finger joints (or box joints) are usually the product of laser cutting. [bluesyann] shows us a method of using a stationary jigsaw, a custom blade, and 3D-printed …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-f7055af298f93a13</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experience AI begins reaching classrooms across Latin America</title>
+      <link>https://www.raspberrypi.org/blog/experience-ai-begins-reaching-classrooms-across-latin-america/</link>
+      <description>Earlier this year, we announced that we’re expanding Experience AI, our AI literacy programme, across Latin America to bring AI education to nine more countries through support from Google.org. Working with local partner organisations, we offer Experience AI training and resources that teachers can use to enable young people to learn a foundational understanding of… The post Experience AI begins reaching classrooms across Latin America appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-d4b5ca5169553837</guid>
+      <pubDate>Thu, 05 Nov 2026 09:24:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D Print a Star Wars Control Panel</title>
+      <link>https://makezine.com/projects/3d-print-a-star-wars-control-panel/</link>
+      <description>Will Muto from ILM shows how to 3D print a real control panel prop from Star Wars: Andor to control whatever you want! The post 3D Print a Star Wars Control Panel appeared first on Make: DIY Projects and Ideas for Makers.</description>
+      <category>makezine</category>
+      <guid isPermaLink="false">circuits-a261771adb9bc481</guid>
+      <pubDate>Thu, 05 Nov 2026 06:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1784 – Claude Code Reverse Engineer 121GW Firmware SUCCESS!</title>
+      <link>https://www.eevblog.com/2026/11/05/eevblog-1784-claude-code-reverse-engineer-121gw-firmware-success/</link>
+      <description>Claude Code reverse engineered the entire 12GW firmware into C with a single prompt in under 24 hours, and it works! The field of software engineering has changed completely. 00:00 – Claude vs Claude Code, there is a difference! 02:39 – Hacking a 121GW multimeter for use with the ST-LINK V2 programmer 08:48 – Be …</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-d26bb83454f3c674</guid>
+      <pubDate>Thu, 05 Nov 2026 05:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP-IDF Installation Manager</title>
+      <link>https://www.espressif.com/en/node/11567</link>
+      <description>Language English ESP32ESP32-C3ESP32-C6ESP32-S2ESP32-S3ESP8684ESP32 (*)ESP32-C6-MINI-1ESP32-S2-MINI-1/1UESP32-S3-MINI-1/1UESP8684-MINI-1/1UESP8685ESP32-C3-MINI-1/1UESP32-C6-WROOM-1ESP32-D0WDQ6ESP32-S2-MINI-1UESP32-S3-WROOM-1/1UESP8684-WROOM-02C/02UCESP32-C3-WROOM-02/02UESP32-C6-DevKitC-1ESP32-D2WDESP32-S2-MINI-2/2UESP32-S3-WROOM-2/2UESP8684-WROOM-03ESP32-C6-DevKitM-1ESP32-S0WDESP32-S2-SOLO (-U)ESP32-S3-DevKitC-1ESP8684-WROOM-05ESP8685-WROOM-01ESP32-PICO-V3ESP32-S2-SOLO-2/2UESP32-S3-DevKitM-1ESP8684-WROOM-07ESP8685-WROOM-03ESP32-PICO-V3-02ESP32-S2-WROOM (-I)ESP32-S3-EYEESP8684-DevKitM-1ESP8685-WROOM-04ESP32-PICO-D4ESP32-S2-WROOM-IESP32-S3-Korvo-1ESP8685-WROOM-05ESP32-S2-WROVER (-I)ESP32-S3-Korvo-2ESP32-WROOM-32E/32UEESP8685-WROOM-06ESP32-S2-WROVER-IESP32-WROOM-DAESP8685-WROOM-07ESP32-C3-DevKitM-1ESP32-S2-SOLO-UESP32-WROOM-32SEESP32-C3-DevKitC-02ESP32-S2-Saola-1ESP32-WROVER-E/IEESP32-C3-LyraESP32-MINI-1/1UESP32-S2-DevKitM-1ESP32-PICO-V3-ZERO (*ACK)ESP32-S2-DevKitC-1ESP32-PICO-MINI-02/02UESP32-S2-Kaluga-1ESP32-S2-HMI-DevKit-1ESP32-SOLO-1ESP32-SOLO-1CESP32-DU1906 (-U)ESP32-WROOM-32D/32UESP32-WROOM-32UESP32-WROOM-32ESP32-WROVER-B/IBESP32-WROVER-IBESP32-WROVER (-I)ESP32-WROVER-IESP32-DevKitCESP32-DevKitM-1ESP-WROVER-KITESP-WROVER-KIT-VBESP32-PICO-KITESP32-PICO-KIT-1ESP32-PICO-DevKitM-2ESP-EYEESP32-LyraTESP32-LyraT-MiniESP32-LyraTD-MSCESP32-LyraTD-SYNAESP32-LyraTD-DSPGESP32-Vaquita-DSPGESP32-KorvoESP32-Ethernet-KitESP32-Azure IoT KitESP32-MeshKitESP32-MeshKit-SenseESP32-MeshKit-LightESP32-Sense KitESP32-DevKitC-GoogleCloud IoTESP32-PICO-ZEROESP32-S3-BOXESP32-S3-USB-BridgeESP32-S3-LCD-EV-BoardESP32-S3-USB-OTGESP8684-WROOM-06CESP8684-WROOM-01CESP8684-WROOM-04CESP32-S3-PICO-1ESP8684-DevKitC-02ESP32-C3-LCDkitESP32-C5ESP32-P4ESP32-C2ESP32-C61ESP32-LCDKitESP32-P4-EYEESP32-P4-Function-EV-BoardESP32-C5-WROOM-1/1UESP32-C5-DevKitC-1ESP32-C61-WROOM-1/1UESP32-C61-DevKitC-1ESP-VoCatESP32-C61-MINI-1/1UESP32-S31ESP32-P4X-C5-Function-EV-BoardThe ESP-IDF Installation Manager (EIM) is a unified tool that simplifies the setup process for ESP-IDF and integrated development environments (IDEs) across multiple platforms. This cross-platform installer facilitates the installation of prerequisites, ESP-IDF itself, and essential tools, offering a consistent and user-friendly experience on macOS, Linux, and Windows. latestThursday, November 5, 2026https://docs.espressif.com/projects/idf-im-ui/en/latest/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-6c74deacf18aa62e</guid>
+      <pubDate>Thu, 05 Nov 2026 04:09:02 +0000</pubDate>
+    </item>
     <item>
       <title>JP’s Product Pick of the Week 11/3/26</title>
       <link>https://blog.adafruit.com/2026/11/04/jps-product-pick-of-the-week-11-3-26/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-b54b110ac5ed77bf</guid>
       <pubDate>Sun, 25 Oct 2026 08:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine</title>
-      <link>https://www.cnx-software.com/2026/10/25/deki-engine-esp32-gets-an-open-source-unity-style-editor-and-c-2d-game-engine/</link>
-      <description>Deki Engine is an open-source modular C++ engine with a Unity-style visual editor for embedded devices, currently optimized for ESP32 platforms such as LilyGO T-Deck Plus, T-Display S3 AMOLED, and soon Elecrow CrowPanel Advanced 7″ ESP32-P4. The editor is available for Windows and Linux with a compiler for the 2D graphics engine, and everything is released under an Apache 2.0 license on GitHub. The project also works on desktop through SDL3, which may be convenient during development. Some of the highlights of the Deki Engine project: Workflow Build scenes visually (sprites, text, particles, tilemaps, state machines, tweens) Pick a board in the editor’s Build panel Flash it. The project also runs on desktop through SDL3, or headless with no renderer Performance – 60 FPS on ESP32-S3 (See demo video below) Package-based solution Hardware packages LilyGO T-Deck Plus with support for display, touch, keyboard, trackball, SD card, GPS and LoRa (SX1262) [...] The post Deki Engine – ESP32 gets an open source Unity-style editor and C++ 2D game engine appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-28da5c1b89bbde19</guid>
-      <pubDate>Sun, 25 Oct 2026 03:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Observe El Niño with NASA</title>
-      <link>https://blog.adafruit.com/2026/10/24/observe-el-nino-with-nasa/</link>
-      <description>This visualization compares three ocean data products, sea surface temperature anomaly, apparent visible wavelength, and sea surface height anomaly, over the same months in 2025 and 2026. Signals of El Niño in each map are highlighted with pop-up labels. Credits: NASA’s Scientific Visualization Studio via NASA Keep tabs on El Niño with NASA’s satellites. A […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b60914529071d817</guid>
-      <pubDate>Sat, 24 Oct 2026 20:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32-Powered Talking Smoke Pumpkin #ElectronicHalloween</title>
-      <link>https://blog.adafruit.com/2026/10/24/esp32-powered-talking-smoke-pumpkin-electronichalloween/</link>
-      <description>This is a paper papier-mâché jack-o-lantern that emanates smoke and lights up with the help of an ESP32. Once trick-or-treaters are near an ultra sonic sensor triggers a terrifying sequence including a very creepy voice recording. Shared by DBMaking on Instructables. The protagonist is this creepy talking pumpkin that spits fog and speaks with a […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-67bea440134c8f2e</guid>
-      <pubDate>Sat, 24 Oct 2026 17:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Internet of Smells Is Here</title>
-      <link>https://www.hackster.io/news/the-internet-of-smells-is-here-658396fb4243</link>
-      <description>Scentronic uses AI to identify smells, then transmits them over the internet to recreate them remotely. The Internet of Smells is here!</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-d626cd78bcc2872e</guid>
-      <pubDate>Sat, 24 Oct 2026 13:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch VCF Southwest in Retrotastic SGI-Edited Footage</title>
-      <link>https://hackaday.com/2026/10/24/watch-vcf-southwest-in-retrotastic-sgi-edited-footage/</link>
-      <description>There’s just something about backing way, way off the cutting edge to rediscover the simpler joys of yesteryear. We’ve got a contest about to wrap up along those lines, and …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a08d45f0b8cd2866</guid>
-      <pubDate>Sat, 24 Oct 2026 11:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/10/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-24-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-042dcdb27d1d0c8c</guid>
-      <pubDate>Sat, 24 Oct 2026 08:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Walkie Talkie Interface For Claude</title>
-      <link>https://hackaday.com/2026/10/24/a-walkie-talkie-interface-for-claude/</link>
-      <description>[Bookmari] had a problem — working as a delivery driver, they wanted to work on various projects with Claude Code while out and about. Unfortunately, it simply wasn’t practical to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-d1a6d6a295fe4a4c</guid>
-      <pubDate>Sat, 24 Oct 2026 08:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC</title>
-      <link>https://www.cnx-software.com/2026/10/24/zotac-zbox-pro-cm5-pico-a-compact-raspberry-pi-cm5-based-fanless-industrial-mini-pc/</link>
-      <description>ZOTAC ZBOX PRO CM5-PICO is a compact fanless industrial mini PC built around the Raspberry Pi Compute Module 5 (CM5) with up to 16 GB LPDDR4x memory, optional WiFi 5 and Bluetooth 5.0 wireless connectivity. The mini PC measures 114.8 x 76 x 31.3 mm and features two 4K HDMI outputs, Gigabit Ethernet, and M.2 expansion for NVMe storage or AI accelerators, along with an internal 40-pin GPIO header, camera interfaces, and a wide 5V to 20V DC input for industrial automation, digital signage, and IoT gateway applications. All I/O ports are placed on a single side to simplify cable management and stacking. ZOTAC ZBOX PRO CM5-PICO specifications: SoM – Raspberry Pi Compute Module 5 (CM5) SoC – Broadcom BCM2712 CPU – Quad-core Arm Cortex-A76 @ 2.4 GHz GPU – VideoCore VII @ 800 MHz with H.265 hardware video decoding Memory – 2GB, 4GB, 8GB, or 16GB LPDDR4x RAM Storage [...] The post ZOTAC ZBOX PRO CM5-PICO – A compact Raspberry Pi CM5-based fanless industrial mini PC appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-4a58b49d4d5997cd</guid>
-      <pubDate>Sat, 24 Oct 2026 03:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>This DIY Glowing Purple 5-Segment Display Is Absolutely Stunning</title>
-      <link>https://www.hackster.io/news/this-diy-glowing-purple-5-segment-display-is-absolutely-stunning-90629b2a323d</link>
-      <description>Witchcraft and Alchemy developed a beautiful new display inspired by Nixie tubes.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-9d49b355c77d0a89</guid>
-      <pubDate>Sat, 24 Oct 2026 01:32:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
