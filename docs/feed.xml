@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Hidden Microcontroller Inside a LoRa chip</title>
+      <link>https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/</link>
+      <description>If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-5a692e2c5e363599</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Bike-Friendly, DIY Action Cam Stereo Microphone</title>
+      <link>https://hackaday.com/2026/11/07/a-bike-friendly-diy-action-cam-stereo-microphone/</link>
+      <description>[DJJules] had two problems. Being an avid biker, recording audio on a bike-mounted action camera was less than ideal due to wind. In addition, the built-in microphone on action cameras …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-1f607b5324121c88</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash</title>
+      <link>https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/</link>
+      <description>Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare “Zero” boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals, but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC – Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – [...] The post Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-eb8a68889f9639e6</guid>
+      <pubDate>Sat, 07 Nov 2026 03:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thieves Make Off with $11.4 Million in NVIDIA Hardware</title>
+      <link>https://www.hackster.io/news/thieves-make-off-with-11-4-million-in-nvidia-hardware-2ed97d47eff2</link>
+      <description>We've all heard about AI stealing jobs, but these thieves turned the tables by making a job out of stealing $11 million in AI hardware.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6f43f1efcc625b2c</guid>
+      <pubDate>Fri, 06 Nov 2026 23:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are contemporary technologies like GPS, phones, and AI deskilling humans?</title>
+      <link>https://blog.adafruit.com/2026/11/06/are-contemporary-technologies-like-gps-phones-and-ai-deskilling-humans/</link>
+      <description>Jason Kottke posted a short link on kottke.org asking whether tools like GPS, phones, and AI are deskilling the human body. The quote he pulls out makes the case: “In surrendering to a quick technological fix, we are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending.” The argument is about the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-499c5b400c86e9e3</guid>
+      <pubDate>Fri, 06 Nov 2026 21:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ESP32 Demoboard: New demo projects using on-board hardware</title>
+      <link>https://blog.adafruit.com/2026/11/06/esp32-demoboard-new-demo-projects-using-on-board-hardware/</link>
+      <description>oeadmin continues the ESP32 demoboard series on Open Electronics with five more Arduino examples that use the board’s OLED display and its plug-in breakout modules. The first reads hand gestures from an APDS-9960 sensor, a part that detects light, color and motion from about 10 to 20 cm away, and prints the direction on the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-7bae042d69ac7342</guid>
+      <pubDate>Fri, 06 Nov 2026 21:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s Canada timezone troubles leave admins fixing calendars, pretending they’re in Bogota</title>
+      <link>https://blog.adafruit.com/2026/11/06/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/</link>
+      <description>Carly Page at The Register reports on what happened when parts of Canada stopped changing their clocks. As of November 1, affected areas of British Columbia, Alberta, and Manitoba are permanently on UTC-07:00, UTC-06:00 and UTC-05:00. Microsoft’s software hasn’t entirely caught up, so some customers are seeing wrong times and broken schedules. Outlook is the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b569f1997be59cab</guid>
+      <pubDate>Fri, 06 Nov 2026 21:16:26 +0000</pubDate>
+    </item>
     <item>
       <title>Man builds robotic cat feeder that senses when dish is empty #PiDay @Raspberry_Pi</title>
       <link>https://blog.adafruit.com/2026/11/06/man-builds-robotic-cat-feeder-that-senses-when-dish-is-empty-piday-raspberry_pi/</link>
@@ -66,7 +122,7 @@
     <item>
       <title>GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review – Part 1: Specifications, unboxing, teardown, and first boot</title>
       <link>https://www.cnx-software.com/2026/11/06/geekom-a5-2027-edition-amd-ryzen-7-7730u-mini-pc-review-part-1-specifications-unboxing-teardown-and-first-boot/</link>
-      <description>We’ve been sent a GEEKOM A5 2027 Edition mini PC powered by an AMD Ryzen 7 7730U 8-core/16-thread CPU for review. The mini PC supports up to 64GB dual-channel DDR5-5600MHz memory, can drive up to four independent displays via HDMI 2.0 and USB-C ports, includes three USB 3.2 Gen 2 Type-A ports, two USB 3.2 Gen 2 Type-C ports, one USB 2.0 port, a full-size SD card reader, a 2.5GbE port, and Wi-Fi 6 and Bluetooth 5.4 wireless connectivity. The model sent for review ships with 16GB DDR4 SO-DIMM RAM and a 512GB M.2 SSD pre-loaded with an activated Windows 11 Pro operating system. In the first part of the review, we’ll list the specifications, perform an unboxing and teardown to check out the hardware, and boot Windows 11 to make sure it works properly. Thorough features and performance testing on Windows 11 and Ubuntu 26.04 will be covered in [...] The post GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review – Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
+      <description>We’ve been sent a GEEKOM A5 2027 Edition mini PC powered by an AMD Ryzen 7 7730U 8-core/16-thread CPU for review. The mini PC supports up to 64GB dual-channel DDR4 memory, can drive up to four independent displays via HDMI 2.0 and USB-C ports, includes three USB 3.2 Gen 2 Type-A ports, two USB 3.2 Gen 2 Type-C ports, one USB 2.0 port, a full-size SD card reader, a 2.5GbE port, and Wi-Fi 6 and Bluetooth 5.4 wireless connectivity. The model sent for review ships with 16GB DDR4 SO-DIMM RAM and a 512GB M.2 SSD pre-loaded with an activated Windows 11 Pro operating system. In the first part of the review, we’ll list the specifications, perform an unboxing and teardown to check out the hardware, and boot Windows 11 to make sure it works properly. Thorough features and performance testing on Windows 11 and Ubuntu 26.04 will be covered in [...] The post GEEKOM A5 2027 Edition (AMD Ryzen 7 7730U) mini PC review – Part 1: Specifications, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-f895afb7c721d88a</guid>
       <pubDate>Fri, 06 Nov 2026 08:14:49 +0000</pubDate>
@@ -750,62 +806,6 @@
       <category>eevblog</category>
       <guid isPermaLink="false">circuits-3c11f97ff69ed710</guid>
       <pubDate>Tue, 27 Oct 2026 03:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications</title>
-      <link>https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/</link>
-      <description>MYIR MYC-JR3576 is a SMARC 2.2 system-on-module (SoM) powered by a Rockchip RK3576/RK3576J octa-core Cortex-A72/A53 SoC with a 6 TOPS NPU designed for Edge AI applications. It features up to 8GB LPDDR5, up to 64GB eMMC flash, an optional WiFI 6E and Bluetooth 5.4 module, and exposes all I/Os through a 314-pin MXM connector as defined in the SMARC 2.2 standard. The company says it’s the socketed counterpart to its LGA-packaged MYC-LR3576 (43 x 45 mm) module introduced in 2024, so the same processor is now available in both solder-down and standard form factors from MYiR. MYC-JR3576 – Rockchip RK3576 SMARC 2.2 module MYIR MYC-JR3576 specifications: SoC – Rockchip RK3576 (commercial) or RK3576J (industrial) CPU 4x Cortex-A72 cores @ 2.2GHz, four Cortex-A53 cores @ 1.8GHz Arm Cortex-M0 MCU at 400MHz GPU – ARM Mali-G52 MC3 GPU with support for OpenGL ES 1.1, 2.0 and 3.2, OpenCL up to 2.0 and [...] The post Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-ac3d9a54604281b6</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>A wakeboarding winch build log</title>
-      <link>https://blog.adafruit.com/2026/10/26/a-wakeboarding-winch-build-log/</link>
-      <description>Gal, writing at Mare &amp; Gal Electronics, documented an electric drum winch built to tow a wakeboarder. The 12 kW motor and the 24S10P battery pack, about 100 V charged, were pulled from a scrapped Awake board. The frame, drum, belt drive, rope guide, electronics and firmware are all his own work. The drum core […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c839172aa6a2a4d6</guid>
-      <pubDate>Mon, 26 Oct 2026 21:28:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ArduinoUnoQ_AdafruitTouch library</title>
-      <link>https://blog.adafruit.com/2026/10/26/github-ankur608-arduinounoq_adafruittouch-2/</link>
-      <description>ankur608 published an Arduino library on GitHub for using the Adafruit 2.8″ TFT Touch Shield v2 with capacitive touch (PID 1947) on the Arduino UNO Q, specifically the arduino_uno_q_stm32u585xx core. The shield routes SPI through the 6-pin ICSP header rather than pins 11 through 13. On the UNO Q’s STM32U585, those land on MOSI 23, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-0310ba6c244a4f73</guid>
-      <pubDate>Mon, 26 Oct 2026 21:21:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>EInk launches latest version of color ePaper platform E Ink Kaleido 4</title>
-      <link>https://blog.adafruit.com/2026/10/26/eink-launches-latest-version-of-color-epaper-platform-e-ink-kaleido-4/</link>
-      <description>E Ink announced Kaleido 4, the newest generation of its color ePaper platform, in a press release from Billerica, Massachusetts. Compared to the previous generation, Kaleido 4 doubles color gamut volume to more than 40K, raises white reflectance by 15%, and improves contrast by 50%. New algorithms push video playback to 18 frames per second. […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-af5b76195964fac1</guid>
-      <pubDate>Mon, 26 Oct 2026 21:13:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reintroducing Code Classroom – now with the Blocks editor</title>
-      <link>https://www.raspberrypi.org/blog/reintroducing-code-classroom-now-with-the-blocks-editor/</link>
-      <description>Code Classroom — formerly known as the Code Editor for Education — is our free, safe tool for teaching and learning computing and programming. We’re delighted to share that Code Classroom now includes our new Blocks editor, based on the open-source Scratch editor. With the Blocks editor, Code Classroom offers the familiar creative programming experience… The post Reintroducing Code Classroom – now with the Blocks editor appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-238899667d4f9074</guid>
-      <pubDate>Mon, 26 Oct 2026 15:32:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/10/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-26/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c377163ada0afa52</guid>
-      <pubDate>Mon, 26 Oct 2026 13:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>RF Watchkeeper Keeps an Eye on the Airwaves</title>
-      <link>https://www.hackster.io/news/rf-watchkeeper-keeps-an-eye-on-the-airwaves-d50e74993a43</link>
-      <description>RF Watchkeeper uses inexpensive SDR hardware and edge computing to monitor aircraft, ships, wireless sensors, and weather satellites.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-9f617558ab834655</guid>
-      <pubDate>Mon, 26 Oct 2026 13:10:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
