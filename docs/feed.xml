@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Ham radio operator helps police with robbery #HamSunday</title>
+      <link>https://blog.adafruit.com/2026/11/08/ham-radio-operator-helps-police-with-robbery-hamsunday/</link>
+      <description>Wikipedia has a detailed account of the Baker Street robbery, the September 1971 burglary of safety deposit boxes at the Lloyds Bank branch at 185 Baker Street in London. A gang rented a leather goods shop two doors away and dug a 40 foot tunnel to come up under the vault floor. A jack failed, […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a3c2e95a06fc3b5f</guid>
+      <pubDate>Sun, 08 Nov 2026 14:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press</title>
+      <link>https://www.cnx-software.com/2026/11/08/procolored-k13-lite-dtf-printer-review-custom-apparel-printing-with-printer-curing-oven-and-heat-press/</link>
+      <description>Back in May, we wrote about the Procolored X One 3-in-1 laser engraver with UV and UV-DTF color printing, and the company contacted us a few months later for a review. But instead of having us review the laser engraver, they proposed that we test their K13 Lite DTF printer “developed for small businesses and creators producing customized apparel and merchandise”. Basically, a T-shirt printer using DTF (Direct-to-Film) technology. I wasn’t so sure at first, since T-shirt and garment printing isn’t exactly one of the primary topics we cover here at CNX Software! But I eventually decided to go ahead, since it might be interesting to understand the setup process, workflow, software, print quality/durability, and maintenance requirements for such a machine. So, let’s get started! Procolored K13 Lite DTF printer (and friends) unboxing A DTF printer does not print directly onto ordinary paper or garments. It prints the design onto [...] The post Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-43af1665dc4dcca3</guid>
+      <pubDate>Sun, 08 Nov 2026 08:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making a Dog Car Wash Without (very) Fancy Tools</title>
+      <link>https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/</link>
+      <description>[Stuff Made Here] got fed up with the hassle of washing their dog, and in traditional engineer fashion, decided that automating the process would solve the problem. However, as science …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9af9b6f2d6ee4769</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artemis II Rocket Was Powerful Enough to Disrupt GPS</title>
+      <link>https://hackaday.com/2026/11/07/artemis-ii-rocket-was-powerful-enough-to-disrupt-gps/</link>
+      <description>Rockets certainly have a substantial impact if you ever see a launch in person. The noise, shock waves, and even heat can be awe-inspiring. What is less obvious are the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-bb2934a1480245e7</guid>
+      <pubDate>Sun, 08 Nov 2026 03:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit New Products this Week: LT8912B DSI to DVI Converter</title>
+      <link>https://blog.adafruit.com/2026/11/07/adafruit-new-products-this-week-lt8912b-dsi-to-dvi-converter/</link>
+      <description>We’ve got the New nEw NEW for you right here Coming Soon! Adafruit LT8912B DSI to DVI Converter Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-97eac3c2ccc525bd</guid>
+      <pubDate>Sun, 08 Nov 2026 01:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Your Own E-Reader for $40</title>
+      <link>https://blog.adafruit.com/2026/11/07/build-your-own-e-reader-for-40/</link>
+      <description>Allan Binder of MUON SORTES shares this how to guide for building an affordable e-reader. And head to Allan Binder‘s instagram for a more polished look and future iterations. You need four things: an ESP32-S3 dev board, an e-paper panel with its adapter board, a five-way button module, and a way to power it. Total […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-33cd71380589d710</guid>
+      <pubDate>Sat, 07 Nov 2026 21:03:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waveshare Launches the ESP32-S31-Zero</title>
+      <link>https://www.hackster.io/news/waveshare-launches-the-esp32-s31-zero-fcceffc58d65</link>
+      <description>Waveshare's tiny ESP32-S31-Zero packs a 320 MHz dual-core RISC-V processor, Wi-Fi 6, Bluetooth 5.4, and up to 32MB of PSRAM.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-71a6de33163b8ef1</guid>
+      <pubDate>Sat, 07 Nov 2026 18:30:20 +0000</pubDate>
+    </item>
     <item>
       <title>The Hidden Microcontroller Inside a LoRa chip</title>
       <link>https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/</link>
@@ -750,62 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-438f76b7c9e9003c</guid>
       <pubDate>Wed, 28 Oct 2026 03:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/10/28/picotronix-modular-oscilloscope-and-logic-analyzer-features-two-raspberry-pi-pico-2-boards/</link>
-      <description>Picotronix is a modular oscilloscope, logic analyzer, and frequency meter from Sydney-based Thort Werx Pty Ltd, based on two Raspberry Pi Pico 2 units, more exactly a Pico 2 used as a signal processor and a Pico 2 W used to drive the display and for wireless connectivity. The solution is comprised of the Picotronix Main Module with an integrated LCD and three expansion ports, used to connect picoPods plug-in expansion modules to add high-speed ADCs, mixed-logic family logic state analysis, a waveform generator, analog conditioning, and more. Picotronix key features and specifications: Main Module Two-channel digital storage oscilloscope 8-channel logic analyzer, expandable up to 14 channels with a picoPod; up to 150 MHz sample rate Frequency meter Display – 320 × 240 color LCD from Pimoroni Three expansion ports, two 10-pin analog ports, and one 26-pin multifunction port Analog channel Accepts 3 Vpp or 16.6 Vpp at 1 MΩ, [...] The post Picotronix modular oscilloscope and logic analyzer features two Raspberry Pi Pico 2 boards (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-49641e5e6a307fcd</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>The roadmap to becoming a computer vision engineer in 2026</title>
-      <link>https://blog.adafruit.com/2026/10/27/the-roadmap-to-becoming-a-computer-vision-engineer-in-2026/</link>
-      <description>Vinod Chugani has published a four-stage study plan for computer vision engineers at KDnuggets. Each stage builds on the one before it, and each ends with a portfolio exercise. Stage one is the math: matrix transformations, coordinate frames, projective geometry, and multi-view geometry, plus PyTorch tensor work and augmentation with Albumentations. Stage two covers Vision […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-3881d688ab51b60f</guid>
-      <pubDate>Tue, 27 Oct 2026 19:43:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>SIMD-accelerated Machine Vision on an ESP32-S3</title>
-      <link>https://hackaday.com/2026/10/27/simd-accelerated-machine-vision-on-an-esp32-s3/</link>
-      <description>Recently [shraiwi] decided to have a bit of good nerdy fun and implement the FAST machine vision algorithm on an ESP32-S3 using its SIMD ISA. This involves using the assembly …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-dee7ad2ef79cd53e</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linux Changes Point to Incoming Raspberry Pi 4 Model A, Raspberry Pi Zero 3 W Models</title>
-      <link>https://www.hackster.io/news/linux-changes-point-to-incoming-raspberry-pi-4-model-a-raspberry-pi-zero-3-w-models-a7fad6c22dae</link>
-      <description>Raspberry Pi's prepping two new single-board computers, it seems — both a backwards step from its price-creeping Raspberry Pi 5.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-2d0b040c7825b388</guid>
-      <pubDate>Tue, 27 Oct 2026 10:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luxonis' Latest Modular OAK 4 Camera Board Puts Five Cameras in Your Next Robot</title>
-      <link>https://www.hackster.io/news/luxonis-latest-modular-oak-4-camera-board-puts-five-cameras-in-your-next-robot-5eab23b2e342</link>
-      <description>New carrier board for the OAK 4 supports up to five cameras, Power-over-Ethernet Plus, and boasts a 48 TOPS INT8 accelerator.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-547a2f750dc02791</guid>
-      <pubDate>Tue, 27 Oct 2026 09:39:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os</title>
-      <link>https://www.cnx-software.com/2026/10/27/synergy-logic-slm-rp4-a-raspberry-pi-4-plc-with-modular-industrial-i-o/</link>
-      <description>Synergy Logic SLM-RP4 industrial PLC is built around a Raspberry Pi 4 SBC and designed for industrial automation, machine control, data acquisition, and Industrial IoT (IIoT) applications. The DIN-rail mountable controller supports 24V DC input and an SPI-based backplane that connects up to eight Synergy Logic I/O modules, providing up to 128 I/O points. It also features Gigabit Ethernet, WiFi 5, Bluetooth 5.0, USB ports, two micro-HDMI outputs, and a fanless aluminum enclosure. The system runs Raspberry Pi OS with OpenPLC pre-installed for standard IEC 61131-3 logic programming. Synergy Logic SLM-RP4 specifications: SBC – Raspberry Pi 4 Model B (2GB RAM) Storage – 16GB microSD card Video – 2x micro-HDMI ports Audio – 3.5mm audio jack Networking Gigabit Ethernet port Dual-band WiFi 5 (802.11ac) Bluetooth 5.0/BLE USB 2x USB 3.0 Type-A ports 2x USB 2.0 Type-A ports 1x USB-C port for auxiliary power I/O Expansion – SPI-based backplane supporting up [...] The post Synergy Logic SLM-RP4 – A Raspberry Pi 4 PLC with modular industrial I/Os appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-13058f8f3aa1b72b</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1781 – A $95 Hioki Multimeter? (DT4215)</title>
-      <link>https://www.eevblog.com/2026/10/27/eevblog-1781-a-95-hioki-multimeter-dt4215/</link>
-      <description>Is a $95 Hioki Multimeter any good? A look at the DT4215 that is only available in China. 00:00 – You can buy a Hioki for $95? 01:33 – Fluke also do this. The Fluke 19 from 1999 04:31 – Don’t turn it on, take it apart! 06:08 – The ‘ol 10A fuse switch-a-roo 06:32 …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-3c11f97ff69ed710</guid>
-      <pubDate>Tue, 27 Oct 2026 03:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
