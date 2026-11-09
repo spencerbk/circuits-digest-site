@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:45:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>A DEC PDP-8/E restoration log</title>
+      <link>https://blog.adafruit.com/2026/11/09/a-dec-pdp-8-e-restoration-log/</link>
+      <description>The Rhode Island Computer Museum has posted a long restoration log for a DEC PDP-8/E, covering work from February 2014 into 2016. The machine came in with mouse droppings in the chassis, dead panel lamps and two processor boards installed backwards. The Omnibus backplane carries a manufacturing date of 5/14/74. Much of the log is […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5e622a03815d9910</guid>
+      <pubDate>Mon, 09 Nov 2026 14:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gridfinity Cable Organizer Box – 5 Slots for USB/USB-C/USB-A/Chargers #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/11/09/gridfinity-cable-organizer-box-5-slots-for-usb-usb-c-usb-a-chargers-3dthursday-3dprinting/</link>
+      <description>lukas_3d shares: A Gridfinity cable organizer box with five slots. 83×125×84mm (W×L×H). 2×3 Gridfinity units. Base generator: Gridfinity Rebuilt &gt; Base, grid base size 42, style ‘Thin’. ~4.8h, 1 plate. 5.0★ from 52 ratings. Tagged for USB, USB-C, USB-A, and charger storage. Pairs with the Modular Desk Tool Organizer (4PM) and Gridfinity Knife Block (5PM) […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-a64fdef7aaffaaba</guid>
+      <pubDate>Mon, 09 Nov 2026 14:14:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>RHYTHM Puts a Modern Spin on the Classic MP3 Player</title>
+      <link>https://www.hackster.io/news/rhythm-puts-a-modern-spin-on-the-classic-mp3-player-9623c51c4627</link>
+      <description>RHYTHM brings back the dedicated MP3 player with high-res audio, dual headphone jacks, retro LED visualizers, and even Doom.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-e1444b66be79b63f</guid>
+      <pubDate>Mon, 09 Nov 2026 13:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating</title>
+      <link>https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/</link>
+      <description>Seeed Studio XIAO STM32C5 is the company’s first XIAO development board based on an STMicroelectronics MCU, namely a 144 MHz STM32C5A3CG Arm Cortex-M33 microcontroller. It features two CAN FD controllers and a 6-axis IMU with programmable heating for robotics, industrial control, and motion-sensing applications. The board also includes 16MB of external flash, a 48 MHz external crystal, a USB-C port, and battery charging circuitry. One CAN FD channel is connected to an onboard transceiver, while the second requires an external transceiver. The integrated IMU heater allows firmware to control sensor temperature and reduce measurement drift from temperature changes. XIAO STM32C5 specifications: MCU – STMicroelectronics STM32C5A3CG CPU – 144 MHz Arm Cortex-M33 with FPU and DSP instructions Memory – 256KB SRAM Storage – 1MB internal flash Storage – 16MB external flash USB – USB Type-C port with USB 2.0 Full-Speed support (12 Mbps) CAN Bus 2x CAN FD controllers (FDCAN1 and [...] The post Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ed8f991c21a19605</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web Satellite Tracker Plays the Music of the Spheres</title>
+      <link>https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/</link>
+      <description>There are a dizzying number of satellites in orbit around the Earth these days, and more are being added at an incredible rate. Those of us with an interest in …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-6a944e68a6347454</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/11/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-8-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e50ee26b17362ed9</guid>
+      <pubDate>Mon, 09 Nov 2026 05:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Friday Deal: Over $200 Off the VZMORE AX9 Max Mini PC! (Sponsored)</title>
+      <link>https://www.cnx-software.com/2026/11/09/black-friday-deal-over-200-off-the-vzmore-ax9-max-mini-pc/</link>
+      <description>Mini PC manufacturer VZMORE has launched an early Black Friday deal for its AMD Ryzen AI 9 HX 470-powered VZMORE AX9 Max model: $229 off, bringing the regular price down to $1,270 from $1,499. The VZMORE AX9 Max mini PC ships with 32GB DDR5 and a 1TB NVMe SSD preloaded with Windows 11 Pro. It features four video outputs (2x HDMI 2.1, 2x USB-C) , a 3.5mm audio jack, two 2.5GbE ports, and WiFi 7 and Bluetooth 5.4 connectivity, as well as a range of USB 2.0, USB 3.2, and USB4 ports. VZMORE AX9 Max specifications: SoC – AMD Ryzen AI 9 HX 470 CPU – 12-core/24-thread processor (4x Zen 5, 8x Zen 5c) clocked at up to 5.2 GHz GPU – 16-core AMD Radeon 890M clocked at up to 3.1 GHz AI accelerator – 55 TOPS Ryzen AI NPU; Up to 86 combined TOPS Power Modes Silent – 45 [...] The post Black Friday Deal: Over $200 Off the VZMORE AX9 Max Mini PC! (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-e056719fbf55cf64</guid>
+      <pubDate>Mon, 09 Nov 2026 04:00:46 +0000</pubDate>
+    </item>
     <item>
       <title>Ham radio operator helps police with robbery #HamSunday</title>
       <link>https://blog.adafruit.com/2026/11/08/ham-radio-operator-helps-police-with-robbery-hamsunday/</link>
@@ -750,62 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-cd575807b96fc02a</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Intel 8087 chip: floating-point addition and subtraction</title>
-      <link>https://blog.adafruit.com/2026/10/28/inside-the-intel-8087-chip-floating-point-addition-and-subtraction/</link>
-      <description>Ken Shirriff has published a look at how the Intel 8087 math coprocessor performs floating-point addition and subtraction. The 1980 chip sped up floating point in the IBM PC and other systems, with addition running roughly 100 times faster than emulation on the 8086. Shirriff opened a chip with a chisel and photographed the die […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-860cd700af79982c</guid>
-      <pubDate>Wed, 28 Oct 2026 13:35:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logic Tutor, a kit for learning about logic gates</title>
-      <link>https://blog.adafruit.com/2026/10/28/logic-tutor-a-kit-for-learning-about-logic-gates/</link>
-      <description>MonkMakes has posted a product page for the Logic Tutor, a kit for learning about logic gates. The kit comes with the Logic Tutor board, connecting wires and a printed instruction manual. It runs on a single AAA battery, which is not included. The SKU is 00120. The product page links a datasheet PDF, an […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c1c6234dec1b2004</guid>
-      <pubDate>Wed, 28 Oct 2026 13:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>That’s a wrap! Coolest Projects 2026</title>
-      <link>https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/</link>
-      <description>There are a few Coolest Projects events still to come in the Coolest Projects 2026 cycle, but we are already getting ready to kick off Coolest Projects 2027. Before we do, we’re taking a look back at some of the incredible things the young tech creators in the global Coolest Projects community have achieved this… The post That’s a wrap! Coolest Projects 2026 appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-144a09a4a9544b96</guid>
-      <pubDate>Wed, 28 Oct 2026 12:09:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emulate the 486 in Your Browser</title>
-      <link>https://hackaday.com/2026/10/28/emulate-the-486-in-your-browser/</link>
-      <description>You might fondly remember the days of the Intel 486, but you probably don’t have one on your desk anymore. If you’d like to emulate that classic hardware, you can …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-3e54f849668486b4</guid>
-      <pubDate>Wed, 28 Oct 2026 11:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity</title>
-      <link>https://www.cnx-software.com/2026/10/28/lilygo-t-display-k230-risc-v-ai-dev-kit-features-amoled-lora-and-an-optional-keyboard/</link>
-      <description>LILYGO T-Display K230 is a handheld dev kit based on Canaan’s Kendryte K230 dual-core 64-bit RISC-V processor. The kit features a 4.1-inch AMOLED touchscreen and supports an optional detachable keyboard with battery and optional nRF9151 cellular and GNSS connectivity. The device also comes with 1GB LPDDR4 RAM, a 2MP camera, HDMI output, Ethernet, WiFi 4, and either an SX1262 or LR2021 LoRa transceiver. These features make this kit suitable for remote monitoring, wireless communication, and other embedded applications. LILYGO T-Display K230 Kit specifications: SoC – Kendryte K230 CPU 64-bit RISC-V processor @ 1.6GHz with RISC-V Vector Extension 1.0, FPU 64-bit RISC-V processor @ 800MHz with support for RV64GCB instruction set; AI accelerator KPU with support for INT8 and INT16 Compatible with TVM, TensorFlow, PyTorch, ONNX Typical network performance: Resnet 50 ≥ 85fps @ INT8; Mobilenet_v2 ≥ 670fps @ INT8; YoloV5S ≥ 38fps @INT8; GPU – 2.5D graphics engine DPU – [...] The post LILYGO T-Display K230 RISC-V AI dev kit features AMOLED, LoRa, and keyboard with optional LTE-M/NB-IoT cellular connectivity appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-fe5f62eef26fe276</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>SLAM Navigation For an Arduino Powered Car</title>
-      <link>https://hackaday.com/2026/10/28/slam-navigation-for-an-arduino-powered-car/</link>
-      <description>There are plenty of “robot” projects out there that are really just a small remote control platform of some sort. We often like to think of robots of having some …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-34f1f895282e1e93</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building an Articulated 8-Foot Satellite Ground Station</title>
-      <link>https://www.hackster.io/news/building-an-articulated-8-foot-satellite-ground-station-eec15c7745fb</link>
-      <description>When Cranktown City bought a massive satellite dish, he decided to see what signals he could acquire by building a ground station.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-438f76b7c9e9003c</guid>
-      <pubDate>Wed, 28 Oct 2026 03:22:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
