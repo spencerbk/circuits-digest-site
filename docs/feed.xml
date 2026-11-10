@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:45:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/11/10/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-10-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9b9979d979aeadf1</guid>
+      <pubDate>Tue, 10 Nov 2026 14:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Native American Heritage Month: Walking Lenapehoking</title>
+      <link>https://blog.adafruit.com/2026/11/10/native-american-heritage-month-walking-lenapehoking/</link>
+      <description>Celebrate Native American Heritage Month with NYC Parks – Sunday, November 22! Details here. Join the Urban Park Rangers for a guided walk through Lenapehoking, the ancestral homeland of the Lenape. Explore the landscape’s Indigenous history, seasonal ecology, and the traditions that continue to shape New York City today. More Native American Heritage Month posts […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4b7fdbb792351819</guid>
+      <pubDate>Tue, 10 Nov 2026 14:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking the Sidekick in 2026</title>
+      <link>https://blog.adafruit.com/2026/11/10/hacking-the-sidekick-in-2026/</link>
+      <description>The T-Mobile Sidekick, sold elsewhere as the Danger Hiptop, ran DangerOS, which only loads software signed by Danger or a carrier. Developers used to get a signed key from a web form, but that closed in 2010 and nobody issues keys anymore. ashe, writing at x86.cx, made one instead. The Danger SDK and a firmware […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ce75fa78e796f218</guid>
+      <pubDate>Tue, 10 Nov 2026 14:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals)</title>
+      <link>https://www.cnx-software.com/2026/11/10/labwired-allows-engineers-to-test-compiled-firmware-on-simulated-mcu-boards-cpu-and-peripherals/</link>
+      <description>Andrii Shylenko’s LabWired is an MIT-licensed MCU firmware simulation core that runs compiled firmware against modeled CPUs and peripherals, captures UART and bus output, register state, and supports repeatable checks in CI. The simulator works on Arm Cortex-M0+, Cortex-M3, Cortex-M4, Cortex-M7, Cortex-M33 cores, RISC-V architecutre, and Xtensa LX6 and LX7 (some ESP32 parts). The main benefit of the project is speeding up firmware testing since doing some on real boards is slow. The hardware must be ready, then the firmware must be flashed to the board each time you want to test it, and if something breaks, developers get a dark LED and no trace. If a firmware project needs to support multiple boards, this quickly adds up. The project is different from a CPU/MCU emulator for two main reasons: The full board is modeled, not only the chip. Sensors, displays, and bus devices are also simulated. So you can [...] The post LabWired allows engineers to test compiled firmware on simulated MCU boards (CPU and peripherals) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3ef2b13bb49c81ce</guid>
+      <pubDate>Tue, 10 Nov 2026 13:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have You Ever Heard Of the Lobo MAX-80?</title>
+      <link>https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/</link>
+      <description>[Adrian Black]’s enthusiasm is palpable as he shows off something truly unusual: a Lobo MAX-80 computer from 1982. To call this machine rare would be an understatement, as the company …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-fe53c75ab3099694</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tektronix Targets Hobbyists, Students, and Educators with Its 1 Series DPOs — Starting Under $500</title>
+      <link>https://www.hackster.io/news/tektronix-targets-hobbyists-students-and-educators-with-its-1-series-dpos-starting-under-500-a1432889751f</link>
+      <description>New 1 Series offers the same user experience as the company's higher-end models, making them an affordable entry point into the range.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-09c35ab06bb0bcd5</guid>
+      <pubDate>Tue, 10 Nov 2026 11:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>DomeCtrl Opens Crowdfunding for Its Raspberry Pi 5-Powered ControlBox Under-Floor Heating Controller</title>
+      <link>https://www.hackster.io/news/domectrl-opens-crowdfunding-for-its-raspberry-pi-5-powered-controlbox-under-floor-heating-controller-5d1d470ac434</link>
+      <description>All-in-one box comes running a Home Assistant server out-of-the-box, with plans for a cheaper Espressif ESP32 variant shelved.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6611716f75d7bfba</guid>
+      <pubDate>Tue, 10 Nov 2026 11:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>KiCad 10 now (unofficially) runs in a web browser or Android</title>
+      <link>https://www.cnx-software.com/2026/11/10/kicad-10-now-unofficially-runs-in-a-web-browser-or-android/</link>
+      <description>It’s now possible to run KiCad 10 directly in a web browser or as an Android app thanks to two separate open-source projects, unaffiliated with the official KiCad project. Let’s have a look at both. Ziro Designer/ZiroEDA – KiCad 10 in your web browser Akshay Rukade (ZiroEDA), an engineering student in India, ported KiCad 10.0.6 to the browser through the Ziro Designer/ZiroEDA Designer project. It’s a TypeScript translation of KiCad’s C++, kept file-for-file against the KiCad implementation, so the real schematic editor, PCB editor, interactive router, and ERC/DRC run in a browser tab and read and write normal KiCad projects. That means you can open local KiCad projects or designs hosted on GitHub directly in a web browser without having to install KiCad 10 itself on your computer, and it should also enable machines that do not natively support KiCad (e.g., RISC-V, Android tablet, iPad…) to run it. Akshay highlights [...] The post KiCad 10 now (unofficially) runs in a web browser or Android appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-dc09df61f6bdb969</guid>
+      <pubDate>Tue, 10 Nov 2026 07:39:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>EEVblog 1785 – Mailbag</title>
+      <link>https://www.eevblog.com/2026/11/10/eevblog-1785-mailbag/</link>
+      <description>More Mailbag! 00:00 – Ziboo 17B Pro 1500V Multimeter GIVEAWAY Giveaway here: https://www.eevblog.com/forum/blog/eevblog-1785-mailbag/ 02:05 – Hexapod Prototype PCB’s 12:41 – AnapNeo Pro Environmental Air Sensor Kickstarter https://marvtech.uk/ 35:52 – Polar Inspect Polarised Magnifier from Prunt3D 40:34 – Teslong TDS450S Dual lens Articulating Borescope Liked this video? You can 1-off donate: https://www.paypal.com/paypalme/eevblog https://donateopen.com/@eevblog</description>
+      <category>eevblog</category>
+      <guid isPermaLink="false">circuits-c26d8467ebcaea0e</guid>
+      <pubDate>Tue, 10 Nov 2026 04:39:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding)</title>
+      <link>https://www.cnx-software.com/2026/11/10/controlbox-home-assistant-solution-is-designed-for-floor-heating-systems-house-lighting-1-wire-sensors/</link>
+      <description>DomeCtrl’s ControlBox is a Raspberry Pi 5-based controller running Home Assistant and primarily designed for hydronic radiant floor heating (RFH) systems. It also supports lighting solutions and integration with energy devices such as solar collectors, photovoltaic installations, heat pumps, hydraulic pumps &amp; valves. The system controls thermal valves, hydraulic PWM pumps, and related RFH devices, and can read multiple 1-wire temperature sensors over long cables (&gt;6 m). The ControlBox also features 32 LED-strip output channels, for up to 2 kW output. ControlBox specifications: Main board – Raspberry Pi 5 SBC with 4GB RAM Storage – 128GB NVMe SSD pre-loaded with Home Assistant Wired Communication Gigabit Ethernet on SBC Half-duplex RS485 communication bus (5 V) Wireless WiFi 5 and Bluetooth 5 on SBC W32-ESP01 header for control via ESPHome 433 MHz transmitter &amp; receiver modules for communication with wireless peripherals like ‘ClickOnClickOff’, curtain rails, screens, garage doors, etc. I/Os via terminal [...] The post ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-8d3bfd69ecd8cd85</guid>
+      <pubDate>Tue, 10 Nov 2026 04:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-sufficient mobile weather station</title>
+      <link>https://www.raspberrypi.com/news/self-sufficient-mobile-weather-station/</link>
+      <description>A weather research station powered by the weather itself. The post Self-sufficient mobile weather station appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-9c689b397c108544</guid>
+      <pubDate>Mon, 09 Nov 2026 21:08:13 +0000</pubDate>
+    </item>
     <item>
       <title>A DEC PDP-8/E restoration log</title>
       <link>https://blog.adafruit.com/2026/11/09/a-dec-pdp-8-e-restoration-log/</link>
@@ -718,94 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-956202f737e328ce</guid>
       <pubDate>Fri, 30 Oct 2026 08:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP Friends</title>
-      <link>https://www.espressif.com/en/node/11555</link>
-      <description>Language English ESP32ESP32-C3ESP32-C6ESP32-DevKitS(-R)ESP32-H2ESP32-S2ESP32-S3ESP8266ESP8684ESP32 (*)ESP32-C6-MINI-1ESP32-H2-MINI-1/1UESP32-S2-MINI-1/1UESP32-S3-MINI-1/1UESP8266 LegacyESP8266-DevKitSESP8684-MINI-1/1UESP8685ESP-WROOM-02D/02UESP32-C3-MINI-1/1UESP32-C6-WROOM-1ESP32-D0WDQ6ESP32-S2-MINI-1UESP32-S3-WROOM-1/1UESP32-WROOM-V1ESP8684-WROOM-02C/02UCESP-WROOM-02UESP-WROOM-V1ESP32-C3-WROOM-02/02UESP32-C6-DevKitC-1ESP32-D2WDESP32-S2-MINI-2/2UESP32-S3-WROOM-2/2UESP8684-WROOM-03ESP-WROOM-02ESP32-C6-DevKitM-1ESP32-S0WDESP32-S2-SOLO (-U)ESP32-S3-DevKitC-1ESP32-WROVER-V1ESP8684-WROOM-05ESP8685-WROOM-01ESP-ProgESP-WROOM-S2ESP32-PICO-V3ESP32-S2-SOLO-2/2UESP32-S3-DevKitM-1ESP8684-WROOM-07ESP8685-WROOM-03ESP-BAT32ESP32-PICO-V3-02ESP32-S2-WROOM (-I)ESP32-S3-EYEESP8266-DevKitCESP8684-DevKitM-1ESP8685-WROOM-04ESP-BAT8ESP-LauncherESP32-PICO-D4ESP32-S2-WROOM-IESP32-S3-Korvo-1ESP8685-WROOM-05ESP-FactoryTB1ESP-WROOM-5V2LESP32-S2-WROVER (-I)ESP32-S3-Korvo-2ESP32-WROOM-32E/32UEESP8685-WROOM-06ESP-SKAINETESP32-S2-WROVER-IESP32-WROOM-DAESP8685-WROOM-07ESP HomeKit SDKESP32-C3-DevKitM-1ESP32-S2-SOLO-UESP32-WROOM-32SEESP32-C3-DevKitC-02ESP32-S2-Saola-1ESP32-WROVER-E/IEProduction Testing EquipmentESP32-C3-LyraESP32-MINI-1/1UESP32-S2-DevKitM-1ESP32-PICO-V3-ZERO (*ACK)ESP32-S2-DevKitC-1ESP32-PICO-MINI-02/02UESP32-S2-Kaluga-1ESP32-S2-HMI-DevKit-1ESP32-SOLO-1ESP32-SOLO-1CESP32-DU1906 (-U)ESP32-WROOM-32D/32UESP32-WROOM-32UESP32-WROOM-32ESP32-WROVER-B/IBESP32-WROVER-IBESP32-WROVER (-I)ESP32-WROVER-IESP32-DevKitCESP32-DevKitM-1ESP-WROVER-KITESP-WROVER-KIT-VBESP32-PICO-KITESP32-PICO-KIT-1ESP32-PICO-DevKitM-2ESP-EYEESP32-LyraTESP32-LyraT-MiniESP32-LyraTD-MSCESP32-LyraTD-SYNAESP32-LyraTD-DSPGESP32-Vaquita-DSPGESP32-KorvoESP32-Ethernet-KitESP32-Azure IoT KitESP32-MeshKitESP32-MeshKit-SenseESP32-MeshKit-LightESP32-Sense KitESP32-DevKitC-GoogleCloud IoTESP32-PICO-ZEROESP-Module-ProgESP32-H2-WROOM-02CESP32-H2-DevKitM-1ESP32-S3-BOXESP32-S3-USB-BridgeESP32-S3-LCD-EV-BoardESP32-S3-USB-OTGESP8684-WROOM-06CESP8684-WROOM-01CESP8684-WROOM-04CESP32-S3-PICO-1ESP8684-DevKitC-02ESP32-H2-WROOM-07ESP32-H2-WROOM-03ESP32-C3-LCDkitESP32-C5ESP32-P4ESP32-C2ESP32-C61ESP32-LCDKitESP32-H21 (not public)ESP32-H4 (not public)ESP32-P4-EYEESP32-P4-Function-EV-BoardESP32-C5-WROOM-1/1UESP32-C5-DevKitC-1ESP Thread BR/Zigbee GWESP-Prog-2ESP32-C61-WROOM-1/1UESP32-C61-DevKitC-1ESP-VoCatESP32-C61-MINI-1/1UESP32-S31ESP32-P4X-C5-Function-EV-BoardESP Friends documents can help developers quickly get started with Espressif’s development, such as guidance on how to select ESP hardware, build an environment, get started with software, etc.latestTuesday, October 13, 2026https://docs.espressif.com/projects/esp-techpedia/en/latest/esp-friends/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-cfb28822951c959a</guid>
-      <pubDate>Fri, 30 Oct 2026 07:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Modular Desk Organizer #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/29/modular-desk-organizer-3dthursday-3dprinting/</link>
-      <description>ms520 shares: A desk-side modular system built around a universal clamp (0-40mm range, 33mm depth, 4mm-pitch threads, anti-slip grooves). Core parts: headphone hanger (50mm shaft), phone holder, cup holder (80mm ID), 5mm Skadis section, cable organizer (3 cables), pen holder (50×50×80mm), two-stage hook, tray (62×67mm). ‘New Parts’ add-ons: Skadis adapter, storage box, trash bin, solder […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-10c4ffd2ca07014e</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emacs turns 50</title>
-      <link>https://blog.adafruit.com/2026/10/29/emacs-turns-50/</link>
-      <description>MIT Technology Review marks 50 years of EMACS, one of the first full-screen text editors and still in use today. It grew out of TECO, a text editor Dan Murphy wrote in 1962 for the PDP-1 at MIT, and Carl Mikkelsen’s Control-R add-on from 1971, which showed edits on video terminals as they happened. In […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-2fb4968ce194c8c2</guid>
-      <pubDate>Thu, 29 Oct 2026 13:22:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Wireless Sensor Board Speaks Your Language</title>
-      <link>https://www.hackster.io/news/this-wireless-sensor-board-speaks-your-language-f6e85723c116</link>
-      <description>NINASENSE nRF is an open source BLE and LoRa sensing board that runs for years on AAA batteries and can be programmed with natural language.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-6b3fab33ce74dd76</guid>
-      <pubDate>Thu, 29 Oct 2026 13:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Twisty Stress-Relief Eyeball #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/10/29/twisty-stress-relief-eyeball-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Twisty Stress-Relief Eyeball By MAX WORKSHOP crealitycloud.com/model-detail/stress-relief-eye-ball-toy Bambu X1C PolyMaker PLA 15hr 19mins X:67 Y:67 Z:60mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 48g 230mm/s Every Thursday is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9d8d41741be909f9</guid>
-      <pubDate>Thu, 29 Oct 2026 13:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The “Hatfield” Apple-1 computer achieves $1.15 million at Bonhams New YorkThe rare working Apple-1, signed by Steve Wozniak and accompanied by a Steve Jobs-signed letter, more than doubled its estimate after a 28-minute bidding warApp</title>
-      <link>https://blog.adafruit.com/2026/10/29/the-hatfield-apple-1-computer-achieves-1-15-million-at-bonhams-new-yorkthe-rare-working-apple-1-signed-by-steve-wozniak-and-accompanied-by-a-steve-jobs-signed-letter-more-than-doubled-its-estim/</link>
-      <description>Bonhams reports that the “Hatfield” Apple-1 sold for $1.15 million at its History of Science, Technology &amp; Computing sale, which closed on October 14. Two bidders fought over it for 28 minutes. The price is a new world auction record for a commercially sold Apple-1, and more than double the estimate. The machine was built […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b52f0d384ce62ca5</guid>
-      <pubDate>Thu, 29 Oct 2026 13:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>An AI Chatbot for the Apocalypse</title>
-      <link>https://hackaday.com/2026/10/29/an-ai-chatbot-for-the-apocalypse/</link>
-      <description>You don’t have to be a full-on “prepper” to at least occasionally wonder what would happen if civilization collapsed. One thing you probably couldn’t do is go on the Internet …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-7280ca0296f5c9e1</guid>
-      <pubDate>Thu, 29 Oct 2026 11:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>$2600 LattePanda Sigma 2 single board server features 180 TOPS Intel Core Ultra X7 358H SoC for local AI applications</title>
-      <link>https://www.cnx-software.com/2026/10/29/2600-lattepanda-sigma-2-single-board-server-features-180-tops-intel-core-ultra-x7-358h-soc-for-local-ai-applications/</link>
-      <description>The LattePanda Sigma 2 is a compact single board server/computer powered by an Intel Core Ultra X7 358H Panther Lake-H processor with Intel Arc B390 graphics and a 50 TOPS NPU delivering up to 180 TOPS of combined performance for local AI workloads. The board features up to 64GB of LPDDR5X-8533 RAM, three M.2 M-Key slots, one M.2 E-Key slot, and an OCuLink port for storage, wireless, and accelerator expansion, as well as two Thunderbolt 4 ports, dual 10GbE, USB 3.2 Gen 2 and USB 2.0 ports, and HDMI 2.1, DisplayPort 2.1, and eDP 1.5 display interfaces. Key Specifications SoC – Intel Core Ultra X7 Processor 358H CPU – 16-core (4P + 8E + 4LPE) @ 1.9/1.5/1.5 GHz (base frequency), 4.8/3.5/3.5 GHz (Turbo frequency) Cache – 18 MB Intel Smart Cache GPU – 12-core Intel Arc B390 GPU @ 2.5 GHz up to 122 TOPS (INT8) AI accelerator – 50 [...] The post $2600 LattePanda Sigma 2 single board server features 180 TOPS Intel Core Ultra X7 358H SoC for local AI applications appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-f1013807eb36982a</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Powered by Raspberry Pi – from Stockholm to Sydney, South Korea to Slovakia</title>
-      <link>https://www.raspberrypi.com/news/powered-by-raspberry-pi-from-stockholm-to-sydney-south-korea-to-slovakia/</link>
-      <description>From the practicalities of everyday life to creative endeavours, Raspberry Pi power is behind hundreds of products. The post Powered by Raspberry Pi – from Stockholm to Sydney, South Korea to Slovakia appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-9ecf0e415efe8d4e</guid>
-      <pubDate>Thu, 29 Oct 2026 08:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magnetic Lock Opens By Magic</title>
-      <link>https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/</link>
-      <description>Over on IEEE Spectrum, [Stephen Cass] has a project that would probably have seemed like a magic a few centuries ago. Imagine a box that uses a magnetic device to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-ab13148b6843928c</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>BeagleConnect QuadESC 4-channel BLDC motor controller uses TI’s AM13E23019-based Torque module</title>
-      <link>https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/</link>
-      <description>BeagleBoard.org has introduced the BeagleConnect QuadESC, an open-source 4-channel BLDC motor controller/carrier board built around the BeagleConnect Torque SoM. The SoM features TI’s 200 MHz AM13E23019 Arm Cortex-M33 microcontroller with a trigonometric math unit (TMU) and a TinyEngine neural-network accelerator for edge AI applications. The QuadESC carrier board supports four three-phase BLDC motor outputs, twelve current and twelve voltage sensing channels, four temperature sensors, and battery voltage monitoring. It also includes an eight-pin flight controller connector with DShot, telemetry, and current reporting signals, along with SWD debugging, a buzzer connector, and onboard power regulation. BeagleConnect Torque SoM The Torque SoM can also be integrated with custom carrier boards for robotics, motor control, and CAN-connected applications. It provides the processing, sensing, and communication interfaces, while external hardware supplies the motor power. Specifications: Main MCU– Texas Instruments AM13E23019 CPU core – Arm Cortex-M33 MCU @ 200 MHz with FPU Memory – 128KB [...] The post BeagleConnect QuadESC 4-channel BLDC motor controller uses TI’s AM13E23019-based Torque module appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-cd575807b96fc02a</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
