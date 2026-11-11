@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Googlebooks get their first big update, freeing up 3GB to 6GB of RAM</title>
+      <link>https://blog.adafruit.com/2026/11/11/googlebooks-get-their-first-big-update-freeing-up-3gb-to-6gb-of-ram/</link>
+      <description>Julio Franco at TechSpot writes that Google has pushed the first big software update for its Googlebook laptops, about a month after they went on sale. The main change frees up 3GB to 6GB of system RAM that the on-device AI features were holding onto. Google’s release notes just say memory usage for on-device AI […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-28d08f777c4754fc</guid>
+      <pubDate>Wed, 11 Nov 2026 14:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Training post-WW2 economies process and quality control</title>
+      <link>https://blog.adafruit.com/2026/11/11/training-post-ww2-economies-process-and-quality-control/</link>
+      <description>W. Edwards Deming (1900 to 1993) trained as an electrical engineer, took graduate degrees in mathematics and physics, and built the sampling methods used in the 1940 U.S. Census. He’s better known for what he taught Japanese industry after World War II. Starting in 1950, he trained hundreds of engineers, managers and executives in statistical […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-da0dcf59c30d6a42</guid>
+      <pubDate>Wed, 11 Nov 2026 14:40:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Driving a Sony car radio LCD display with Arduino</title>
+      <link>https://blog.adafruit.com/2026/11/11/driving-a-sony-car-radio-lcd-display-with-arduino/</link>
+      <description>Jose Luis Monteiro has reverse engineered the LCD on the detachable front panel of a Sony CDX-A250 car radio and driven it with an Arduino, with the project written up on Open Electronics. The panel uses a SANYO LC75826W LCD driver, listed as IC901 in Sony’s service manual, and its serial lines come out on […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-69bf96607b7d45c3</guid>
+      <pubDate>Wed, 11 Nov 2026 14:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The InfiMech MX and MX Pro Bring Eight Toolheads to Bear on Low-Cost Multi-Material Printing</title>
+      <link>https://www.hackster.io/news/the-infimech-mx-and-mx-pro-bring-eight-toolheads-to-bear-on-low-cost-multi-material-printing-db8279d2600d</link>
+      <description>New printer models boast minimal wastage when printing in up to eight materials or colors.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-8b490b3c8a140c7b</guid>
+      <pubDate>Wed, 11 Nov 2026 12:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Engineers are Forced to Create Junk Designs</title>
+      <link>https://hackaday.com/2026/11/11/why-engineers-are-forced-to-create-junk-designs/</link>
+      <description>It’s become a bit of a platitude to state that products were manufactured better in ‘the olden days’, but as [The Meandrous Engineer] covers in a recent video essay, the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-675ec9dcb5306e98</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flipper Devices Readies Crowdfunding for the Flipper One, Opens Pre-Orders for a $20 Deposit</title>
+      <link>https://www.hackster.io/news/flipper-devices-readies-crowdfunding-for-the-flipper-one-opens-pre-orders-for-a-20-deposit-819b005d35ed</link>
+      <description>$20 down now gets you a "hidden reward tier" in the upcoming crowdfunding campaign, bagging a pocketable PC for $379.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-601c95890d289854</guid>
+      <pubDate>Wed, 11 Nov 2026 11:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation</title>
+      <link>https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/</link>
+      <description>Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100 Mbps Ethernet field bus transceivers for industrial, home, and building automation applications such as industrial networks, motor drives, building automation buses, smart sensors, and touch panels. The company also unveiled the Nano XL Link Connector Carrier to go along with the new board. Arduino Nano XL Link Arduino Nano XL Link (ABX00182) specifications: MCU – Microchip PIC32CK2051SG01144 CPU – Arm Cortex-M33 @ 120 MHz Memory – 512 kB RAM Storage – 2 MB flash; 728 kB available for sketches Security – Integrated Hardware Security Module (HSM) + TrustZone USB – USB Type-C port for power, programming, and serial communication Industrial communication interfaces [...] The post Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7faf3da1f29b0d05</guid>
+      <pubDate>Wed, 11 Nov 2026 07:12:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT…</title>
+      <link>https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/</link>
+      <description>Renesas RZ/T2N industrial MPU supports up to four-axis motor control and includes PWM timers, encoder interfaces, and trigonometric accelerators. It’s designed for industrial robots, programmable logic controllers (PLCs), motion controllers, and multi-axis servo drives. The MPU features up to two 1.2 GHz Arm Cortex-A55 cores for application processing and two 800 MHz Cortex-R52 cores for real-time control. It also integrates a three-port Gigabit Ethernet switch with TSN support and industrial Ethernet protocols such as EtherCAT, PROFINET RT/IRT, and EtherNet/IP. This feature set allows real-time motor control, industrial networking, and Linux applications to run on a single chip, reducing the need for separate processors. The MPU can also work as an industrial Ethernet network controller or device, depending on the application. Renesas RZ/T2N specifications: CPU Up to 2x Arm Cortex-A55 (64-bit) cores clocked at 1.2 GHz with 32KB L1 instruction/data cache, 128KB L2 cache per core, and 256KB L3 cache 2x [...] The post Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT… appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-676e66289f01823f</guid>
+      <pubDate>Wed, 11 Nov 2026 04:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi e-book bundle: Cyberdecks, retro games, and more</title>
+      <link>https://www.raspberrypi.com/news/raspberry-pi-e-book-bundle-cyberdecks-retro-games-and-more/</link>
+      <description>Choose the price you pay for 15 e-books and support the Raspberry Pi Foundation in the process. The post Raspberry Pi e-book bundle: Cyberdecks, retro games, and more appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-7264359bd2de7b45</guid>
+      <pubDate>Tue, 10 Nov 2026 19:21:49 +0000</pubDate>
+    </item>
     <item>
       <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
       <link>https://blog.adafruit.com/2026/11/10/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-10-2/</link>
@@ -734,78 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-6273871fcc867f65</guid>
       <pubDate>Sat, 31 Oct 2026 00:44:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi Halloween Wise Cracking skull</title>
-      <link>https://blog.adafruit.com/2026/10/30/raspberry-pi-halloween-wise-cracking-skull/</link>
-      <description>Raspberry Pi Halloween Costume Detector Build a wise cracking skull to MC your Halloween costume party. This project uses a Raspberry Pi 5 paired with a NoIR PiCamera and speaker bonnet. The Pi runs a Python script with OpenCV person detection. When a person crosses paths with the skull, a picture is sent […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-8df4130178bda26f</guid>
-      <pubDate>Fri, 30 Oct 2026 20:11:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEW GUIDE: FLAC and Ogg Playback with CircuitPython #AdafruitLearningSystem #CircuitPython</title>
-      <link>https://blog.adafruit.com/2026/10/30/new-guide-flac-and-ogg-playback-with-circuitpython-adafruitlearningsystem-circuitpython/</link>
-      <description>A new guide in the Adafruit Learning System: FLAC and Ogg Playback with CircuitPython by Anne Barela with programming by Mikey Sklar. With CircuitPython Turbo on ESP32-S3, RP2350 (and similarly fast boards likely to follow), music playing capabilities have expanded. FLAC and Ogg Vorbis are popular open source audio formats that some prefer over MP3 […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-91b89969f8cc6c0c</guid>
-      <pubDate>Fri, 30 Oct 2026 17:56:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emulate Apple II on Raspberry Pi</title>
-      <link>https://blog.adafruit.com/2026/10/30/emulate-apple-ii-on-raspberry-pi/</link>
-      <description>Brian Jepson, writing on raspberrypi.com, walks through running an Apple II emulator on a Raspberry Pi. The tutorial comes from The Raspberry Pi Guide to Retro Gaming book and uses LinApple, a fork of the AppleWin emulator originally created by Mike O’Brien and ported to Linux by David Baucum and other contributors. The post also […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-89c3f10f71a681c6</guid>
-      <pubDate>Fri, 30 Oct 2026 13:24:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Conference Badge Powered by a Piece of Computing History</title>
-      <link>https://www.hackster.io/news/a-conference-badge-powered-by-a-piece-of-computing-history-66b6f9a0d2f2</link>
-      <description>Intel's 1976 8048 microcontroller gets a second life as a retro conference badge with a custom development board and scrolling LED display.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-eb600b3dd03a22a8</guid>
-      <pubDate>Fri, 30 Oct 2026 12:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A soft robot could help doctors diagnose and treat disorders of the small intestine</title>
-      <link>https://blog.adafruit.com/2026/10/30/a-soft-robot-could-help-doctors-diagnose-and-treat-disorders-of-the-small-intestine/</link>
-      <description>Anne Trafton at MIT News reports on a robotic enteroscope built by MIT engineers to travel through the small intestine. The organ runs more than 20 feet and is about an inch across, which makes it hard to reach. The current option is double balloon enteroscopy, where a worker inflates and deflates two balloons to […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-797486245e409890</guid>
-      <pubDate>Fri, 30 Oct 2026 11:18:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Sounds of the World, One Random Album at a Time</title>
-      <link>https://hackaday.com/2026/10/30/the-sounds-of-the-world-one-random-album-at-a-time/</link>
-      <description>In the streaming era it’s easy to forget that there’s still a lot of stuff being broadcast over the radio for anyone who cares enough to dial in their receiver. …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-2223908639d0ba72</guid>
-      <pubDate>Fri, 30 Oct 2026 11:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>OuijaCNC</title>
-      <link>https://www.raspberrypi.com/news/ouijacnc/</link>
-      <description>Spooky season is officially upon us. Check out this self-playing Ouija board built by one of our colleagues. The post OuijaCNC appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-e0ccdf4efc19af94</guid>
-      <pubDate>Fri, 30 Oct 2026 09:02:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azume One – A 2.8mm sensor that turns any regular wristwatch into a health tracker (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/10/30/azume-one-a-2-8mm-sensor-that-turns-any-regular-wristwatch-into-a-health-tracker/</link>
-      <description>Azume, a Munich-based startup, has designed the Azume One, a compact health tracker that attaches to the back of a regular wristwatch to track heart rate, sleep, stress, and daily activity without needing an additional smartwatch. The device measures 30mm in diameter, is 2.8mm thick, and weighs 5 grams. It features an optical PPG sensor and a motion sensor to track health and activity data, which it sends to an Android or iOS smartphone over Bluetooth 5.4. Other highlights include up to 48 hours of battery life, a removable nano-suction mounting system, and an included wristband for sleep tracking without wearing a watch. Azume One specifications: MCU / SoC – Not specified (Potentially Nordic Semi nRF52-based) Sensors Optical PPG sensor for heart rate and blood oxygen monitoring Motion sensor for activity and workout tracking Skin temperature monitoring Connectivity – Bluetooth 5.4 Misc No display, vibrations, or notifications No subscription required [...] The post Azume One – A 2.8mm sensor that turns any regular wristwatch into a health tracker (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-6affb16fa38f8f0c</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snake On a Seven-Segment Display is Gloriously Bad</title>
-      <link>https://hackaday.com/2026/10/30/snake-on-a-seven-segment-display-is-gloriously-bad/</link>
-      <description>You’ve no doubt heard the saying, “If something is worth doing, it’s worth doing well.” But there’s actually a counter-perspective to this particular philosophy that says it’s also worth doing …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-956202f737e328ce</guid>
-      <pubDate>Fri, 30 Oct 2026 08:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
