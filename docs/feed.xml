@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 14:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:45:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>CMIT Indigenous Innovation in Computing</title>
+      <link>https://blog.adafruit.com/2026/11/13/cmit-indigenous-innovation-in-computing/</link>
+      <description>The Center for Minorities and People with Disabilities in IT is celebrating Native American Heritage Month by highlighting Indigenous innovations in computing. Via CMIT November is Native American Heritage Month, a time to recognize the histories, cultures, contributions, and achievements of Indigenous peoples. The observance was formally established as National American Indian Heritage Month in […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-00fd77eb403e94c8</guid>
+      <pubDate>Fri, 13 Nov 2026 13:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>SPARK Microsystems Partners with Nordic Semiconductor for a High-Performance Gaming Mouse Platform</title>
+      <link>https://www.hackster.io/news/spark-microsystems-partners-with-nordic-semiconductor-for-a-high-performance-gaming-mouse-platform-f9ef36a8dd15</link>
+      <description>Reference design targets an 8,000Hz polling rate by combining Nordic's nRF54LM20 with SPARK's SR1120 LE-UWB transceiver.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-da346fb58fc8f3fe</guid>
+      <pubDate>Fri, 13 Nov 2026 12:18:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing a Dead Socket LGA 1851 Mainboard with a Resistor</title>
+      <link>https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/</link>
+      <description>Doing board level diagnosis on a PCB is hardly black magic, but some PCBs are definitely more daunting than others. The Socket LGA 1851 mainboard that [Fix the Pixel] got …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-19be9624dbdf77e1</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>AXILOOP Opens Crowdfunding for Its Eight-Toolhead Quick-Change MC8, MC8 Pro FFF 3D Printers</title>
+      <link>https://www.hackster.io/news/axiloop-opens-crowdfunding-for-its-eight-toolhead-quick-change-mc8-mc8-pro-fff-3d-printers-75e48b1e133d</link>
+      <description>New models offer minimal-wastage four-second material and color changes, but are priced higher than rival InfiMech's alternative.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-736eb031696e7960</guid>
+      <pubDate>Fri, 13 Nov 2026 11:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026</title>
+      <link>https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/</link>
+      <description>Vantron has introduced the VT-SBC-SMARC-IMX952, an 82 × 50 mm SMARC 2.1 system-on-module (SoM) built around NXP’s i.MX 952 processor with two or four Arm Cortex-A55 cores, a Mali-G310 GPU, and a 2 TOPS eIQ Neutron NPU. The module is designed for industrial HMIs, edge AI vision, factory automation, in-cabin sensing, and other embedded applications. The module comes with 8GB LPDDR4x memory, 64GB eMMC storage, two Ethernet interfaces (GbE + 2.5 GbE) with TSN support, and an optional Wi-Fi 5 and Bluetooth 5.0 wireless module. It exposes all I/Os through a standard 314-pin MXM 3.0 connector VT-SBC-SMARC-IMX952 specifications: SoC – NXP i.MX 952 CPU Dual- or quad-core Arm Cortex-A55 @ up to 1.7 GHz Arm Cortex-M7 real-time core @ 800 MHz Arm Cortex-M33 safety core @ 333 MHz GPU – Arm Mali-G310 with OpenGL ES 3.2, Vulkan 1.2, and OpenCL 3.0 support VPU Video encoding – H.264 up to 4K [...] The post Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-4b3af627f2523383</guid>
+      <pubDate>Fri, 13 Nov 2026 10:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450</title>
+      <link>https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/</link>
+      <description>Tektronix is better known for its high-end and pricey oscilloscopes, but has now introduced the 1 Series DPO, a line of low-cost digital phosphor oscilloscopes starting at just $450, with optional AI-assisted control through the new Tek Intelligence connector. These oscilloscopes are designed for electronics testing, embedded development, education, and everyday circuit debugging. The 1 Series DPOs feature up to four analog channels, 50 MHz to 200 MHz bandwidth, 12-bit vertical resolution, and up to 1.25 GS/s sampling rate. They also integrate a 7-inch touchscreen and 10 Mpoints of memory per channel, support I2C, SPI, and UART protocol decoding, and implement built-in waveform analysis tools. The higher-priced S models add a 25 MHz arbitrary function generator (AFG) and Bode plot analysis. Tektronix 1 Series DPO key specifications: Models – 16 variants covering four bandwidth options, two channel configurations, and versions with or without AFG Display – 7-inch capacitive multi-touchscreen, 1024 [...] The post Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450 appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3ed6313ec8e7a325</guid>
+      <pubDate>Fri, 13 Nov 2026 04:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored)</title>
+      <link>https://www.cnx-software.com/2026/11/13/revopoint-black-friday-sale-is-here-save-up-to-50-on-3d-scanners/</link>
+      <description>Revopoint’s Black Friday Sale is here, bringing major savings across its lineup of portable and industrial 3D scanners, accessories, and software. Whether you’re a 3D printing enthusiast, maker, designer, or industrial professional, this is a great opportunity to find the right scanning solution for your projects while enjoying discounts of up to 50%. Use code REVOB5CNX at checkout to unlock an extra 5% OFF on Black Friday deals: Revopoint Official Store: Shop Now | November 9–30 Amazon: Shop Now | November 19–30 Top Picks: Best Black Friday Deals POP 4 — 20% OFF As one of Revopoint’s latest versatile 3D scanners, POP 4 combines blue multi-line laser, near-infrared structured light, and VCSEL structured light technologies. With five scanning modes, it adapts to objects of different sizes, shapes, and surface types. From 3D printing and product design to reverse engineering, 3D animation, gaming, and virtual reality, POP 4 captures everything from [...] The post Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-83a2210a44753a6b</guid>
+      <pubDate>Fri, 13 Nov 2026 03:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elegant Standing Reindeer Decor #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/11/12/elegant-standing-reindeer-decor-3dthursday-3dprinting/</link>
+      <description>pinkywings shares: A Christmas + winter decor piece with flowing, detailed lines — meant as a centerpiece for tables, shelves, or mantels. Stands without support material; described as easy to print. 3 sizes available. Print profiles: ~56 min to 3.1h on 1 plate, 0.2mm layer, 2 walls, 5-8% infill. Standard Digital File License (Patreon for […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4a0d80e88c050e70</guid>
+      <pubDate>Fri, 13 Nov 2026 01:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cactus Planter – Cartoon-Styled 3-Slot Planter with Drainage #3DThursday #3DPrinting</title>
+      <link>https://blog.adafruit.com/2026/11/12/cactus-planter-cartoon-styled-3-slot-planter-with-drainage-3dthursday-3dprinting/</link>
+      <description>Shared by Vafor on Maker World: Time to change up your favorite plants with a fun twist in this cartoon styled cactus pot. The Cactus Planter has 3 slots for your favorite indoor plants. Its unique shape offers ample space for small plants, flowers, cacti, and small woody stem plants; making it a striking and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-9199fa33a2d1c5e9</guid>
+      <pubDate>Fri, 13 Nov 2026 00:05:59 +0000</pubDate>
+    </item>
     <item>
       <title>WeAct Logic Analyzer V2 – a $10 USB 3.0 CH32H417 logic analyzer board</title>
       <link>https://blog.adafruit.com/2026/11/12/weact-logic-analyzer-v2-a-10-usb-3-0-ch32h417-logic-analyzer-board/</link>
@@ -734,78 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-da889df6f8d8bfca</guid>
       <pubDate>Mon, 02 Nov 2026 10:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Price rises for some 16GB Raspberry Pi products</title>
-      <link>https://www.raspberrypi.com/news/price-rises-for-some-16gb-raspberry-pi-products/</link>
-      <description>Rising component costs drive price increases for 16GB Raspberry Pi 5 and Compute Module 5, but not Raspberry Pi 500+. The post Price rises for some 16GB Raspberry Pi products appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-19f1382cc8519f22</guid>
-      <pubDate>Mon, 02 Nov 2026 08:59:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>TOOCAA NOVA Review – 20W laser engraver with AI camera, autofocus, and rotary module</title>
-      <link>https://www.cnx-software.com/2026/11/02/toocaa-nova-review-20w-laser-engraver-with-ai-camera-autofocus-rotary-module/</link>
-      <description>TOOCAA NOVA is a desktop laser cutter and engraver that combines creative functions in a compact body. It comes with a translucent orange cover and an A4 work area of 297 × 210 mm, suitable for making signs, decorations, personalized gifts, and DIY projects. The reviewed model uses a 20W diode laser module for cutting and engraving, and supports materials such as wood, paper, leather, and coated aluminum. The machine’s highlight is its 5MP AI camera, which displays an image of the material inside the machine in the software, making it easier to align designs with the desired position. It also has an autofocus system that automatically adjusts focus distance and a material card-reading function that helps you select operating settings. It works with TOOCAA Studio to design, import images, and set up jobs including line engraving, fill engraving, and cutting, and connects to the machine via USB or Wi-Fi. [...] The post TOOCAA NOVA Review – 20W laser engraver with AI camera, autofocus, and rotary module appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-979e74870704c431</guid>
-      <pubDate>Mon, 02 Nov 2026 08:54:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI</title>
-      <link>https://www.cnx-software.com/2026/11/02/brainchip-akd1500-raspberry-pi-5-dev-kit-enables-users-to-quickly-experiment-with-event-based-neuromorphic-ai/</link>
-      <description>A few weeks ago, we noted that the Brainchip AKD1500 M.2 module could work with the Raspberry Pi 5 using a compatible M.2 HAT+ expansion card to evaluate the solution or develop applications using the company’s low-power, low-latency neuromorphic AI technology. To make things even easier, they’ve now introduced the AKD1500 Raspberry Pi 5 Dev Kit that packs a Raspberry Pi 5 8GB, an official M.2 HAT+, and an Akida AKD1500 M.2 B+M-Key card into a metal case. Most ports from the Raspberry Pi 5 are exposed, namely the Gigabit Ethernet port, the four USB connectors, the two HDMI video outputs, and the USB-C port for power. The Raspberry Pi 5 power button and an LED on the M.2 HAT+ are also visible through openings in the metal case. The kit requires a camera for operation, but instead of relying on a MIPI CSI-based Raspberry Pi Camera module, users are [...] The post Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-aa804d0e15629394</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Weekly Editorial Round-Up: FLAC and Ogg Playback with CircuitPython, CG Turbo Demos in CircuitPython and more!</title>
-      <link>https://blog.adafruit.com/2026/11/01/adafruit-weekly-editorial-round-up-flac-and-ogg-playback-with-circuitpython-cg-turbo-demos-in-circuitpython-and-more/</link>
-      <description>ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. ESP32-S3 WiFi bridge for a […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a03c893db0c35099</guid>
-      <pubDate>Sun, 01 Nov 2026 21:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>BIOSTAR EdgeComp MS-U320 fanless Wildcat Lake industrial mini PC offers four COM ports, dual 2.5GbE, 4G/5G expansion</title>
-      <link>https://www.cnx-software.com/2026/11/01/biostar-edgecomp-ms-u320-fanless-wildcat-lake-industrial-mini-pc-offers-four-com-ports-dual-2-5gbe-4g-5g-expansion/</link>
-      <description>BIOSTAR EdgeComp MS-U320 is a fanless industrial mini PC powered by an Intel Core 3 304 or Core 5 320 Wildcat Lake SoC with four COM ports, dual 2.5GbE, and 4G/5G cellular connectivity expansion. The mini PC supports up to 64GB DDR5, M.2 NVMe SSD storage, features 4K-capable HDMI 2.1 and DisplayPort 1.4 connectors, earphone and microphone jacks, and six USB ports. It supports a wide 9-24V DC input and can operate in the -20°C to +50°C temperature range for industrial automation, smart manufacturing, industrial IoT, smart retail, and smart infrastructure. BIOSTAR EdgeComp MS-U320 specifications: Wildcat Lake SoC Intel Core 3 304 5-core CPU – 1x P-cores @ 1.5/4.3 GHz (Turbo) + 4x LPE-cores @ 1.4/3.3 GHz (Turbo) GPU – 1-core Intel Xe3 Graphics @ 2.3 GHz (9 TOPS) NPU – 15 TOPS Intel Core 5 320 6-core CPU – 2x P-cores @ 1.5/4.6 GHz (Turbo) + 4x LPE-cores @ [...] The post BIOSTAR EdgeComp MS-U320 fanless Wildcat Lake industrial mini PC offers four COM ports, dual 2.5GbE, 4G/5G expansion appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-ceb2729178858a4b</guid>
-      <pubDate>Sun, 01 Nov 2026 12:26:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turning Syngas into Hydrocarbons with the Right Alpha</title>
-      <link>https://hackaday.com/2026/11/01/turning-syngas-into-hydrocarbons-with-the-right-alpha/</link>
-      <description>Although the Fischer-Tropsch synthesis (F-T synthesis) process is well-known and on face value quite straightforward, using it for DIY production of a somewhat defined length hydrocarbons is fairly tricky. This …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-3e6a7ecded8cc8c7</guid>
-      <pubDate>Sun, 01 Nov 2026 12:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building an ADS-B Receiver For Less Than You Think</title>
-      <link>https://hackaday.com/2026/11/01/building-an-ads-b-receiver-for-less-than-you-think/</link>
-      <description>If you’ve ever wondered about the planes flying above your head, you could always listen in to ADS-B transmissions to learn more about them. [thefatmoop] has built a rig to …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-bb015685359e0289</guid>
-      <pubDate>Sun, 01 Nov 2026 08:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows</title>
-      <link>https://blog.adafruit.com/2026/11/01/16-bit-windows-windows-1-x-2-x-3-0-3-1-etc-on-64-bit-windows/</link>
-      <description>otya has published winevdm, also called otvdm, a 16-bit Windows emulator ported to 64-bit Windows. It runs programs written for Windows 1.x, 2.x, 3.0 and 3.1 on a modern 64-bit system, where the original NTVDM support does not exist. The project hooks the mechanism 64-bit Windows uses to swap in an alternative installer when it […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-962600826b571153</guid>
-      <pubDate>Sun, 01 Nov 2026 07:42:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products this Week</title>
-      <link>https://blog.adafruit.com/2026/10/31/adafruit-new-product-this-week-adafruit-si5351c-8-channel-tcxo-clock-generator-2-5khz-200mhz-stemma-qt/</link>
-      <description>We’ve got the New nEw NEW for you right here This week we debuted 1 New Product, Visit www.adafruit.com/new for more info. Adafruit Si5351C 8 Channel TCXO Clock Generator – 2.5KHz-200MHz – STEMMA QT</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9aafc30088106162</guid>
-      <pubDate>Sat, 31 Oct 2026 18:30:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
