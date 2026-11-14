@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Reverse Engineering Score Perfect to Rescue its Files</title>
+      <link>https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/</link>
+      <description>There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-dcc61db15f6b8751</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making CO₂ Sensors Fail Visibly, Not Silently</title>
+      <link>https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/</link>
+      <description>CO₂ buildup in a living area can be a serious problem, and a sensor that fails quietly cannot be relied upon. [William Collis] addressed this important issue by creating CO₂ monitors …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-b10aa473192b5566</guid>
+      <pubDate>Sat, 14 Nov 2026 09:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)</title>
+      <link>https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/</link>
+      <description>We’ve recently written about the P4 Launcher project that offers a desktop PC-like and/or retro-gaming experience to ESP32-P4 boards with applications stored on a microSD card and loaded into PSRAM when they run. However, I’ve recently been tipped about two new projects that go even further and aim to provide a desktop OS for microcontrollers, both currently focusing on the Olimex ESP32-P4-PC board with HDMI, Ethernet, and USB ports: Sylphide OS and Bare Metal, Do Stuff (BMDS). Sylphide OS – A Macintosh-like desktop for ESP32-P4, RP2350, and ESP32 Thomas Capricelli (Orzelf) has developed Sylphide OS as an operating system for computers based on microcontrollers. It’s designed to run on other targets beyond ESP32-P4 boards, and has currently been tested on the Raspberry Pi Pico 2 with VGA+USB connectors and the FabGL board (Olimex ESP32-SBC-FabGL variant) with PS/2 input and VGA connectors. If you don’t own any compatible hardware, a Sylphide [...] The post Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-cb4091d5582ebe09</guid>
+      <pubDate>Sat, 14 Nov 2026 03:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D Printing a Tank Is Both Easier and More Challenging Than You Think</title>
+      <link>https://www.hackster.io/news/3d-printing-a-tank-is-both-easier-and-more-challenging-than-you-think-1818b00ba8a5</link>
+      <description>Simon Sörensen is an expert in RC vehicles, so he used that expertise to 3D-print a rideable tank that relies on the same concepts.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-1c51d884a5be0c90</guid>
+      <pubDate>Fri, 13 Nov 2026 22:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nintendo takes down Switch emulators and mod chip firmware in massive GitHub DMCA sweep</title>
+      <link>https://blog.adafruit.com/2026/11/13/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep/</link>
+      <description>Jacqueline Thomas reports for IGN that Nintendo has sent four DMCA takedown notices to GitHub, aimed at two Switch emulators, Yuzu and Citron Neo, and at firmware for mod chips. The firmware part covered 144 repositories, all of them now removed and replaced with a takedown notice. Mod chips like Picofly are soldered to the […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-aac5a7981b86e140</guid>
+      <pubDate>Fri, 13 Nov 2026 18:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stockfish: a free and strong UCI chess engine</title>
+      <link>https://blog.adafruit.com/2026/11/13/stockfish-a-free-and-strong-uci-chess-engine/</link>
+      <description>Stockfish is a free, open source chess engine from the project of the same name, derived from Glaurung 2.1. It analyzes chess positions and works out the best moves. It talks to chess apps over the UCI protocol, so the board and pieces come from a separate graphical program. Stockfish itself doesn’t draw a chessboard. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-0fb2c275167cd5ae</guid>
+      <pubDate>Fri, 13 Nov 2026 18:47:44 +0000</pubDate>
+    </item>
     <item>
       <title>CMIT Indigenous Innovation in Computing</title>
       <link>https://blog.adafruit.com/2026/11/13/cmit-indigenous-innovation-in-computing/</link>
@@ -758,54 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-a6db62b0fb03fe28</guid>
       <pubDate>Tue, 03 Nov 2026 09:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware</title>
-      <link>https://www.cnx-software.com/2026/11/03/seeed-studio-4-26-mono-and-7-3-color-e-paper-kits-opendisplay-firmware/</link>
-      <description>Seeed Studio has launched two Nordic nRF52840-based Bluetooth LE e-paper kits preloaded with the OpenDisplay open-source firmware for e-paper displays and supporting Home Assistant integration. The OpenDisplay 4.26″ Mono features a 4.26-inch monochrome/grayscale display with 800×480 resolution and partial refresh support, while the OpenDisplay 7.3″ Color Kit is equipped with a 7.3-inch Spectra 6 color e-paper with the same resolution. Both are powered by a 2,000 mAh battery and feature a few buttons for control and reset. Seeed Studio OpenDisplay kits specifications: MCU – Nordic Semi nRF52840 CPU – Arm Cortex-M4F microcontroller @ up to 64 MHz Memory – 256 KB SRAM Storage – 1 MB flash Wireless – Bluetooth LE 5.0, NFC, 802.15.4 connectivity Display OpenDisplay 4.26″ Mono Kit 4.26-inch monochrome ePaper Black and white (default); optional 4-gray mode Partial Refresh – Supported in black-and-white mode only Resolution – 800 × 480 Controller – Seeed XIAO EN05 driver board [...] The post Seeed Studio launches 4.26” Mono and 7.3” Color e-Paper kits preloaded with OpenDisplay firmware appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-36b4b5f2dda8f45a</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385</title>
-      <link>https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/</link>
-      <description>Raspberry Pi has announced yet another price increase, this time for most models with 16GB of RAM. The Raspberry Pi 5 16GB now sells for $385, an $80 increase compared to the last price hike in April, and the Raspberry Pi CM5 system-on-module gets a $40 increase, starting at $375 for the Lite model without wireless. The “good news” is that the Raspberry Pi 500+ mechanical keyboard PC stays at the same price, starting at $410. I suppose they can afford it on that model, because it’s already richly priced and the demand must be lower than for single board computers and compute modules. Here’s the updated price list for the Compute Module 5 16GB variants. Interestingly, the price is the same whether we get 32GB or 64GB eMMC flash. I still remember people complaining about the $120 launch price of the Raspberry Pi 5 16GB. That was less than [...] The post When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-4de8d5accebb49f7</guid>
-      <pubDate>Tue, 03 Nov 2026 04:17:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Native American Heritage Month 2026</title>
-      <link>https://blog.adafruit.com/2026/11/02/native-american-heritage-month-2026/</link>
-      <description>Image from NYC Public Schools November is Native American Heritage Month, also known as American Indian and Alaska Native Heritage Month. All month long we will be sharing blog posts to celebrate. You can check throughout the month for new posts paying tribute to the experience, history, traditions and contributions of American Indians and […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c10b757ea7abcc23</guid>
-      <pubDate>Mon, 02 Nov 2026 13:22:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-FLUTTER Is a Robotic Butterfly That Actually Flies</title>
-      <link>https://www.hackster.io/news/esp-flutter-is-a-robotic-butterfly-that-actually-flies-9baea9728f43</link>
-      <description>Max Imagination built ESP-FLUTTER, a remote-controlled robotic butterfly with illuminated wings made from plastic bags.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-f9354a94617c29b7</guid>
-      <pubDate>Mon, 02 Nov 2026 13:13:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Banana Pi BPI-M8 – An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket</title>
-      <link>https://www.cnx-software.com/2026/11/02/banana-pi-bpi-m8-an-allwinner-a733-sbc-inspired-by-the-raspberry-pi-5-with-pcie-ffc-connector-ufs-module-socket/</link>
-      <description>Banana Pi BPI-M8 is a credit card-sized SBC powered by an Allwinner A733 octa-core Cortex-A76/A55 SoC that aims to offer an alternative to the Raspberry Pi 5. The BPI-M8 comes with 4GB LPDDR5, HDMI and MIPI DSI display interfaces, two MIPI CSI camera interfaces, Gigabit Ethernet, on-board WiFi 6 and Bluetooth 5.0, four USB ports, a 16-pin FFC PCIe connector, and the usual 40-pin GPIO header. Two variants are offered: the BPI-M8A with 64GB eMMC flash, and the BPI-M8B with 16MB SPI NOR flash. Banana Pi BPI-M8 specifications: SoC – Allwinner A733 CPU Dual-core Arm Cortex-A76 @ up to 2.00 GHz Hexa-core Arm Cortex-A55 @ up to 1.80 GHz Single-core RISC-V E902 real-time core GPU – Imagination Technologies BXM-4-64 MC1 GPU with support for OpenGL ES 3.2, Vulkan 1.3, and OpenCL 3.0 VPU 4Kp60/8Kp24 H.265/VP9/AVS2 decoding, 4Kp30 H.264 decoding 4Kp30 H.265/H.264 encoding AI accelerator – 3 TOPS NPU Process – 12 [...] The post Banana Pi BPI-M8 – An Allwinner A733 SBC inspired by the Raspberry Pi 5 with PCIe FFC connector, UFS module socket appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-563fae4b77cf7dc2</guid>
-      <pubDate>Mon, 02 Nov 2026 10:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Edible sculptures and snap-button metal armatures activate philip johnson’s wolfhouse in NY #ArtTuesday</title>
-      <link>https://blog.adafruit.com/2026/11/02/edible-sculptures-and-snap-button-metal-armatures-activate-philip-johnsons-wolfhouse-in-ny-arttuesday/</link>
-      <description>Artist Lang Lang, founder of studio No.29, worked with Xie Peng on a site-specific exhibition at Wolfhouse, the 1949 Philip Johnson residence in Newburgh, New York, documented on designboom. Called Island on Land: A Landscape in Five States, it ran on October 10th, 2026, and turned five fragments of Lang’s 2024 short film into physical […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-da889df6f8d8bfca</guid>
-      <pubDate>Mon, 02 Nov 2026 10:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
