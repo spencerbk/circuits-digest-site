@@ -5,8 +5,32 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>An MP3 Player, Implemented As A Factorio Blueprint</title>
+      <link>https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/</link>
+      <description>Factorio is a factory simulation game that leads its players into many happy hours of building ever more complex factories, but it comes with a snag. Its built-in music is …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-9d9863b0fa01b239</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse Engineer that USB Device in Style</title>
+      <link>https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/</link>
+      <description>Proprietary device drivers, dedicated applications, and their ilk are the bane of the open-source hacker. If only we could snoop on every device out there, recording the “secret” USB transactions …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-c981a9138527da02</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Your Own TARS Robot From Interstellar</title>
+      <link>https://www.hackster.io/news/build-your-own-tars-robot-from-interstellar-382dd9e6fd0a</link>
+      <description>RIG-TARS is a $99 open source DIY robot that brings Interstellar's TARS to your desk with LLM chat, voice control, and customizable humor.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-445bf9a04be6c104</guid>
+      <pubDate>Sat, 14 Nov 2026 17:42:24 +0000</pubDate>
+    </item>
     <item>
       <title>Reverse Engineering Score Perfect to Rescue its Files</title>
       <link>https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/</link>
@@ -782,30 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-ceffc0e9ae1504cc</guid>
       <pubDate>Tue, 03 Nov 2026 14:05:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Banana Pi Launches the Raspberry Pi 5-Like Allwinner 733-Powered BPI-M8, Starting at $69</title>
-      <link>https://www.hackster.io/news/banana-pi-launches-the-raspberry-pi-5-like-allwinner-733-powered-bpi-m8-starting-at-69-fafd27721e3d</link>
-      <description>Six-core processor, backed by 4GB of LPDDR5 memory, delivers a cut-price alternative to the big-name brand.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-e51932666d0ea449</guid>
-      <pubDate>Tue, 03 Nov 2026 11:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jay Doscher's Recovery Kit 3 Scales Things Up — And Gains Dual Batteries for Field Use</title>
-      <link>https://www.hackster.io/news/jay-doscher-s-recovery-kit-3-scales-things-up-and-gains-dual-batteries-for-field-use-ccecec7bdbf4</link>
-      <description>Powered by a Raspberry Pi 4 Model B, this luggable cyberdeck boasts a 13.3" AMOLED display.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-e2e8e389337a8b8b</guid>
-      <pubDate>Tue, 03 Nov 2026 11:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Components for Life May Not Have Arrived By Comet</title>
-      <link>https://hackaday.com/2026/11/03/the-components-for-life-may-not-have-arrived-by-comet/</link>
-      <description>When it comes to abiogenesis, i.e. the formation of the first biological cells on Earth, there are many theories on how this got kickstarted. One of the more popular theories …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-a6db62b0fb03fe28</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
