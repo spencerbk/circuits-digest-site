@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:45:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>A desktop OS for the ESP32-P4</title>
+      <link>https://blog.adafruit.com/2026/11/16/a-desktop-os-for-the-esp32-p4/</link>
+      <description>Jason Howard has published BMDS (Bare Metal Do Stuff) on GitHub, a small DOS-like operating system that turns the Olimex ESP32-P4-PC into a self-contained personal computer. With an HDMI monitor, a USB keyboard and mouse, an SD card and Ethernet plugged in, the board runs a desktop with windows, a shell, a file manager, a […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1c7d74e342ae0040</guid>
+      <pubDate>Mon, 16 Nov 2026 14:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW GUIDE: Adafruit LT8912B DSI to DVI Converter #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/11/16/new-guide-adafruit-lt8912b-dsi-to-dvi-converter-adafruitlearningsystem-adafruit/</link>
+      <description>If you have a chip or computer with DSI, you can connect many panel displays to it, and now thanks to the Adafruit LT8912B DSI to DVI Converter, you can connect a DSI output to a DVI or HDMI monitor! This converter chip will take that DSI signal and squish it around to the right […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-4344467145c3f96f</guid>
+      <pubDate>Mon, 16 Nov 2026 14:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baochip-1x: A mostly-open, 22nm SoC for high assurance applications</title>
+      <link>https://blog.adafruit.com/2026/11/16/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/</link>
+      <description>Baochip has announced the Baochip-1x on bunniestudios.com, a mostly-open security chip and general purpose microcontroller made on TSMC’s 22nm process. It’s built around a 350MHz VexRiscv CPU with a memory management unit (MMU), the part that gives applications their own virtual memory space. An I/O processor with four 700MHz PicoRV32 cores handles peripherals. There’s 4MiB […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-54f40b4e64c670f1</guid>
+      <pubDate>Mon, 16 Nov 2026 13:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>GEEKOM A5 2027 Edition review – Part 2: A mid-range AMD Ryzen 7 7730U mini PC tested with Windows 11 Pro</title>
+      <link>https://www.cnx-software.com/2026/11/16/geekom-a5-2027-edition-review-part-2-a-mid-range-amd-ryzen-7-7730u-mini-pc-tested-with-windows-11-pro/</link>
+      <description>We’ve checked out the GEEKOM A5 2027 Edition mini PC’s hardware with an unboxing and teardown in the first part of the review, and we’ve now had time to test the AMD Ryzen 7 7730U mini PC in detail with Windows 11 Pro. In this article, we will test features, run benchmarks such as PCMark 10, 3DMark, and PassMark PerformanceTest 11, test YouTube 4K and 8K video playback in Firefox, evaluate storage and network performance, and measure fan noise and power consumption of the A5 2027 Edition mini PC. Software Overview and Feature Testing The System &gt; About menu confirms we have an A5 mini PC powered by an AMD Ryzen 7 7730U processor clocked at 2.00 GHz (base frequency) with Radeon Graphics, and equipped with 16 GB DDR4 RAM at 3200 MT/s and a 477 GB SSD preloaded with Windows 11 Pro 25H2 (Build 26200.9711). HWiNFO 64 provides further [...] The post GEEKOM A5 2027 Edition review – Part 2: A mid-range AMD Ryzen 7 7730U mini PC tested with Windows 11 Pro appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-8e3dbe042ba59370</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Purism Seeks Freedom From "Big Tech," Shifts Its Librem 5 Phone to the RISC-V Architecture</title>
+      <link>https://www.hackster.io/news/purism-seeks-freedom-from-big-tech-shifts-its-librem-5-phone-to-the-risc-v-architecture-dc18ba9f3e0b</link>
+      <description>Redesigned smartphone comes with a SpacemiT eight-core processor, 8GB of RAM, and 128GB of storage — plus all the usual privacy features.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-6f5fcf6a96fe3e82</guid>
+      <pubDate>Mon, 16 Nov 2026 11:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turn your Raspberry Pi into a classic games machine</title>
+      <link>https://www.raspberrypi.com/news/turn-your-raspberry-pi-into-a-classic-games-machine/</link>
+      <description>Make use of Raspberry Pi's ability to run emulation software to replicate a wide range of classic consoles and computers. The post Turn your Raspberry Pi into a classic games machine appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-e6b7c91b1b035322</guid>
+      <pubDate>Mon, 16 Nov 2026 09:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Follow The Grid With An Arduino Uno</title>
+      <link>https://hackaday.com/2026/11/16/follow-the-grid-with-an-arduino-uno/</link>
+      <description>We all know the frequency of our AC grid. 60Hz for Americans, or 50Hz for Europeans, for example. But the real story has some complexity. In a plural but interconnected …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-03142145f28bb784</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Up to 35% discount on KAMRUI AMD Ryzen and Intel Core mini PCs (Sponsored)</title>
+      <link>https://www.cnx-software.com/2026/11/16/up-to-35-discount-on-kamrui-amd-ryzen-and-intel-core-mini-pcs/</link>
+      <description>KAMRUI is offering up to a 35% discount on three of its AMD Ryzen 5/7 and Intel Core mini PCs. Let’s check all three. KAMRUI E3B mini PC – AMD Ryzen 5 PRO 7640HS, 24GB LPDDR5, 512 GB SSD This model features a 6-core/12-thread AMD Ryzen 5 PRO 7640HS Zen 4 processor clocked up to 5.0 GHz, paired with 24GB of soldered-on LPDDR5 memory, and a 512GB NVMe SSD installed in one of the two M.2 2280 SSD slots. Other interfaces include a full-function USB 3.2 Gen Type-C port that supports charging, data transfer (10Gbps), and 4K/60Hz display output, DisplayPort 1.4b and HDMI 2.0 video output for up to three independent displays, Gigabit Ethernet, two USB3.2 Gen2 (10Gbps) ports, four USB3.2 Gen1 Type-A (5Gbps) ports, and a 3.5mm audio jack. The mini PC also supports WiFI 6 and Bluetooth wireless connectivity. The E3B (AMD Ryzen 5 PRO 7640HS) would usually [...] The post Up to 35% discount on KAMRUI AMD Ryzen and Intel Core mini PCs (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7dbfc6f91c998b9d</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN</title>
+      <link>https://www.cnx-software.com/2026/11/16/aaeon-boxer-8741ai-industrial-edge-ai-box-pc-nvidia-jetson-thor-t5000-with-dual-10gbe-and-four-5gbe-lan/</link>
+      <description>AAEON BOXER-8741AI is an industrial edge AI box PC built around the NVIDIA Jetson Thor T5000 module, delivering up to 2070 FP4 TFLOPS (sparse) of AI performance and featuring 128GB LPDDR5X memory. Designed for humanoid robotics, autonomous mobile robots (AMRs), and multi-sensor perception workloads, it features two 10GbE and four 5GbE ports, two CAN FD interfaces, RS-232/RS-485, optional GPIO, and four USB 3.2 Gen 2 ports. Expansion options include M.2 slots for NVMe storage, Wi-Fi/Bluetooth, and 4G/5G cellular connectivity. The computer supports 19V to 48V DC input and operates from -20°C to 60°C for industrial applications. AAEON BOXER-8741AI specifications: SoM – NVIDIA Jetson Thor T5000 module CPU – 14-core 64-bit ARM Neoverse-V3AE @ up to 2.6GHz GPU – 2560-core NVIDIA Blackwell GPU with 96 fifth-generation Tensor Cores, Multi-Instance GPU (MIG) support with 10 Texture Processing Clusters (TPCs) VPU Video Decode – 4x 8Kp30 (H.265), 10x 4Kp60 (H.265), 22x 4Kp30 (H.265), [...] The post AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-d6e855c6cc63a80f</guid>
+      <pubDate>Mon, 16 Nov 2026 04:00:27 +0000</pubDate>
+    </item>
     <item>
       <title>An MP3 Player, Implemented As A Factorio Blueprint</title>
       <link>https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-199c90b67e840253</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>$21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more</title>
-      <link>https://www.cnx-software.com/2026/11/04/21-esp32-p4x-and-esp32-c61-full-featured-board-offers-ethernet-wifi-6-rs485-can-bus-mipi-csi-dsi-and-more/</link>
-      <description>Wireless Tag WT99P461-S1 is an ESP32-P4X and ESP32-C61 board based on the same WT01P461-S1 module as found on the ESP32P4C61-TINY board introduced last June. The main differences are that the WT99P461-S1 is a full-featured development board, adding features such as Fast Ethernet, RS-485, CAN bus, an on-board microphone, and a speaker connector. It still comes with a microSD card slot, MIPI DSI/CSI connectors, and other features, making it suitable for industrial HMIs, gateways, and control applications. WT99P461-S1 specifications: Wireless Module – Wireless-Tag WT01P461-S1 (25 x 25mm) Microcontroller – ESP32-P4X (ESP32-P4 v3.2) MCU Dual-core RISC-V microcontroller @ 360/400 MHz with AI instructions extension and single-precision FPU Single-RISC-V LP (Low-power) MCU core @ up to 40 MHz GPU – 2D Pixel Processing Accelerator (PPA) VPU – H.264 and JPEG codec support Memory – 768 KB HP L2MEM, 32 KB LP SRAM, 8 KB TCM, 32MB PSRAM Storage – 128 KB HP ROM, 16 [...] The post $21 ESP32-P4X and ESP32-C61 full-featured board offers Ethernet, WiFi 6, RS485 CAN Bus, MIPI CSI/DSI, and more appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-ee814a6aaef4136d</guid>
-      <pubDate>Wed, 04 Nov 2026 10:05:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrating the UK’s National Engineering Day 2026</title>
-      <link>https://www.raspberrypi.org/blog/celebrating-the-uks-national-engineering-day-2026/</link>
-      <description>We’re celebrating National Engineering Day in the UK with our friends at the Royal Academy of Engineering. National Engineering Day aims to make the UK’s engineers and engineering more visible, and celebrate how they improve everyday lives and shape the world around us. Now hiring: The engineers of 2076 This year, the Royal Academy of… The post Celebrating the UK’s National Engineering Day 2026 appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-ea0fab7f545931da</guid>
-      <pubDate>Wed, 04 Nov 2026 09:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Product compliance, demystified: how Raspberry Pi helps you get to market</title>
-      <link>https://www.raspberrypi.com/news/product-compliance-demystified-how-raspberry-pi-helps-you-get-to-market/</link>
-      <description>How Raspberry Pi helps industrial customers bring fully compliant products to market faster. The post Product compliance, demystified: how Raspberry Pi helps you get to market appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-48d75fd9e6f007c0</guid>
-      <pubDate>Wed, 04 Nov 2026 08:09:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4</title>
-      <link>https://www.cnx-software.com/2026/11/04/zotac-zbox-ci471-nano-fanless-mini-pc-features-intel-core-7-350-wifi-7-and-dual-thunderbolt-4/</link>
-      <description>ZOTAC has introduced the ZBOX CI471 nano, a fanless mini PC powered by an Intel Core 7 350 hexa-core Wildcat Lake processor with integrated Xe3 graphics and a 17 TOPS NPU. The company has also introduced two lower-end models, the ZBOX CI451 nano with a Core 5 320 processor and the ZBOX CI431 nano with a Core 3 304 processor. All three mini PCs use passive cooling and share the same 204 × 129 × 68 mm enclosure. They support up to 64GB DDR5 memory, M.2 NVMe SSD storage, and three 4K displays. Other features include dual Thunderbolt 4, 2.5GbE networking, and WiFi 7 and Bluetooth 5.4 wireless connectivity. The systems are offered as barebones, meaning users must install their own memory and storage. ZOTAC ZBOX CI471/CI451/CI431 nano specifications: SoC – Intel Core Series 3 “Wildcat Lake” processors ZBOX CI471 nano – Intel Core 7 350 CPU – 6-core (2x [...] The post ZOTAC ZBOX CI471 nano fanless mini PC features Intel Core 7 350, WiFi 7, and dual Thunderbolt 4 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-3b49d060ee35eda1</guid>
-      <pubDate>Wed, 04 Nov 2026 04:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude’s new rules against game cloning won’t stop the AI copying boom</title>
-      <link>https://blog.adafruit.com/2026/11/03/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/</link>
-      <description>Kyle Orland, writing at Ars Technica, reports that Anthropic has added a rule to Claude Code’s system prompt to keep the model from re-creating specific existing video games. The rule, spotted in a json file named “tengu_heron_brook” around October 27, tells Claude to build original games, genre games and games from a user’s own designs […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9be6379a2841f6bd</guid>
-      <pubDate>Tue, 03 Nov 2026 22:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Employed? Solopreneur? NIST has a cybersecurity guide just for you</title>
-      <link>https://blog.adafruit.com/2026/11/03/self-employed-solopreneur-nist-has-a-cybersecurity-guide-just-for-you/</link>
-      <description>NIST has released Small Business Cybersecurity: Non-Employer Firms, also known as NIST Cybersecurity White Paper 50. It’s written for the “solopreneur,” anyone who is the only paid employee of their business. More than 28 million small businesses in the U.S. fit that description. The guide assumes the reader doesn’t know anything about cybersecurity or the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-db72d47cc17e8494</guid>
-      <pubDate>Tue, 03 Nov 2026 22:27:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICYMI Python on Microcontrollers Newsletter: Adafruit Metro P4 Hydra, Possible New Raspberry Pi Boards, JIT Gone and More!</title>
-      <link>https://blog.adafruit.com/2026/11/03/the-python-on-microcontrollers-newsletter-adafruit-metro-p4-hydra-possible-new-raspberry-pi-boards-jit-gone-and-more/</link>
-      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,313 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-26fde346f73f80e5</guid>
-      <pubDate>Tue, 03 Nov 2026 14:35:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ten of the most bizarre films and their posters</title>
-      <link>https://blog.adafruit.com/2026/11/03/ten-of-the-most-bizarre-films-and-their-posters/</link>
-      <description>Jason Kottke, writing at kottke.org, points to a list from Eternal Family: ten of the most bizarre films, picked along with their posters. Kottke had linked to Eternal Family recently. He calls this list a good guide to the weirdest things in their catalog. See more at kottke.org.</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a9445d1fe9172727</guid>
-      <pubDate>Tue, 03 Nov 2026 14:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sweary plots, DOOM maps, postcards and more #ArtTuesday</title>
-      <link>https://blog.adafruit.com/2026/11/03/sweary-plots-doom-maps-postcards-and-more-arttuesday/</link>
-      <description>Daniel Catt writes in his newsletter about a new generative system for plotted handwriting art, one that moves away from the rigid magazine style grids he has used before and toward something more organic. The system runs in five stages. “Foundation” splits the page into 3 to 24 rows and draws horizontal lines that attract […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-ceffc0e9ae1504cc</guid>
-      <pubDate>Tue, 03 Nov 2026 14:05:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
