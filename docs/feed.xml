@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 14:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:45:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>ICYMI: The Python on Microcontrollers Newsletter: CircuitPython 11.0.0-alpha.3 Released, Remembering Tim Peters, Python 3.16 Alpha 2 and More!</title>
+      <link>https://blog.adafruit.com/2026/11/17/icymi-the-python-on-microcontrollers-newsletter-circuitpython-11-0-0-alpha-3-released-remembering-tim-peters-python-3-16-alpha-2-and-more/</link>
+      <description>If you missed this week’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! – You’ll get a terrific newsletter each Monday (which is out before this post). 12,340 subscribers worldwide! The next newsletter goes out Monday morning and subscribing is the best way to keep […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-6507d9e98452e171</guid>
+      <pubDate>Tue, 17 Nov 2026 14:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rockchip's RK3668 SoC Gets a Downgrade, as Arm's Cortex-A730, -A530 Cores Remain Unavailable</title>
+      <link>https://www.hackster.io/news/rockchip-s-rk3668-soc-gets-a-downgrade-as-arm-s-cortex-a730-a530-cores-remain-unavailable-3be0fe48f801</link>
+      <description>10-core chip is now an eight-core model using Arm's last-generation Cortex-A725 and -A520 cores.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-800106f36e92cb50</guid>
+      <pubDate>Tue, 17 Nov 2026 12:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newer Rigol Scopes Get a Custom Linux Firmware</title>
+      <link>https://hackaday.com/2026/11/17/newer-rigol-scopes-get-a-custom-linux-firmware/</link>
+      <description>Electronics test equipment is a topic near and dear to many Hackaday readers. The average reader of this article is most likely within 50 feet of a multimeter, and it …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-ff2f82a24759e4c9</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Researchers Unveil the $450 3D Bioprinter, Built Using a Low-Cost FFF 3D Printer and Syringes</title>
+      <link>https://www.hackster.io/news/researchers-unveil-the-450-3d-bioprinter-built-using-a-low-cost-fff-3d-printer-and-syringes-10a1bf322be6</link>
+      <description>Low-cost printer modification, combined with new materials, could open bioprinting up to even the most budget-conscious research labs.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-2848ed33e511a40c</guid>
+      <pubDate>Tue, 17 Nov 2026 11:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Review of Seeed Studio 4.26″ Mono and 7.3″ Color e-paper Kit with OpenDisplay and Home Assistant</title>
+      <link>https://www.cnx-software.com/2026/11/17/review-seeed-studio-4-26-mono-and-7-3-color-e-paper-kit-with-opendisplay-and-home-assistant/</link>
+      <description>Seeed Studio sent us two e-paper kits preloaded with OpenDisplay open-source firmware for review: the OpenDisplay 4.26″ Mono Kit and OpenDisplay 7.3″ Color Kit, both powered by a Nordic nRF52840 low-power Bluetooth LE microcontroller. This review focuses on practical use of the preinstalled OpenDisplay firmware: sending images from a browser, configuring the devices with OpenDisplay Toolbox, and connecting them to Home Assistant to create dashboards that update automatically with data from around the home. Unboxing Seeed Studio OpenDisplay e-paper kits and hardware overview Both models arrive fully assembled, with a display, a driver board, a XIAO nRF52840 Plus board, a battery, and a white 3D-printed enclosure. The only difference between the two kits is the display; the MCU, 2,000 mAh battery, and number of buttons are the same. Both models have a power switch, a reset button, three push buttons, a USB-C port, and one mounting hole. The 3D enclosure [...] The post Review of Seeed Studio 4.26″ Mono and 7.3″ Color e-paper Kit with OpenDisplay and Home Assistant appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-c185eaffa0ceea18</guid>
+      <pubDate>Tue, 17 Nov 2026 11:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>750 MHz GigaDevice GD32H7 Cortex-M7 MCU family gets up to 9.5MB Flash, EtherCAT for industrial applications</title>
+      <link>https://www.cnx-software.com/2026/11/17/750-mhz-gigadevice-gd32h7-cortex-m7-mcu-family-gets-up-to-9-5mb-flash-ethercat-for-industrial-applications/</link>
+      <description>GigaDevice adds new industrial parts to the GD32H7 series of Cortex-M7 MCUs, running at up to 750 MHz. The new lineup includes the GD32H77R for robotic joint control, GD32H78D/77D for industrial HMI applications, GD32H78E/77E for real-time motion control, and GD32H789/779 for general industrial automation. The MCUs feature up to 9728KB of on-chip Flash, 1152KB SRAM including 640KB tightly coupled memory (TCM), and hardware accelerators for mathematical operations and digital signal processing. Depending on the variant, they also integrate a MIPI DSI display interface, an EtherCAT slave controller, industrial encoder interfaces, dual Ethernet, and three CAN-FD controllers. The devices target servo drives, humanoid robots, industrial displays, CNC machines, PLCs, and digital power systems. GigaDevice GD32H7 new-generation industrial MCU specifications: MCU Core – 32-bit ARM Cortex-M7 core Up to 750 MHz (GD32H78D, GD32H78E, GD32H789 only) Up to 600 MHz (GD32H77R, GD32H77D, GD32H77E, GD32H779 only) Up to 3,736 CoreMark GPU – Image Processing Accelerator [...] The post 750 MHz GigaDevice GD32H7 Cortex-M7 MCU family gets up to 9.5MB Flash, EtherCAT for industrial applications appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5bf9852b3e3657fd</guid>
+      <pubDate>Tue, 17 Nov 2026 07:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forlinx OK8275AA-C – A Qualcomm QCS8275 industrial SBC with 12GB LPDDR5, 256GB UFS storage</title>
+      <link>https://www.cnx-software.com/2026/11/17/forlinx-ok8275aa-c-a-qualcomm-qcs8275-industrial-sbc-with-12gb-lpddr5-256gb-ufs-storage/</link>
+      <description>Forlinx OK8275AA-C is an industrial-grade single board computer (SBC) based on the company’s FET8275AA-C SoM, powered by a Qualcomm Dragonwing QCS8275 SoC, delivering up to 40 TOPS for Edge AI workloads, and paired with 12GB LPDDR5 memory and 256GB UFS 3.1 storage. While it’s based on the same processor as the Arduino VENTUNO Q SBC, the Forlinx OK8275AA-C SBC targets industrial applications with dual Ethernet (GbE + 2.5GbE), four isolated CAN-FD, 2x isolated RS485, three MIPI CSI camera connectors, a MIPI DSI display connector, a -40 to +85°C temperature range, and 24V DC power input. Forlinx FET8275AA-C – A Qualcomm QCS8275 system-on-module Before checking the SBC in detail, let’s have a look at the system-on-module first. FET8275AA-C specifications: SoC – Qualcomm Dragonwing QCS8275-AA (highest performance, as opposed to QCS8275-AC with lower CPU and GPU frequency and only 20 TOPS AI) Octa-core CPU 2x Kryo Gold Prime (Cortex-A78) @ 2.35 GHz [...] The post Forlinx OK8275AA-C – A Qualcomm QCS8275 industrial SBC with 12GB LPDDR5, 256GB UFS storage appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-fca30c101fc5402d</guid>
+      <pubDate>Tue, 17 Nov 2026 04:47:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The PASTA/80 Pascal cross-compiler reaches version 1.00</title>
+      <link>https://blog.adafruit.com/2026/11/16/the-pasta-80-pascal-cross-compiler-reaches-version-1-00/</link>
+      <description>pleumann has released version 1.00 of PASTA/80, a Pascal cross-compiler for Z80 systems, published on GitHub. The project took six years and 1000 commits. A cross-compiler runs on a modern machine and makes code for an older one. PASTA/80 is highly compatible with Turbo Pascal 3 for CP/M, so old source usually recompiles with few […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-16460bd2037bf041</guid>
+      <pubDate>Mon, 16 Nov 2026 22:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesserae turns e-paper displays into easily customisable dashboards</title>
+      <link>https://blog.adafruit.com/2026/11/16/tesserae-turns-e-paper-displays-into-easily-customisable-dashboards/</link>
+      <description>Les Pounder writing on the Pimoroni blog covers Tesserae, a project from Melbourne developer Kayden D’Mello. Kayden describes it as “an ecosystem for e-ink displays. You design a dashboard in your browser, and Tesserae renders it and sends it to whatever panels you own.” The dashboard is designed once in a browser, with widgets placed […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f54d7060903ef4f0</guid>
+      <pubDate>Mon, 16 Nov 2026 21:49:15 +0000</pubDate>
+    </item>
     <item>
       <title>A desktop OS for the ESP32-P4</title>
       <link>https://blog.adafruit.com/2026/11/16/a-desktop-os-for-the-esp32-p4/</link>
@@ -734,78 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-f7055af298f93a13</guid>
       <pubDate>Thu, 05 Nov 2026 12:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experience AI begins reaching classrooms across Latin America</title>
-      <link>https://www.raspberrypi.org/blog/experience-ai-begins-reaching-classrooms-across-latin-america/</link>
-      <description>Earlier this year, we announced that we’re expanding Experience AI, our AI literacy programme, across Latin America to bring AI education to nine more countries through support from Google.org. Working with local partner organisations, we offer Experience AI training and resources that teachers can use to enable young people to learn a foundational understanding of… The post Experience AI begins reaching classrooms across Latin America appeared first on Raspberry Pi Foundation.</description>
-      <category>raspberry-pi-foundation</category>
-      <guid isPermaLink="false">circuits-d4b5ca5169553837</guid>
-      <pubDate>Thu, 05 Nov 2026 09:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Print a Star Wars Control Panel</title>
-      <link>https://makezine.com/projects/3d-print-a-star-wars-control-panel/</link>
-      <description>Will Muto from ILM shows how to 3D print a real control panel prop from Star Wars: Andor to control whatever you want! The post 3D Print a Star Wars Control Panel appeared first on Make: DIY Projects and Ideas for Makers.</description>
-      <category>makezine</category>
-      <guid isPermaLink="false">circuits-a261771adb9bc481</guid>
-      <pubDate>Thu, 05 Nov 2026 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1784 – Claude Code Reverse Engineer 121GW Firmware SUCCESS!</title>
-      <link>https://www.eevblog.com/2026/11/05/eevblog-1784-claude-code-reverse-engineer-121gw-firmware-success/</link>
-      <description>Claude Code reverse engineered the entire 12GW firmware into C with a single prompt in under 24 hours, and it works! The field of software engineering has changed completely. 00:00 – Claude vs Claude Code, there is a difference! 02:39 – Hacking a 121GW multimeter for use with the ST-LINK V2 programmer 08:48 – Be …</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-d26bb83454f3c674</guid>
-      <pubDate>Thu, 05 Nov 2026 05:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP-IDF Installation Manager</title>
-      <link>https://www.espressif.com/en/node/11567</link>
-      <description>Language English ESP32ESP32-C3ESP32-C6ESP32-S2ESP32-S3ESP8684ESP32 (*)ESP32-C6-MINI-1ESP32-S2-MINI-1/1UESP32-S3-MINI-1/1UESP8684-MINI-1/1UESP8685ESP32-C3-MINI-1/1UESP32-C6-WROOM-1ESP32-D0WDQ6ESP32-S2-MINI-1UESP32-S3-WROOM-1/1UESP8684-WROOM-02C/02UCESP32-C3-WROOM-02/02UESP32-C6-DevKitC-1ESP32-D2WDESP32-S2-MINI-2/2UESP32-S3-WROOM-2/2UESP8684-WROOM-03ESP32-C6-DevKitM-1ESP32-S0WDESP32-S2-SOLO (-U)ESP32-S3-DevKitC-1ESP8684-WROOM-05ESP8685-WROOM-01ESP32-PICO-V3ESP32-S2-SOLO-2/2UESP32-S3-DevKitM-1ESP8684-WROOM-07ESP8685-WROOM-03ESP32-PICO-V3-02ESP32-S2-WROOM (-I)ESP32-S3-EYEESP8684-DevKitM-1ESP8685-WROOM-04ESP32-PICO-D4ESP32-S2-WROOM-IESP32-S3-Korvo-1ESP8685-WROOM-05ESP32-S2-WROVER (-I)ESP32-S3-Korvo-2ESP32-WROOM-32E/32UEESP8685-WROOM-06ESP32-S2-WROVER-IESP32-WROOM-DAESP8685-WROOM-07ESP32-C3-DevKitM-1ESP32-S2-SOLO-UESP32-WROOM-32SEESP32-C3-DevKitC-02ESP32-S2-Saola-1ESP32-WROVER-E/IEESP32-C3-LyraESP32-MINI-1/1UESP32-S2-DevKitM-1ESP32-PICO-V3-ZERO (*ACK)ESP32-S2-DevKitC-1ESP32-PICO-MINI-02/02UESP32-S2-Kaluga-1ESP32-S2-HMI-DevKit-1ESP32-SOLO-1ESP32-SOLO-1CESP32-DU1906 (-U)ESP32-WROOM-32D/32UESP32-WROOM-32UESP32-WROOM-32ESP32-WROVER-B/IBESP32-WROVER-IBESP32-WROVER (-I)ESP32-WROVER-IESP32-DevKitCESP32-DevKitM-1ESP-WROVER-KITESP-WROVER-KIT-VBESP32-PICO-KITESP32-PICO-KIT-1ESP32-PICO-DevKitM-2ESP-EYEESP32-LyraTESP32-LyraT-MiniESP32-LyraTD-MSCESP32-LyraTD-SYNAESP32-LyraTD-DSPGESP32-Vaquita-DSPGESP32-KorvoESP32-Ethernet-KitESP32-Azure IoT KitESP32-MeshKitESP32-MeshKit-SenseESP32-MeshKit-LightESP32-Sense KitESP32-DevKitC-GoogleCloud IoTESP32-PICO-ZEROESP32-S3-BOXESP32-S3-USB-BridgeESP32-S3-LCD-EV-BoardESP32-S3-USB-OTGESP8684-WROOM-06CESP8684-WROOM-01CESP8684-WROOM-04CESP32-S3-PICO-1ESP8684-DevKitC-02ESP32-C3-LCDkitESP32-C5ESP32-P4ESP32-C2ESP32-C61ESP32-LCDKitESP32-P4-EYEESP32-P4-Function-EV-BoardESP32-C5-WROOM-1/1UESP32-C5-DevKitC-1ESP32-C61-WROOM-1/1UESP32-C61-DevKitC-1ESP-VoCatESP32-C61-MINI-1/1UESP32-S31ESP32-P4X-C5-Function-EV-BoardThe ESP-IDF Installation Manager (EIM) is a unified tool that simplifies the setup process for ESP-IDF and integrated development environments (IDEs) across multiple platforms. This cross-platform installer facilitates the installation of prerequisites, ESP-IDF itself, and essential tools, offering a consistent and user-friendly experience on macOS, Linux, and Windows. latestThursday, November 5, 2026https://docs.espressif.com/projects/idf-im-ui/en/latest/index.htmlSend add/update notification to subscribers: Document Type: GuideDoc Status: Show</description>
-      <category>espressif</category>
-      <guid isPermaLink="false">circuits-6c74deacf18aa62e</guid>
-      <pubDate>Thu, 05 Nov 2026 04:09:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>JP’s Product Pick of the Week 11/3/26</title>
-      <link>https://blog.adafruit.com/2026/11/04/jps-product-pick-of-the-week-11-3-26/</link>
-      <description>This week’s product picks were the NeoPixel Ring – 12 x 5050 WWA with Integrated Drivers and the NeoPixel Ring – 16 x 5050 WWA LED with Integrated Drivers! Want more JP’s Product Pick of the Week?! Tune in every Tuesday on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. LIVE TEXT CHAT IS HERE in […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-c8416ae9d0897e1b</guid>
-      <pubDate>Wed, 04 Nov 2026 14:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's in a Name? Home Assistant 2026.11 Brings a Big Overhaul to Entity and Device Naming</title>
-      <link>https://www.hackster.io/news/what-s-in-a-name-home-assistant-2026-11-brings-a-big-overhaul-to-entity-and-device-naming-ef1ff4d6bdbf</link>
-      <description>"Our goal," says Home Assistant's Artur Pragacz, "is for you to no longer need a naming scheme to keep things tidy."</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-76bcb9d8993e593c</guid>
-      <pubDate>Wed, 04 Nov 2026 13:33:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>STMicroelectronics Announces New "Strategic Evolution" to Focus on Arm Cortex-M STM32 MCUs</title>
-      <link>https://www.hackster.io/news/stmicroelectronics-announces-new-strategic-evolution-to-focus-on-arm-cortex-m-stm32-mcus-2c69cb85ad5a</link>
-      <description>Company aims to "make STM32 the reference MCU platform across industries" including automotive and robotics, says Remi El-Ouzzane.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-198905621a0868ff</guid>
-      <pubDate>Wed, 04 Nov 2026 13:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>LattePanda Mu Ultra Review – An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04</title>
-      <link>https://www.cnx-software.com/2026/11/04/lattepanda-mu-ultra-review-an-intel-core-ultra-7-256v-ai-compute-module-tested-on-ubuntu-26-04/</link>
-      <description>Today, I’m going to review the LattePanda Mu Ultra, a compact x86 compute module designed for on-device AI applications. It comes in two versions, powered by either an Intel Core Ultra 5 226V or a Core Ultra 7 256V processor. Both models feature 16 GB of high-speed LPDDR5X memory running at 8533 MT/s, with the higher-end model delivering up to 115 TOPS of combined AI computing power. In this review, I installed Ubuntu 26.04 and benchmarked the LattePanda Mu Ultra using various tools, including sbc-bench, Geekbench 7, and Geekbench AI. I also tested its CPU, GPU, and NPU performance with llama.cpp and YOLO26 to evaluate its capabilities for AI applications. Finally, I created a fun demo combining YOLO26, MediaPipe, and OpenCV to test real-time computer vision performance, including hand gesture-based image adjustments, using a USB webcam. LattePanda Mu Ultra unboxing The package was shipped from China and arrived in just [...] The post LattePanda Mu Ultra Review – An Intel Core Ultra 7 256V AI Compute Module tested on Ubuntu 26.04 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-545171e8ff0000ef</guid>
-      <pubDate>Wed, 04 Nov 2026 12:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Ridiculous Journey to Set the Clock in a 2014 Renault</title>
-      <link>https://hackaday.com/2026/11/04/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault/</link>
-      <description>As difficult as it may be to believe, it’s not possible to adjust the time on a 2014 Renault Latitude’s in-dash navigation system unless you have an original SD card …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-199c90b67e840253</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
