@@ -5,8 +5,48 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Voyager 1 reaches ‘one light-day’ milestone</title>
+      <link>https://blog.adafruit.com/2026/11/18/voyager-1-reaches-one-light-day-milestone/</link>
+      <description>Christopher K. Walker writes in Scientific American that on November 18, Voyager 1 became the first human-made object to reach one light-day from Earth: 16 billion miles. A radio command sent that day takes 24 hours to arrive, and the reply takes another 24 hours to come back. NASA launched the probe in September 1977. […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-46de2b4950c1cd61</guid>
+      <pubDate>Wed, 18 Nov 2026 14:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-maplibre is a new geospatial plugin for Datasette</title>
+      <link>https://blog.adafruit.com/2026/11/18/datasette-maplibre-is-a-new-geospatial-plugin-for-datasette/</link>
+      <description>Simon Willison has released datasette-maplibre 0.1a0 on his blog, the first new geospatial plugin for Datasette in a while. It pairs the MapLibre GL library with OpenFreeMap, the free vector map server run by Zsolt Ero, and combines what the datasette-cluster-map and datasette-leaflet-geojson plugins do: clustered latitude and longitude points plus GeoJSON shapes, drawn on […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c2adc21d035fb3a5</guid>
+      <pubDate>Wed, 18 Nov 2026 14:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>InMachines Launches its "100% Open" Desktop-Scale Picolla CNC Mill Into Crowdfunding</title>
+      <link>https://www.hackster.io/news/inmachines-launches-its-100-open-desktop-scale-picolla-cnc-mill-into-crowdfunding-f19ab8a74d76</link>
+      <description>Fully open mill comes with the choice of open or enclosed variants and up to a 200W brushless spindle motor.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-8dfbfba29b78646e</guid>
+      <pubDate>Wed, 18 Nov 2026 12:12:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope</title>
+      <link>https://www.cnx-software.com/2026/11/18/web-based-breadboard-simulator-lets-you-build-circuits-fix-errors-and-monitor-designs-with-a-built-in-oscilloscope/</link>
+      <description>Dev Kapadia’s de:volt is a breadboard simulator that runs in your browser. You can place parts and wires on a breadboard, and the circuit runs live the whole time as you build it. The project aims to be as close as a real breadboard would be. It reports errors and warnings, and you can monitor pins with its built-in oscilloscope and/or multimeter. For instance, an LED with no resistor burns out, a weak battery sags under load, a motor pulls current, and a 555 on the 4-channel scope shows its timing capacitor charging and discharging. de:volt highlights: Build circuits on a virtual breadboard using the 105 parts available from the interface: resistors, capacitors, diodes, transistors, LEDs, 555 timers, 74-series and CD4000 logic, EEPROMs, motor drivers, sensors, and more. Four Arduino, BBC micro:bit, and RP2040 MCU boards are also available, and you can write and run MicroPython code from the web [...] The post Web-based breadboard simulator lets you build circuits, fix errors, and monitor designs with a built-in oscilloscope appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-91d697f43dafc6f2</guid>
+      <pubDate>Wed, 18 Nov 2026 08:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>artport: A History of Internet Art</title>
+      <link>https://blog.adafruit.com/2026/11/17/artport-a-history-of-internet-art/</link>
+      <description>artport: A History of Internet Art collage via the Whitney Museum of American Art artport: A History of Internet Art explores how artists have used the internet as both a site and a medium for artistic production. The exhibit will be on view from November 21, 2026 through Mar 28, 2027 at the Whitney Museum […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c4edc632f234b794</guid>
+      <pubDate>Tue, 17 Nov 2026 21:00:24 +0000</pubDate>
+    </item>
     <item>
       <title>ICYMI: The Python on Microcontrollers Newsletter: CircuitPython 11.0.0-alpha.3 Released, Remembering Tim Peters, Python 3.16 Alpha 2 and More!</title>
       <link>https://blog.adafruit.com/2026/11/17/icymi-the-python-on-microcontrollers-newsletter-circuitpython-11-0-0-alpha-3-released-remembering-tim-peters-python-3-16-alpha-2-and-more/</link>
@@ -766,46 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-7b369ef0907a47c9</guid>
       <pubDate>Fri, 06 Nov 2026 03:59:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seeed Studio Breaks New Ground with Its First XIAO Development Board to Feature an STMicro STM32</title>
-      <link>https://www.hackster.io/news/seeed-studio-breaks-new-ground-with-its-first-xiao-development-board-to-feature-an-stmicro-stm32-2ca76ae40a44</link>
-      <description>The STM32C5 includes a 144MHz STM32C5A3CG, 16MB of external flash, twin CAN FD buses, and a heatable IMU.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-34b627dbc6917717</guid>
-      <pubDate>Thu, 05 Nov 2026 14:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>MariaDB enhances agent development for its next-gen database platform</title>
-      <link>https://blog.adafruit.com/2026/11/05/mariadb-enhances-agent-development-for-its-next-gen-database-platform/</link>
-      <description>MariaDB has added four AI agent features to Enterprise Platform 2027, as reported by InfoWorld. They are AI Retrieval, AI Plugins, Agent Memory, and Semantic Cache. AI Retrieval lets agents pull from enterprise documents and live operational data through one managed service, and turns plain-language questions into read-only SQL queries. AI Plugins teach coding agents […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6ba5b23942bddc05</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pine Cone LED Lantern</title>
-      <link>https://blog.adafruit.com/2026/11/05/pine-cone-led-lantern/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Pine Cone LED Lantern By Animaag makerworld.com/en/models/3496033-kabi-the-pine-cone-led-lantern Bambu X1C PolyMaker PLA 6hr 9mins X:173 Y:119 Z:105mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 129g 230mm/s Every Thursday is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-6e09609ca7a0f6a9</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flexi Penguin – Articulated Christmas Edition with Santa Hat #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/11/05/flexi-penguin-articulated-christmas-edition-with-santa-hat-3dthursday-3dprinting/</link>
-      <description>michelem shares: A holiday-themed flexi penguin with a wiggle motion and a Santa hat. Fidget toy, tree ornament, keychain, or fridge magnet. Print-in-place, no supports. Christmas hat version included. Rear slot fits 3×1mm magnets. Suited to multi-color printing. Two files: AMS Multicolor (~4.9h, 1 plate) and No-AMS Single-Color (~25 min, 1 plate). Christmas + flexi […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-b7a6ef07465e4006</guid>
-      <pubDate>Thu, 05 Nov 2026 13:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Finger Joint Cutter Uses a Jigsaw Blade, But Not As We Know It</title>
-      <link>https://hackaday.com/2026/11/05/finger-joint-cutter-uses-a-jigsaw-blade-but-not-as-we-know-it/</link>
-      <description>Around these parts, finger joints (or box joints) are usually the product of laser cutting. [bluesyann] shows us a method of using a stationary jigsaw, a custom blade, and 3D-printed …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-f7055af298f93a13</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
