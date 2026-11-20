@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Ask an Engineer – Raspberry Pi Official Magazine issue 172</title>
+      <link>https://blog.adafruit.com/2026/11/20/ask-an-engineer-raspberry-pi-official-magazine-issue-172/</link>
+      <description>Issue 172 of Raspberry Pi Official Magazine leads with Ask an Engineer, a set of interviews with the Raspberry Pi engineers who design the boards, collecting their advice for makers. The projects cover a range of builds. Kat Shann, a documentation specialist at Raspberry Pi, made a Raspberry Pi-controlled ouija board. Tara Carter built a […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-448da41a9aafe17f</guid>
+      <pubDate>Fri, 20 Nov 2026 14:32:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW GUIDE: Adafruit MCP2222 Breakout #AdafruitLearningSystem @Adafruit</title>
+      <link>https://blog.adafruit.com/2026/11/20/new-guide-adafruit-mcp2222-breakout-adafruitlearningsystem-adafruit/</link>
+      <description>What can the MCP2222 chip do? This chip from Microchip is similar to a USB to serial converter chips but adds a GPIO, UART Serial, SPI and I2C interface as well. The I2C interface is great for talking to OLEDs, sensors, PWM drivers, it’s the most popular interface for small devices. SPI is for more […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2e642c2c9c678209</guid>
+      <pubDate>Fri, 20 Nov 2026 14:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing AI education to 300,000 young people across Canada</title>
+      <link>https://www.raspberrypi.org/blog/bringing-ai-education-to-300000-young-people-across-canada/</link>
+      <description>We’re pleased to share that we will expand Experience AI across Canada to train 7,000 educators who will reach an estimated 300,000 young people across the country by 2028. This is made possible through our partnerships with Canadian education organisations Actua and Digital Moment, and generously supported by $2 million in funding from Google.org. Together… The post Bringing AI education to 300,000 young people across Canada appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-74234c4a71ea1806</guid>
+      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Geographical History of Native Americans</title>
+      <link>https://blog.adafruit.com/2026/11/20/a-geographical-history-of-native-americans/</link>
+      <description>via National Geographic Kids National Geographic Kids has child-friendly resources on the history of Native Americans by geographical location.</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2e84f921488d812d</guid>
+      <pubDate>Fri, 20 Nov 2026 13:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacking The Contra Pocket Player</title>
+      <link>https://hackaday.com/2026/11/20/hacking-the-contra-pocket-player/</link>
+      <description>The My Arcade Contra Pocket Player is a fun little handheld that lets you play the arcade versions of Contra and Super Contra… and nothing else. However, [Rob Simon] put …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-50b09610a31e7b5d</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>TinZr Is a Permissively-Licensed Espressif ESP32-C3-Powered Wearable Data Acquisition Board</title>
+      <link>https://www.hackster.io/news/tinzr-is-a-permissively-licensed-espressif-esp32-c3-powered-wearable-data-acquisition-board-2a6737cdbf3a</link>
+      <description>Inspired by a project to monitor jet pilots' vital signs, TinZr packs a lot of functionality into a very small footprint.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-42e1cacb66c4c2ae</guid>
+      <pubDate>Fri, 20 Nov 2026 11:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port</title>
+      <link>https://www.cnx-software.com/2026/11/20/guition-esp32-s31-development-kit-features-7-inch-capacitive-touch-display-ethernet-port/</link>
+      <description>After the Waveshare ESP32-S31-Touch-LCD-4.3C and VIEWE PLCM-UES31S043H800V480C-U, the GUITION JC1060F570C is another ESP32-S31 development kit with an integrated 7-inch touchscreen display. Some companies might reconsider the way they name their product… Leaving that aside, the GUITION devkit is especially interesting as it features a large 7-inch capacitive display compared to the 4.3-inch panels used in the other two models, and it’s the first to make use of the native Ethernet interface from the ESP32-S31 SoC. GUITION JC1060F570C_I_W_Y specifications: Wireless module – ESP32-S31-WROOM-3-N16R16V SoC – ESP32-S31NRV16 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – 512 KB SRAM, 32 KB low-power SRAM, 16MB PSRAM Wireless – 2.4 GHz WiFi 6 (802.11ax) Bluetooth 5.4 with support for LE Audio, direction finding, Bluetooth Mesh 1.1, and Classic (BR/EDR) 802.15.4 radio for Zigbee, Thread, and Matter Storage – 16 MB flash Antenna – PCB [...] The post GUITION ESP32-S31 development kit features 7-inch capacitive touch display, Ethernet port appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-a3075a945e92878f</guid>
+      <pubDate>Fri, 20 Nov 2026 10:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Hundred Gratuitous Case Fans? We’re Fans of This.</title>
+      <link>https://hackaday.com/2026/11/20/one-hundred-gratuitous-case-fans-were-fans-of-this/</link>
+      <description>Sometimes you can’t help but boast about a project once you have it in your hands. [Sasa Karanovic] proudly declared that his new fan controller could handle “one hundred fans, …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-456da782c8c92ac7</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>M5Stack Chain Captain – An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx</title>
+      <link>https://www.cnx-software.com/2026/11/20/m5stack-chain-captain-an-esp32-s3-multifunctional-controller-with-1-54-inch-color-display-audio-motion-sensing-ir-tx-rx/</link>
+      <description>M5Stack Chain Captain is an ESP32-S3-based multifunctional programmable controller that features a 1.54-inch color square display, a speaker and microphone for audio interaction, motion sensing, and infrared transmission and reception. The IoT controller features 16MB SPI flash and 8MB on-chip PSRAM, Chain and Grove 4-pin ports, a 15-pin GPIO header, and several buttons and RGB. It’s powered by an 800 mAh battery that can be charged at 5V through USB-C or any of the expansion connectors. Chain Captain Dev Kit (ESP32-S3) specifications: SoC – Espressif ESP32-S3R8 CPU – Dual-core Tensilica LX7 microcontroller up to 240 MHz with vector instructions for AI acceleration Memory – 8MB PSRAM Wireless – WiFi 4 and Bluetooth 5.0 LE + Mesh connectivity Storage – 16MB SPI flash Display – 1.54-inch color LCD with 240 x 240 resolution; JD9853A SPI driver Audio ES8311 audio codec AW8737A amplifier 1W / 8Ω speaker MEMS microphone USB – USB [...] The post M5Stack Chain Captain – An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5e344e95f6b96612</guid>
+      <pubDate>Fri, 20 Nov 2026 08:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask an engineer – exclusive advice from the brains behind Raspberry Pi</title>
+      <link>https://www.raspberrypi.com/news/ask-an-engineer-exclusive-advice-from-the-brains-behind-raspberry-pi/</link>
+      <description>Meet a few of the Raspberry Pi engineers who create our devices and make sure they keep working for you. The post Ask an engineer – exclusive advice from the brains behind Raspberry Pi appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-6a7a2b79e3372def</guid>
+      <pubDate>Fri, 20 Nov 2026 07:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Friday and Cyber Monday 2026 international deals and coupons</title>
+      <link>https://www.cnx-software.com/2026/11/20/black-friday-and-cyber-monday-2026-international-deals-and-coupons/</link>
+      <description>As I do every year, I’ve gathered a list of relevant international deals for Black Friday and Cyber Monday 2026 since many CNX Software readers cannot benefit from promotions on Amazon’s Black Friday and Cyber Monday events starting today (November 20) and ending on November 30. The list includes deals, discount coupon codes, and events from relevant manufacturers of single board computers, MCU development boards, mini PCs, Smart Home devices, and DIY products, as well as popular online stores, including AliExpress, Banggood, and others. AliExpress Black Friday and Cyber Monday 2026 AliExpress Black Friday and Cyber Monday 2026 sale runs from November 19 through December 3, 2026. You can tick the “Black Friday” box in the filter after searching and use the following codes for further discounts: OPOC120SS – $120 OFF for $600+ orders OPOC100SS – $100 OFF for $500+ orders OTSBFTH77 – $77 OFF for $460+ orders Banggood Black [...] The post Black Friday and Cyber Monday 2026 international deals and coupons appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-32ff9a8716ca13e2</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:10 +0000</pubDate>
+    </item>
     <item>
       <title>Tandy 1000 models from 1984 to 1992</title>
       <link>https://blog.adafruit.com/2026/11/19/tandy-1000-models-from-1984-to-1992/</link>
@@ -718,94 +806,6 @@
       <category>cnx-software</category>
       <guid isPermaLink="false">circuits-43af1665dc4dcca3</guid>
       <pubDate>Sun, 08 Nov 2026 08:00:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making a Dog Car Wash Without (very) Fancy Tools</title>
-      <link>https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/</link>
-      <description>[Stuff Made Here] got fed up with the hassle of washing their dog, and in traditional engineer fashion, decided that automating the process would solve the problem. However, as science …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9af9b6f2d6ee4769</guid>
-      <pubDate>Sun, 08 Nov 2026 06:00:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artemis II Rocket Was Powerful Enough to Disrupt GPS</title>
-      <link>https://hackaday.com/2026/11/07/artemis-ii-rocket-was-powerful-enough-to-disrupt-gps/</link>
-      <description>Rockets certainly have a substantial impact if you ever see a launch in person. The noise, shock waves, and even heat can be awe-inspiring. What is less obvious are the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-bb2934a1480245e7</guid>
-      <pubDate>Sun, 08 Nov 2026 03:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adafruit New Products this Week: LT8912B DSI to DVI Converter</title>
-      <link>https://blog.adafruit.com/2026/11/07/adafruit-new-products-this-week-lt8912b-dsi-to-dvi-converter/</link>
-      <description>We’ve got the New nEw NEW for you right here Coming Soon! Adafruit LT8912B DSI to DVI Converter Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new products, special […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-97eac3c2ccc525bd</guid>
-      <pubDate>Sun, 08 Nov 2026 01:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Your Own E-Reader for $40</title>
-      <link>https://blog.adafruit.com/2026/11/07/build-your-own-e-reader-for-40/</link>
-      <description>Allan Binder of MUON SORTES shares this how to guide for building an affordable e-reader. And head to Allan Binder‘s instagram for a more polished look and future iterations. You need four things: an ESP32-S3 dev board, an e-paper panel with its adapter board, a five-way button module, and a way to power it. Total […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-33cd71380589d710</guid>
-      <pubDate>Sat, 07 Nov 2026 21:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waveshare Launches the ESP32-S31-Zero</title>
-      <link>https://www.hackster.io/news/waveshare-launches-the-esp32-s31-zero-fcceffc58d65</link>
-      <description>Waveshare's tiny ESP32-S31-Zero packs a 320 MHz dual-core RISC-V processor, Wi-Fi 6, Bluetooth 5.4, and up to 32MB of PSRAM.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-71a6de33163b8ef1</guid>
-      <pubDate>Sat, 07 Nov 2026 18:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Microcontroller Inside a LoRa chip</title>
-      <link>https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/</link>
-      <description>If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-5a692e2c5e363599</guid>
-      <pubDate>Sat, 07 Nov 2026 12:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Bike-Friendly, DIY Action Cam Stereo Microphone</title>
-      <link>https://hackaday.com/2026/11/07/a-bike-friendly-diy-action-cam-stereo-microphone/</link>
-      <description>[DJJules] had two problems. Being an avid biker, recording audio on a bike-mounted action camera was less than ideal due to wind. In addition, the built-in microphone on action cameras …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-1f607b5324121c88</guid>
-      <pubDate>Sat, 07 Nov 2026 09:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash</title>
-      <link>https://www.cnx-software.com/2026/11/07/waveshare-esp32-s31-zero-a-tiny-esp32-s31-board-with-up-to-32mb-psram-32mb-spi-flash/</link>
-      <description>Waveshare ESP32-S31-Zero is a small ESP32-S31 development board that follows the form factor of the earlier Waveshare “Zero” boards, such as the ESP32-C6-Zero-B, RA4M1-Zero, and ESP32-S3-Zero, among others. The new tiny board still features a USB-C port for power and programming, as well as eighteen through and castellated holes for GPIO and power signals, but it boasts a more powerful ESP32-S31 dual-core RISC-V MCU clocked at up to 320 MHz, featuring 2.4 GHz WiFi 6, Bluetooth 5.3, and 802.15.4 connectivity, as well as up to 32MB on-chip PSRAM and a 16MB or 32MB SPI flash chip. Since the ESP32-S31 has quite a few extra I/Os, Waveshare also added a 40-pin high-density connector for LCD, touchscreen, SD card, USB 2.0, and extra GPIOs. Waveshare ESP32-S31-Zero specifications: SoC – Espressif Systems ESP32-S31 CPU RISC-V HP (High-performance) RV32IMAFCP CPU @ 320 MHz with FPU, SIMD, etc. RISC-V LP (Low-power) MCU core Memory – [...] The post Waveshare ESP32-S31-Zero – A tiny ESP32-S31 board with up to 32MB PSRAM, 32MB SPI flash appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-eb8a68889f9639e6</guid>
-      <pubDate>Sat, 07 Nov 2026 03:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thieves Make Off with $11.4 Million in NVIDIA Hardware</title>
-      <link>https://www.hackster.io/news/thieves-make-off-with-11-4-million-in-nvidia-hardware-2ed97d47eff2</link>
-      <description>We've all heard about AI stealing jobs, but these thieves turned the tables by making a job out of stealing $11 million in AI hardware.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-6f43f1efcc625b2c</guid>
-      <pubDate>Fri, 06 Nov 2026 23:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are contemporary technologies like GPS, phones, and AI deskilling humans?</title>
-      <link>https://blog.adafruit.com/2026/11/06/are-contemporary-technologies-like-gps-phones-and-ai-deskilling-humans/</link>
-      <description>Jason Kottke posted a short link on kottke.org asking whether tools like GPS, phones, and AI are deskilling the human body. The quote he pulls out makes the case: “In surrendering to a quick technological fix, we are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending.” The argument is about the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-499c5b400c86e9e3</guid>
-      <pubDate>Fri, 06 Nov 2026 21:40:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>ESP32 Demoboard: New demo projects using on-board hardware</title>
-      <link>https://blog.adafruit.com/2026/11/06/esp32-demoboard-new-demo-projects-using-on-board-hardware/</link>
-      <description>oeadmin continues the ESP32 demoboard series on Open Electronics with five more Arduino examples that use the board’s OLED display and its plug-in breakout modules. The first reads hand gestures from an APDS-9960 sensor, a part that detects light, color and motion from about 10 to 20 cm away, and prints the direction on the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7bae042d69ac7342</guid>
-      <pubDate>Fri, 06 Nov 2026 21:36:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
