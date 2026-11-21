@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Custom Firmware For The CMU200</title>
+      <link>https://hackaday.com/2026/11/21/custom-firmware-for-the-cmu200/</link>
+      <description>The Rhode &amp; Schwarz CMU200 and CMU300 communications analyzers are useful tools for a variety of tasks in the RF space. However, [iu2frl] decided that they could be a little …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7a88d1f64894c8d8</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>HDMI to CSI For Anyone</title>
+      <link>https://hackaday.com/2026/11/21/hdmi-to-csi-for-anyone/</link>
+      <description>Digitizing an HDMI source should in theory be straightforward, but the interfaces on offer are often disappointing. But happily there’s another way, which is to transform the HDMI into CSI …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-d155576e4c3b613d</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-Speed Camera Robot Can Track a Bee in Real-Time</title>
+      <link>https://www.hackster.io/news/high-speed-camera-robot-can-track-a-bee-in-real-time-f8cc477ac408</link>
+      <description>Jeremy Fielding built this high-speed camera robot that can track a flying bee in real-time.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-c24e0400245d94bb</guid>
+      <pubDate>Fri, 20 Nov 2026 21:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Park’s CircuitPython Parsec: Display Shapes: Arc</title>
+      <link>https://blog.adafruit.com/2026/11/20/john-parks-circuitpython-parsec-display-shapes-arc/</link>
+      <description>#circuitpythonparsec Create beautiful arcs with CircuitPython display shapes’s arc command. Try out the code example To learn about CircuitPython: https://circuitpython.org</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c0f72aab23706187</guid>
+      <pubDate>Fri, 20 Nov 2026 18:20:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>A KIM-1 tape conversion program for modern computers #OpenSource</title>
+      <link>https://blog.adafruit.com/2026/11/20/a-kim-1-tape-conversion-program-for-modern-computers-opensource/</link>
+      <description>Hans Otten has published a Free Pascal port of KIMTAPE 0.5, Ed Smeda’s DOS utility for converting KIM-1 and SYM-1 cassette tape audio into program files and back. The Free Pascal source means it builds on Windows, Linux and macOS, and the command line matches the original with some additions. The interesting part is a […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-b351c91eb873e99a</guid>
+      <pubDate>Fri, 20 Nov 2026 16:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>PC Shadow Model PCT 5000 video terminal</title>
+      <link>https://blog.adafruit.com/2026/11/20/pc-shadow-model-pct-5000-video-terminal/</link>
+      <description>A post on emergent.unpythonic.net covers a PC Shadow Model PCT 5000, a green screen CRT terminal that arrived along with a large stack of 8″ single sided, single density floppy disks. The terminal is in reasonably good shape apart from dead and dying RIFA capacitors, the mains filter caps of that era that crack and […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e9f77b3b5b5551df</guid>
+      <pubDate>Fri, 20 Nov 2026 15:54:34 +0000</pubDate>
+    </item>
     <item>
       <title>Ask an Engineer – Raspberry Pi Official Magazine issue 172</title>
       <link>https://blog.adafruit.com/2026/11/20/ask-an-engineer-raspberry-pi-official-magazine-issue-172/</link>
@@ -70,6 +118,14 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-456da782c8c92ac7</guid>
       <pubDate>Fri, 20 Nov 2026 09:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug Advisory Concerning ESP32-P4 Applications Reading Stale Data in L1 Cache at Startup</title>
+      <link>https://www.espressif.com/en/node/11645</link>
+      <description>Language English AR2026-009BugsReleased Date: Friday, November 20, 2026Download: ar2026-009_bug_advisory_concerning_esp32-p4_applications_reading_stale_data_in_l1_cache_at_startup_en.pdfVersion: V1.0Advisories Status: ShowBody: This advisory describes a issue of ESP32-P4 applications reading stale data in L1 cache at startup and provides the mitigation methods.Product Series: ESP32-P4 SeriesOfficial SDK Version: v5.3v5.3.1v5.3.3v5.3.2v5.5v5.4.2v5.4.1v5.4v5.5.1v6.0.1v6.0v6.0.2Fixed Status: Fixed with Commit</description>
+      <category>espressif</category>
+      <guid isPermaLink="false">circuits-4bb729c23093d905</guid>
+      <pubDate>Fri, 20 Nov 2026 08:37:49 +0000</pubDate>
     </item>
     <item>
       <title>M5Stack Chain Captain – An ESP32-S3 multifunctional controller with 1.54-inch color display, audio, motion sensing, IR Tx/Rx</title>
@@ -750,62 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-a64fdef7aaffaaba</guid>
       <pubDate>Mon, 09 Nov 2026 14:14:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>RHYTHM Puts a Modern Spin on the Classic MP3 Player</title>
-      <link>https://www.hackster.io/news/rhythm-puts-a-modern-spin-on-the-classic-mp3-player-9623c51c4627</link>
-      <description>RHYTHM brings back the dedicated MP3 player with high-res audio, dual headphone jacks, retro LED visualizers, and even Doom.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-e1444b66be79b63f</guid>
-      <pubDate>Mon, 09 Nov 2026 13:19:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating</title>
-      <link>https://www.cnx-software.com/2026/11/09/seeed-studio-xiao-stm32c5-development-board-features-dual-can-fd-and-a-6-axis-imu-with-programmable-heating/</link>
-      <description>Seeed Studio XIAO STM32C5 is the company’s first XIAO development board based on an STMicroelectronics MCU, namely a 144 MHz STM32C5A3CG Arm Cortex-M33 microcontroller. It features two CAN FD controllers and a 6-axis IMU with programmable heating for robotics, industrial control, and motion-sensing applications. The board also includes 16MB of external flash, a 48 MHz external crystal, a USB-C port, and battery charging circuitry. One CAN FD channel is connected to an onboard transceiver, while the second requires an external transceiver. The integrated IMU heater allows firmware to control sensor temperature and reduce measurement drift from temperature changes. XIAO STM32C5 specifications: MCU – STMicroelectronics STM32C5A3CG CPU – 144 MHz Arm Cortex-M33 with FPU and DSP instructions Memory – 256KB SRAM Storage – 1MB internal flash Storage – 16MB external flash USB – USB Type-C port with USB 2.0 Full-Speed support (12 Mbps) CAN Bus 2x CAN FD controllers (FDCAN1 and [...] The post Seeed Studio XIAO STM32C5 development board features dual CAN FD and a 6-axis IMU with programmable heating appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-ed8f991c21a19605</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Web Satellite Tracker Plays the Music of the Spheres</title>
-      <link>https://hackaday.com/2026/11/09/web-satellite-tracker-plays-the-music-of-the-spheres/</link>
-      <description>There are a dizzying number of satellites in orbit around the Earth these days, and more are being added at an incredible rate. Those of us with an interest in …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-6a944e68a6347454</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
-      <link>https://blog.adafruit.com/2026/11/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-8-2/</link>
-      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-e50ee26b17362ed9</guid>
-      <pubDate>Mon, 09 Nov 2026 05:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Friday Deal: Over $200 Off the VZMORE AX9 Max Mini PC! (Sponsored)</title>
-      <link>https://www.cnx-software.com/2026/11/09/black-friday-deal-over-200-off-the-vzmore-ax9-max-mini-pc/</link>
-      <description>Mini PC manufacturer VZMORE has launched an early Black Friday deal for its AMD Ryzen AI 9 HX 470-powered VZMORE AX9 Max model: $229 off, bringing the regular price down to $1,270 from $1,499. The VZMORE AX9 Max mini PC ships with 32GB DDR5 and a 1TB NVMe SSD preloaded with Windows 11 Pro. It features four video outputs (2x HDMI 2.1, 2x USB-C) , a 3.5mm audio jack, two 2.5GbE ports, and WiFi 7 and Bluetooth 5.4 connectivity, as well as a range of USB 2.0, USB 3.2, and USB4 ports. VZMORE AX9 Max specifications: SoC – AMD Ryzen AI 9 HX 470 CPU – 12-core/24-thread processor (4x Zen 5, 8x Zen 5c) clocked at up to 5.2 GHz GPU – 16-core AMD Radeon 890M clocked at up to 3.1 GHz AI accelerator – 55 TOPS Ryzen AI NPU; Up to 86 combined TOPS Power Modes Silent – 45 [...] The post Black Friday Deal: Over $200 Off the VZMORE AX9 Max Mini PC! (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-e056719fbf55cf64</guid>
-      <pubDate>Mon, 09 Nov 2026 04:00:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ham radio operator helps police with robbery #HamSunday</title>
-      <link>https://blog.adafruit.com/2026/11/08/ham-radio-operator-helps-police-with-robbery-hamsunday/</link>
-      <description>Wikipedia has a detailed account of the Baker Street robbery, the September 1971 burglary of safety deposit boxes at the Lloyds Bank branch at 185 Baker Street in London. A gang rented a leather goods shop two doors away and dug a 40 foot tunnel to come up under the vault floor. A jack failed, […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a3c2e95a06fc3b5f</guid>
-      <pubDate>Sun, 08 Nov 2026 14:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press</title>
-      <link>https://www.cnx-software.com/2026/11/08/procolored-k13-lite-dtf-printer-review-custom-apparel-printing-with-printer-curing-oven-and-heat-press/</link>
-      <description>Back in May, we wrote about the Procolored X One 3-in-1 laser engraver with UV and UV-DTF color printing, and the company contacted us a few months later for a review. But instead of having us review the laser engraver, they proposed that we test their K13 Lite DTF printer “developed for small businesses and creators producing customized apparel and merchandise”. Basically, a T-shirt printer using DTF (Direct-to-Film) technology. I wasn’t so sure at first, since T-shirt and garment printing isn’t exactly one of the primary topics we cover here at CNX Software! But I eventually decided to go ahead, since it might be interesting to understand the setup process, workflow, software, print quality/durability, and maintenance requirements for such a machine. So, let’s get started! Procolored K13 Lite DTF printer (and friends) unboxing A DTF printer does not print directly onto ordinary paper or garments. It prints the design onto [...] The post Procolored K13 Lite DTF printer review – Custom apparel printing with printer, curing oven, and heat press appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-43af1665dc4dcca3</guid>
-      <pubDate>Sun, 08 Nov 2026 08:00:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
