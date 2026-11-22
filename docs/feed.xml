@@ -5,8 +5,48 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Potatoes Grow in Simulated Lunar Soil as Well as on Earth</title>
+      <link>https://hackaday.com/2026/11/22/potatoes-grow-in-simulated-lunar-soil-as-well-as-on-earth/</link>
+      <description>Popularized by a certain book about a Martian, growing potatoes in very non-Earth-like environments has become somewhat of a meme. Perhaps unsurprisingly, it’s not so far from actual science being …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-57c17fb8b38ce3e9</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>4-in-1 Raspberry Pi HAT combines RTL-SDR, LoRa, GPS, and RTC</title>
+      <link>https://www.cnx-software.com/2026/11/22/4-in-1-raspberry-pi-hat-combines-rtl-sdr-lora-gps-and-rtc/</link>
+      <description>Guangzhou-based HackerGadgets has launched a 4-in-1 Raspberry Pi HAT that offers RTL-SDR and LoRa connectivity, GPS and Beidou/GLONASS GNSS, and a PCF85063A real-time clock (RTC). The SDR part is implemented through an RTL2832U+R860 combo supporting 100 kHz to 1.74 GHz frequency and 100 kHz-28.8 MHz HF direct sampling. The HAT also features a Semtech SX1262 LoRa transceiver supporting the 860-960 MHz frequency band, 22 dBm max output power, and Meshtastic firmware. Users can select between U.FL and SMA versions depending on the type of antennas they plan to use. RTL-SDR/LoRa/GPS/RTC HAT specifications: Compatibility Raspberry Pi 3B, 4B, and 5 – Direct installation. Raspberry Pi Zero and Zero 2 W – Direct installation if the board has a 40-pin header; check overall height and power capacity. Software-defined radio (SDR) module Chips – Realtek RTL2832U + Rafael Micro R860 as used in many RTL-SDR USB dongles Frequency Range – 100 kHz – [...] The post 4-in-1 Raspberry Pi HAT combines RTL-SDR, LoRa, GPS, and RTC appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-7a02496faef5c057</guid>
+      <pubDate>Sun, 22 Nov 2026 03:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A USB Graphics Card for Just 20 Cents</title>
+      <link>https://www.hackster.io/news/a-usb-graphics-card-for-just-20-cents-7381b439acd2</link>
+      <description>Bitluni created a USB graphics adapter for just 20 cents using a tiny RISC-V chip to display text and grayscale graphics on an old TV.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-eb46608ac9cc7e27</guid>
+      <pubDate>Sat, 21 Nov 2026 22:35:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT for the SNES</title>
+      <link>https://blog.adafruit.com/2026/11/21/chatgpt-for-the-snes/</link>
+      <description>Will fitting ChatGPT onto hardware become the new “does it run Doom?” Benj Edwards worked to put chat onto a Super Nintendo! ChatGPT for SNES is an unofficial experiment designed by Benj Edwards and coded by AI agents: a ChatGPT-style chat program for the Super Nintendo. Its training conversations were written by gpt-oss-120b, OpenAI’s open-weight […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-00840958326e833f</guid>
+      <pubDate>Sat, 21 Nov 2026 18:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adafruit New Products this Week: Featuring Adafruit VL53L7CX Time-of-Flight Distance 8×8 Pixel Camera – STEMMA QT / Qwiic</title>
+      <link>https://blog.adafruit.com/2026/11/21/adafruit-new-products-this-week-featuring-adafruit-vl53l7cx-time-of-flight-distance-8x8-pixel-camera-stemma-qt-qwiic/</link>
+      <description>We’ve got the New nEw NEW for you right here This week we debut 4 New Products. Visit www.adafruit.com/new for more info.</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-61913554f31866da</guid>
+      <pubDate>Sat, 21 Nov 2026 17:58:49 +0000</pubDate>
+    </item>
     <item>
       <title>Custom Firmware For The CMU200</title>
       <link>https://hackaday.com/2026/11/21/custom-firmware-for-the-cmu200/</link>
@@ -22,6 +62,14 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-d155576e4c3b613d</guid>
       <pubDate>Sat, 21 Nov 2026 09:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Timekettle LiveTalk review – Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations</title>
+      <link>https://www.cnx-software.com/2026/11/21/timekettle-livetalk-review-open-ear-earbuds-with-real-time-ai-translation-of-videos-phone-calls-face-to-face-conversations/</link>
+      <description>We’ve received a review sample for the Timekettle LiveTalk, a pair of open-ear earbuds that supports real-time AI translation and AI-powered conversation summaries. It supports 53 languages and 107 accents, including 25 language pairs available offline. I’ll start with an unboxing, share my experience using the LiveTalk as standard earbuds, then focus on the AI translation features by watching videos in German and Thai and discussing in Thai and French, both face-to-face and over the phone. Timekettle LiveTalk unboxing The retail package highlights the key features of the Timekettle “LiveTalk AI translation Earbuds”, which support Bluetooth connectivity, AI, and up to 8 hours/35 hours (with case) of battery life. It also mentions 53 supported languages, AI live summaries, privacy protection/GDPR compliance, and an “all-day comfort” open-ear design. You’ll find the charging case, a USB-C to USB-A charging cable, a Quick Start Guide in English, and a multilingual safety sheet in [...] The post Timekettle LiveTalk review – Open-ear earbuds with real-time AI translation of videos, phone calls, face-to-face conversations appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-ad51f6ff4fe88d32</guid>
+      <pubDate>Sat, 21 Nov 2026 04:40:25 +0000</pubDate>
     </item>
     <item>
       <title>High-Speed Camera Robot Can Track a Bee in Real-Time</title>
@@ -758,54 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-6611716f75d7bfba</guid>
       <pubDate>Tue, 10 Nov 2026 11:34:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>KiCad 10 now (unofficially) runs in a web browser or Android</title>
-      <link>https://www.cnx-software.com/2026/11/10/kicad-10-now-unofficially-runs-in-a-web-browser-or-android/</link>
-      <description>It’s now possible to run KiCad 10 directly in a web browser or as an Android app thanks to two separate open-source projects, unaffiliated with the official KiCad project. Let’s have a look at both. Ziro Designer/ZiroEDA – KiCad 10 in your web browser Akshay Rukade (ZiroEDA), an engineering student in India, ported KiCad 10.0.6 to the browser through the Ziro Designer/ZiroEDA Designer project. It’s a TypeScript translation of KiCad’s C++, kept file-for-file against the KiCad implementation, so the real schematic editor, PCB editor, interactive router, and ERC/DRC run in a browser tab and read and write normal KiCad projects. That means you can open local KiCad projects or designs hosted on GitHub directly in a web browser without having to install KiCad 10 itself on your computer, and it should also enable machines that do not natively support KiCad (e.g., RISC-V, Android tablet, iPad…) to run it. Akshay highlights [...] The post KiCad 10 now (unofficially) runs in a web browser or Android appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-dc09df61f6bdb969</guid>
-      <pubDate>Tue, 10 Nov 2026 07:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>EEVblog 1785 – Mailbag</title>
-      <link>https://www.eevblog.com/2026/11/10/eevblog-1785-mailbag/</link>
-      <description>More Mailbag! 00:00 – Ziboo 17B Pro 1500V Multimeter GIVEAWAY Giveaway here: https://www.eevblog.com/forum/blog/eevblog-1785-mailbag/ 02:05 – Hexapod Prototype PCB’s 12:41 – AnapNeo Pro Environmental Air Sensor Kickstarter https://marvtech.uk/ 35:52 – Polar Inspect Polarised Magnifier from Prunt3D 40:34 – Teslong TDS450S Dual lens Articulating Borescope Liked this video? You can 1-off donate: https://www.paypal.com/paypalme/eevblog https://donateopen.com/@eevblog</description>
-      <category>eevblog</category>
-      <guid isPermaLink="false">circuits-c26d8467ebcaea0e</guid>
-      <pubDate>Tue, 10 Nov 2026 04:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/11/10/controlbox-home-assistant-solution-is-designed-for-floor-heating-systems-house-lighting-1-wire-sensors/</link>
-      <description>DomeCtrl’s ControlBox is a Raspberry Pi 5-based controller running Home Assistant and primarily designed for hydronic radiant floor heating (RFH) systems. It also supports lighting solutions and integration with energy devices such as solar collectors, photovoltaic installations, heat pumps, hydraulic pumps &amp; valves. The system controls thermal valves, hydraulic PWM pumps, and related RFH devices, and can read multiple 1-wire temperature sensors over long cables (&gt;6 m). The ControlBox also features 32 LED-strip output channels, for up to 2 kW output. ControlBox specifications: Main board – Raspberry Pi 5 SBC with 4GB RAM Storage – 128GB NVMe SSD pre-loaded with Home Assistant Wired Communication Gigabit Ethernet on SBC Half-duplex RS485 communication bus (5 V) Wireless WiFi 5 and Bluetooth 5 on SBC W32-ESP01 header for control via ESPHome 433 MHz transmitter &amp; receiver modules for communication with wireless peripherals like ‘ClickOnClickOff’, curtain rails, screens, garage doors, etc. I/Os via terminal [...] The post ControlBox Home Assistant solution is designed for floor heating systems, house lighting, 1-wire sensors (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-8d3bfd69ecd8cd85</guid>
-      <pubDate>Tue, 10 Nov 2026 04:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-sufficient mobile weather station</title>
-      <link>https://www.raspberrypi.com/news/self-sufficient-mobile-weather-station/</link>
-      <description>A weather research station powered by the weather itself. The post Self-sufficient mobile weather station appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-9c689b397c108544</guid>
-      <pubDate>Mon, 09 Nov 2026 21:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>A DEC PDP-8/E restoration log</title>
-      <link>https://blog.adafruit.com/2026/11/09/a-dec-pdp-8-e-restoration-log/</link>
-      <description>The Rhode Island Computer Museum has posted a long restoration log for a DEC PDP-8/E, covering work from February 2014 into 2016. The machine came in with mouse droppings in the chassis, dead panel lamps and two processor boards installed backwards. The Omnibus backplane carries a manufacturing date of 5/14/74. Much of the log is […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5e622a03815d9910</guid>
-      <pubDate>Mon, 09 Nov 2026 14:39:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gridfinity Cable Organizer Box – 5 Slots for USB/USB-C/USB-A/Chargers #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/11/09/gridfinity-cable-organizer-box-5-slots-for-usb-usb-c-usb-a-chargers-3dthursday-3dprinting/</link>
-      <description>lukas_3d shares: A Gridfinity cable organizer box with five slots. 83×125×84mm (W×L×H). 2×3 Gridfinity units. Base generator: Gridfinity Rebuilt &gt; Base, grid base size 42, style ‘Thin’. ~4.8h, 1 plate. 5.0★ from 52 ratings. Tagged for USB, USB-C, USB-A, and charger storage. Pairs with the Modular Desk Tool Organizer (4PM) and Gridfinity Knife Block (5PM) […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-a64fdef7aaffaaba</guid>
-      <pubDate>Mon, 09 Nov 2026 14:14:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
