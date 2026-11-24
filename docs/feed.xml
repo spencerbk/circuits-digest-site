@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Giving my forgotten Android device a desk job</title>
+      <link>https://blog.adafruit.com/2026/11/24/giving-my-forgotten-android-device-a-desk-job/</link>
+      <description>Nick Indge, writing for Ars Technica, turned an old AllDoCube tablet into a desk display with PhoneBox, an open-source program that pairs an Android device with a PC. The tablet shows live performance and diagnostic information from the computer, along with other content. It’s MIT-licensed, runs on Android 5.0 or later, and the app is […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-7a760d77184f1ff3</guid>
+      <pubDate>Tue, 24 Nov 2026 14:35:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amiga never before heard stories with Rob Gemmell</title>
+      <link>https://blog.adafruit.com/2026/11/24/amiga-never-before-heard-stories-with-rob-gemmell/</link>
+      <description>Boing And Beyond has posted the full audio presentation from the AmiWest 2026 banquet, featuring industrial designer Rob Gemmell. The talk runs about 41 minutes. Gemmell designed the Amiga 500 case, and he covers that along with Amiga projects that didn’t ship. He also talks about his earlier work with George Lucas on Star Wars […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-ee4662114f243418</guid>
+      <pubDate>Tue, 24 Nov 2026 14:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICYMI: Python on Microcontrollers Newsletter: CircuitPython displayio on LVGL, MicroPython v1.30 Nears, Breadboard Simulator and More!</title>
+      <link>https://blog.adafruit.com/2026/11/24/icymi-python-on-microcontrollers-newsletter-circuitpython-displayio-on-lvgl-micropython-v1-30-nears-breadboard-simulator-and-more/</link>
+      <description>If you missed Monday’s Python on Microcontrollers Newsletter, here is the ICYMI (in case you missed it) version. To never miss another issue, subscribe now! You’ll get one terrific newsletter each Monday, ad-free and spam-free. Note Thanksgiving Week (US) will have an abbreviated newsletter due to the holiday. From the Editor: Welcome to the latest […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-447b852da15d7927</guid>
+      <pubDate>Tue, 24 Nov 2026 14:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who is WEIRD? Thoughts on teaching with generative AI tools</title>
+      <link>https://www.raspberrypi.org/blog/who-is-weird-thoughts-on-teaching-with-generative-ai-tools/</link>
+      <description>Teaching is one of the most creative professions, and that creativity is reflected in the many innovative ways educators use generative AI tools in education. Many of us are experimenting with AI tools to help draft lesson plans, adapt activities for different learners, create code examples, and reduce some of the repetitive work that is… The post Who is WEIRD? Thoughts on teaching with generative AI tools appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-18112f2c9af26019</guid>
+      <pubDate>Tue, 24 Nov 2026 11:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ST VL53LB is the smallest FlightSense ToF ranging sensor at just 4.0 × 1.8 × 1.0 mm</title>
+      <link>https://www.cnx-software.com/2026/11/24/st-vl53lb-is-the-smallest-flightsense-tof-ranging-sensor-at-just-4-0-x-1-8-x-1-0-mm/</link>
+      <description>STMicroelectronics has just introduced the VL53LB (VL53LBCA), its smallest Time-of-Flight (ToF) ranging sensor, part of the FlightSense portfolio, with a size of just 4.0 × 1.8 × 1.0 mm. Like the earlier VL53L0X and VL53L1X models, it’s a single-zone ToF sensor featuring a 940 nm invisible vertical-cavity surface-emitting laser (VCSEL), but it offers a longer range of up to 8 meters and supports multi-object detection. It’s 30% smaller than the previous generation (VL53L3) and consumes just 50 µW in ULP mode, which makes it ideal for smartphones and space-constrained robotics and industrial systems. ST VL53LB key features and specifications: Low-power microcontroller running digital firmware Emitter – 940 nm invisible vertical-cavity surface-emitting laser (VCSEL) and its analog driver Distance ranging Histogram-based technology, with the possibility to output distance and raw histograms from the chip Detection Range 5mm up to 8+ m with up to 1% accuracy Longer range in dark room [...] The post ST VL53LB is the smallest FlightSense ToF ranging sensor at just 4.0 × 1.8 × 1.0 mm appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-9179d8d153659ed2</guid>
+      <pubDate>Tue, 24 Nov 2026 10:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>STMicroelectronics' VL53LB Shrinks Direct Time-of-Flight Distance Sensing — And Its Power Needs</title>
+      <link>https://www.hackster.io/news/stmicroelectronics-vl53lb-shrinks-direct-time-of-flight-distance-sensing-and-its-power-needs-352bb53c2d42</link>
+      <description>New entry in the FlightSense portfolio is the smallest yet, and draws just 50µW in its "ultra-low power" operating mode.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-ca35c511affdf3de</guid>
+      <pubDate>Tue, 24 Nov 2026 10:24:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit</title>
+      <link>https://www.hackster.io/news/asrock-industrial-univels-the-intel-powered-dual-arm-rbk-100-robotics-in-a-box-kit-5cb94feed937</link>
+      <description>Leader-and-follower arm system with depth-sensing camera links to a compact PC powered by an Intel Core Ultra chip.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-201d3bc8f36883e4</guid>
+      <pubDate>Tue, 24 Nov 2026 10:09:22 +0000</pubDate>
+    </item>
     <item>
       <title>A real-time collaborative KiCAD</title>
       <link>https://blog.adafruit.com/2026/11/23/github-junctioneda-junction-real-time-collaborative-kicad/</link>
@@ -750,62 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-28d08f777c4754fc</guid>
       <pubDate>Wed, 11 Nov 2026 14:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Training post-WW2 economies process and quality control</title>
-      <link>https://blog.adafruit.com/2026/11/11/training-post-ww2-economies-process-and-quality-control/</link>
-      <description>W. Edwards Deming (1900 to 1993) trained as an electrical engineer, took graduate degrees in mathematics and physics, and built the sampling methods used in the 1940 U.S. Census. He’s better known for what he taught Japanese industry after World War II. Starting in 1950, he trained hundreds of engineers, managers and executives in statistical […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-da0dcf59c30d6a42</guid>
-      <pubDate>Wed, 11 Nov 2026 14:40:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Driving a Sony car radio LCD display with Arduino</title>
-      <link>https://blog.adafruit.com/2026/11/11/driving-a-sony-car-radio-lcd-display-with-arduino/</link>
-      <description>Jose Luis Monteiro has reverse engineered the LCD on the detachable front panel of a Sony CDX-A250 car radio and driven it with an Arduino, with the project written up on Open Electronics. The panel uses a SANYO LC75826W LCD driver, listed as IC901 in Sony’s service manual, and its serial lines come out on […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-69bf96607b7d45c3</guid>
-      <pubDate>Wed, 11 Nov 2026 14:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>The InfiMech MX and MX Pro Bring Eight Toolheads to Bear on Low-Cost Multi-Material Printing</title>
-      <link>https://www.hackster.io/news/the-infimech-mx-and-mx-pro-bring-eight-toolheads-to-bear-on-low-cost-multi-material-printing-db8279d2600d</link>
-      <description>New printer models boast minimal wastage when printing in up to eight materials or colors.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-8b490b3c8a140c7b</guid>
-      <pubDate>Wed, 11 Nov 2026 12:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Engineers are Forced to Create Junk Designs</title>
-      <link>https://hackaday.com/2026/11/11/why-engineers-are-forced-to-create-junk-designs/</link>
-      <description>It’s become a bit of a platitude to state that products were manufactured better in ‘the olden days’, but as [The Meandrous Engineer] covers in a recent video essay, the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-675ec9dcb5306e98</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flipper Devices Readies Crowdfunding for the Flipper One, Opens Pre-Orders for a $20 Deposit</title>
-      <link>https://www.hackster.io/news/flipper-devices-readies-crowdfunding-for-the-flipper-one-opens-pre-orders-for-a-20-deposit-819b005d35ed</link>
-      <description>$20 down now gets you a "hidden reward tier" in the upcoming crowdfunding campaign, bagging a pocketable PC for $379.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-601c95890d289854</guid>
-      <pubDate>Wed, 11 Nov 2026 11:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation</title>
-      <link>https://www.cnx-software.com/2026/11/11/arduino-nano-xl-board-features-microchip-pic32ck-cortex-m33-mcu-for-industrial-home-and-building-automation/</link>
-      <description>Arduino Nano XL Link is an evolution of the popular Arduino Nano board, with the same dimensions, but featuring a more powerful Microchip PIC32CK Arm Cortex-M33 running at 120 MHz with 2 MB of flash and 512 kB of RAM. It also adds CAN FD, RS485, and 10/100 Mbps Ethernet field bus transceivers for industrial, home, and building automation applications such as industrial networks, motor drives, building automation buses, smart sensors, and touch panels. The company also unveiled the Nano XL Link Connector Carrier to go along with the new board. Arduino Nano XL Link Arduino Nano XL Link (ABX00182) specifications: MCU – Microchip PIC32CK2051SG01144 CPU – Arm Cortex-M33 @ 120 MHz Memory – 512 kB RAM Storage – 2 MB flash; 728 kB available for sketches Security – Integrated Hardware Security Module (HSM) + TrustZone USB – USB Type-C port for power, programming, and serial communication Industrial communication interfaces [...] The post Arduino Nano XL board features Microchip PIC32CK Cortex-M33 MCU for industrial, home, and building automation appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-7faf3da1f29b0d05</guid>
-      <pubDate>Wed, 11 Nov 2026 07:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT…</title>
-      <link>https://www.cnx-software.com/2026/11/11/renesas-rz-t2n-cortex-a55-r52-industrial-mpu-supports-four-axis-motor-control-tsn-ethernet-ethercat/</link>
-      <description>Renesas RZ/T2N industrial MPU supports up to four-axis motor control and includes PWM timers, encoder interfaces, and trigonometric accelerators. It’s designed for industrial robots, programmable logic controllers (PLCs), motion controllers, and multi-axis servo drives. The MPU features up to two 1.2 GHz Arm Cortex-A55 cores for application processing and two 800 MHz Cortex-R52 cores for real-time control. It also integrates a three-port Gigabit Ethernet switch with TSN support and industrial Ethernet protocols such as EtherCAT, PROFINET RT/IRT, and EtherNet/IP. This feature set allows real-time motor control, industrial networking, and Linux applications to run on a single chip, reducing the need for separate processors. The MPU can also work as an industrial Ethernet network controller or device, depending on the application. Renesas RZ/T2N specifications: CPU Up to 2x Arm Cortex-A55 (64-bit) cores clocked at 1.2 GHz with 32KB L1 instruction/data cache, 128KB L2 cache per core, and 256KB L3 cache 2x [...] The post Renesas RZ/T2N Cortex-A55/R52 industrial MPU supports four-axis motor control, TSN Ethernet, EtherCAT… appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-676e66289f01823f</guid>
-      <pubDate>Wed, 11 Nov 2026 04:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
