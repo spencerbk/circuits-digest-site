@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Adafruit Holiday Shipping Deadlines 2026</title>
+      <link>https://blog.adafruit.com/2026/11/25/adafruit-holiday-shipping-deadlines-2026/</link>
+      <description>Our team ships fast but the skies get crowded this time of year. With our early sale and clear shipping guidelines we hope to help you get ahead with time to spare; and avoid any holiday meltdowns. We’ve laid out our shipping deadlines for the 2026 season. Order early, build happy, and sleep tight. Adafruit […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-1690e6ff198072ac</guid>
+      <pubDate>Wed, 25 Nov 2026 14:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graperain launches Allwinner A733 system-on-module and development board for Edge AI applications</title>
+      <link>https://www.cnx-software.com/2026/11/25/graperain-allwinner-a733-system-on-module-and-development-board/</link>
+      <description>Graperain has recently launched the GR_A733_CV1 system-on-module powered by the Allwinner A733 octa-core Cortex-A76/A55 Edge AI SoC with a 3 TOPS NPU, and paired with up to 16GB DDR5 and up to 256GB eMMC flash or UFS storage. The company also introduced the GR_A733MB_V1.1 carrier and development board for the module, featuring HDMI, MIPI DSI, and DP USB-C display interfaces, GbE, WiFi 6, and Bluetooth 5.4 connectivity, various USB ports, UART connectors, a GPIO header, and more. Graperain GR_A733_CV1 – Allwinner A733 system-on-module Graperain GR_A733_CV1 specifications: SoC – Allwinner A733 CPU Dual-core Arm Cortex-A76 @ up to 2.00 GHz Hexa-core Arm Cortex-A55 @ up to 1.80 GHz Single-core RISC-V E902 real-time core GPU – Imagination Technologies BXM-4-64 MC1 GPU with support for OpenGL ES 3.2, Vulkan 1.3, and OpenCL 3.0 VPU 4Kp60/8Kp24 H.265/VP9/AVS2 decoding, 4Kp30 H.264 decoding, 1080p60 MJPEG decoder 4Kp30 H.265/H.264 decoding, 4Kp15 MJPEG encoding AI accelerator – 3 TOPS [...] The post Graperain launches Allwinner A733 system-on-module and development board for Edge AI applications appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-f989482d626ca9fd</guid>
+      <pubDate>Wed, 25 Nov 2026 13:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hellbender's Tendryl Puts a Raspberry Pi CM5 and Hailo-8 Coprocessor to Work as a 12MP Smart Camera</title>
+      <link>https://www.hackster.io/news/hellbender-s-tendryl-puts-a-raspberry-pi-cm5-and-hailo-8-coprocessor-to-work-as-a-12mp-smart-camera-ba7398873e9a</link>
+      <description>Boxy edge-computing vision system includes Wi-Fi, Bluetooth, and wired Ethernet connectivity with PoE+ support.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-17f2f235731bfb6e</guid>
+      <pubDate>Wed, 25 Nov 2026 12:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noetix Robotics' Boomy Is a Compact Humanoid Robot Targeting Newcomers' Programming Experiments</title>
+      <link>https://www.hackster.io/news/noetix-robotics-boomy-is-a-compact-humanoid-robot-targeting-newcomers-programming-experiments-9a9fa5034f7c</link>
+      <description>21-DoF bipedal platform can be controlled directly from a companion app, or programmed in a block-based environment, Python, or C++.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-9a8dc30adabfd206</guid>
+      <pubDate>Wed, 25 Nov 2026 12:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Game Boy Museum on a Cart Gives the Gift of Knowledge</title>
+      <link>https://hackaday.com/2026/11/25/game-boy-museum-on-a-cart-gives-the-gift-of-knowledge/</link>
+      <description>What’s in a name? Clearly a device named the Game Boy was designed to play games. The handheld game system has successfully done so for decades since releasing in the …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-db2eeacc31bc012f</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shop This Year’s Holiday Sale!</title>
+      <link>https://blog.adafruit.com/2026/11/25/ohfudge15/</link>
+      <description>Shop this year’s holiday sale with code OhFudge15 for 15% off! The code is valid from Wednesday, November 25th through Monday, November 30th at 11:59 PM EST. We cannot retroactively apply the discount after your order has been placed so please remember to use the code! Discount does not apply to gift certificates, subscriptions, […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-51cfb8882dcec883</guid>
+      <pubDate>Wed, 25 Nov 2026 05:01:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compact Edge AI camera packs Raspberry Pi CM5, Hailo-8 NPU, 12MP sensor, speaker and microphone</title>
+      <link>https://www.cnx-software.com/2026/11/25/compact-tendryl-edge-ai-camera-packs-raspberry-pi-cm5-hailo-8-npu-12mp-sensor-speaker-and-microphone/</link>
+      <description>Hellbender Tendryl Camera is an edge AI camera that integrates a Raspberry Pi CM5 module, a Hailo-8 AI accelerator, and a 12MP Raspberry Pi Camera Module 3, as well as a speaker and microphone, into a compact fanless enclosure. The camera features a CM5 module with 4GB of RAM, a 16GB eMMC flash, and a wireless module for WiFi 5 and Bluetooth 5.0 connectivity. Other features include a Gigabit Ethernet with PoE+, a full-sized HDMI output port, three USB-C ports for power, data, and OS flashing, a 6-axis IMU, and a temperature, humidity, and pressure sensor. The company says the Tendryl Camera is designed to quickly prototype and build computer vision applications. Tendryl Camera specifications: Compute Module – Raspberry Pi CM5 (CM5104016) SoC – Broadcom BCM2712 CPU – Quad-core Arm Cortex-A76 @ 2.4 GHz GPU – VideoCore VII @ 800 MHz with H.265 hardware video decoding Memory – 4GB RAM [...] The post Compact Edge AI camera packs Raspberry Pi CM5, Hailo-8 NPU, 12MP sensor, speaker and microphone appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-54ed420abb4ad6a6</guid>
+      <pubDate>Wed, 25 Nov 2026 04:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>TNY-360: the open-hardware quadruped robot dog that fixes itself</title>
+      <link>https://blog.adafruit.com/2026/11/24/tny-360-the-open-hardware-quadruped-robot-dog-that-fixes-itself/</link>
+      <description>Paul Loisil has designed the TNY-360, an open-hardware quadruped robot dog for education, written up on Open Electronics. It uses an ESP32-S3 to control the dog and the firmware has a function to calibrate itself. It also checks the build and tells the maker how to correct assembly mistakes. The leg servos are modified with […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-5979a49534daa879</guid>
+      <pubDate>Tue, 24 Nov 2026 22:45:51 +0000</pubDate>
+    </item>
     <item>
       <title>Giving my forgotten Android device a desk job</title>
       <link>https://blog.adafruit.com/2026/11/24/giving-my-forgotten-android-device-a-desk-job/</link>
@@ -742,70 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-5b739642c3b8dc00</guid>
       <pubDate>Thu, 12 Nov 2026 14:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Christmas Creeper #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/11/12/christmas-creeper-3dthursday-3dprinting/</link>
-      <description>Every week we’ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Christmas Creeper By Stenly_G makerworld.com/en/models/1969937-christmas-creeper-ho-ho-boom Bambu X1C PolyMaker PLA 6hr 13mins X:20 Y:15 Z:53mm .2mm layer / .4mm Nozzle 10% Infill / 1mm Retraction 200C / 60C 5g 230mm/s Every Thursday is #3dthursday here […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-7ca0d68924a354d3</guid>
-      <pubDate>Thu, 12 Nov 2026 14:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi gift ideas for nerds</title>
-      <link>https://www.raspberrypi.com/news/raspberry-pi-gift-ideas-for-nerds/</link>
-      <description>Here are some festive ideas if you're shopping around for something on the nerdier side. The post Raspberry Pi gift ideas for nerds appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-03e0cb336a5d3833</guid>
-      <pubDate>Thu, 12 Nov 2026 11:34:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>VZMORE iX9 Max (U9-185H) mini PC review – Part 1: Specs, unboxing, teardown, and first boot</title>
-      <link>https://www.cnx-software.com/2026/11/12/vzmore-ix9-max-u9-185h-mini-pc-review-part-1-specs-unboxing-teardown-and-first-boot/</link>
-      <description>VZMORE sent us a review sample of the iX9 Max mini PC powered by an Intel Core Ultra 9 185H 16-core/22-thread Meteor Lake processor clocked at up to 5.1 GHz, paired with 24 GB of LPDDR5-5600 memory and a 1 TB NVMe SSD. It supports up to four simultaneous displays via HDMI 2.0 and USB4 ports, offers six USB Type-A ports, two 40 Gbps USB4 ports, and two 2.5 GbE ports, as well as Wi-Fi 7 and Bluetooth 5.4 wireless connectivity. In this article, we will list the specifications, go through an unboxing and a teardown to check out the hardware, and boot the system to the pre-installed Windows 11 Pro operating system. A more detailed review with feature testing and benchmarks on both Windows 11 and Ubuntu 26.04 will be published in a few weeks. VZMORE iX9 Max mini PC specifications SoC – Intel Core Ultra 9 185H CPU [...] The post VZMORE iX9 Max (U9-185H) mini PC review – Part 1: Specs, unboxing, teardown, and first boot appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-e28934a94de443f0</guid>
-      <pubDate>Thu, 12 Nov 2026 09:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Espresso, Meet Custom-Machined Stainless Steel Boiler</title>
-      <link>https://hackaday.com/2026/11/12/espresso-meet-custom-machined-stainless-steel-boiler/</link>
-      <description>While pondering some repairs for his Gaggia Classic Pro espresso machine, [Hans Gaensbauer] ended up machining an entirely new boiler from stainless steel. It was a nontrivial undertaking, since the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-dedfbc9e2cbad5f0</guid>
-      <pubDate>Thu, 12 Nov 2026 09:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding)</title>
-      <link>https://www.cnx-software.com/2026/11/12/hiyd-2-7mm-health-tracker-attaches-to-the-back-of-regular-watches/</link>
-      <description>HIYD is a compact and thin (2.7mm) health and fitness tracker that attaches to the back of a regular wristwatch and looks very similar to the Azume One, which we wrote about last month. Developed by San Jose-based HIYD, the device adds heart rate, sleep, recovery, and activity tracking to traditional watches using a removable microsuction mechanism. It features optical sensors for heart rate, heart rate variability (HRV), and blood oxygen (SpO2) monitoring, along with an accelerometer and skin temperature sensor. The device connects to Android and iOS smartphones over Bluetooth and supports sleep tracking, daily readiness scores, and camera-based nutrition logging. Battery life is rated at up to four days and can be extended to 20 days with an optional battery band, with no subscription fees for Kickstarter backers. HIYD features and specifications: MCU / SoC – Not specified Storage – On-device memory for up to 2 days of [...] The post HIYD ultrathin health tracker attaches to the back of regular watches (Crowdfunding) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-6a6e4fe7e14826c8</guid>
-      <pubDate>Thu, 12 Nov 2026 08:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>WeAct Logic Analyzer V2 – A $10 USB 3.0 logic analyzer board compatible with Sigrok/Pulseview (fork)</title>
-      <link>https://www.cnx-software.com/2026/11/12/weact-logic-analyzer-v2-a-10-usb-3-0-logic-analyzer-board-compatible-with-sigrok-pulseview/</link>
-      <description>WeAct Studio Logic Analyzer V2 is a low-cost, small WCH CH32H417 board designed to be used as a 16-channel USB 3.0 logic analyzer with up to 200 MHz bandwidth. The company says the board runs three different “apps”: logic analyzer, USB-serial + DAP, or custom firmware developed by the user, all located at different addresses on the flash and selected by simply pressing the button on the board. WeAct Logic Analyzer V2 board specifications: MCU – WCH CH32H417 CPU cores QingKe RISC-V5F up to 400 MHz QingKe RISC-V3F up to 144 MHz GPU – Graphics Processing Hardware Accelerator GPHA Memory – 896KB SRAM Storage – 960KB flash; 304 KB slot for “user app”/custom firmware (slot 2 @ 0x0809E000 in flash) USB – 1x USB 3.0 Type-C port for power, data, and programming Expansion header – 20-pin GPIO header with 16x GPIO, 4x GND pins Logic analyzer features (slot 0 @ [...] The post WeAct Logic Analyzer V2 – A $10 USB 3.0 logic analyzer board compatible with Sigrok/Pulseview (fork) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d6f3f3aa679e6e69</guid>
-      <pubDate>Thu, 12 Nov 2026 04:34:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Actuated Desktop Model Mirrors the Movement of a Real-Life Buoy</title>
-      <link>https://www.hackster.io/news/this-actuated-desktop-model-mirrors-the-movement-of-a-real-life-buoy-cf2359ea4552</link>
-      <description>TheMaritimePilot used live public data to build this desktop model that mirrors the movement of a selected real-life buoy.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-0b90b60b81369580</guid>
-      <pubDate>Wed, 11 Nov 2026 23:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks get their first big update, freeing up 3GB to 6GB of RAM</title>
-      <link>https://blog.adafruit.com/2026/11/11/googlebooks-get-their-first-big-update-freeing-up-3gb-to-6gb-of-ram/</link>
-      <description>Julio Franco at TechSpot writes that Google has pushed the first big software update for its Googlebook laptops, about a month after they went on sale. The main change frees up 3GB to 6GB of system RAM that the on-device AI features were holding onto. Google’s release notes just say memory usage for on-device AI […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-28d08f777c4754fc</guid>
-      <pubDate>Wed, 11 Nov 2026 14:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
