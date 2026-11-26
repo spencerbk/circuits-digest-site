@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:45:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>NASA’s Perseverance and Odyssey Teams Investigate Technical Issues</title>
+      <link>https://hackaday.com/2026/11/26/nasas-perseverance-and-odyssey-teams-investigate-technical-issues/</link>
+      <description>Teams over at NASA are currently dealing with two major issues affecting the Perseverance rover and the 2001 Mars Odyssey orbiter, with the former losing one of its two UHF radios and …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-a160a298d291a546</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coolest Projects Spain 2026: Young creators shine in Gavà</title>
+      <link>https://www.raspberrypi.org/blog/coolest-projects-spain-2026-young-creators-shine-in-gava/</link>
+      <description>On Saturday 24 October, young tech creators gathered at Espai Jove La Casa Gran in Gavà for Coolest Projects Spain, a lively celebration of young people and their digital projects. Organised by DEQ4Future, the event welcomed 29 creators who shared projects ranging from games to hardware builds to web apps. Here are some project highlights… The post Coolest Projects Spain 2026: Young creators shine in Gavà appeared first on Raspberry Pi Foundation.</description>
+      <category>raspberry-pi-foundation</category>
+      <guid isPermaLink="false">circuits-e381315dcc022f64</guid>
+      <pubDate>Thu, 26 Nov 2026 11:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>VZMORE iX9 Max review – Part 2: An Intel Core Ultra 9 185H Windows 11 mini PC tested with different power modes</title>
+      <link>https://www.cnx-software.com/2026/11/26/vzmore-ix9-max-review-part-2-an-intel-core-ultra-9-185h-windows-11-mini-pc-tested-with-different-power-modes/</link>
+      <description>When we checked out the hardware of the VZMORE iX9 Max mini PC with an unboxing and a teardown in this first part of the review, we noted that the Intel Core Ultra 9 185H mini PC’s motherboard was identical to the one found in the GEEKOM IT13 Max. So in the more detailed Windows 11 Pro review, we’ve decided to focus on the main differences, notably the NVMe SSD, the wireless module, and cooling solution. The VZMORE mini PC also implements three power modes at 20W, 40W, and 65W, so we’ll run our usual benchmarks such as PCMark 10, 3DMark, and PassMark PerformanceTest 11 at different power levels, as well as measure fan noise and power consumption in different conditions. We will compare our results with the GEEKOM IT13 Max throughout the review. Software overview and features testing The System-&gt;About menu confirms we have an iX9_Max mini PC powered [...] The post VZMORE iX9 Max review – Part 2: An Intel Core Ultra 9 185H Windows 11 mini PC tested with different power modes appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-94fc89fee4e31c1b</guid>
+      <pubDate>Thu, 26 Nov 2026 10:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Toolkit For Identifying RFID Tags</title>
+      <link>https://hackaday.com/2026/11/26/a-toolkit-for-identifying-rfid-tags/</link>
+      <description>Let’s say you happen across a random RFID or NFC tag. You look at it… it’s in a form factor you haven’t seen before and it’s not easily describable enough …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-6c8c36bcfff79df3</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>From the mail bag…</title>
+      <link>https://blog.adafruit.com/2026/11/26/from-the-mail-bag-815/</link>
+      <description>From the mail bag! I just have to say that I love everything about Adafruit and its founder LadyAda. In the process of tinkering and building various things over the years, I’ve come to just accept that every piece of electronics I buy is going to be cheap import junk with probably a 20%+ failure […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-e2f1a9d56b2a2531</guid>
+      <pubDate>Thu, 26 Nov 2026 06:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banana Pi BPI-M2C SBC features UNISOC UIS7885 SoC with 5G cellular connectivity, 8 TOPS NPU</title>
+      <link>https://www.cnx-software.com/2026/11/26/banana-pi-bpi-m2c-sbc-features-unisoc-uis7885-soc-with-5g-cellular-connectivity-8-tops-npu/</link>
+      <description>I don’t think we’ve ever seen an SBC based on a UNISOC mobile chip, but the Banana Pi BPI-M2C offers exactly that, with a UIS7885 octa-core Arm Cortex-A76/A55 SoC featuring an 8 TOPS NPU and 5G cellular + GNSS connectivity. The SBC also comes with 4GB LPDDR4X, 128GB eMMC flash, HDMI and MIPI DSI display interfaces, a 3.5mm audio jack, a MIPI CSI camera connector, Gigabit Ethernet, WiFi 5, Bluetooth 5.4, four USB 2.0 ports, and a 40-pin GPIO header for expansion. Banana Pi BPI-M2C specifications: SoC – UNISOC T820 (UIS7885) Octa-core CPU – 1x Cortex-A76 core @ 2.7 GHz + 3x Cortex-A76 cores @ 2.3 GHz + 4x Cortex-A55 cores @ 2.1 GHz GPU – Arm Mali-G57, up to 850 MHz NPU – IMG AX3596, up to 988 MHz, up to 8 TOPS VDSP – VQ7 DSP, up to 1014 MHz Manufacturing process – 6 nm System Memory – [...] The post Banana Pi BPI-M2C SBC features UNISOC UIS7885 SoC with 5G cellular connectivity, 8 TOPS NPU appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-6728a24007321944</guid>
+      <pubDate>Thu, 26 Nov 2026 03:29:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/11/25/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-25/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-c121c98ada905ba8</guid>
+      <pubDate>Wed, 25 Nov 2026 22:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>PSA: Staying Safe on Hackster</title>
+      <link>https://www.hackster.io/news/psa-staying-safe-on-hackster-29afb2219309</link>
+      <description>Stay safe on Hackster by spotting suspicious messages, avoiding risky links, protecting your account, and reporting anything that looks off.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-1867fe89d8281d63</guid>
+      <pubDate>Wed, 25 Nov 2026 21:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>From the Adafruit Learn System: Thanksgiving Robotic Turkey Hand</title>
+      <link>https://blog.adafruit.com/2026/11/25/from-the-adafruit-learn-system-thanksgiving-robotic-turkey-hand/</link>
+      <description>This project expands upon the well-worn technique of using a hand tracing to make a turkey, but adapts it to create a moving, talking, interactive piece of Thanksgiving art. Check out the learn guide and make your own before guests arrive!</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-28f380c3ebc6beee</guid>
+      <pubDate>Wed, 25 Nov 2026 21:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keep calm and carry Raspberry Pi: the computer in my three-day kit</title>
+      <link>https://www.raspberrypi.com/news/keep-calm-and-carry-raspberry-pi-the-computer-in-my-three-day-kit/</link>
+      <description>This Raspberry Pi kit will come in handy if the broadband or power goes out at home. The post Keep calm and carry Raspberry Pi: the computer in my three-day kit appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-404daf070e41b3d9</guid>
+      <pubDate>Wed, 25 Nov 2026 16:32:16 +0000</pubDate>
+    </item>
     <item>
       <title>Adafruit Holiday Shipping Deadlines 2026</title>
       <link>https://blog.adafruit.com/2026/11/25/adafruit-holiday-shipping-deadlines-2026/</link>
@@ -726,86 +806,6 @@
       <category>adafruit-blog</category>
       <guid isPermaLink="false">circuits-00fd77eb403e94c8</guid>
       <pubDate>Fri, 13 Nov 2026 13:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>SPARK Microsystems Partners with Nordic Semiconductor for a High-Performance Gaming Mouse Platform</title>
-      <link>https://www.hackster.io/news/spark-microsystems-partners-with-nordic-semiconductor-for-a-high-performance-gaming-mouse-platform-f9ef36a8dd15</link>
-      <description>Reference design targets an 8,000Hz polling rate by combining Nordic's nRF54LM20 with SPARK's SR1120 LE-UWB transceiver.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-da346fb58fc8f3fe</guid>
-      <pubDate>Fri, 13 Nov 2026 12:18:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fixing a Dead Socket LGA 1851 Mainboard with a Resistor</title>
-      <link>https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/</link>
-      <description>Doing board level diagnosis on a PCB is hardly black magic, but some PCBs are definitely more daunting than others. The Socket LGA 1851 mainboard that [Fix the Pixel] got …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-19be9624dbdf77e1</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AXILOOP Opens Crowdfunding for Its Eight-Toolhead Quick-Change MC8, MC8 Pro FFF 3D Printers</title>
-      <link>https://www.hackster.io/news/axiloop-opens-crowdfunding-for-its-eight-toolhead-quick-change-mc8-mc8-pro-fff-3d-printers-75e48b1e133d</link>
-      <description>New models offer minimal-wastage four-second material and color changes, but are priced higher than rival InfiMech's alternative.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-736eb031696e7960</guid>
-      <pubDate>Fri, 13 Nov 2026 11:37:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026</title>
-      <link>https://www.cnx-software.com/2026/11/13/vantron-i-mx-952-smarc-system-on-module-for-edge-ai-vision-and-industrial-hmi/</link>
-      <description>Vantron has introduced the VT-SBC-SMARC-IMX952, an 82 × 50 mm SMARC 2.1 system-on-module (SoM) built around NXP’s i.MX 952 processor with two or four Arm Cortex-A55 cores, a Mali-G310 GPU, and a 2 TOPS eIQ Neutron NPU. The module is designed for industrial HMIs, edge AI vision, factory automation, in-cabin sensing, and other embedded applications. The module comes with 8GB LPDDR4x memory, 64GB eMMC storage, two Ethernet interfaces (GbE + 2.5 GbE) with TSN support, and an optional Wi-Fi 5 and Bluetooth 5.0 wireless module. It exposes all I/Os through a standard 314-pin MXM 3.0 connector VT-SBC-SMARC-IMX952 specifications: SoC – NXP i.MX 952 CPU Dual- or quad-core Arm Cortex-A55 @ up to 1.7 GHz Arm Cortex-M7 real-time core @ 800 MHz Arm Cortex-M33 safety core @ 333 MHz GPU – Arm Mali-G310 with OpenGL ES 3.2, Vulkan 1.2, and OpenCL 3.0 support VPU Video encoding – H.264 up to 4K [...] The post Vantron unveils i.MX 952 SMARC system-on-module for Edge AI Vision and Industrial HMI at Electronica 2026 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-4b3af627f2523383</guid>
-      <pubDate>Fri, 13 Nov 2026 10:23:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450</title>
-      <link>https://www.cnx-software.com/2026/11/13/tektronix-1-series-low-cost-dpo-oscilloscopes-support-ai-assisted-control-start-at-just-450/</link>
-      <description>Tektronix is better known for its high-end and pricey oscilloscopes, but has now introduced the 1 Series DPO, a line of low-cost digital phosphor oscilloscopes starting at just $450, with optional AI-assisted control through the new Tek Intelligence connector. These oscilloscopes are designed for electronics testing, embedded development, education, and everyday circuit debugging. The 1 Series DPOs feature up to four analog channels, 50 MHz to 200 MHz bandwidth, 12-bit vertical resolution, and up to 1.25 GS/s sampling rate. They also integrate a 7-inch touchscreen and 10 Mpoints of memory per channel, support I2C, SPI, and UART protocol decoding, and implement built-in waveform analysis tools. The higher-priced S models add a 25 MHz arbitrary function generator (AFG) and Bode plot analysis. Tektronix 1 Series DPO key specifications: Models – 16 variants covering four bandwidth options, two channel configurations, and versions with or without AFG Display – 7-inch capacitive multi-touchscreen, 1024 [...] The post Tektronix 1 Series low-cost DPO oscilloscopes support AI-assisted control, start at just $450 appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-3ed6313ec8e7a325</guid>
-      <pubDate>Fri, 13 Nov 2026 04:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored)</title>
-      <link>https://www.cnx-software.com/2026/11/13/revopoint-black-friday-sale-is-here-save-up-to-50-on-3d-scanners/</link>
-      <description>Revopoint’s Black Friday Sale is here, bringing major savings across its lineup of portable and industrial 3D scanners, accessories, and software. Whether you’re a 3D printing enthusiast, maker, designer, or industrial professional, this is a great opportunity to find the right scanning solution for your projects while enjoying discounts of up to 50%. Use code REVOB5CNX at checkout to unlock an extra 5% OFF on Black Friday deals: Revopoint Official Store: Shop Now | November 9–30 Amazon: Shop Now | November 19–30 Top Picks: Best Black Friday Deals POP 4 — 20% OFF As one of Revopoint’s latest versatile 3D scanners, POP 4 combines blue multi-line laser, near-infrared structured light, and VCSEL structured light technologies. With five scanning modes, it adapts to objects of different sizes, shapes, and surface types. From 3D printing and product design to reverse engineering, 3D animation, gaming, and virtual reality, POP 4 captures everything from [...] The post Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-83a2210a44753a6b</guid>
-      <pubDate>Fri, 13 Nov 2026 03:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elegant Standing Reindeer Decor #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/11/12/elegant-standing-reindeer-decor-3dthursday-3dprinting/</link>
-      <description>pinkywings shares: A Christmas + winter decor piece with flowing, detailed lines — meant as a centerpiece for tables, shelves, or mantels. Stands without support material; described as easy to print. 3 sizes available. Print profiles: ~56 min to 3.1h on 1 plate, 0.2mm layer, 2 walls, 5-8% infill. Standard Digital File License (Patreon for […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4a0d80e88c050e70</guid>
-      <pubDate>Fri, 13 Nov 2026 01:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cactus Planter – Cartoon-Styled 3-Slot Planter with Drainage #3DThursday #3DPrinting</title>
-      <link>https://blog.adafruit.com/2026/11/12/cactus-planter-cartoon-styled-3-slot-planter-with-drainage-3dthursday-3dprinting/</link>
-      <description>Shared by Vafor on Maker World: Time to change up your favorite plants with a fun twist in this cartoon styled cactus pot. The Cactus Planter has 3 slots for your favorite indoor plants. Its unique shape offers ample space for small plants, flowers, cacti, and small woody stem plants; making it a striking and […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-9199fa33a2d1c5e9</guid>
-      <pubDate>Fri, 13 Nov 2026 00:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>WeAct Logic Analyzer V2 – a $10 USB 3.0 CH32H417 logic analyzer board</title>
-      <link>https://blog.adafruit.com/2026/11/12/weact-logic-analyzer-v2-a-10-usb-3-0-ch32h417-logic-analyzer-board/</link>
-      <description>Jean-Luc Aufranc writes at CNX Software about the WeAct Studio Logic Analyzer V2, a small board built around the WCH CH32H417 that works as a 16-channel USB 3.0 logic analyzer with up to 200 MHz bandwidth. The board holds three separate apps at different addresses in flash: the logic analyzer, a USB-serial plus CMSIS-DAP debug […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-4cd6b6703b0b51bd</guid>
-      <pubDate>Thu, 12 Nov 2026 14:44:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch live! ULA’s powerful Vulcan rocket returns to flight with 40 Amazon satellites</title>
-      <link>https://blog.adafruit.com/2026/11/12/watch-live-ulas-powerful-vulcan-rocket-returns-to-flight-with-40-amazon-satellites/</link>
-      <description>VideoFromSpace on YouTube is carrying the live launch of United Launch Alliance’s Vulcan rocket from Cape Canaveral Space Force Station in Florida on Friday, Nov. 13, 2026. Liftoff is targeted for 12:54 p.m. EST (1754 GMT) from Space Launch Complex 41. Launch times can change. The Vulcan Leo 1 mission carries 40 Amazon Leo broadband […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-5b739642c3b8dc00</guid>
-      <pubDate>Thu, 12 Nov 2026 14:30:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
