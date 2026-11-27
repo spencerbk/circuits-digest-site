@@ -5,8 +5,72 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Classic Pokemon Goes Widescreen</title>
+      <link>https://hackaday.com/2026/11/27/classic-pokemon-goes-widescreen/</link>
+      <description>There are a great many handheld gaming platforms on the market these days, many of which are specifically designed for emulating old console games. They can be a great way …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-0d4de37533a2c650</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seeed Studio Launches a "Light Customization" Service for Its reComputer Range</title>
+      <link>https://www.hackster.io/news/seeed-studio-launches-a-light-customization-service-for-its-recomputer-range-35f7311a070c</link>
+      <description>New Seeed Fusion offering lets you add storage, communications modules, cameras, and more ahead of your project's deployment.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-97783ebc60702a2f</guid>
+      <pubDate>Fri, 27 Nov 2026 10:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>ShiMetaPi Pico-G1 – A compact AI Vision Linux SBC powered by GOKE GK7206 4K camera SoC</title>
+      <link>https://www.cnx-software.com/2026/11/27/shimetapi-pico-g1-a-compact-ai-vision-linux-sbc-powered-by-goke-gk7206-4k-camera-soc/</link>
+      <description>ShiMetaPi Pico-G1 is a compact development board with Ethernet and MIPI CSI connectors designed for AI Vision applications and powered by a GOKE GK7206 dual-core Cortex-A7 SoC with 128MB or 256MB on-chip DDR3L memory. The board also features a 16MB SPI flash and a microSD card for storage, a USB Type-C port for power and OS flashing, an RTC battery connector, and two 20-pin GPIO headers for expansion with I2C, UART, PWM, SPI, and so on. ShiMetaPi Pico-G1 specifications: SoC – GOKE GK7206 CPU Dual-core Cortex-A7 processor clocked up to 1.0 GHz RISC-V coprocessor up to 400 MHz GPU – N/A VPU – H.265 / H.264 hardware encoder ISP – 2F-WDR, AI NR, 3DNR, LDC; input up to 3840 x 2160 @ 20 fps NPU – 1.0 TOPS On-chip Memory – 128MB DDR3L (GK7206V11A) or 256MB DDR3L (GK7206V12A) Storage 16 MB NOR flash MicroSD card slot Camera Interface – 4-lane [...] The post ShiMetaPi Pico-G1 – A compact AI Vision Linux SBC powered by GOKE GK7206 4K camera SoC appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-9691d039dc63d5e4</guid>
+      <pubDate>Fri, 27 Nov 2026 10:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remote play GTA VI with Raspberry Pi and Greenlight</title>
+      <link>https://www.raspberrypi.com/news/remote-play-gta-vi-with-raspberry-pi-and-greenlight/</link>
+      <description>We show you how to play your new favourite game on your Raspberry Pi. The post Remote play GTA VI with Raspberry Pi and Greenlight appeared first on Raspberry Pi.</description>
+      <category>raspberry-pi</category>
+      <guid isPermaLink="false">circuits-bb39d817726d51a2</guid>
+      <pubDate>Fri, 27 Nov 2026 10:14:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>usb-rea generates a Linux driver for your Windows-only USB gadget</title>
+      <link>https://www.cnx-software.com/2026/11/27/usb-rea-generates-a-linux-driver-for-your-windows-only-usb-gadget/</link>
+      <description>usb-rea is an MIT-licensed tool for people who own a USB gadget that only ships with a Windows program. It captures packets while you use the Windows app and generates a pyusb driver for Linux. Many years ago, I had to reverse-engineer a USB video capture card, whose vendor didn’t want to work with a company specializing in “small-volume production”. I had to capture the packets with Wireshark and manually implement code to replay URB (USB Request Block) packets using libusb, while paying close attention to timings. A tool like usb-rea would have been useful at the time. More specifically, usb-rea captures USB traffic with USBPcap or usbmon while the user clicks through the vendor app and labels the actions. The open-source program then infers the command structure (constants, counters, value fields, lookup tables, CRCs) and writes a Markdown protocol report plus a standalone Linux driver. The developer, Emir Mrkaljevic, [...] The post usb-rea generates a Linux driver for your Windows-only USB gadget appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5e451d80607ae381</guid>
+      <pubDate>Fri, 27 Nov 2026 08:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Waveshare ESP32-S3-Touch-LCD-3.49 gets open-source retro firmware with clock, internet radio, games…</title>
+      <link>https://www.cnx-software.com/2026/11/27/waveshare-esp32-s3-touch-lcd-3-49-gets-open-source-retro-firmware-with-clock-internet-radio-games/</link>
+      <description>Phosphor is an open-source firmware for the Waveshare ESP32-S3-Touch-LCD-3.49 wide display (640×172) devkit that turns it into a retro desk gadget. The firmware implements a clock with alarm, weather, internet radio, timers, touchable pixel scenes, three games, and small tools in four different styles, namely VFD, C64, Amiga, and Atari 2600. Phophor firmware highlights Written in Arduino C++; the radio on one of the ESP32-S3 cores, and the UI on the other core Clock and alarm Internet radio with genre buttons, dancing couple, and equalizer; supports Radio Browser, MP3 and AAC streams Three games – Blackjack, Lighthouse Keeper, and Runner Other screens – Fish tank, Lighthouse, Ocean liner, focus timer, snowy cabin, hourglass, coin flip, etc… Settings Theme – select between VFD, C64 (16 colors), Amiga (32 out of 4096 colors), and Amiga 2600 (4 colors by line) styles Time/date, units, language, brightness QR code for other settings (e.g., WiFi [...] The post Waveshare ESP32-S3-Touch-LCD-3.49 gets open-source retro firmware with clock, internet radio, games… appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-5422286c5f1b614c</guid>
+      <pubDate>Fri, 27 Nov 2026 03:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy Thanksgiving 2026!</title>
+      <link>https://blog.adafruit.com/2026/11/26/happy-thanksgiving-2026/</link>
+      <description>The folks here are Adafruit would like to wish each and every one of you a Happy Thanksgiving! We would also like to thank you for the support – we’re excited to keep growing with you. To celebrate Thanksgiving this year we wanted to focus on all that we’re thankful for, so we asked our […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-2d7b94f813974e43</guid>
+      <pubDate>Thu, 26 Nov 2026 21:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/11/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-26-2/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-399ac065306cc901</guid>
+      <pubDate>Thu, 26 Nov 2026 18:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>NASA’s Perseverance and Odyssey Teams Investigate Technical Issues</title>
       <link>https://hackaday.com/2026/11/26/nasas-perseverance-and-odyssey-teams-investigate-technical-issues/</link>
@@ -742,70 +806,6 @@
       <category>hackaday</category>
       <guid isPermaLink="false">circuits-c981a9138527da02</guid>
       <pubDate>Sun, 15 Nov 2026 09:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Your Own TARS Robot From Interstellar</title>
-      <link>https://www.hackster.io/news/build-your-own-tars-robot-from-interstellar-382dd9e6fd0a</link>
-      <description>RIG-TARS is a $99 open source DIY robot that brings Interstellar's TARS to your desk with LLM chat, voice control, and customizable humor.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-445bf9a04be6c104</guid>
-      <pubDate>Sat, 14 Nov 2026 17:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reverse Engineering Score Perfect to Rescue its Files</title>
-      <link>https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/</link>
-      <description>There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-dcc61db15f6b8751</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making CO₂ Sensors Fail Visibly, Not Silently</title>
-      <link>https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/</link>
-      <description>CO₂ buildup in a living area can be a serious problem, and a sensor that fails quietly cannot be relied upon. [William Collis] addressed this important issue by creating CO₂ monitors …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-b10aa473192b5566</guid>
-      <pubDate>Sat, 14 Nov 2026 09:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)</title>
-      <link>https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/</link>
-      <description>We’ve recently written about the P4 Launcher project that offers a desktop PC-like and/or retro-gaming experience to ESP32-P4 boards with applications stored on a microSD card and loaded into PSRAM when they run. However, I’ve recently been tipped about two new projects that go even further and aim to provide a desktop OS for microcontrollers, both currently focusing on the Olimex ESP32-P4-PC board with HDMI, Ethernet, and USB ports: Sylphide OS and Bare Metal, Do Stuff (BMDS). Sylphide OS – A Macintosh-like desktop for ESP32-P4, RP2350, and ESP32 Thomas Capricelli (Orzelf) has developed Sylphide OS as an operating system for computers based on microcontrollers. It’s designed to run on other targets beyond ESP32-P4 boards, and has currently been tested on the Raspberry Pi Pico 2 with VGA+USB connectors and the FabGL board (Olimex ESP32-SBC-FabGL variant) with PS/2 input and VGA connectors. If you don’t own any compatible hardware, a Sylphide [...] The post Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-cb4091d5582ebe09</guid>
-      <pubDate>Sat, 14 Nov 2026 03:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D Printing a Tank Is Both Easier and More Challenging Than You Think</title>
-      <link>https://www.hackster.io/news/3d-printing-a-tank-is-both-easier-and-more-challenging-than-you-think-1818b00ba8a5</link>
-      <description>Simon Sörensen is an expert in RC vehicles, so he used that expertise to 3D-print a rideable tank that relies on the same concepts.</description>
-      <category>hackster-news</category>
-      <guid isPermaLink="false">circuits-1c51d884a5be0c90</guid>
-      <pubDate>Fri, 13 Nov 2026 22:05:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nintendo takes down Switch emulators and mod chip firmware in massive GitHub DMCA sweep</title>
-      <link>https://blog.adafruit.com/2026/11/13/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep/</link>
-      <description>Jacqueline Thomas reports for IGN that Nintendo has sent four DMCA takedown notices to GitHub, aimed at two Switch emulators, Yuzu and Citron Neo, and at firmware for mod chips. The firmware part covered 144 repositories, all of them now removed and replaced with a takedown notice. Mod chips like Picofly are soldered to the […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-aac5a7981b86e140</guid>
-      <pubDate>Fri, 13 Nov 2026 18:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stockfish: a free and strong UCI chess engine</title>
-      <link>https://blog.adafruit.com/2026/11/13/stockfish-a-free-and-strong-uci-chess-engine/</link>
-      <description>Stockfish is a free, open source chess engine from the project of the same name, derived from Glaurung 2.1. It analyzes chess positions and works out the best moves. It talks to chess apps over the UCI protocol, so the board and pieces come from a separate graphical program. Stockfish itself doesn’t draw a chessboard. […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-0fb2c275167cd5ae</guid>
-      <pubDate>Fri, 13 Nov 2026 18:47:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>CMIT Indigenous Innovation in Computing</title>
-      <link>https://blog.adafruit.com/2026/11/13/cmit-indigenous-innovation-in-computing/</link>
-      <description>The Center for Minorities and People with Disabilities in IT is celebrating Native American Heritage Month by highlighting Indigenous innovations in computing. Via CMIT November is Native American Heritage Month, a time to recognize the histories, cultures, contributions, and achievements of Indigenous peoples. The observance was formally established as National American Indian Heritage Month in […]</description>
-      <category>adafruit-blog</category>
-      <guid isPermaLink="false">circuits-00fd77eb403e94c8</guid>
-      <pubDate>Fri, 13 Nov 2026 13:30:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
