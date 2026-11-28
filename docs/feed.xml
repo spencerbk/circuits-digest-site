@@ -5,8 +5,56 @@
     <link>https://spencerbk.github.io/circuits-digest-site/feed.xml</link>
     <description>Daily Circuits Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:45:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Robot Jellyfish Swims On Solar Power</title>
+      <link>https://hackaday.com/2026/11/28/robot-jellyfish-swims-on-solar-power/</link>
+      <description>Jellyfish are fun, gloopy creatures that have a unique swimming style very much of their own. [Robert Skinner] has managed to emulate the vibes of these unique creatures with a …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-78d6a90bd21c8535</guid>
+      <pubDate>Sat, 28 Nov 2026 12:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who Resurrected the Electric Car?</title>
+      <link>https://hackaday.com/2026/11/28/who-resurrected-the-electric-car/</link>
+      <description>There are a few cars that serve as touchstones of the state-of-the-art, even if they weren’t necessarily a commercial success. Some only survive as memories, but a restored EV1 has …read more</description>
+      <category>hackaday</category>
+      <guid isPermaLink="false">circuits-7f62b663d119843a</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>VZMORE iX9 Max mini PC review – Part 3: Ubuntu 26.04 Linux</title>
+      <link>https://www.cnx-software.com/2026/11/28/vzmore-ix9-max-mini-pc-review-part-3-ubuntu-26-04-linux/</link>
+      <description>After checking out the hardware with an unboxing and a teardown of the VZMORE iX9 Max mini PC in the first part of the review, we tested the Intel Core Ultra 9 185H Meteor Lake mini PC on Windows 11 Pro using different “V-Boost Pro” power modes and compared the results to the very similar GEEKOM IT13 Max model in the second part. We’ve now had time to install Ubuntu 26.04.1 and test how well the VZMORE iX9 Max mini PC works under Linux. The review includes a system overview, a Bluetooth fix, benchmarks, WiFi 6 throughput testing, a stress test to evaluate the thermal performance of the cooling solution, and measurements of fan noise and power consumption. Again, we compared the VZMORE iX9 Max to the GEEKOM IT13 Max since both are based on the same motherboard with differences in storage, wireless module, and mechanical design. Ubuntu 26.04 System [...] The post VZMORE iX9 Max mini PC review – Part 3: Ubuntu 26.04 Linux appeared first on CNX Software - Embedded Systems News.</description>
+      <category>cnx-software</category>
+      <guid isPermaLink="false">circuits-3dcc6b48cf5398ea</guid>
+      <pubDate>Sat, 28 Nov 2026 08:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can an SNES Run an LLM?</title>
+      <link>https://www.hackster.io/news/can-an-snes-run-an-llm-02242594bb5e</link>
+      <description>Benj Edwards pushed local AI to the extreme by running an LLM on a real, unmodified SNES.</description>
+      <category>hackster-news</category>
+      <guid isPermaLink="false">circuits-bc6f637a69231032</guid>
+      <pubDate>Fri, 27 Nov 2026 20:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grill Thermometer Dashboard #AdafruitIO</title>
+      <link>https://blog.adafruit.com/2026/11/27/grill-thermometer-dashboard-adafruitio-2/</link>
+      <description>If you’re still grilling this year, why not make your own thermometer dashboard so you can spend more time with family, friends, and/or football. Cook your meats and non-meats with ultimate instrumentation! The Grill Thermometer Dashboard lets you monitor common Bluetooth LE temperature probes over the internet — thanks to the dual BLE/WiFi capabilities of […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-184adc14ff6a8dc4</guid>
+      <pubDate>Fri, 27 Nov 2026 17:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Python on Microcontrollers Newsletter: subscribe for free</title>
+      <link>https://blog.adafruit.com/2026/11/27/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-27-3/</link>
+      <description>The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, all in one place! You get a summary of all the software, events, projects, and the latest hardware worldwide once a week, no […]</description>
+      <category>adafruit-blog</category>
+      <guid isPermaLink="false">circuits-f8e32af76e163245</guid>
+      <pubDate>Fri, 27 Nov 2026 15:55:12 +0000</pubDate>
+    </item>
     <item>
       <title>Classic Pokemon Goes Widescreen</title>
       <link>https://hackaday.com/2026/11/27/classic-pokemon-goes-widescreen/</link>
@@ -758,54 +806,6 @@
       <category>hackster-news</category>
       <guid isPermaLink="false">circuits-6f5fcf6a96fe3e82</guid>
       <pubDate>Mon, 16 Nov 2026 11:52:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turn your Raspberry Pi into a classic games machine</title>
-      <link>https://www.raspberrypi.com/news/turn-your-raspberry-pi-into-a-classic-games-machine/</link>
-      <description>Make use of Raspberry Pi's ability to run emulation software to replicate a wide range of classic consoles and computers. The post Turn your Raspberry Pi into a classic games machine appeared first on Raspberry Pi.</description>
-      <category>raspberry-pi</category>
-      <guid isPermaLink="false">circuits-e6b7c91b1b035322</guid>
-      <pubDate>Mon, 16 Nov 2026 09:34:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Follow The Grid With An Arduino Uno</title>
-      <link>https://hackaday.com/2026/11/16/follow-the-grid-with-an-arduino-uno/</link>
-      <description>We all know the frequency of our AC grid. 60Hz for Americans, or 50Hz for Europeans, for example. But the real story has some complexity. In a plural but interconnected …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-03142145f28bb784</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Up to 35% discount on KAMRUI AMD Ryzen and Intel Core mini PCs (Sponsored)</title>
-      <link>https://www.cnx-software.com/2026/11/16/up-to-35-discount-on-kamrui-amd-ryzen-and-intel-core-mini-pcs/</link>
-      <description>KAMRUI is offering up to a 35% discount on three of its AMD Ryzen 5/7 and Intel Core mini PCs. Let’s check all three. KAMRUI E3B mini PC – AMD Ryzen 5 PRO 7640HS, 24GB LPDDR5, 512 GB SSD This model features a 6-core/12-thread AMD Ryzen 5 PRO 7640HS Zen 4 processor clocked up to 5.0 GHz, paired with 24GB of soldered-on LPDDR5 memory, and a 512GB NVMe SSD installed in one of the two M.2 2280 SSD slots. Other interfaces include a full-function USB 3.2 Gen Type-C port that supports charging, data transfer (10Gbps), and 4K/60Hz display output, DisplayPort 1.4b and HDMI 2.0 video output for up to three independent displays, Gigabit Ethernet, two USB3.2 Gen2 (10Gbps) ports, four USB3.2 Gen1 Type-A (5Gbps) ports, and a 3.5mm audio jack. The mini PC also supports WiFI 6 and Bluetooth wireless connectivity. The E3B (AMD Ryzen 5 PRO 7640HS) would usually [...] The post Up to 35% discount on KAMRUI AMD Ryzen and Intel Core mini PCs (Sponsored) appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-7dbfc6f91c998b9d</guid>
-      <pubDate>Mon, 16 Nov 2026 08:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN</title>
-      <link>https://www.cnx-software.com/2026/11/16/aaeon-boxer-8741ai-industrial-edge-ai-box-pc-nvidia-jetson-thor-t5000-with-dual-10gbe-and-four-5gbe-lan/</link>
-      <description>AAEON BOXER-8741AI is an industrial edge AI box PC built around the NVIDIA Jetson Thor T5000 module, delivering up to 2070 FP4 TFLOPS (sparse) of AI performance and featuring 128GB LPDDR5X memory. Designed for humanoid robotics, autonomous mobile robots (AMRs), and multi-sensor perception workloads, it features two 10GbE and four 5GbE ports, two CAN FD interfaces, RS-232/RS-485, optional GPIO, and four USB 3.2 Gen 2 ports. Expansion options include M.2 slots for NVMe storage, Wi-Fi/Bluetooth, and 4G/5G cellular connectivity. The computer supports 19V to 48V DC input and operates from -20°C to 60°C for industrial applications. AAEON BOXER-8741AI specifications: SoM – NVIDIA Jetson Thor T5000 module CPU – 14-core 64-bit ARM Neoverse-V3AE @ up to 2.6GHz GPU – 2560-core NVIDIA Blackwell GPU with 96 fifth-generation Tensor Cores, Multi-Instance GPU (MIG) support with 10 Texture Processing Clusters (TPCs) VPU Video Decode – 4x 8Kp30 (H.265), 10x 4Kp60 (H.265), 22x 4Kp30 (H.265), [...] The post AAEON BOXER-8741AI industrial Edge AI box PC NVIDIA Jetson Thor T5000 with dual 10GbE and four 5GbE LAN appeared first on CNX Software - Embedded Systems News.</description>
-      <category>cnx-software</category>
-      <guid isPermaLink="false">circuits-d6e855c6cc63a80f</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>An MP3 Player, Implemented As A Factorio Blueprint</title>
-      <link>https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/</link>
-      <description>Factorio is a factory simulation game that leads its players into many happy hours of building ever more complex factories, but it comes with a snag. Its built-in music is …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-9d9863b0fa01b239</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reverse Engineer that USB Device in Style</title>
-      <link>https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/</link>
-      <description>Proprietary device drivers, dedicated applications, and their ilk are the bane of the open-source hacker. If only we could snoop on every device out there, recording the “secret” USB transactions …read more</description>
-      <category>hackaday</category>
-      <guid isPermaLink="false">circuits-c981a9138527da02</guid>
-      <pubDate>Sun, 15 Nov 2026 09:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
